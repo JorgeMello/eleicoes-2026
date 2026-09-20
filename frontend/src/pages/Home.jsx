@@ -4,8 +4,26 @@ import { Cell, Legend, Pie, PieChart, ResponsiveContainer, Tooltip } from 'recha
 import CandidateCard from '../components/CandidateCard.jsx';
 import CandidateCardSkeleton from '../components/CandidateCardSkeleton.jsx';
 import StatsSkeleton from '../components/StatsSkeleton.jsx';
+import ExportButton from '../components/ExportButton.jsx';
 import { UFS, api, fotoUrl } from '../lib/api.js';
 import { clientCache } from '../lib/clientCache.js';
+
+const COLUNAS_EXPORT_CANDIDATOS = [
+  { key: 'nome', label: 'Nome Completo' },
+  { key: 'nome_urna', label: 'Nome na Urna' },
+  { key: 'numero', label: 'Número na Urna' },
+  { key: 'partido', label: 'Partido' },
+  { key: 'cargo', label: 'Cargo' },
+  { key: 'uf', label: 'UF' },
+  { key: 'situacao', label: 'Situação' },
+  { key: 'ocupacao', label: 'Ocupação' },
+  { key: 'grau_instrucao', label: 'Grau de Instrução' },
+  { key: 'cor_etnia', label: 'Cor / Raça' },
+  { key: 'genero', label: 'Gênero' },
+  { key: 'patrimonio_total', label: 'Patrimônio Total Declarado (R$)', formatter: (v) => Number(v || 0).toFixed(2) },
+  { key: 'receitas_total', label: 'Receitas Totais Arrecadadas (R$)', formatter: (v) => Number(v || 0).toFixed(2) },
+  { key: 'despesas_total', label: 'Despesas Totais Contratadas (R$)', formatter: (v) => Number(v || 0).toFixed(2) },
+];
 
 const CORES = ['#10b981', '#3b82f6', '#f59e0b', '#ef4444', '#8b5cf6', '#06b6d4', '#84cc16'];
 
@@ -138,13 +156,19 @@ export default function Home() {
 
   return (
     <div className="space-y-5">
-      <div className="flex flex-wrap items-end gap-3">
+      <div className="flex flex-wrap items-end justify-between gap-3">
         <div>
           <h1 className="text-2xl font-bold">Candidatos · <span className="uppercase">{cargo}</span></h1>
           <p className="text-sm text-slate-500 dark:text-slate-400">
             {stats ? `${lista.length} de ${stats.total} candidaturas` : 'carregando…'} · clique num card para ver o perfil completo
           </p>
         </div>
+        <ExportButton
+          filename={`candidatos_${cargo}_eleicoes2026`}
+          columns={COLUNAS_EXPORT_CANDIDATOS}
+          data={lista}
+          label="Exportar Candidatos"
+        />
       </div>
 
       {erro && (

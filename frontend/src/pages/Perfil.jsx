@@ -7,6 +7,8 @@ import TseContasBanner from '../components/TseContasBanner.jsx';
 import TseBensBanner from '../components/TseBensBanner.jsx';
 import ChapaPresidencialCard from '../components/ChapaPresidencialCard.jsx';
 import PlanoGovernoCard from '../components/PlanoGovernoCard.jsx';
+import ExportButton from '../components/ExportButton.jsx';
+import OrigemRecursosCard from '../components/OrigemRecursosCard.jsx';
 
 /** Agrupa a taxonomia oficial de bens do TSE em macrocategorias amigáveis */
 function categoriaMacroBem(tipo = '') {
@@ -451,33 +453,46 @@ export default function Perfil() {
               })}
             </div>
 
-            {/* Campo de Busca Rápida */}
-            <div className="relative min-w-[200px] sm:w-64">
-              <input
-                type="text"
-                value={buscaBem}
-                onChange={(e) => setBuscaBem(e.target.value)}
-                placeholder="Buscar por descrição..."
-                className="w-full rounded-lg border border-slate-200 bg-slate-50 py-1.5 pl-8 pr-7 text-xs text-slate-900 placeholder:text-slate-400 focus:border-emerald-500 focus:bg-white focus:outline-hidden focus:ring-1 focus:ring-emerald-500 dark:border-slate-700 dark:bg-slate-800 dark:text-white dark:placeholder:text-slate-500"
+            {/* Campo de Busca Rápida e Exportação de Bens */}
+            <div className="flex items-center gap-2 flex-wrap">
+              <div className="relative min-w-[180px] sm:w-60">
+                <input
+                  type="text"
+                  value={buscaBem}
+                  onChange={(e) => setBuscaBem(e.target.value)}
+                  placeholder="Buscar por descrição..."
+                  className="w-full rounded-lg border border-slate-200 bg-slate-50 py-1.5 pl-8 pr-7 text-xs text-slate-900 placeholder:text-slate-400 focus:border-emerald-500 focus:bg-white focus:outline-hidden focus:ring-1 focus:ring-emerald-500 dark:border-slate-700 dark:bg-slate-800 dark:text-white dark:placeholder:text-slate-500"
+                />
+                <span className="pointer-events-none absolute left-2.5 top-1/2 -translate-y-1/2 text-slate-400">
+                  <svg className="h-3.5 w-3.5" viewBox="0 0 20 20" fill="currentColor">
+                    <path
+                      fillRule="evenodd"
+                      d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </span>
+                {buscaBem && (
+                  <button
+                    type="button"
+                    onClick={() => setBuscaBem('')}
+                    className="absolute right-2 top-1/2 -translate-y-1/2 rounded p-0.5 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 cursor-pointer"
+                  >
+                    ✕
+                  </button>
+                )}
+              </div>
+              <ExportButton
+                filename={`bens_${c?.slug || 'candidato'}_eleicoes2026`}
+                columns={[
+                  { key: 'tipo', label: 'Tipo de Bem' },
+                  { key: 'descricao', label: 'Descrição Oficial perante o TSE' },
+                  { key: 'valor', label: 'Valor Declarado (R$)', formatter: (v) => Number(v || 0).toFixed(2) },
+                ]}
+                data={bensFiltrados}
+                label="Exportar Bens"
+                compact
               />
-              <span className="pointer-events-none absolute left-2.5 top-1/2 -translate-y-1/2 text-slate-400">
-                <svg className="h-3.5 w-3.5" viewBox="0 0 20 20" fill="currentColor">
-                  <path
-                    fillRule="evenodd"
-                    d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </span>
-              {buscaBem && (
-                <button
-                  type="button"
-                  onClick={() => setBuscaBem('')}
-                  className="absolute right-2 top-1/2 -translate-y-1/2 rounded p-0.5 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 cursor-pointer"
-                >
-                  ✕
-                </button>
-              )}
             </div>
           </div>
 
@@ -585,17 +600,42 @@ export default function Perfil() {
           {/* Banner Oficial de Prestação de Contas do TSE */}
           <TseContasBanner c={c} tse={tse} />
 
+          {/* Card de Origem dos Recursos (Público vs Privado) */}
+          <OrigemRecursosCard doadores={doadores} receitasTotal={c?.receitas_total} candidatoNome={c?.nome} />
+
           <div className="grid gap-4 md:grid-cols-2">
             {[
               ['Doadores', doadores, 'doador', 'receitas', 'text-emerald-700 dark:text-emerald-400'],
               ['Gastos', gastos, 'gasto', 'despesas', 'text-blue-700 dark:text-blue-400'],
             ].map(([t, arr, tipo, label, corTexto]) => (
               <div key={t} className="rounded-xl border bg-white p-4 dark:border-slate-700 dark:bg-slate-900">
-                <div className="mb-3 flex items-center justify-between">
-                  <h2 className="font-semibold text-base">{t}</h2>
-                  <span className="text-xs text-slate-500 dark:text-slate-400">
-                    Clique no nome para abrir o controle detalhado
-                  </span>
+                <div className="mb-3 flex items-center justify-between gap-2 flex-wrap">
+                  <div>
+                    <h2 className="font-semibold text-base">{t}</h2>
+                    <span className="text-xs text-slate-500 dark:text-slate-400">
+                      Clique no nome para abrir o controle detalhado
+                    </span>
+                  </div>
+                  <ExportButton
+                    filename={`${tipo === 'doador' ? 'doadores' : 'despesas'}_${c?.slug || 'candidato'}_eleicoes2026`}
+                    columns={[
+                      { key: 'nome', label: tipo === 'doador' ? 'Nome do Doador' : 'Fornecedor / Favorecido' },
+                      { key: 'documento', label: 'CPF / CNPJ' },
+                      { key: 'percentual', label: '% do Total', formatter: (v) => `${v}%` },
+                      {
+                        key: 'valor',
+                        label: 'Valor Estimado (R$)',
+                        formatter: (val, row) => {
+                          const base = tipo === 'doador' ? c?.receitas_total : c?.despesas_total;
+                          const v = row.valor ? Number(row.valor) : (Number(base || 0) * Number(row.percentual || 0)) / 100;
+                          return v.toFixed(2);
+                        },
+                      },
+                    ]}
+                    data={arr}
+                    label={`Exportar ${t}`}
+                    compact
+                  />
                 </div>
                 <ul className="divide-y text-sm dark:divide-slate-800">
                   {arr.map((x, i) => {

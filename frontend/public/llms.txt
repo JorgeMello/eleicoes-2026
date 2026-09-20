@@ -1,0 +1,68 @@
+# Eleições 2026 · Plataforma Cívica de Dados Abertos e Transparência Eleitoral
+> https://eleicoes.osidosos.com.br
+> Versão da API: v1
+> Licença: MIT (Software Livre / Dados Abertos)
+> Fonte Primária dos Dados: Tribunal Superior Eleitoral (TSE - DivulgaCandContas) e Portal de Dados Abertos do Governo Federal
+
+## Visão Geral do Projeto
+Esta plataforma pública e sem fins lucrativos consolida, audita e apresenta dados oficiais sobre as candidaturas das Eleições Gerais de 2026 no Brasil. O objetivo é fornecer transparência cívica, combate à desinformação, rastreamento de patrimônio declarado, receitas de campanha (FEFC / Fundo Partidário) e fornecedores contratados.
+
+## Acesso Web (Rotas Públicas da Interface)
+- Home / Candidatos Presidência: https://eleicoes.osidosos.com.br/
+- Perfil do Candidato: https://eleicoes.osidosos.com.br/candidato/{slug}
+  - Aba Bens: Declaração oficial de bens entregue ao TSE
+  - Aba Contas: Limites legais de gastos, doadores e despesas
+- Comparador Direto de Candidatos: https://eleicoes.osidosos.com.br/presidente/comparar?a={slugA}&b={slugB}
+- Rankings Gerais de Patrimônio e Finanças: https://eleicoes.osidosos.com.br/rankings
+- Pesquisas de Opinião Registradas: https://eleicoes.osidosos.com.br/pesquisas
+- Manual do Cidadão e Auditoria TSE: https://eleicoes.osidosos.com.br/manual
+
+## API RESTful Pública (Consumo Direto de Dados em JSON)
+A API responde com cabeçalhos CORS liberados, Cache-Control e formatação JSON padronizada:
+
+### 1. Listagem de Candidatos
+GET https://eleicoes.osidosos.com.br/backend/public/index.php/api/candidatos?cargo=presidente
+Parâmetros aceitos:
+- cargo: presidente | governador | senador | dep-federal | dep-estadual
+- busca: termo textual (nome ou número de urna)
+- partido: sigla da legenda partidária (ex: PT, PL, NOVO, DC, AVANTE)
+- ordenar: nome | numero | patrimonio_desc | patrimonio_asc
+- patrimonio_min / patrimonio_max: valor numérico em reais (ex: 1000000)
+
+### 2. Detalhes do Candidato, Auditoria TSE e Contas
+GET https://eleicoes.osidosos.com.br/backend/public/index.php/api/candidatos/{slug}
+Retorna:
+- candidato: dados cadastrais (nome, partido, número, vice, plano de governo, limites legais)
+- tse: auditoria oficial homologada (status geral, situação do registro, CNPJ da campanha)
+- bens: lista completa de itens patrimoniais declarados
+- historico: candidaturas anteriores (anos, cargos, partidos e resultados)
+- doadores: relação de doadores com percentuais e valores calculados (CPFs de pessoas físicas ofuscados por conformidade com a LGPD)
+- gastos: maiores despesas e fornecedores contratados
+
+### 3. Declaração de Bens
+GET https://eleicoes.osidosos.com.br/backend/public/index.php/api/candidatos/{slug}/bens
+Retorna array ordenado por maior valor monetário.
+
+### 4. Estatísticas Consolidadas do Cargo
+GET https://eleicoes.osidosos.com.br/backend/public/index.php/api/estatisticas?cargo=presidente
+Retorna agregados demográficos:
+- total: número total de candidaturas cadastradas
+- por_partido: distribuição de candidatos por partido
+- por_instrucao: distribuição por grau de escolaridade declarado
+- por_cor: distribuição por cor/raça autodeclarada
+- maior_patrimonio / menor_patrimonio: extremos da declaração de bens
+
+### 5. Rankings Comparativos
+- Patrimônio: GET https://eleicoes.osidosos.com.br/backend/public/index.php/api/rankings/patrimonio?cargo=presidente
+- Receitas: GET https://eleicoes.osidosos.com.br/backend/public/index.php/api/rankings/receitas?cargo=presidente
+- Despesas: GET https://eleicoes.osidosos.com.br/backend/public/index.php/api/rankings/gastos?cargo=presidente
+- Doadores: GET https://eleicoes.osidosos.com.br/backend/public/index.php/api/rankings/doadores?cargo=presidente
+
+### 6. Pesquisas de Intenção de Voto
+- Lista de Pesquisas: GET https://eleicoes.osidosos.com.br/backend/public/index.php/api/pesquisas
+- Evolução Temporal: GET https://eleicoes.osidosos.com.br/backend/public/index.php/api/pesquisas/evolucao
+
+## Diretrizes de Uso Responsável
+- Os dados são públicos e mantidos de acordo com a Lei Geral de Proteção de Dados (LGPD - Lei nº 13.709/2018).
+- CPFs de pessoas físicas são ofuscados no formato `***.XXX.XXX-**` para preservação da privacidade e prevenção a fraudes.
+- CNPJs de fornecedores e legendas partidárias são mantidos integrais para viabilizar a auditoria pública e transparência cívica.
