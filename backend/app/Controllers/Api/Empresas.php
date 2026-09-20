@@ -22,14 +22,14 @@ class Empresas extends BaseController
         }
 
         $doadores = (new DoadorModel())
-            ->select("doadores.*, candidatos.slug AS candidato_slug, candidatos.nome AS candidato_nome, candidatos.partido, candidatos.cargo, candidatos.uf, 'doador' AS tipo")
+            ->select("doadores.*, candidatos.slug AS candidato_slug, candidatos.nome AS candidato_nome, candidatos.partido, candidatos.cargo, candidatos.uf, candidatos.receitas_total, candidatos.despesas_total, 'doador' AS tipo")
             ->join('candidatos', 'candidatos.id = doadores.candidato_id')
             ->where('doadores.documento', $doc)
             ->orderBy('percentual', 'DESC')
             ->findAll();
 
         $gastos = (new GastoModel())
-            ->select("gastos.*, candidatos.slug AS candidato_slug, candidatos.nome AS candidato_nome, candidatos.partido, candidatos.cargo, candidatos.uf, 'gasto' AS tipo")
+            ->select("gastos.*, candidatos.slug AS candidato_slug, candidatos.nome AS candidato_nome, candidatos.partido, candidatos.cargo, candidatos.uf, candidatos.receitas_total, candidatos.despesas_total, 'gasto' AS tipo")
             ->join('candidatos', 'candidatos.id = gastos.candidato_id')
             ->where('gastos.documento', $doc)
             ->orderBy('percentual', 'DESC')

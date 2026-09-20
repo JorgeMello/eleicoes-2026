@@ -73,12 +73,26 @@ export default function Home() {
 
   const campo = 'w-full rounded-lg border bg-white px-3 py-2 text-base dark:border-slate-700 dark:bg-slate-900';
 
-  // Trio em destaque no botão comparar (só presidente); fallback: 3 primeiros da lista
-  const DESTAQUES_COMPARAR = ['escritor-augusto-cury', 'flavio-bolsonaro', 'lula'];
+  // Trios em destaque no botão comparar por cargo:
+  // Presidente: Cury, Flávio Bolsonaro, Lula
+  // Governador: Juliana Brizola, Zucco, Gabriel Souza (Rio Grande do Sul)
+  const DESTAQUES_PRESIDENTE = ['escritor-augusto-cury', 'flavio-bolsonaro', 'lula'];
+  const DESTAQUES_GOVERNADOR_RS = ['210002551508', '210002547857', '210002542892'];
+
   const trioComparar = (() => {
-    if (cargo !== 'presidente') return lista.slice(0, 3);
-    const achados = DESTAQUES_COMPARAR.map((s) => lista.find((c) => c.slug === s)).filter(Boolean);
-    return achados.length === 3 ? achados : lista.slice(0, 3);
+    if (cargo === 'presidente') {
+      const achados = DESTAQUES_PRESIDENTE.map((s) => lista.find((c) => c.slug === s)).filter(Boolean);
+      return achados.length >= 2 ? achados : lista.slice(0, 3);
+    }
+    if (cargo === 'governador') {
+      // Prioriza os candidatos do Rio Grande do Sul (RS) solicitados: Juliana, Zucco e Gabriel
+      if (!uf || uf === 'RS') {
+        const achadosRS = DESTAQUES_GOVERNADOR_RS.map((s) => lista.find((c) => c.slug === s)).filter(Boolean);
+        if (achadosRS.length >= 2) return achadosRS;
+      }
+      return lista.slice(0, 3);
+    }
+    return lista.slice(0, 3);
   })();
 
   const TETO_PATRIMONIO = 500_000_000;
@@ -327,7 +341,9 @@ export default function Home() {
 
       {trioComparar.length >= 2 && (
         <Link
-          to={`/${cargo}/comparar?${trioComparar.map((c, i) => `${['a', 'b', 'c'][i]}=${c.slug}`).join('&')}`}
+          to={`/${cargo}/comparar?${
+            trioComparar[0]?.uf && cargo !== 'presidente' ? `uf=${trioComparar[0].uf}&` : ''
+          }${trioComparar.map((c, i) => `${['a', 'b', 'c'][i]}=${c.slug}`).join('&')}`}
           className="inline-flex w-full items-center justify-center gap-3 rounded-xl bg-slate-900 px-4 py-3 text-base text-white hover:bg-slate-700 dark:bg-white dark:text-slate-900 dark:hover:bg-slate-200"
         >
           <span className="flex -space-x-3">

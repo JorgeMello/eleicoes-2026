@@ -135,6 +135,18 @@ export default function Comparador() {
   }, [cargo, uf]);
 
   useEffect(() => {
+    // Se for governador e não houver seleção nem UF na URL, pré-seleciona Rio Grande do Sul (Juliana, Zucco, Gabriel)
+    if (cargo === 'governador' && !sp.get('uf') && !sp.get('a') && !sp.get('b') && !sp.get('c')) {
+      const n = new URLSearchParams();
+      n.set('uf', 'RS');
+      n.set('a', '210002551508');
+      n.set('b', '210002547857');
+      n.set('c', '210002542892');
+      setSp(n, { replace: true });
+    }
+  }, [cargo, sp, setSp]);
+
+  useEffect(() => {
     Promise.all(sel.map((s) => api.candidato(s).catch(() => null))).then(setDados);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [sp.toString()]);
