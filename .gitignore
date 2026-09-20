@@ -1,0 +1,46 @@
+# ====================================================================
+# ELEIÇÕES 2026 - Monorepo .gitignore
+# ====================================================================
+
+# 1. PONTO CRÍTICO 1: Documentação interna (exclusão conforme solicitado)
+documentacao/
+docs/
+
+# 2. PONTO CRÍTICO 2: Variáveis de ambiente e credenciais
+.env
+.env.*
+!.env.example
+*.local
+
+# 3. PONTO CRÍTICO 3: Dependências de pacotes
+node_modules/
+vendor/
+
+# 4. Builds e arquivos compilados
+frontend/dist/
+frontend/dist-ssr/
+frontend/.vite/
+
+# 5. CodeIgniter 4 - Arquivos temporários, cache, sessões e logs de debug
+backend/writable/cache/*
+!backend/writable/cache/index.html
+backend/writable/debugbar/*
+backend/writable/logs/*
+!backend/writable/logs/index.html
+backend/writable/session/*
+!backend/writable/session/index.html
+backend/writable/uploads/*
+!backend/writable/uploads/index.html
+
+# 6. Scraper (Playwright) - Relatórios e capturas temporárias
+scraper/test-results/
+scraper/playwright-report/
+
+# 7. IDEs, editores e arquivos de sistema operacional
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
