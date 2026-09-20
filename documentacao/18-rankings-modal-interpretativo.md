@@ -24,6 +24,13 @@ mouse, teclado e touch, sem o problema de recorte do `overflow` (decisão análo
   fecha por ✕, clique no overlay e tecla ESC; trava o scroll do body enquanto aberto; dark mode.
 - Sem nova requisição: usa os `rows` já carregados.
 
+## Bloco "O que é receita" (20/09/2026)
+No modal de **Maiores receitas**, antes do texto interpretado, há um bloco de definição em
+destaque: fundo verde-claro com borda (`emerald`), ícone SVG de moeda para chamar atenção e
+texto em **negrito**: receita de campanha = todo o dinheiro arrecadado para financiar a
+campanha (doações dentro da lei, recursos do partido, Fundo Eleitoral, financiamento coletivo),
+tudo declarado ao TSE na prestação de contas.
+
 ## Verificação
 - `npm run build` OK.
 - Teste Playwright: clicar no ⓘ de "Maior patrimônio" → modal visível contendo líder + valor;

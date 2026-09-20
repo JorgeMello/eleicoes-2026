@@ -145,6 +145,19 @@ export default function Rankings() {
               </button>
             </div>
             <ul className="space-y-2.5 text-sm leading-relaxed">
+              {ajudaRank === 'receitas' && (
+                <li className="flex gap-2.5 rounded-xl border border-emerald-300 bg-emerald-50 p-3 font-bold dark:border-emerald-700 dark:bg-emerald-950">
+                  <svg viewBox="0 0 20 20" className="h-6 w-6 shrink-0 text-emerald-600 dark:text-emerald-400" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true">
+                    <circle cx="10" cy="10" r="8" />
+                    <text x="10" y="14" textAnchor="middle" fontSize="10" fontWeight="bold" fill="currentColor" stroke="none">R$</text>
+                  </svg>
+                  <span>
+                    Receita de campanha é todo o dinheiro arrecadado pelo candidato para financiar a
+                    campanha: doações dentro da lei, recursos do partido, Fundo Eleitoral e
+                    financiamento coletivo — tudo declarado ao TSE na prestação de contas.
+                  </span>
+                </li>
+              )}
               {interpreta(ajudaRank === 'patrimonio' ? pat : rec, ajudaRank === 'patrimonio' ? 'patrimonio_total' : 'receitas_total').map((f, i) => (
                 <li key={i} className="flex gap-2">
                   <span aria-hidden="true" className="text-emerald-600 dark:text-emerald-400">●</span>
