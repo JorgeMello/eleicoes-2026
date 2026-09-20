@@ -2,9 +2,27 @@
 
 > Sistema integrado para acompanhamento, comparação analítica de candidaturas, prestação de contas, cruzamento de despesas e doações, controle dos dados de empresas fornecedoras e consolidação de pesquisas eleitorais para as Eleições de 2026.
 
+[![Website](https://img.shields.io/badge/Acesse_Online-eleicoes.osidosos.com.br-0070f3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eleicoes.osidosos.com.br)
+[![Instagram](https://img.shields.io/badge/Instagram-@cuidadorpessoaidosa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cuidadorpessoaidosa/)
+
+---
+
+## 🌐 Acesso Online e Redes Sociais
+
+A plataforma está disponível online para navegação pública, e as atualizações oficiais podem ser acompanhadas pelo Instagram:
+
+* 🚀 **Plataforma Online em Produção:**  
+  👉 [**https://eleicoes.osidosos.com.br**](https://eleicoes.osidosos.com.br)  
+  *(Acesse a versão em produção, com interface responsiva, gráficos interativos e consulta completa).*
+
+* 📸 **Instagram Oficial:**  
+  👉 [**@cuidadorpessoaidosa (instagram.com/cuidadorpessoaidosa)**](https://www.instagram.com/cuidadorpessoaidosa/)  
+  *(Canal oficial no Instagram com notícias, esclarecimentos e atualizações).*
+
 ---
 
 ## 📌 Sumário
+- [Acesso Online e Redes Sociais](#-acesso-online-e-redes-sociais)
 - [Visão Geral](#-visão-geral)
 - [Fontes de Dados Públicos](#-fontes-de-dados-públicos)
 - [Métodos e Engenharia do Sistema](#-métodos-e-engenharia-do-sistema)
@@ -18,6 +36,7 @@
 - [Contrato da API REST](#-contrato-da-api-rest)
 - [Controle dos Dados e Rastreabilidade](#-controle-dos-dados-e-rastreabilidade)
 - [Segurança e Conformidade](#-segurança-e-conformidade)
+- [Canais Oficiais](#-canais-oficiais)
 - [Licença](#-licença)
 
 ---
@@ -244,6 +263,13 @@ O módulo de **controle dos dados** da plataforma foi projetado para elevar a tr
 1. **Dados Estritamente Públicos:** O sistema não manipula senhas pessoais, dados de votação individual ou informações sob sigilo judicial.
 2. **Ambiente Isolado:** Nenhuma credencial de banco de dados ou chave de API de produção é commitada no repositório (`.env` listado no `.gitignore`).
 3. **Respeito aos Servidores de Origem:** Os scrapers operam com limitação voluntária de requisições por segundo (*rate limiting* e espaçamento temporal) para preservar a disponibilidade dos serviços oficiais.
+
+---
+
+## 📢 Canais Oficiais
+
+* 🌐 **Website:** [https://eleicoes.osidosos.com.br](https://eleicoes.osidosos.com.br)
+* 📸 **Instagram:** [@cuidadorpessoaidosa](https://www.instagram.com/cuidadorpessoaidosa/)
 
 ---
 
