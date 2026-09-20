@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { Bar, BarChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import { api, brl, fotoUrl } from '../lib/api.js';
+import TseBadge from '../components/TseBadge.jsx';
 
 function Linha({ k, v }) {
   return (
@@ -159,7 +160,7 @@ export default function Perfil() {
   if (erro) return <p className="text-sm text-red-700 dark:text-red-400">Erro: {erro}</p>;
   if (!d) return <p className="text-sm text-slate-500 dark:text-slate-400">Carregando perfil…</p>;
 
-  const { candidato: c, bens, historico, doadores, gastos } = d;
+  const { candidato: c, tse, bens, historico, doadores, gastos } = d;
   const foto = fotoUrl(c);
 
   const bensOrdenados = [...bens].sort((x, y) => {
@@ -202,6 +203,11 @@ export default function Perfil() {
         {foto && <img src={foto} alt={c.nome} className="h-28 w-28 rounded-2xl object-cover" />}
         <div className="min-w-0 flex-1">
           <h1 className="text-2xl font-bold">{c.nome}</h1>
+          {tse && (
+            <div className="mt-1 mb-1.5">
+              <TseBadge tse={tse} compact />
+            </div>
+          )}
           <p className="text-slate-500 dark:text-slate-400">
             {c.partido} · <span className="font-mono text-xl font-bold text-slate-800 dark:text-slate-100">{c.numero}</span> · {c.cargo} {c.uf}
           </p>
@@ -227,6 +233,9 @@ export default function Perfil() {
           ))}
         </div>
       </div>
+
+      {/* Banner de Certificação e Auditoria Oficial do TSE */}
+      {tse && <TseBadge tse={tse} />}
 
       {/* Abas de Navegação */}
       <div className="flex gap-1 text-sm">

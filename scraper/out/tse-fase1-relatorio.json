@@ -1,0 +1,233 @@
+{
+  "versao": "1.0.0",
+  "data_auditoria": "2026-09-20T07:11:34.763Z",
+  "ambiente": {
+    "origem_ip": "Brasil (Porto Alegre, RS)",
+    "status_rede": "Online"
+  },
+  "endpoints_avaliados": [
+    {
+      "nome": "Documento / Plano de Governo TSE (Exemplo)",
+      "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017113380",
+      "status": 200,
+      "tempo_ms": 246,
+      "content_type": "application/pdf",
+      "sucesso": true
+    },
+    {
+      "nome": "Eleições Suplementares SP (v1)",
+      "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/eleicao/suplementares/2024/SP",
+      "status": 200,
+      "tempo_ms": 24,
+      "content_type": "application/json",
+      "sucesso": true
+    },
+    {
+      "nome": "Portal Web Principal (SPA)",
+      "url": "https://divulgacandcontas.tse.jus.br/divulga/#/home",
+      "status": 200,
+      "tempo_ms": 20,
+      "content_type": "text/html",
+      "sucesso": true
+    },
+    {
+      "nome": "Dados Abertos TSE (CKAN API)",
+      "url": "https://dadosabertos.tse.jus.br/api/3/action/package_list",
+      "status": 200,
+      "tempo_ms": 215,
+      "content_type": "application/json;charset=utf-8",
+      "sucesso": true
+    }
+  ],
+  "candidatos_auditados": [
+    {
+      "posicao": 1,
+      "slug": "clariana-barao",
+      "nome": "Clariana Barao",
+      "partido": "DC",
+      "numero": 27,
+      "patrimonio_declarado": 1820760.17,
+      "receitas_declaradas": 1513500,
+      "despesas_declaradas": 998569.68,
+      "tse_documento_id": "280017113380",
+      "tse_documento_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017113380",
+      "documento_valido": true,
+      "documento_status": 200
+    },
+    {
+      "posicao": 2,
+      "slug": "edmilson-costa",
+      "nome": "Edmilson Costa",
+      "partido": "PCB",
+      "numero": 21,
+      "patrimonio_declarado": 454485.68,
+      "receitas_declaradas": 22891,
+      "despesas_declaradas": 18300.22,
+      "tse_documento_id": "280017107286",
+      "tse_documento_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017107286",
+      "documento_valido": true,
+      "documento_status": 200
+    },
+    {
+      "posicao": 3,
+      "slug": "escritor-augusto-cury",
+      "nome": "Escritor Augusto Cury",
+      "partido": "AVANTE",
+      "numero": 70,
+      "patrimonio_declarado": 242593012.42999992,
+      "receitas_declaradas": 2821247.85,
+      "despesas_declaradas": 292666.67,
+      "tse_documento_id": "280017125643",
+      "tse_documento_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017125643",
+      "documento_valido": true,
+      "documento_status": 200
+    },
+    {
+      "posicao": 4,
+      "slug": "flavio-bolsonaro",
+      "nome": "Flavio Bolsonaro",
+      "partido": "PL",
+      "numero": 22,
+      "patrimonio_declarado": 8186555.829999999,
+      "receitas_declaradas": 56177510.77,
+      "despesas_declaradas": 56194552.56,
+      "tse_documento_id": "280017104726",
+      "tse_documento_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017104726",
+      "documento_valido": true,
+      "documento_status": 200
+    },
+    {
+      "posicao": 5,
+      "slug": "hertz-dias",
+      "nome": "Hertz Dias",
+      "partido": "PSTU",
+      "numero": 16,
+      "patrimonio_declarado": 170000,
+      "receitas_declaradas": 1082389.16,
+      "despesas_declaradas": 975122.62,
+      "tse_documento_id": "280016998007",
+      "tse_documento_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280016998007",
+      "documento_valido": true,
+      "documento_status": 200
+    },
+    {
+      "posicao": 6,
+      "slug": "leonardo-avalanche",
+      "nome": "Leonardo Avalanche",
+      "partido": "PRTB",
+      "numero": 28,
+      "patrimonio_declarado": 495030000,
+      "receitas_declaradas": 0,
+      "despesas_declaradas": 0,
+      "tse_documento_id": "280017142413",
+      "tse_documento_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017142413",
+      "documento_valido": true,
+      "documento_status": 200
+    },
+    {
+      "posicao": 7,
+      "slug": "lula",
+      "nome": "Lula",
+      "partido": "PT",
+      "numero": 13,
+      "patrimonio_declarado": 4775650.640000001,
+      "receitas_declaradas": 41468730.74,
+      "despesas_declaradas": 65677121.42,
+      "tse_documento_id": "280017016005",
+      "tse_documento_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005",
+      "documento_valido": true,
+      "documento_status": 200
+    },
+    {
+      "posicao": 8,
+      "slug": "renan-santos",
+      "nome": "Renan Santos",
+      "partido": "MISSÃO",
+      "numero": 14,
+      "patrimonio_declarado": 795089,
+      "receitas_declaradas": 2252705.49,
+      "despesas_declaradas": 1281800.36,
+      "tse_documento_id": "280017002789",
+      "tse_documento_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+      "documento_valido": true,
+      "documento_status": 200
+    },
+    {
+      "posicao": 9,
+      "slug": "ronaldo-caiado",
+      "nome": "Ronaldo Caiado",
+      "partido": "PSD",
+      "numero": 55,
+      "patrimonio_declarado": 52557930.98,
+      "receitas_declaradas": 9856000,
+      "despesas_declaradas": 24541783.48,
+      "tse_documento_id": "280017106566",
+      "tse_documento_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017106566",
+      "documento_valido": true,
+      "documento_status": 200
+    },
+    {
+      "posicao": 10,
+      "slug": "rui-costa-pimenta",
+      "nome": "Rui Costa Pimenta",
+      "partido": "PCO",
+      "numero": 29,
+      "patrimonio_declarado": null,
+      "receitas_declaradas": 6271,
+      "despesas_declaradas": 137.3,
+      "tse_documento_id": "280017113417",
+      "tse_documento_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017113417",
+      "documento_valido": true,
+      "documento_status": 200
+    },
+    {
+      "posicao": 11,
+      "slug": "samara",
+      "nome": "Samara",
+      "partido": "UP",
+      "numero": 80,
+      "patrimonio_declarado": 33000,
+      "receitas_declaradas": 282220,
+      "despesas_declaradas": 642953.76,
+      "tse_documento_id": "280017119534",
+      "tse_documento_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017119534",
+      "documento_valido": true,
+      "documento_status": 200
+    },
+    {
+      "posicao": 12,
+      "slug": "veterinario-wilson-grassi",
+      "nome": "Veterinário Wilson Grassi",
+      "partido": "DEMOCRATA",
+      "numero": 35,
+      "patrimonio_declarado": 50000000,
+      "receitas_declaradas": 715150,
+      "despesas_declaradas": 768791.65,
+      "tse_documento_id": "280017075366",
+      "tse_documento_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017075366",
+      "documento_valido": true,
+      "documento_status": 200
+    },
+    {
+      "posicao": 13,
+      "slug": "zema",
+      "nome": "Zema",
+      "partido": "NOVO",
+      "numero": 30,
+      "patrimonio_declarado": 178707610.09000003,
+      "receitas_declaradas": 4496568.61,
+      "despesas_declaradas": 4160910.43,
+      "tse_documento_id": "280016919931",
+      "tse_documento_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280016919931",
+      "documento_valido": true,
+      "documento_status": 200
+    }
+  ],
+  "metricas": {
+    "total_candidatos": 13,
+    "com_documento_tse": 13,
+    "documentos_validados": 13,
+    "divergencias_detectadas": 0
+  },
+  "proxima_fase": "Fase 2 — Comparador de Dados Offline e Reconciliador de Contas"
+}

@@ -1,8 +1,16 @@
 import { Link } from 'react-router-dom';
 import { brl, fotoUrl } from '../lib/api.js';
+import TseBadge from './TseBadge.jsx';
 
 export default function CandidateCard({ c, cargo }) {
   const foto = fotoUrl(c);
+  const tseInfo = c.tse || (c.tse_situacao || c.tse_status ? {
+    situacao_registro: c.tse_situacao,
+    status_geral: c.tse_status,
+    cnpj_campanha: c.tse_cnpj,
+    percentual_gasto_teto: c.tse_percentual_teto,
+  } : null);
+
   return (
     <Link
       to={`/${cargo}/${c.slug}`}
@@ -15,8 +23,13 @@ export default function CandidateCard({ c, cargo }) {
           {(c.nome || '?')[0]}
         </div>
       )}
-      <div className="min-w-0">
+      <div className="min-w-0 flex-1">
         <div className="truncate font-semibold">{c.nome}</div>
+        {tseInfo && (
+          <div className="mt-0.5 mb-1">
+            <TseBadge tse={tseInfo} compact />
+          </div>
+        )}
         <div className="text-sm text-slate-500 dark:text-slate-400">
           {c.partido} · <span className="font-mono font-bold text-slate-700 dark:text-slate-200">{c.numero}</span>
         </div>

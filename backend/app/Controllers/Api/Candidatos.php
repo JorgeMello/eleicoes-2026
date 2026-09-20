@@ -6,6 +6,7 @@ use App\Controllers\BaseController;
 use App\Models\BemModel;
 use App\Models\CandidaturaAnteriorModel;
 use App\Models\CandidatoModel;
+use App\Models\CandidatoTseModel;
 use App\Models\DoadorModel;
 use App\Models\GastoModel;
 use CodeIgniter\HTTP\ResponseInterface;
@@ -24,10 +25,12 @@ class Candidatos extends BaseController
         $uf         = trim((string) ($this->request->getGet('uf') ?? ''));
         $ordenar    = $this->request->getGet('ordenar') ?? 'nome';
 
-        $builder = $model->where('cargo', $cargo);
+        $builder = $model->select('candidatos.*, candidatos_tse.status_geral as tse_status, candidatos_tse.situacao_registro as tse_situacao, candidatos_tse.cnpj_campanha as tse_cnpj, candidatos_tse.percentual_gasto_teto as tse_percentual_teto, candidatos_tse.validado_em as tse_validado_em')
+            ->join('candidatos_tse', 'candidatos_tse.candidato_id = candidatos.id', 'left')
+            ->where('candidatos.cargo', $cargo);
 
         if ($uf !== '') {
-            $builder = $builder->where('uf', $uf);
+            $builder = $builder->where('candidatos.uf', $uf);
         }
 
         if ($busca !== '') {
@@ -82,6 +85,7 @@ class Candidatos extends BaseController
 
         return $this->response->setJSON([
             'candidato' => $candidato,
+            'tse'       => (new CandidatoTseModel())->where('candidato_id', $id)->first(),
             'bens'      => (new BemModel())->where('candidato_id', $id)->orderBy('valor', 'DESC')->findAll(),
             'historico' => (new CandidaturaAnteriorModel())->where('candidato_id', $id)->orderBy('ano', 'DESC')->findAll(),
             'doadores'  => (new DoadorModel())->where('candidato_id', $id)->orderBy('percentual', 'DESC')->findAll(),

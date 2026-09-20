@@ -7,6 +7,8 @@
   "scripts": {
     "coletar": "node src/index.js",
     "coletar:lista": "node src/lista.js",
+    "tse:descobrir": "node src/tse-divulga.js",
+    "tse:reconciliar": "node src/reconciliar-tse.js",
     "pos-install": "npx playwright install chromium"
   },
   "dependencies": {

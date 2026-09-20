@@ -96,5 +96,12 @@ class EleicoesImportar extends BaseCommand
             CLI::write("OK: {$item['slug']}");
         }
         CLI::write("Importados: {$ok}", 'green');
+
+        // Sincroniza tabela candidatos_tse caso o relatório exista
+        $relatorioTse = dirname(APPPATH, 2) . DIRECTORY_SEPARATOR . 'scraper/out/relatorio-validacao-tse.json';
+        if (is_file($relatorioTse)) {
+            CLI::write("\nSincronizando auditoria oficial do TSE...", 'cyan');
+            command('tse:auditar');
+        }
     }
 }

@@ -1,0 +1,371 @@
+{
+  "versao": "2.0.0",
+  "data_reconciliacao": "2026-09-20T07:15:58.454Z",
+  "resumo_global": {
+    "total_candidatos": 13,
+    "patrimonio_total_declarado": 1035124094.8199999,
+    "receitas_totais_declaradas": 120695184.62,
+    "despesas_totais_declaradas": 155552710.15,
+    "limite_gastos_total": 1156272400.3999999,
+    "candidatos_dentro_do_limite_tse": 13,
+    "candidatos_com_superavit_parcial": 8,
+    "candidatos_com_deficit_parcial": 5,
+    "total_bens_auditados": 143,
+    "total_doadores_auditados": 49,
+    "total_fornecedores_auditados": 56,
+    "divergencias_contabeis": []
+  },
+  "candidatos_reconciliados": [
+    {
+      "posicao": 1,
+      "slug": "clariana-barao",
+      "nome": "Clariana Barao",
+      "partido": "DC",
+      "numero": 27,
+      "tse_documento_id": "280017113380",
+      "auditoria_bens": {
+        "total_itens": 7,
+        "patrimonio_declarado": 1820760.17,
+        "soma_itens_calculada": 1820760.17,
+        "consistente": true,
+        "diferenca": 0
+      },
+      "auditoria_campanha": {
+        "receitas_total": 1513500,
+        "despesas_total": 998569.68,
+        "limite_tse": 88944030.8,
+        "saldo_campanha": 514930.31999999995,
+        "situacao_caixa": "SUPERAVIT_OU_NEUTRO",
+        "dentro_do_limite_tse": true,
+        "percentual_gasto_do_teto": 1.1226944304395075
+      },
+      "total_doadores": 4,
+      "total_fornecedores": 5,
+      "status_geral": "CONFORME"
+    },
+    {
+      "posicao": 2,
+      "slug": "edmilson-costa",
+      "nome": "Edmilson Costa",
+      "partido": "PCB",
+      "numero": 21,
+      "tse_documento_id": "280017107286",
+      "auditoria_bens": {
+        "total_itens": 4,
+        "patrimonio_declarado": 454485.68,
+        "soma_itens_calculada": 454485.68,
+        "consistente": true,
+        "diferenca": 0
+      },
+      "auditoria_campanha": {
+        "receitas_total": 22891,
+        "despesas_total": 18300.22,
+        "limite_tse": 88944030.8,
+        "saldo_campanha": 4590.779999999999,
+        "situacao_caixa": "SUPERAVIT_OU_NEUTRO",
+        "dentro_do_limite_tse": true,
+        "percentual_gasto_do_teto": 0.020574983880762013
+      },
+      "total_doadores": 5,
+      "total_fornecedores": 5,
+      "status_geral": "CONFORME"
+    },
+    {
+      "posicao": 3,
+      "slug": "escritor-augusto-cury",
+      "nome": "Escritor Augusto Cury",
+      "partido": "AVANTE",
+      "numero": 70,
+      "tse_documento_id": "280017125643",
+      "auditoria_bens": {
+        "total_itens": 60,
+        "patrimonio_declarado": 242593012.42999992,
+        "soma_itens_calculada": 242593012.42999992,
+        "consistente": true,
+        "diferenca": 0
+      },
+      "auditoria_campanha": {
+        "receitas_total": 2821247.85,
+        "despesas_total": 292666.67,
+        "limite_tse": 88944030.8,
+        "saldo_campanha": 2528581.18,
+        "situacao_caixa": "SUPERAVIT_OU_NEUTRO",
+        "dentro_do_limite_tse": true,
+        "percentual_gasto_do_teto": 0.3290458812892028
+      },
+      "total_doadores": 5,
+      "total_fornecedores": 5,
+      "status_geral": "CONFORME"
+    },
+    {
+      "posicao": 4,
+      "slug": "flavio-bolsonaro",
+      "nome": "Flavio Bolsonaro",
+      "partido": "PL",
+      "numero": 22,
+      "tse_documento_id": "280017104726",
+      "auditoria_bens": {
+        "total_itens": 9,
+        "patrimonio_declarado": 8186555.829999999,
+        "soma_itens_calculada": 8186555.829999999,
+        "consistente": true,
+        "diferenca": 0
+      },
+      "auditoria_campanha": {
+        "receitas_total": 56177510.77,
+        "despesas_total": 56194552.56,
+        "limite_tse": 88944030.8,
+        "saldo_campanha": -17041.789999999106,
+        "situacao_caixa": "DEFICIT_PARCIAL",
+        "dentro_do_limite_tse": true,
+        "percentual_gasto_do_teto": 63.17967833767211
+      },
+      "total_doadores": 5,
+      "total_fornecedores": 5,
+      "status_geral": "CONFORME"
+    },
+    {
+      "posicao": 5,
+      "slug": "hertz-dias",
+      "nome": "Hertz Dias",
+      "partido": "PSTU",
+      "numero": 16,
+      "tse_documento_id": "280016998007",
+      "auditoria_bens": {
+        "total_itens": 1,
+        "patrimonio_declarado": 170000,
+        "soma_itens_calculada": 170000,
+        "consistente": true,
+        "diferenca": 0
+      },
+      "auditoria_campanha": {
+        "receitas_total": 1082389.16,
+        "despesas_total": 975122.62,
+        "limite_tse": 88944030.8,
+        "saldo_campanha": 107266.53999999992,
+        "situacao_caixa": "SUPERAVIT_OU_NEUTRO",
+        "dentro_do_limite_tse": true,
+        "percentual_gasto_do_teto": 1.0963328412590898
+      },
+      "total_doadores": 5,
+      "total_fornecedores": 5,
+      "status_geral": "CONFORME"
+    },
+    {
+      "posicao": 6,
+      "slug": "leonardo-avalanche",
+      "nome": "Leonardo Avalanche",
+      "partido": "PRTB",
+      "numero": 28,
+      "tse_documento_id": "280017142413",
+      "auditoria_bens": {
+        "total_itens": 5,
+        "patrimonio_declarado": 495030000,
+        "soma_itens_calculada": 495030000,
+        "consistente": true,
+        "diferenca": 0
+      },
+      "auditoria_campanha": {
+        "receitas_total": 0,
+        "despesas_total": 0,
+        "limite_tse": 88944030.8,
+        "saldo_campanha": 0,
+        "situacao_caixa": "SUPERAVIT_OU_NEUTRO",
+        "dentro_do_limite_tse": true,
+        "percentual_gasto_do_teto": 0
+      },
+      "total_doadores": 0,
+      "total_fornecedores": 0,
+      "status_geral": "CONFORME"
+    },
+    {
+      "posicao": 7,
+      "slug": "lula",
+      "nome": "Lula",
+      "partido": "PT",
+      "numero": 13,
+      "tse_documento_id": "280017016005",
+      "auditoria_bens": {
+        "total_itens": 18,
+        "patrimonio_declarado": 4775650.640000001,
+        "soma_itens_calculada": 4775650.640000001,
+        "consistente": true,
+        "diferenca": 0
+      },
+      "auditoria_campanha": {
+        "receitas_total": 41468730.74,
+        "despesas_total": 65677121.42,
+        "limite_tse": 88944030.8,
+        "saldo_campanha": -24208390.68,
+        "situacao_caixa": "DEFICIT_PARCIAL",
+        "dentro_do_limite_tse": true,
+        "percentual_gasto_do_teto": 73.84095461974499
+      },
+      "total_doadores": 5,
+      "total_fornecedores": 5,
+      "status_geral": "CONFORME"
+    },
+    {
+      "posicao": 8,
+      "slug": "renan-santos",
+      "nome": "Renan Santos",
+      "partido": "MISSÃO",
+      "numero": 14,
+      "tse_documento_id": "280017002789",
+      "auditoria_bens": {
+        "total_itens": 4,
+        "patrimonio_declarado": 795089,
+        "soma_itens_calculada": 795089,
+        "consistente": true,
+        "diferenca": 0
+      },
+      "auditoria_campanha": {
+        "receitas_total": 2252705.49,
+        "despesas_total": 1281800.36,
+        "limite_tse": 88944030.8,
+        "saldo_campanha": 970905.1300000001,
+        "situacao_caixa": "SUPERAVIT_OU_NEUTRO",
+        "dentro_do_limite_tse": true,
+        "percentual_gasto_do_teto": 1.4411314041773786
+      },
+      "total_doadores": 5,
+      "total_fornecedores": 5,
+      "status_geral": "CONFORME"
+    },
+    {
+      "posicao": 9,
+      "slug": "ronaldo-caiado",
+      "nome": "Ronaldo Caiado",
+      "partido": "PSD",
+      "numero": 55,
+      "tse_documento_id": "280017106566",
+      "auditoria_bens": {
+        "total_itens": 14,
+        "patrimonio_declarado": 52557930.98,
+        "soma_itens_calculada": 52557930.98,
+        "consistente": true,
+        "diferenca": 0
+      },
+      "auditoria_campanha": {
+        "receitas_total": 9856000,
+        "despesas_total": 24541783.48,
+        "limite_tse": 88944030.8,
+        "saldo_campanha": -14685783.48,
+        "situacao_caixa": "DEFICIT_PARCIAL",
+        "dentro_do_limite_tse": true,
+        "percentual_gasto_do_teto": 27.592389572701943
+      },
+      "total_doadores": 5,
+      "total_fornecedores": 5,
+      "status_geral": "CONFORME"
+    },
+    {
+      "posicao": 10,
+      "slug": "rui-costa-pimenta",
+      "nome": "Rui Costa Pimenta",
+      "partido": "PCO",
+      "numero": 29,
+      "tse_documento_id": "280017113417",
+      "auditoria_bens": {
+        "total_itens": 0,
+        "patrimonio_declarado": 0,
+        "soma_itens_calculada": 0,
+        "consistente": true,
+        "diferenca": 0
+      },
+      "auditoria_campanha": {
+        "receitas_total": 6271,
+        "despesas_total": 137.3,
+        "limite_tse": 88944030.8,
+        "saldo_campanha": 6133.7,
+        "situacao_caixa": "SUPERAVIT_OU_NEUTRO",
+        "dentro_do_limite_tse": true,
+        "percentual_gasto_do_teto": 0.00015436673913366204
+      },
+      "total_doadores": 1,
+      "total_fornecedores": 1,
+      "status_geral": "CONFORME"
+    },
+    {
+      "posicao": 11,
+      "slug": "samara",
+      "nome": "Samara",
+      "partido": "UP",
+      "numero": 80,
+      "tse_documento_id": "280017119534",
+      "auditoria_bens": {
+        "total_itens": 2,
+        "patrimonio_declarado": 33000,
+        "soma_itens_calculada": 33000,
+        "consistente": true,
+        "diferenca": 0
+      },
+      "auditoria_campanha": {
+        "receitas_total": 282220,
+        "despesas_total": 642953.76,
+        "limite_tse": 88944030.8,
+        "saldo_campanha": -360733.76,
+        "situacao_caixa": "DEFICIT_PARCIAL",
+        "dentro_do_limite_tse": true,
+        "percentual_gasto_do_teto": 0.7228745473046405
+      },
+      "total_doadores": 2,
+      "total_fornecedores": 5,
+      "status_geral": "CONFORME"
+    },
+    {
+      "posicao": 12,
+      "slug": "veterinario-wilson-grassi",
+      "nome": "Veterinário Wilson Grassi",
+      "partido": "DEMOCRATA",
+      "numero": 35,
+      "tse_documento_id": "280017075366",
+      "auditoria_bens": {
+        "total_itens": 1,
+        "patrimonio_declarado": 50000000,
+        "soma_itens_calculada": 50000000,
+        "consistente": true,
+        "diferenca": 0
+      },
+      "auditoria_campanha": {
+        "receitas_total": 715150,
+        "despesas_total": 768791.65,
+        "limite_tse": 88944030.8,
+        "saldo_campanha": -53641.65000000002,
+        "situacao_caixa": "DEFICIT_PARCIAL",
+        "dentro_do_limite_tse": true,
+        "percentual_gasto_do_teto": 0.8643544070188464
+      },
+      "total_doadores": 2,
+      "total_fornecedores": 5,
+      "status_geral": "CONFORME"
+    },
+    {
+      "posicao": 13,
+      "slug": "zema",
+      "nome": "Zema",
+      "partido": "NOVO",
+      "numero": 30,
+      "tse_documento_id": "280016919931",
+      "auditoria_bens": {
+        "total_itens": 18,
+        "patrimonio_declarado": 178707610.09000003,
+        "soma_itens_calculada": 178707610.09000003,
+        "consistente": true,
+        "diferenca": 0
+      },
+      "auditoria_campanha": {
+        "receitas_total": 4496568.61,
+        "despesas_total": 4160910.43,
+        "limite_tse": 88944030.8,
+        "saldo_campanha": 335658.18000000017,
+        "situacao_caixa": "SUPERAVIT_OU_NEUTRO",
+        "dentro_do_limite_tse": true,
+        "percentual_gasto_do_teto": 4.678122177030907
+      },
+      "total_doadores": 5,
+      "total_fornecedores": 5,
+      "status_geral": "CONFORME"
+    }
+  ]
+}

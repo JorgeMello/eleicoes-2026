@@ -64,6 +64,7 @@
         "sort-packages": true
     },
     "scripts": {
-        "test": "phpunit"
+        "test": "phpunit",
+        "tse:auditar": "php spark tse:auditar"
     }
 }
