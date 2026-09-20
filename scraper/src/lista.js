@@ -1,27 +1,42 @@
 import { chromium } from 'playwright';
 
-export const LISTA_URL = 'https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente.ghtml';
-export const BASE_PERFIL = 'https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/';
+export const BASE = 'https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos';
+export const LISTA_URL = `${BASE}/presidente.ghtml`;
+export const BASE_PERFIL = `${BASE}/presidente/`;
+
+export const UFS = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO'];
+
+/** URL da lista: nacional (presidente) ou por UF (demais cargos). */
+export function urlLista(cargo = 'presidente', uf = null) {
+  const c = cargo.toLowerCase();
+  if (!uf || c === 'presidente') return `${BASE}/${c}.ghtml`;
+  return `${BASE}/${c}/${uf.toLowerCase()}.ghtml`;
+}
 
 export function novoBrowser() {
   return chromium.launch({ headless: true, locale: 'pt-BR' });
 }
 
-export async function coletarLista(page) {
-  await page.goto(LISTA_URL, { waitUntil: 'domcontentloaded', timeout: 45000 });
-  await page.waitForSelector('a[href*="/presidente/"]', { timeout: 30000 });
+export async function coletarLista(page, { cargo = 'presidente', uf = null } = {}) {
+  const c = cargo.toLowerCase();
+  const url = urlLista(c, uf);
+  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
+  await page.waitForSelector(`a[href*="/${c}/"]`, { timeout: 30000 });
 
-  const cards = await page.$$eval('a[href*="/presidente/"]', (links) =>
-    links
+  const cards = await page.evaluate((cargoNome) => {
+    const sel = `a[href*="/${cargoNome}/"]`;
+    // Perfil: .../{cargo}[/{uf}]/{slug-ou-id}.ghtml ; lista: .../{cargo}[/{uf}].ghtml
+    const re = new RegExp(`/${cargoNome}/(?:[a-z]{2}/)?([a-z0-9-]+)\\.ghtml`);
+    return [...document.querySelectorAll(sel)]
       .map((a) => {
         const href = a.getAttribute('href') || '';
-        const m = href.match(/\/presidente\/([a-z0-9-]+)\.ghtml/);
+        const m = href.match(re);
         if (!m) return null;
         const card = a.closest('li') || a;
         const txt = (card.innerText || '').replace(/\s+/g, ' ').trim();
         const img = a.querySelector('img') || card.querySelector('img');
-        // Formato: "Clariana Barao DC 27 Ver perfil" — número está no meio
-        const pn = txt.match(/([A-ZÇÃÕÉ]{2,15})\s+(\d{1,3})\b/);
+        // Formato: "Nome PARTIDO NUM Ver perfil" — número está no meio
+        const pn = txt.match(/([A-ZÇÃÕÉ]{2,15})\s+(\d{1,5})\b/);
         const numero = pn ? parseInt(pn[2], 10) : null;
         const partido = pn ? pn[1] : null;
         const nome = pn ? txt.slice(0, pn.index).trim() : txt.replace(/\s*Ver perfil\s*$/i, '').trim();
@@ -34,12 +49,12 @@ export async function coletarLista(page) {
           foto_url_original: img ? img.getAttribute('src') : null,
         };
       })
-      .filter(Boolean)
-  );
+      .filter(Boolean);
+  }, c);
 
   // Deduplica por slug
-  const unicos = [...new Map(cards.map((c) => [c.slug, c])).values()];
-  return unicos;
+  const unicos = [...new Map(cards.map((x) => [x.slug, x])).values()];
+  return unicos.map((x) => ({ ...x, cargo: c, uf: uf ? uf.toUpperCase() : 'BR' }));
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {

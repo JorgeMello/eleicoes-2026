@@ -1,0 +1,1166 @@
+[
+  {
+    "slug": "220002536806",
+    "nome": "Adailton Furia",
+    "partido": "PSD",
+    "numero": 55,
+    "cargo": "governador",
+    "uf": "RO",
+    "foto_arquivo": "governador-ro-220002536806",
+    "foto_url_original": "https://s2-g1.glbimg.com/g-hLNc9Zm1zT3TLsKjwO_LnU-x4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/M/9tONCaQfG4xQHMqYcoSw/adailton-furia.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ro/220002536806.ghtml",
+    "profissao": "Outros",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/220017095549",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1665086.74,
+    "receitas_total": 5037700,
+    "despesas_total": 2451499.81,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote rural",
+        "valor": 90000
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados 105 - brasil bem ou direito pertencente ao títular cnpj: 00.000.000/0001-91",
+        "valor": 86.74
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 1 (um) terreno",
+        "valor": 175000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 01 (um) lote urbano (prédio comercial)",
+        "valor": 400000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 02 lotes urbano",
+        "valor": 150000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 03 lotes urbano com 2 casas residencial",
+        "valor": 350000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação na empresa auto posto da sete ltda.",
+        "valor": 500000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 99.25
+      },
+      {
+        "nome": "Danilo De Souza Dobri",
+        "percentual": 0.51
+      },
+      {
+        "nome": "Adailton Antunes Ferreira",
+        "percentual": 0.24
+      },
+      {
+        "nome": "vitor costa e everton melo advogados associados",
+        "percentual": 20.4
+      },
+      {
+        "nome": "badra filmes ltda",
+        "percentual": 20.4
+      },
+      {
+        "nome": "jk comunicacoes ltda",
+        "percentual": 8.16
+      },
+      {
+        "nome": "ihpec instituto haverroth de politica, estatistica e comunicacao ltda",
+        "percentual": 6.12
+      },
+      {
+        "nome": "prado e brasileiro ltda",
+        "percentual": 4.79
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "vitor costa e everton melo advogados associados",
+        "percentual": 20.4
+      },
+      {
+        "nome": "badra filmes ltda",
+        "percentual": 20.4
+      },
+      {
+        "nome": "jk comunicacoes ltda",
+        "percentual": 8.16
+      },
+      {
+        "nome": "ihpec instituto haverroth de politica, estatistica e comunicacao ltda",
+        "percentual": 6.12
+      },
+      {
+        "nome": "prado e brasileiro ltda",
+        "percentual": 4.79
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Adailton Furia",
+      "partido_pagina": "PSD",
+      "numero_pagina": 55,
+      "profissao": "Outros",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/220017095549",
+      "foto_url_original": "https://s2-g1.glbimg.com/g-hLNc9Zm1zT3TLsKjwO_LnU-x4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/M/9tONCaQfG4xQHMqYcoSw/adailton-furia.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 90.000,00 Lote rural",
+        "Outros créditos e poupança vinculados R$ 86,74 105 - brasil bem ou direito pertencente ao títular cnpj: 00.000.000/0001-91",
+        "Terreno R$ 175.000,00 1 (um) terreno",
+        "Terreno R$ 400.000,00 01 (um) lote urbano (prédio comercial)",
+        "Terreno R$ 150.000,00 02 lotes urbano",
+        "Terreno R$ 350.000,00 03 lotes urbano com 2 casas residencial",
+        "Outras participações societárias R$ 500.000,00 Participação na empresa auto posto da sete ltda."
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 5037700,
+      "despesas_total": 2451499.81,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 99.25
+        },
+        {
+          "nome": "Danilo De Souza Dobri",
+          "percentual": 0.51
+        },
+        {
+          "nome": "Adailton Antunes Ferreira",
+          "percentual": 0.24
+        },
+        {
+          "nome": "vitor costa e everton melo advogados associados",
+          "percentual": 20.4
+        },
+        {
+          "nome": "badra filmes ltda",
+          "percentual": 20.4
+        },
+        {
+          "nome": "jk comunicacoes ltda",
+          "percentual": 8.16
+        },
+        {
+          "nome": "ihpec instituto haverroth de politica, estatistica e comunicacao ltda",
+          "percentual": 6.12
+        },
+        {
+          "nome": "prado e brasileiro ltda",
+          "percentual": 4.79
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "vitor costa e everton melo advogados associados",
+          "percentual": 20.4
+        },
+        {
+          "nome": "badra filmes ltda",
+          "percentual": 20.4
+        },
+        {
+          "nome": "jk comunicacoes ltda",
+          "percentual": 8.16
+        },
+        {
+          "nome": "ihpec instituto haverroth de politica, estatistica e comunicacao ltda",
+          "percentual": 6.12
+        },
+        {
+          "nome": "prado e brasileiro ltda",
+          "percentual": 4.79
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ro-220002536806.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:08:07.678Z"
+  },
+  {
+    "slug": "220002542185",
+    "nome": "Expedito Netto",
+    "partido": "PT",
+    "numero": 13,
+    "cargo": "governador",
+    "uf": "RO",
+    "foto_arquivo": "governador-ro-220002542185",
+    "foto_url_original": "https://s2-g1.glbimg.com/Aa3GvacI_rZEQzD4D7LoiqU4YdA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/w/2kq5eUSmqmRizCVPMA6A/expedito-netto.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ro/220002542185.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/220017126127",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 351226,
+    "receitas_total": 1939824.65,
+    "despesas_total": 1413056.75,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Ourocap bb",
+        "valor": 1327
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Jet sky sea doo 215 ano 2012 + reboque marca pegasusna cor cinza placa nbn-3386, adq. 20/02/2015",
+        "valor": 49899
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Disponibilidade de investimento",
+        "valor": 300000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 96.29
+      },
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 3.71
+      },
+      {
+        "nome": "x drone imagens aereas ltda",
+        "percentual": 28.31
+      },
+      {
+        "nome": "fabio chianca sociedade individual de advocacia",
+        "percentual": 21.23
+      },
+      {
+        "nome": "portelauto veiculos ltda",
+        "percentual": 10.73
+      },
+      {
+        "nome": "w alves da silva ltda",
+        "percentual": 9.91
+      },
+      {
+        "nome": "impact comunicacao visual ltda",
+        "percentual": 5.52
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "x drone imagens aereas ltda",
+        "percentual": 28.31
+      },
+      {
+        "nome": "fabio chianca sociedade individual de advocacia",
+        "percentual": 21.23
+      },
+      {
+        "nome": "portelauto veiculos ltda",
+        "percentual": 10.73
+      },
+      {
+        "nome": "w alves da silva ltda",
+        "percentual": 9.91
+      },
+      {
+        "nome": "impact comunicacao visual ltda",
+        "percentual": 5.52
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Expedito Netto",
+      "partido_pagina": "PT",
+      "numero_pagina": 13,
+      "profissao": "Empresário",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/220017126127",
+      "foto_url_original": "https://s2-g1.glbimg.com/Aa3GvacI_rZEQzD4D7LoiqU4YdA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/w/2kq5eUSmqmRizCVPMA6A/expedito-netto.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outras aplicações e investimentos R$ 1.327,00 Ourocap bb",
+        "Outros bens e direitos R$ 49.899,00 Jet sky sea doo 215 ano 2012 + reboque marca pegasusna cor cinza placa nbn-3386, adq. 20/02/2015",
+        "Dinheiro em espécie - moeda nacional R$ 300.000,00 Disponibilidade de investimento"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 1939824.65,
+      "despesas_total": 1413056.75,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 96.29
+        },
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 3.71
+        },
+        {
+          "nome": "x drone imagens aereas ltda",
+          "percentual": 28.31
+        },
+        {
+          "nome": "fabio chianca sociedade individual de advocacia",
+          "percentual": 21.23
+        },
+        {
+          "nome": "portelauto veiculos ltda",
+          "percentual": 10.73
+        },
+        {
+          "nome": "w alves da silva ltda",
+          "percentual": 9.91
+        },
+        {
+          "nome": "impact comunicacao visual ltda",
+          "percentual": 5.52
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "x drone imagens aereas ltda",
+          "percentual": 28.31
+        },
+        {
+          "nome": "fabio chianca sociedade individual de advocacia",
+          "percentual": 21.23
+        },
+        {
+          "nome": "portelauto veiculos ltda",
+          "percentual": 10.73
+        },
+        {
+          "nome": "w alves da silva ltda",
+          "percentual": 9.91
+        },
+        {
+          "nome": "impact comunicacao visual ltda",
+          "percentual": 5.52
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ro-220002542185.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:08:13.423Z"
+  },
+  {
+    "slug": "220002542916",
+    "nome": "Hildon Chaves",
+    "partido": "UNIÃO",
+    "numero": 44,
+    "cargo": "governador",
+    "uf": "RO",
+    "foto_arquivo": "governador-ro-220002542916",
+    "foto_url_original": "https://s2-g1.glbimg.com/xWJXCr6TRJ1Cz34sYsu6XDmEKT8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/N/JxMWX2TzOsKnIA6LIyeQ/hildon-chaves.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ro/220002542916.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/220017126697",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 30330625.02,
+    "receitas_total": 4095000,
+    "despesas_total": 3559537.89,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo sw4",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo sw4",
+        "valor": 317785
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imoveis",
+        "valor": 3150529.65
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Participação societárias, aplicações, créditos e bens no exterior",
+        "valor": 26862310.37
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - União",
+        "percentual": 97.68
+      },
+      {
+        "nome": "Hildon De Lima Chaves",
+        "percentual": 2.08
+      },
+      {
+        "nome": "Ieda Pacheco Chaves",
+        "percentual": 0.24
+      },
+      {
+        "nome": "incine servicos de comunicacao, producoes e marketing ltda",
+        "percentual": 42.14
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 12.36
+      },
+      {
+        "nome": "ops midia ltda",
+        "percentual": 11.24
+      },
+      {
+        "nome": "santana & sant'ana - advogados associados",
+        "percentual": 8.15
+      },
+      {
+        "nome": "exathus assessoria e consultoria contabil ltda",
+        "percentual": 7.02
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "incine servicos de comunicacao, producoes e marketing ltda",
+        "percentual": 42.14
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 12.36
+      },
+      {
+        "nome": "ops midia ltda",
+        "percentual": 11.24
+      },
+      {
+        "nome": "santana & sant'ana - advogados associados",
+        "percentual": 8.15
+      },
+      {
+        "nome": "exathus assessoria e consultoria contabil ltda",
+        "percentual": 7.02
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Hildon Chaves",
+      "partido_pagina": "UNIÃO",
+      "numero_pagina": 44,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/220017126697",
+      "foto_url_original": "https://s2-g1.glbimg.com/xWJXCr6TRJ1Cz34sYsu6XDmEKT8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/N/JxMWX2TzOsKnIA6LIyeQ/hildon-chaves.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 317.785,00 Veiculo sw4",
+        "Outros bens imóveis R$ 3.150.529,65 Imoveis",
+        "Outros bens e direitos R$ 26.862.310,37 Participação societárias, aplicações, créditos e bens no exterior"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 4095000,
+      "despesas_total": 3559537.89,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - União",
+          "percentual": 97.68
+        },
+        {
+          "nome": "Hildon De Lima Chaves",
+          "percentual": 2.08
+        },
+        {
+          "nome": "Ieda Pacheco Chaves",
+          "percentual": 0.24
+        },
+        {
+          "nome": "incine servicos de comunicacao, producoes e marketing ltda",
+          "percentual": 42.14
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 12.36
+        },
+        {
+          "nome": "ops midia ltda",
+          "percentual": 11.24
+        },
+        {
+          "nome": "santana & sant'ana - advogados associados",
+          "percentual": 8.15
+        },
+        {
+          "nome": "exathus assessoria e consultoria contabil ltda",
+          "percentual": 7.02
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "incine servicos de comunicacao, producoes e marketing ltda",
+          "percentual": 42.14
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 12.36
+        },
+        {
+          "nome": "ops midia ltda",
+          "percentual": 11.24
+        },
+        {
+          "nome": "santana & sant'ana - advogados associados",
+          "percentual": 8.15
+        },
+        {
+          "nome": "exathus assessoria e consultoria contabil ltda",
+          "percentual": 7.02
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ro-220002542916.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:08:19.531Z"
+  },
+  {
+    "slug": "220002541939",
+    "nome": "Marcos Rogério",
+    "partido": "PL",
+    "numero": 22,
+    "cargo": "governador",
+    "uf": "RO",
+    "foto_arquivo": "governador-ro-220002541939",
+    "foto_url_original": "https://s2-g1.glbimg.com/UhM3tHbFskWgENDBWuXvxMZ4B-o=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/j/sc6QCgT26GsE5U9a4hBA/marcos-rogerio.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ro/220002541939.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/220017009377",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 2376169.9200000004,
+    "receitas_total": 3802000,
+    "despesas_total": 4062246.08,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital mediante incorporação de propriedade rural situada no município de vale do paraiso para formacao do capital social da empresa agropecuaria mrb ltda",
+        "valor": 1000000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Carta de credito contemplada ¿ consorcio imobiliario",
+        "valor": 152287.14
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa ¿ caixa econômica federal",
+        "valor": 10751
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento residencial localizado no bairro embratel em porto velho ¿ ro adquirido através da venda de apto no bairro são joão bosco financiado com recursos da caixa economica federal.",
+        "valor": 700000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Carta de credito consorcio imobiliario",
+        "valor": 85972.5
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento residencial localizado no bairro nova brasília em ji-parana ¿ ro com recursos de consórcio imobiliário",
+        "valor": 370000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quota de capital social - coop de credito do centro do estado de rondonia - sicoob centro",
+        "valor": 25521.2
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Vgbl contribuicao (caixa vida e previdencia s/a)",
+        "valor": 21000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa ¿ bb cdb",
+        "valor": 10638.08
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 98
+      },
+      {
+        "nome": "Marcos Rogerio Da Silva Brito",
+        "percentual": 0.53
+      },
+      {
+        "nome": "Jose Carlos De Oliveira Silva",
+        "percentual": 0.32
+      },
+      {
+        "nome": "Weslei Da Silva Brito",
+        "percentual": 0.32
+      },
+      {
+        "nome": "Eduardo Braga Molinari",
+        "percentual": 0.26
+      },
+      {
+        "nome": "persona publica ltda",
+        "percentual": 20.92
+      },
+      {
+        "nome": "camargo, magalhaes & canedo sociedade de advogados",
+        "percentual": 16
+      },
+      {
+        "nome": "vitorino & mendonca ltda",
+        "percentual": 11.08
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 2.95
+      },
+      {
+        "nome": "l2a transportes e comunicacao visual ltda",
+        "percentual": 2.47
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "persona publica ltda",
+        "percentual": 20.92
+      },
+      {
+        "nome": "camargo, magalhaes & canedo sociedade de advogados",
+        "percentual": 16
+      },
+      {
+        "nome": "vitorino & mendonca ltda",
+        "percentual": 11.08
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 2.95
+      },
+      {
+        "nome": "l2a transportes e comunicacao visual ltda",
+        "percentual": 2.47
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Marcos Rogério",
+      "partido_pagina": "PL",
+      "numero_pagina": 22,
+      "profissao": "Senador",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/220017009377",
+      "foto_url_original": "https://s2-g1.glbimg.com/UhM3tHbFskWgENDBWuXvxMZ4B-o=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/j/sc6QCgT26GsE5U9a4hBA/marcos-rogerio.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Quotas ou quinhões de capital R$ 1.000.000,00 Quotas de capital mediante incorporação de propriedade rural situada no município de vale do paraiso para formacao do capital social da empresa agropecuaria mrb ltda",
+        "Outros bens e direitos R$ 152.287,14 Carta de credito contemplada ¿ consorcio imobiliario",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 10.751,00 Aplicação de renda fixa ¿ caixa econômica federal",
+        "Apartamento R$ 700.000,00 Apartamento residencial localizado no bairro embratel em porto velho ¿ ro adquirido através da venda de apto no bairro são joão bosco financiado com recursos da caixa economica federal.",
+        "Outros bens e direitos R$ 85.972,50 Carta de credito consorcio imobiliario",
+        "Apartamento R$ 370.000,00 Apartamento residencial localizado no bairro nova brasília em ji-parana ¿ ro com recursos de consórcio imobiliário",
+        "Quotas ou quinhões de capital R$ 25.521,20 Quota de capital social - coop de credito do centro do estado de rondonia - sicoob centro",
+        "Vgbl - vida gerador de benefício livre R$ 21.000,00 Vgbl contribuicao (caixa vida e previdencia s/a)",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 10.638,08 Aplicação de renda fixa ¿ bb cdb"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 3802000,
+      "despesas_total": 4062246.08,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 98
+        },
+        {
+          "nome": "Marcos Rogerio Da Silva Brito",
+          "percentual": 0.53
+        },
+        {
+          "nome": "Jose Carlos De Oliveira Silva",
+          "percentual": 0.32
+        },
+        {
+          "nome": "Weslei Da Silva Brito",
+          "percentual": 0.32
+        },
+        {
+          "nome": "Eduardo Braga Molinari",
+          "percentual": 0.26
+        },
+        {
+          "nome": "persona publica ltda",
+          "percentual": 20.92
+        },
+        {
+          "nome": "camargo, magalhaes & canedo sociedade de advogados",
+          "percentual": 16
+        },
+        {
+          "nome": "vitorino & mendonca ltda",
+          "percentual": 11.08
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 2.95
+        },
+        {
+          "nome": "l2a transportes e comunicacao visual ltda",
+          "percentual": 2.47
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "persona publica ltda",
+          "percentual": 20.92
+        },
+        {
+          "nome": "camargo, magalhaes & canedo sociedade de advogados",
+          "percentual": 16
+        },
+        {
+          "nome": "vitorino & mendonca ltda",
+          "percentual": 11.08
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 2.95
+        },
+        {
+          "nome": "l2a transportes e comunicacao visual ltda",
+          "percentual": 2.47
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ro-220002541939.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:08:26.221Z"
+  },
+  {
+    "slug": "220002551251",
+    "nome": "Pedro Abib",
+    "partido": "MDB",
+    "numero": 15,
+    "cargo": "governador",
+    "uf": "RO",
+    "foto_arquivo": "governador-ro-220002551251",
+    "foto_url_original": "https://s2-g1.glbimg.com/UD2GtBbBEMmz9aq37Tj3otf9AyA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/r/ig0dhnTkmPiIIJsNzWpg/pedro-abib.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ro/220002551251.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/220017102553",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 2936485,
+    "receitas_total": 1089022,
+    "despesas_total": 1003028.47,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Disponivel para investimento",
+        "valor": 200000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Quotas emresarias das quais é sócio",
+        "valor": 533578.89
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Residencial",
+        "valor": 1569500
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Empréstimo para terceiros recursos investimentos",
+        "valor": 173406.11
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo",
+        "valor": 180000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Emprestimo para terceiros recursos investimentos",
+        "valor": 280000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 91.83
+      },
+      {
+        "nome": "Direção Estadual/distrital - Mdb - Rondônia",
+        "percentual": 4.36
+      },
+      {
+        "nome": "Elizeu Lira Correa",
+        "percentual": 1.1
+      },
+      {
+        "nome": "Pedro Abib Hecktheuer",
+        "percentual": 0.64
+      },
+      {
+        "nome": "Atair Lopes Chacao Junior",
+        "percentual": 0.61
+      },
+      {
+        "nome": "videoart propaganda e producoes ltda",
+        "percentual": 79.56
+      },
+      {
+        "nome": "almeida sociedade individual de advocacia",
+        "percentual": 11.96
+      },
+      {
+        "nome": "n t andrade ltda",
+        "percentual": 4.69
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 1
+      },
+      {
+        "nome": "xr global brasil ltda",
+        "percentual": 0.5
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "videoart propaganda e producoes ltda",
+        "percentual": 79.56
+      },
+      {
+        "nome": "almeida sociedade individual de advocacia",
+        "percentual": 11.96
+      },
+      {
+        "nome": "n t andrade ltda",
+        "percentual": 4.69
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 1
+      },
+      {
+        "nome": "xr global brasil ltda",
+        "percentual": 0.5
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Pedro Abib",
+      "partido_pagina": "MDB",
+      "numero_pagina": 15,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/220017102553",
+      "foto_url_original": "https://s2-g1.glbimg.com/UD2GtBbBEMmz9aq37Tj3otf9AyA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/r/ig0dhnTkmPiIIJsNzWpg/pedro-abib.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Dinheiro em espécie - moeda nacional R$ 200.000,00 Disponivel para investimento",
+        "Outras aplicações e investimentos R$ 533.578,89 Quotas emresarias das quais é sócio",
+        "Casa R$ 1.569.500,00 Residencial",
+        "Outras aplicações e investimentos R$ 173.406,11 Empréstimo para terceiros recursos investimentos",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 180.000,00 Veiculo",
+        "Outras aplicações e investimentos R$ 280.000,00 Emprestimo para terceiros recursos investimentos"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 1089022,
+      "despesas_total": 1003028.47,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 91.83
+        },
+        {
+          "nome": "Direção Estadual/distrital - Mdb - Rondônia",
+          "percentual": 4.36
+        },
+        {
+          "nome": "Elizeu Lira Correa",
+          "percentual": 1.1
+        },
+        {
+          "nome": "Pedro Abib Hecktheuer",
+          "percentual": 0.64
+        },
+        {
+          "nome": "Atair Lopes Chacao Junior",
+          "percentual": 0.61
+        },
+        {
+          "nome": "videoart propaganda e producoes ltda",
+          "percentual": 79.56
+        },
+        {
+          "nome": "almeida sociedade individual de advocacia",
+          "percentual": 11.96
+        },
+        {
+          "nome": "n t andrade ltda",
+          "percentual": 4.69
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 1
+        },
+        {
+          "nome": "xr global brasil ltda",
+          "percentual": 0.5
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "videoart propaganda e producoes ltda",
+          "percentual": 79.56
+        },
+        {
+          "nome": "almeida sociedade individual de advocacia",
+          "percentual": 11.96
+        },
+        {
+          "nome": "n t andrade ltda",
+          "percentual": 4.69
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 1
+        },
+        {
+          "nome": "xr global brasil ltda",
+          "percentual": 0.5
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ro-220002551251.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:08:31.742Z"
+  },
+  {
+    "slug": "220002550927",
+    "nome": "Samuel Costa",
+    "partido": "PSB",
+    "numero": 40,
+    "cargo": "governador",
+    "uf": "RO",
+    "foto_arquivo": "governador-ro-220002550927",
+    "foto_url_original": "https://s2-g1.glbimg.com/xFiHd4fiOSpY7kvjCaQ-fYNX1Pk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/x/bp7kCBQdax964i24ID2g/samuel-costa.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ro/220002550927.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/220017097592",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 3631297.6799999997,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicações financeiras e letras de crédito",
+        "valor": 240000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa de 120 m² em porto velho, em terreno de 360 m²",
+        "valor": 150000
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Disponibilidade para investimento",
+        "valor": 200000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Garagem no residencial castellato",
+        "valor": 70000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hb20, preto",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hb20, preto",
+        "valor": 45000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Propriedade rural em canutama (am)",
+        "valor": 130000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Caderneta de poupança",
+        "valor": 7870
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Ducati monster, vermelha",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Ducati monster, vermelha",
+        "valor": 48000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Brasil 364 comunicação ltda",
+        "valor": 100000
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro em espécie",
+        "valor": 70000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 50% de terreno e construção de casa no condomínio verana",
+        "valor": 555000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Chevrolet s10, prata, flex",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Chevrolet s10, prata, flex",
+        "valor": 87000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente",
+        "valor": 18427.68
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento no residencial castellato, com duas vagas de garagem",
+        "valor": 680000
+      },
+      {
+        "tipo": "Prédio comercial",
+        "descricao": "Prédio comercial 50% de prédio comercial localizado na avenida amazonas, em porto velho, composto por um ponto comercial e quatro salas",
+        "valor": 500000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux srv",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux srv 4x4, preta",
+        "valor": 210000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux sw4, prata",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux sw4, prata",
+        "valor": 320000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Sociedade individual de advocacia",
+        "valor": 200000
+      }
+    ],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Samuel Costa",
+      "partido_pagina": "PSB",
+      "numero_pagina": 40,
+      "profissao": "Advogado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/220017097592",
+      "foto_url_original": "https://s2-g1.glbimg.com/xFiHd4fiOSpY7kvjCaQ-fYNX1Pk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/x/bp7kCBQdax964i24ID2g/samuel-costa.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 240.000,00 Aplicações financeiras e letras de crédito",
+        "Casa R$ 150.000,00 Casa de 120 m² em porto velho, em terreno de 360 m²",
+        "Dinheiro em espécie - moeda nacional R$ 200.000,00 Disponibilidade para investimento",
+        "Outros bens e direitos R$ 70.000,00 Garagem no residencial castellato",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 45.000,00 Hb20, preto",
+        "Outros bens e direitos R$ 130.000,00 Propriedade rural em canutama (am)",
+        "Caderneta de poupança R$ 7.870,00 Caderneta de poupança",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 48.000,00 Ducati monster, vermelha",
+        "Outros bens e direitos R$ 100.000,00 Brasil 364 comunicação ltda",
+        "Dinheiro em espécie - moeda nacional R$ 70.000,00 Dinheiro em espécie",
+        "Terreno R$ 555.000,00 50% de terreno e construção de casa no condomínio verana",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 87.000,00 Chevrolet s10, prata, flex",
+        "Depósito bancário em conta corrente no país R$ 18.427,68 Saldo em conta corrente",
+        "Apartamento R$ 680.000,00 Apartamento no residencial castellato, com duas vagas de garagem",
+        "Prédio comercial R$ 500.000,00 50% de prédio comercial localizado na avenida amazonas, em porto velho, composto por um ponto comercial e quatro salas",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 210.000,00 Hilux srv 4x4, preta",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 320.000,00 Hilux sw4, prata",
+        "Outros bens e direitos R$ 200.000,00 Sociedade individual de advocacia"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 6226082.16,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ro-220002550927.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:08:36.847Z"
+  }
+]

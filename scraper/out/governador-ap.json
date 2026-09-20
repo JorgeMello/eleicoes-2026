@@ -1,0 +1,732 @@
+[
+  {
+    "slug": "30002536313",
+    "nome": "Carlos Cley",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "governador",
+    "uf": "AP",
+    "foto_arquivo": "governador-ap-30002536313",
+    "foto_url_original": "https://s2-g1.glbimg.com/vfZMsGX1-ccBfn_C6HwxiufjAsI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/Y/xCQ1BvT2yJUABMAZYObA/carlos-cley.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ap/30002536313.ghtml",
+    "profissao": "Motorista particular",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/30016872195",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 49166,
+    "receitas_total": 20002,
+    "despesas_total": 17000.5,
+    "limite_gastos": 3557761.23,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Fiat argo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Fiat argo 2018",
+        "valor": 48416
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Bicicleta",
+        "valor": 750
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 100
+      },
+      {
+        "nome": "gianfranco gusmao de azevedo",
+        "percentual": 35.29
+      },
+      {
+        "nome": "francisco de assis da silva filho",
+        "percentual": 29.41
+      },
+      {
+        "nome": "j. caldas dos santos ltda",
+        "percentual": 11.76
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 11.76
+      },
+      {
+        "nome": "cristiano augusto teixeira souza",
+        "percentual": 11.76
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "gianfranco gusmao de azevedo",
+        "percentual": 35.29
+      },
+      {
+        "nome": "francisco de assis da silva filho",
+        "percentual": 29.41
+      },
+      {
+        "nome": "j. caldas dos santos ltda",
+        "percentual": 11.76
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 11.76
+      },
+      {
+        "nome": "cristiano augusto teixeira souza",
+        "percentual": 11.76
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Carlos Cley",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Motorista particular",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/30016872195",
+      "foto_url_original": "https://s2-g1.glbimg.com/vfZMsGX1-ccBfn_C6HwxiufjAsI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/Y/xCQ1BvT2yJUABMAZYObA/carlos-cley.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 48.416,00 Fiat argo 2018",
+        "Outros bens móveis R$ 750,00 Bicicleta"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 20002,
+      "despesas_total": 17000.5,
+      "limite_gastos": 3557761.23,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 100
+        },
+        {
+          "nome": "gianfranco gusmao de azevedo",
+          "percentual": 35.29
+        },
+        {
+          "nome": "francisco de assis da silva filho",
+          "percentual": 29.41
+        },
+        {
+          "nome": "j. caldas dos santos ltda",
+          "percentual": 11.76
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 11.76
+        },
+        {
+          "nome": "cristiano augusto teixeira souza",
+          "percentual": 11.76
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "gianfranco gusmao de azevedo",
+          "percentual": 35.29
+        },
+        {
+          "nome": "francisco de assis da silva filho",
+          "percentual": 29.41
+        },
+        {
+          "nome": "j. caldas dos santos ltda",
+          "percentual": 11.76
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 11.76
+        },
+        {
+          "nome": "cristiano augusto teixeira souza",
+          "percentual": 11.76
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ap-30002536313.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:54:36.137Z"
+  },
+  {
+    "slug": "30002536311",
+    "nome": "Clécio",
+    "partido": "UNIÃO",
+    "numero": 44,
+    "cargo": "governador",
+    "uf": "AP",
+    "foto_arquivo": "governador-ap-30002536311",
+    "foto_url_original": "https://s2-g1.glbimg.com/bQyOqbm-z0Y1rWcNCnt1kfzhfME=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/Q/VQ8tfqS9SUj2hG0Psy3A/clecio.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ap/30002536311.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/30016872175",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 497990,
+    "receitas_total": 2936961.69,
+    "despesas_total": 1922532.77,
+    "limite_gastos": 3557761.23,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote urbano nº 08, quadra 04 no loteamento prime norte",
+        "valor": 105000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote urbano nº 10, quadra 04 no loteamento prime norte",
+        "valor": 104000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo de passeio honda hrv advance cinza",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo de passeio honda hrv advance cinza",
+        "valor": 184990
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote urbano nº 09, quadra 04 no loteamento prime norte",
+        "valor": 104000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2010,
+        "cargo": "Deputado federal",
+        "partido": "PSOL",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - União",
+        "percentual": 98.72
+      },
+      {
+        "nome": "Anderson Ferreira Das Neves",
+        "percentual": 0.09
+      },
+      {
+        "nome": "Erick Fernando Chagas Da Silva",
+        "percentual": 0.09
+      },
+      {
+        "nome": "Midley Raynere Da Silva Moureira",
+        "percentual": 0.09
+      },
+      {
+        "nome": "José Inácio Soares Filho",
+        "percentual": 0.09
+      },
+      {
+        "nome": "talento digital ltda",
+        "percentual": 34.93
+      },
+      {
+        "nome": "noez servicos de consultoria em campanhas de marketing ltda",
+        "percentual": 15.6
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 9.36
+      },
+      {
+        "nome": "nossa frota locacao de veiculos ltda",
+        "percentual": 5.66
+      },
+      {
+        "nome": "printgraf editora grafica ltda",
+        "percentual": 5.59
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "talento digital ltda",
+        "percentual": 34.93
+      },
+      {
+        "nome": "noez servicos de consultoria em campanhas de marketing ltda",
+        "percentual": 15.6
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 9.36
+      },
+      {
+        "nome": "nossa frota locacao de veiculos ltda",
+        "percentual": 5.66
+      },
+      {
+        "nome": "printgraf editora grafica ltda",
+        "percentual": 5.59
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Clécio",
+      "partido_pagina": "UNIÃO",
+      "numero_pagina": 44,
+      "profissao": "Governador",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/30016872175",
+      "foto_url_original": "https://s2-g1.glbimg.com/bQyOqbm-z0Y1rWcNCnt1kfzhfME=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/Q/VQ8tfqS9SUj2hG0Psy3A/clecio.jpeg",
+      "historico": [
+        {
+          "ano": 2010,
+          "cargo": "Deputado federal",
+          "partido": "PSOL",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Terreno R$ 105.000,00 Lote urbano nº 08, quadra 04 no loteamento prime norte",
+        "Terreno R$ 104.000,00 Lote urbano nº 10, quadra 04 no loteamento prime norte",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 184.990,00 Veiculo de passeio honda hrv advance cinza",
+        "Terreno R$ 104.000,00 Lote urbano nº 09, quadra 04 no loteamento prime norte"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 2936961.69,
+      "despesas_total": 1922532.77,
+      "limite_gastos": 3557761.23,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - União",
+          "percentual": 98.72
+        },
+        {
+          "nome": "Anderson Ferreira Das Neves",
+          "percentual": 0.09
+        },
+        {
+          "nome": "Erick Fernando Chagas Da Silva",
+          "percentual": 0.09
+        },
+        {
+          "nome": "Midley Raynere Da Silva Moureira",
+          "percentual": 0.09
+        },
+        {
+          "nome": "José Inácio Soares Filho",
+          "percentual": 0.09
+        },
+        {
+          "nome": "talento digital ltda",
+          "percentual": 34.93
+        },
+        {
+          "nome": "noez servicos de consultoria em campanhas de marketing ltda",
+          "percentual": 15.6
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 9.36
+        },
+        {
+          "nome": "nossa frota locacao de veiculos ltda",
+          "percentual": 5.66
+        },
+        {
+          "nome": "printgraf editora grafica ltda",
+          "percentual": 5.59
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "talento digital ltda",
+          "percentual": 34.93
+        },
+        {
+          "nome": "noez servicos de consultoria em campanhas de marketing ltda",
+          "percentual": 15.6
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 9.36
+        },
+        {
+          "nome": "nossa frota locacao de veiculos ltda",
+          "percentual": 5.66
+        },
+        {
+          "nome": "printgraf editora grafica ltda",
+          "percentual": 5.59
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ap-30002536311.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:54:40.846Z"
+  },
+  {
+    "slug": "30002552017",
+    "nome": "Delegado Marcos",
+    "partido": "DC",
+    "numero": 27,
+    "cargo": "governador",
+    "uf": "AP",
+    "foto_arquivo": "governador-ap-30002552017",
+    "foto_url_original": "https://s2-g1.glbimg.com/HII93OFKD-lC3agZ_wpZ3AGiUAM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/s/Z3OONOQ0AYFUK5kDwmGg/delegado-marcos.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ap/30002552017.ghtml",
+    "profissao": "Servidor público federal",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/30017107841",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 8000,
+    "despesas_total": 0,
+    "limite_gastos": 3557761.23,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Dc - Amapá",
+        "percentual": 100
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Delegado Marcos",
+      "partido_pagina": "DC",
+      "numero_pagina": 27,
+      "profissao": "Servidor público federal",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/30017107841",
+      "foto_url_original": "https://s2-g1.glbimg.com/HII93OFKD-lC3agZ_wpZ3AGiUAM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/s/Z3OONOQ0AYFUK5kDwmGg/delegado-marcos.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 8000,
+      "despesas_total": 0,
+      "limite_gastos": 3557761.23,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Dc - Amapá",
+          "percentual": 100
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ap-30002552017.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:54:46.153Z"
+  },
+  {
+    "slug": "30002530014",
+    "nome": "Dr. Furlan",
+    "partido": "PSD",
+    "numero": 55,
+    "cargo": "governador",
+    "uf": "AP",
+    "foto_arquivo": "governador-ap-30002530014",
+    "foto_url_original": "https://s2-g1.glbimg.com/byZ1ZBD0psvRB5qHVvrMky3fKyU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/h/5FSADBTrmChaGYMxBMfA/dr.-furlan.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ap/30002530014.ghtml",
+    "profissao": "Médico",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/30017105444",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1168464.77,
+    "receitas_total": 2349138.89,
+    "despesas_total": 2409192.36,
+    "limite_gastos": 3557761.23,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imovel residencial em macapá",
+        "valor": 300000
+      },
+      {
+        "tipo": "Construção",
+        "descricao": "Construção Contrucao em imovel urbano",
+        "valor": 43214.77
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias 20% do instituto de terapia intensiva do amapa ltda",
+        "valor": 15000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imovel residencial em macapá",
+        "valor": 180250
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Capital da empresa instituto de medicina do coracao ltda.",
+        "valor": 100000
+      },
+      {
+        "tipo": "Prédio residencial",
+        "descricao": "Prédio residencial Apto residencial",
+        "valor": 530000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2010,
+        "cargo": "Deputado estadual",
+        "partido": "PTB",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 97.91
+      },
+      {
+        "nome": "Antonio Paulo De Oliveira Furlan",
+        "percentual": 0.87
+      },
+      {
+        "nome": "Fabio Antonio Garcia Cunha Junior",
+        "percentual": 0.43
+      },
+      {
+        "nome": "Rayssa Cadena Furlan",
+        "percentual": 0.38
+      },
+      {
+        "nome": "Hereson Heric Da Silva Maynard",
+        "percentual": 0.21
+      },
+      {
+        "nome": "alo producao ltda",
+        "percentual": 29.06
+      },
+      {
+        "nome": "amanda lima figueiredo sociedade individual de advocacia",
+        "percentual": 9.55
+      },
+      {
+        "nome": "omega print comunicacao visual ltda",
+        "percentual": 9.35
+      },
+      {
+        "nome": "t. p. montenegro grafica ltda",
+        "percentual": 8.29
+      },
+      {
+        "nome": "rg consultoria empresarial e contabil ltda",
+        "percentual": 7.47
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "alo producao ltda",
+        "percentual": 29.06
+      },
+      {
+        "nome": "amanda lima figueiredo sociedade individual de advocacia",
+        "percentual": 9.55
+      },
+      {
+        "nome": "omega print comunicacao visual ltda",
+        "percentual": 9.35
+      },
+      {
+        "nome": "t. p. montenegro grafica ltda",
+        "percentual": 8.29
+      },
+      {
+        "nome": "rg consultoria empresarial e contabil ltda",
+        "percentual": 7.47
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Dr. Furlan",
+      "partido_pagina": "PSD",
+      "numero_pagina": 55,
+      "profissao": "Médico",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/30017105444",
+      "foto_url_original": "https://s2-g1.glbimg.com/byZ1ZBD0psvRB5qHVvrMky3fKyU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/h/5FSADBTrmChaGYMxBMfA/dr.-furlan.jpeg",
+      "historico": [
+        {
+          "ano": 2010,
+          "cargo": "Deputado estadual",
+          "partido": "PTB",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Casa R$ 300.000,00 Imovel residencial em macapá",
+        "Construção R$ 43.214,77 Contrucao em imovel urbano",
+        "Outras participações societárias R$ 15.000,00 20% do instituto de terapia intensiva do amapa ltda",
+        "Casa R$ 180.250,00 Imovel residencial em macapá",
+        "Outras participações societárias R$ 100.000,00 Capital da empresa instituto de medicina do coracao ltda.",
+        "Prédio residencial R$ 530.000,00 Apto residencial"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 2349138.89,
+      "despesas_total": 2409192.36,
+      "limite_gastos": 3557761.23,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 97.91
+        },
+        {
+          "nome": "Antonio Paulo De Oliveira Furlan",
+          "percentual": 0.87
+        },
+        {
+          "nome": "Fabio Antonio Garcia Cunha Junior",
+          "percentual": 0.43
+        },
+        {
+          "nome": "Rayssa Cadena Furlan",
+          "percentual": 0.38
+        },
+        {
+          "nome": "Hereson Heric Da Silva Maynard",
+          "percentual": 0.21
+        },
+        {
+          "nome": "alo producao ltda",
+          "percentual": 29.06
+        },
+        {
+          "nome": "amanda lima figueiredo sociedade individual de advocacia",
+          "percentual": 9.55
+        },
+        {
+          "nome": "omega print comunicacao visual ltda",
+          "percentual": 9.35
+        },
+        {
+          "nome": "t. p. montenegro grafica ltda",
+          "percentual": 8.29
+        },
+        {
+          "nome": "rg consultoria empresarial e contabil ltda",
+          "percentual": 7.47
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "alo producao ltda",
+          "percentual": 29.06
+        },
+        {
+          "nome": "amanda lima figueiredo sociedade individual de advocacia",
+          "percentual": 9.55
+        },
+        {
+          "nome": "omega print comunicacao visual ltda",
+          "percentual": 9.35
+        },
+        {
+          "nome": "t. p. montenegro grafica ltda",
+          "percentual": 8.29
+        },
+        {
+          "nome": "rg consultoria empresarial e contabil ltda",
+          "percentual": 7.47
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ap-30002530014.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:54:52.758Z"
+  },
+  {
+    "slug": "30002551388",
+    "nome": "Jairo Palheta",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "AP",
+    "foto_arquivo": "governador-ap-30002551388",
+    "foto_url_original": "https://s2-g1.glbimg.com/wdmB7Ab-Z0Jo8a9bI7ZIA5Wemj4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/x/ihNxbtQlAc59ysqA2uYw/jairo-palheta.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ap/30002551388.ghtml",
+    "profissao": "Agricultor",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/30017103910",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 3557761.23,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [
+      {
+        "ano": 2022,
+        "cargo": "Governador",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Jairo Palheta",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Agricultor",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/30017103910",
+      "foto_url_original": "https://s2-g1.glbimg.com/wdmB7Ab-Z0Jo8a9bI7ZIA5Wemj4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/x/ihNxbtQlAc59ysqA2uYw/jairo-palheta.jpeg",
+      "historico": [
+        {
+          "ano": 2022,
+          "cargo": "Governador",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 3557761.23,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ap-30002551388.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:54:58.801Z"
+  }
+]

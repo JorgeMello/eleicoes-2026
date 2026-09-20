@@ -1,0 +1,1198 @@
+[
+  {
+    "slug": "240002553718",
+    "nome": "Bruno Pedreiro Do Pco",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "SC",
+    "foto_arquivo": "governador-sc-240002553718",
+    "foto_url_original": "https://s2-g1.glbimg.com/ERQXI9IiNT0h2EfNpHwR5dSgiys=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/1/lQEYNCSNaGOZJ4H3O9Aw/bruno-pedreiro-do-pco.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sc/240002553718.ghtml",
+    "profissao": "Trabalhador de construção civil",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino médio incompleto",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017123645",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Bruno Pedreiro Do Pco",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Trabalhador de construção civil",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Ensino médio incompleto",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017123645",
+      "foto_url_original": "https://s2-g1.glbimg.com/ERQXI9IiNT0h2EfNpHwR5dSgiys=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/1/lQEYNCSNaGOZJ4H3O9Aw/bruno-pedreiro-do-pco.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 11562724,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sc-240002553718.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:09:14.804Z"
+  },
+  {
+    "slug": "240002548628",
+    "nome": "Gelson Merísio",
+    "partido": "PSB",
+    "numero": 40,
+    "cargo": "governador",
+    "uf": "SC",
+    "foto_arquivo": "governador-sc-240002548628",
+    "foto_url_original": "https://s2-g1.glbimg.com/SaDdUDeBklCyIdH9f-ls2R5bUP0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/d/DF1N6oTAmMtvZ8RQkfWg/gelson-merisio.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sc/240002548628.ghtml",
+    "profissao": "Administrador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017074241",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 652953.78,
+    "receitas_total": 1000000,
+    "despesas_total": 1307786.5,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta de pagamento ¿ picpay bank banco múltiplo s.a.",
+        "valor": 1166.41
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital ¿ sicoob/credimoc cooperativa de crédito (conta capital)",
+        "valor": 75546.75
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Conta corrente e plano vgbl ¿ banco do brasil s.a.",
+        "valor": 0.01
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa ¿ imóvel residencial situado no município de são paulo/sp, adquirido em 24/10/2024",
+        "valor": 430000
+      },
+      {
+        "tipo": "Linha telefônica",
+        "descricao": "Linha telefônica Linha telefônica",
+        "valor": 2147
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação financeira ¿ banco do brasil s.a. (cdb)",
+        "valor": 734.39
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária na empresa merisio comércio de materiais de construção ltda.",
+        "valor": 95000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depósito em conta corrente ¿ sicoob/credimoc cooperativa de crédito",
+        "valor": 48359.22
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Gelson Luiz Merisio",
+        "percentual": 100
+      },
+      {
+        "nome": "carimbos e grafica avenida ind. com. serv. ltda",
+        "percentual": 56.24
+      },
+      {
+        "nome": "dois barbas pos-producao ltda",
+        "percentual": 19.25
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 11.47
+      },
+      {
+        "nome": "jackson fernando de medeiros",
+        "percentual": 5.73
+      },
+      {
+        "nome": "beltrame consultoria em seguranca ltda",
+        "percentual": 2.71
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "carimbos e grafica avenida ind. com. serv. ltda",
+        "percentual": 56.24
+      },
+      {
+        "nome": "dois barbas pos-producao ltda",
+        "percentual": 19.25
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 11.47
+      },
+      {
+        "nome": "jackson fernando de medeiros",
+        "percentual": 5.73
+      },
+      {
+        "nome": "beltrame consultoria em seguranca ltda",
+        "percentual": 2.71
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Gelson Merísio",
+      "partido_pagina": "PSB",
+      "numero_pagina": 40,
+      "profissao": "Administrador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017074241",
+      "foto_url_original": "https://s2-g1.glbimg.com/SaDdUDeBklCyIdH9f-ls2R5bUP0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/d/DF1N6oTAmMtvZ8RQkfWg/gelson-merisio.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Depósito bancário em conta corrente no país R$ 1.166,41 Conta de pagamento ¿ picpay bank banco múltiplo s.a.",
+        "Quotas ou quinhões de capital R$ 75.546,75 Quotas de capital ¿ sicoob/credimoc cooperativa de crédito (conta capital)",
+        "Vgbl - vida gerador de benefício livre R$ 0,01 Conta corrente e plano vgbl ¿ banco do brasil s.a.",
+        "Casa R$ 430.000,00 Casa ¿ imóvel residencial situado no município de são paulo/sp, adquirido em 24/10/2024",
+        "Linha telefônica R$ 2.147,00 Linha telefônica",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 734,39 Aplicação financeira ¿ banco do brasil s.a. (cdb)",
+        "Outras participações societárias R$ 95.000,00 Participação societária na empresa merisio comércio de materiais de construção ltda.",
+        "Depósito bancário em conta corrente no país R$ 48.359,22 Depósito em conta corrente ¿ sicoob/credimoc cooperativa de crédito"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 1000000,
+      "despesas_total": 1307786.5,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Gelson Luiz Merisio",
+          "percentual": 100
+        },
+        {
+          "nome": "carimbos e grafica avenida ind. com. serv. ltda",
+          "percentual": 56.24
+        },
+        {
+          "nome": "dois barbas pos-producao ltda",
+          "percentual": 19.25
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 11.47
+        },
+        {
+          "nome": "jackson fernando de medeiros",
+          "percentual": 5.73
+        },
+        {
+          "nome": "beltrame consultoria em seguranca ltda",
+          "percentual": 2.71
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "carimbos e grafica avenida ind. com. serv. ltda",
+          "percentual": 56.24
+        },
+        {
+          "nome": "dois barbas pos-producao ltda",
+          "percentual": 19.25
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 11.47
+        },
+        {
+          "nome": "jackson fernando de medeiros",
+          "percentual": 5.73
+        },
+        {
+          "nome": "beltrame consultoria em seguranca ltda",
+          "percentual": 2.71
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sc-240002548628.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:09:19.820Z"
+  },
+  {
+    "slug": "240002551001",
+    "nome": "João Rodrigues",
+    "partido": "PSD",
+    "numero": 55,
+    "cargo": "governador",
+    "uf": "SC",
+    "foto_arquivo": "governador-sc-240002551001",
+    "foto_url_original": "https://s2-g1.glbimg.com/nA1YpPBpPPfUJn_ajDhhpAK5Kvo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/A/y2MV6HR8OQuqZcJOn8fg/joao-rodrigues.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sc/240002551001.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017099514",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 2122223.4299999997,
+    "receitas_total": 5551490,
+    "despesas_total": 3511702.57,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Fundo de investimento",
+        "valor": 10668.63
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bb cdb rende facil",
+        "valor": 5547.88
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Credito da cessionaria caroline matte rodrigues",
+        "valor": 960030
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Caixa econômica federal",
+        "valor": 14579.38
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Banco do brasil sa ourocap",
+        "valor": 14205.35
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Ouro cap",
+        "valor": 1004.9
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Bb consorcio de automoveis",
+        "valor": 156157.29
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Credito da cessionaria maria paula matte",
+        "valor": 960030
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2018,
+        "cargo": "Deputado federal",
+        "partido": "PSD",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 99.07
+      },
+      {
+        "nome": "Caroline Matte Rodrigues Da Silva",
+        "percentual": 0.28
+      },
+      {
+        "nome": "Carlos Alberto Chiodini",
+        "percentual": 0.28
+      },
+      {
+        "nome": "Jauro Sabino Von Gehlen",
+        "percentual": 0.09
+      },
+      {
+        "nome": "Clovis Ari Leuze",
+        "percentual": 0.09
+      },
+      {
+        "nome": "d santa catarina ltda",
+        "percentual": 44.12
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 5.64
+      },
+      {
+        "nome": "serpa advogados associados",
+        "percentual": 5.64
+      },
+      {
+        "nome": "marcelo peregrino ferreira advogados associados",
+        "percentual": 4.27
+      },
+      {
+        "nome": "claudia bressan sociedade individual de advocacia",
+        "percentual": 4.27
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "d santa catarina ltda",
+        "percentual": 44.12
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 5.64
+      },
+      {
+        "nome": "serpa advogados associados",
+        "percentual": 5.64
+      },
+      {
+        "nome": "marcelo peregrino ferreira advogados associados",
+        "percentual": 4.27
+      },
+      {
+        "nome": "claudia bressan sociedade individual de advocacia",
+        "percentual": 4.27
+      }
+    ],
+    "raw": {
+      "nome_pagina": "João Rodrigues",
+      "partido_pagina": "PSD",
+      "numero_pagina": 55,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017099514",
+      "foto_url_original": "https://s2-g1.glbimg.com/nA1YpPBpPPfUJn_ajDhhpAK5Kvo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/A/y2MV6HR8OQuqZcJOn8fg/joao-rodrigues.jpeg",
+      "historico": [
+        {
+          "ano": 2018,
+          "cargo": "Deputado federal",
+          "partido": "PSD",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Outros fundos R$ 10.668,63 Fundo de investimento",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 5.547,88 Bb cdb rende facil",
+        "Outras participações societárias R$ 960.030,00 Credito da cessionaria caroline matte rodrigues",
+        "Depósito bancário em conta corrente no país R$ 14.579,38 Caixa econômica federal",
+        "Outras aplicações e investimentos R$ 14.205,35 Banco do brasil sa ourocap",
+        "Outras aplicações e investimentos R$ 1.004,90 Ouro cap",
+        "Consórcio não contemplado R$ 156.157,29 Bb consorcio de automoveis",
+        "Outras participações societárias R$ 960.030,00 Credito da cessionaria maria paula matte"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 5551490,
+      "despesas_total": 3511702.57,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 99.07
+        },
+        {
+          "nome": "Caroline Matte Rodrigues Da Silva",
+          "percentual": 0.28
+        },
+        {
+          "nome": "Carlos Alberto Chiodini",
+          "percentual": 0.28
+        },
+        {
+          "nome": "Jauro Sabino Von Gehlen",
+          "percentual": 0.09
+        },
+        {
+          "nome": "Clovis Ari Leuze",
+          "percentual": 0.09
+        },
+        {
+          "nome": "d santa catarina ltda",
+          "percentual": 44.12
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 5.64
+        },
+        {
+          "nome": "serpa advogados associados",
+          "percentual": 5.64
+        },
+        {
+          "nome": "marcelo peregrino ferreira advogados associados",
+          "percentual": 4.27
+        },
+        {
+          "nome": "claudia bressan sociedade individual de advocacia",
+          "percentual": 4.27
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "d santa catarina ltda",
+          "percentual": 44.12
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 5.64
+        },
+        {
+          "nome": "serpa advogados associados",
+          "percentual": 5.64
+        },
+        {
+          "nome": "marcelo peregrino ferreira advogados associados",
+          "percentual": 4.27
+        },
+        {
+          "nome": "claudia bressan sociedade individual de advocacia",
+          "percentual": 4.27
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sc-240002551001.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:09:24.765Z"
+  },
+  {
+    "slug": "240002537073",
+    "nome": "Jorginho Mello",
+    "partido": "PL",
+    "numero": 22,
+    "cargo": "governador",
+    "uf": "SC",
+    "foto_arquivo": "governador-sc-240002537073",
+    "foto_url_original": "https://s2-g1.glbimg.com/qI1oVfLJz_0jq5Q-gDuCyQlYYdI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/f/819SBBTHSMLSEUbIFlmw/jorginho-mello.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sc/240002537073.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017141286",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 2818036.89,
+    "receitas_total": 6124370.21,
+    "despesas_total": 5855073.64,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno em ararangua, adquirido no ano de 1986.",
+        "valor": 828.68
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Bb cdb rende fácil",
+        "valor": 43607.95
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bb cdb",
+        "valor": 329500
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Conta registro de fluxo pag bb",
+        "valor": 42019.49
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Adiantamento para futuro aumento de capital social da jsm participações societárias ltda.",
+        "valor": 164925.08
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro marca vw, modelo karmann ghia, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro marca vw, modelo karmann ghia, ano 1988.",
+        "valor": 145000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro marca dodge, modelo polara, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro marca dodge, modelo polara, ano 1980.",
+        "valor": 20000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Aquisição de 02 apartamentos, situados em itapema/sc.",
+        "valor": 380000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quota parte no capital social da firma jsm.",
+        "valor": 1688000
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Brasilprev vgbl",
+        "valor": 4055.28
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Bb ref di plus ágil",
+        "valor": 100.41
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 93.07
+      },
+      {
+        "nome": "Fabio Perini",
+        "percentual": 1.63
+      },
+      {
+        "nome": "Gil Prayon",
+        "percentual": 0.82
+      },
+      {
+        "nome": "Volnei Eyng",
+        "percentual": 0.82
+      },
+      {
+        "nome": "Vilson Perin",
+        "percentual": 0.52
+      },
+      {
+        "nome": "ventura estudio ltda",
+        "percentual": 16.82
+      },
+      {
+        "nome": "rdo comunicacao visual ltda",
+        "percentual": 14.42
+      },
+      {
+        "nome": "tipotil - industria grafica ltda",
+        "percentual": 10.69
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 6.58
+      },
+      {
+        "nome": "mw marketing & images ltda me",
+        "percentual": 6.41
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "ventura estudio ltda",
+        "percentual": 16.82
+      },
+      {
+        "nome": "rdo comunicacao visual ltda",
+        "percentual": 14.42
+      },
+      {
+        "nome": "tipotil - industria grafica ltda",
+        "percentual": 10.69
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 6.58
+      },
+      {
+        "nome": "mw marketing & images ltda me",
+        "percentual": 6.41
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Jorginho Mello",
+      "partido_pagina": "PL",
+      "numero_pagina": 22,
+      "profissao": "Governador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017141286",
+      "foto_url_original": "https://s2-g1.glbimg.com/qI1oVfLJz_0jq5Q-gDuCyQlYYdI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/f/819SBBTHSMLSEUbIFlmw/jorginho-mello.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 828,68 Terreno em ararangua, adquirido no ano de 1986.",
+        "Outras aplicações e investimentos R$ 43.607,95 Bb cdb rende fácil",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 329.500,00 Bb cdb",
+        "Outras aplicações e investimentos R$ 42.019,49 Conta registro de fluxo pag bb",
+        "Outros bens e direitos R$ 164.925,08 Adiantamento para futuro aumento de capital social da jsm participações societárias ltda.",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 145.000,00 Carro marca vw, modelo karmann ghia, ano 1988.",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 20.000,00 Carro marca dodge, modelo polara, ano 1980.",
+        "Apartamento R$ 380.000,00 Aquisição de 02 apartamentos, situados em itapema/sc.",
+        "Quotas ou quinhões de capital R$ 1.688.000,00 Quota parte no capital social da firma jsm.",
+        "Vgbl - vida gerador de benefício livre R$ 4.055,28 Brasilprev vgbl",
+        "Outras aplicações e investimentos R$ 100,41 Bb ref di plus ágil"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 6124370.21,
+      "despesas_total": 5855073.64,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 93.07
+        },
+        {
+          "nome": "Fabio Perini",
+          "percentual": 1.63
+        },
+        {
+          "nome": "Gil Prayon",
+          "percentual": 0.82
+        },
+        {
+          "nome": "Volnei Eyng",
+          "percentual": 0.82
+        },
+        {
+          "nome": "Vilson Perin",
+          "percentual": 0.52
+        },
+        {
+          "nome": "ventura estudio ltda",
+          "percentual": 16.82
+        },
+        {
+          "nome": "rdo comunicacao visual ltda",
+          "percentual": 14.42
+        },
+        {
+          "nome": "tipotil - industria grafica ltda",
+          "percentual": 10.69
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 6.58
+        },
+        {
+          "nome": "mw marketing & images ltda me",
+          "percentual": 6.41
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "ventura estudio ltda",
+          "percentual": 16.82
+        },
+        {
+          "nome": "rdo comunicacao visual ltda",
+          "percentual": 14.42
+        },
+        {
+          "nome": "tipotil - industria grafica ltda",
+          "percentual": 10.69
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 6.58
+        },
+        {
+          "nome": "mw marketing & images ltda me",
+          "percentual": 6.41
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sc-240002537073.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:09:28.866Z"
+  },
+  {
+    "slug": "240002550544",
+    "nome": "Laís Chaud",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "SC",
+    "foto_arquivo": "governador-sc-240002550544",
+    "foto_url_original": "https://s2-g1.glbimg.com/VfWJnQSi3_vWN0siDO_eHU9oDAM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/L/JvHdfrQbyKjKnlYhRhJg/lais-chaud.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sc/240002550544.ghtml",
+    "profissao": "Psicólogo",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017093741",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 518.45,
+    "receitas_total": 3200,
+    "despesas_total": 3200,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Valor refente a conta poupança",
+        "valor": 518.45
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Up - Santa Catarina",
+        "percentual": 100
+      },
+      {
+        "nome": "igc - industria grafica catarinense ltda",
+        "percentual": 68.75
+      },
+      {
+        "nome": "monguilhott sociedade individual de advocacia",
+        "percentual": 15.63
+      },
+      {
+        "nome": "demokratia contabilidade partidaria e eleitoral ltda",
+        "percentual": 15.63
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "igc - industria grafica catarinense ltda",
+        "percentual": 68.75
+      },
+      {
+        "nome": "monguilhott sociedade individual de advocacia",
+        "percentual": 15.63
+      },
+      {
+        "nome": "demokratia contabilidade partidaria e eleitoral ltda",
+        "percentual": 15.63
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Laís Chaud",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Psicólogo",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017093741",
+      "foto_url_original": "https://s2-g1.glbimg.com/VfWJnQSi3_vWN0siDO_eHU9oDAM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/L/JvHdfrQbyKjKnlYhRhJg/lais-chaud.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 518,45 Valor refente a conta poupança"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 3200,
+      "despesas_total": 3200,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Up - Santa Catarina",
+          "percentual": 100
+        },
+        {
+          "nome": "igc - industria grafica catarinense ltda",
+          "percentual": 68.75
+        },
+        {
+          "nome": "monguilhott sociedade individual de advocacia",
+          "percentual": 15.63
+        },
+        {
+          "nome": "demokratia contabilidade partidaria e eleitoral ltda",
+          "percentual": 15.63
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "igc - industria grafica catarinense ltda",
+          "percentual": 68.75
+        },
+        {
+          "nome": "monguilhott sociedade individual de advocacia",
+          "percentual": 15.63
+        },
+        {
+          "nome": "demokratia contabilidade partidaria e eleitoral ltda",
+          "percentual": 15.63
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sc-240002550544.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:09:33.620Z"
+  },
+  {
+    "slug": "240002544118",
+    "nome": "Marcelo Brigadeiro",
+    "partido": "MISSÃO",
+    "numero": 14,
+    "cargo": "governador",
+    "uf": "SC",
+    "foto_arquivo": "governador-sc-240002544118",
+    "foto_url_original": "https://s2-g1.glbimg.com/6K4Pw55nfTZ9i43srbsy6vvMOOs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/p/nmJVJKSXAdumZm1GyNbg/marcelo-brigadeiro.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sc/240002544118.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017031822",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1831261.1099999999,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor byd/dolphin mini gs5ev, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor byd/dolphin mini gs5ev, ano 2026/modelo 2027, placa sxy3f22, cor preta (renavam 01476385936)",
+        "valor": 119000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação societária ¿ mb management assessoria eireli (cnpj 34.321.140/0001-83)",
+        "valor": 110000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação no capital social ¿ mvp1 serviços adm ltda (cnpj 34.155.807/0001-15)",
+        "valor": 841500
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicações e investimentos em fundos como xp, bradesco, western asset fia, trend inb e saldo em conta corrente.",
+        "valor": 566761.11
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor toyota/corolla cross xrx",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor toyota/corolla cross xrx 20, ano 2025/modelo 2026, placa sxr2i92, cor preta (renavam 01428740179)",
+        "valor": 194000
+      }
+    ],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Marcelo Brigadeiro",
+      "partido_pagina": "MISSÃO",
+      "numero_pagina": 14,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017031822",
+      "foto_url_original": "https://s2-g1.glbimg.com/6K4Pw55nfTZ9i43srbsy6vvMOOs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/p/nmJVJKSXAdumZm1GyNbg/marcelo-brigadeiro.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 119.000,00 Veículo automotor byd/dolphin mini gs5ev, ano 2026/modelo 2027, placa sxy3f22, cor preta (renavam 01476385936)",
+        "Quotas ou quinhões de capital R$ 110.000,00 Participação societária ¿ mb management assessoria eireli (cnpj 34.321.140/0001-83)",
+        "Quotas ou quinhões de capital R$ 841.500,00 Participação no capital social ¿ mvp1 serviços adm ltda (cnpj 34.155.807/0001-15)",
+        "Outras aplicações e investimentos R$ 566.761,11 Aplicações e investimentos em fundos como xp, bradesco, western asset fia, trend inb e saldo em conta corrente.",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 194.000,00 Veículo automotor toyota/corolla cross xrx 20, ano 2025/modelo 2026, placa sxr2i92, cor preta (renavam 01428740179)"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 11562724,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sc-240002544118.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:09:37.652Z"
+  },
+  {
+    "slug": "240002541913",
+    "nome": "Professor Marcus Sodré",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "governador",
+    "uf": "SC",
+    "foto_arquivo": "governador-sc-240002541913",
+    "foto_url_original": "https://s2-g1.glbimg.com/IG5A1nQ654IJTVyYRUyCjTFw8us=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/8/T3aju1RuAA6kJ13IoWmQ/professor-marcus-sodre.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sc/240002541913.ghtml",
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017140305",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 117000,
+    "receitas_total": 30002,
+    "despesas_total": 16545,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Imóvel financiado pela caixa situado no bairro são judas em balneário camboriú/sc",
+        "valor": 117000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 100
+      },
+      {
+        "nome": "caio augusto tadeu carvalho de almeida",
+        "percentual": 48.35
+      },
+      {
+        "nome": "tele artes grafica maravilha ltda",
+        "percentual": 30.07
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 18.13
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 3.45
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "caio augusto tadeu carvalho de almeida",
+        "percentual": 48.35
+      },
+      {
+        "nome": "tele artes grafica maravilha ltda",
+        "percentual": 30.07
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 18.13
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 3.45
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Professor Marcus Sodré",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Professor de ensino médio",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017140305",
+      "foto_url_original": "https://s2-g1.glbimg.com/IG5A1nQ654IJTVyYRUyCjTFw8us=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/8/T3aju1RuAA6kJ13IoWmQ/professor-marcus-sodre.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 117.000,00 Imóvel financiado pela caixa situado no bairro são judas em balneário camboriú/sc"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 30002,
+      "despesas_total": 16545,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 100
+        },
+        {
+          "nome": "caio augusto tadeu carvalho de almeida",
+          "percentual": 48.35
+        },
+        {
+          "nome": "tele artes grafica maravilha ltda",
+          "percentual": 30.07
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 18.13
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 3.45
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "caio augusto tadeu carvalho de almeida",
+          "percentual": 48.35
+        },
+        {
+          "nome": "tele artes grafica maravilha ltda",
+          "percentual": 30.07
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 18.13
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 3.45
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sc-240002541913.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:09:43.577Z"
+  },
+  {
+    "slug": "240002552157",
+    "nome": "Ralf Zimmer",
+    "partido": "PRD",
+    "numero": 25,
+    "cargo": "governador",
+    "uf": "SC",
+    "foto_arquivo": "governador-sc-240002552157",
+    "foto_url_original": "https://s2-g1.glbimg.com/fbfChnt2bvGXPpEwoROYfOJd1SU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/w/hsJ6pUS0if2xdnmhBO6Q/ralf-zimmer.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sc/240002552157.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017109691",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1426599.97,
+    "receitas_total": 428.49,
+    "despesas_total": 131940.99,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automovel",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automovel",
+        "valor": 60873.97
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Imóvel",
+        "valor": 1365726
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Ralf Guimaraes Zimmer Junior",
+        "percentual": 100
+      },
+      {
+        "nome": "smart print material publicitario ltda",
+        "percentual": 70.75
+      },
+      {
+        "nome": "elbert editora grafica ltda",
+        "percentual": 28.93
+      },
+      {
+        "nome": "nascidos para empreender editora ltda",
+        "percentual": 0.32
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "smart print material publicitario ltda",
+        "percentual": 70.75
+      },
+      {
+        "nome": "elbert editora grafica ltda",
+        "percentual": 28.93
+      },
+      {
+        "nome": "nascidos para empreender editora ltda",
+        "percentual": 0.32
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Ralf Zimmer",
+      "partido_pagina": "PRD",
+      "numero_pagina": 25,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/240017109691",
+      "foto_url_original": "https://s2-g1.glbimg.com/fbfChnt2bvGXPpEwoROYfOJd1SU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/w/hsJ6pUS0if2xdnmhBO6Q/ralf-zimmer.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 60.873,97 Automovel",
+        "Outros bens e direitos R$ 1.365.726,00 Imóvel"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 428.49,
+      "despesas_total": 131940.99,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Ralf Guimaraes Zimmer Junior",
+          "percentual": 100
+        },
+        {
+          "nome": "smart print material publicitario ltda",
+          "percentual": 70.75
+        },
+        {
+          "nome": "elbert editora grafica ltda",
+          "percentual": 28.93
+        },
+        {
+          "nome": "nascidos para empreender editora ltda",
+          "percentual": 0.32
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "smart print material publicitario ltda",
+          "percentual": 70.75
+        },
+        {
+          "nome": "elbert editora grafica ltda",
+          "percentual": 28.93
+        },
+        {
+          "nome": "nascidos para empreender editora ltda",
+          "percentual": 0.32
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sc-240002552157.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:09:50.636Z"
+  }
+]

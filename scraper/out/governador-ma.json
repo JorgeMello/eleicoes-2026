@@ -1,0 +1,1490 @@
+[
+  {
+    "slug": "100002544076",
+    "nome": "André Luis",
+    "partido": "MISSÃO",
+    "numero": 14,
+    "cargo": "governador",
+    "uf": "MA",
+    "foto_arquivo": "governador-ma-100002544076",
+    "foto_url_original": "https://s2-g1.glbimg.com/Pcdl2PZAvTxluTHes2RgTd3HgCk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/p/g2Me4cT6KWRL9czOC4hA/andre-luis.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ma/100002544076.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100017027319",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 103820,
+    "despesas_total": 70601.1,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Missão",
+        "percentual": 96.32
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 3.68
+      },
+      {
+        "nome": "toldo forte ltda",
+        "percentual": 20.05
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 18.41
+      },
+      {
+        "nome": "44.595.489 caio ryan beckman martins",
+        "percentual": 11.19
+      },
+      {
+        "nome": "68.574.377 abimael silva da costa",
+        "percentual": 9.91
+      },
+      {
+        "nome": "patricia de souza duarte lima servicos ltda",
+        "percentual": 7.08
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "toldo forte ltda",
+        "percentual": 20.05
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 18.41
+      },
+      {
+        "nome": "44.595.489 caio ryan beckman martins",
+        "percentual": 11.19
+      },
+      {
+        "nome": "68.574.377 abimael silva da costa",
+        "percentual": 9.91
+      },
+      {
+        "nome": "patricia de souza duarte lima servicos ltda",
+        "percentual": 7.08
+      }
+    ],
+    "raw": {
+      "nome_pagina": "André Luis",
+      "partido_pagina": "MISSÃO",
+      "numero_pagina": 14,
+      "profissao": "Empresário",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100017027319",
+      "foto_url_original": "https://s2-g1.glbimg.com/Pcdl2PZAvTxluTHes2RgTd3HgCk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/p/g2Me4cT6KWRL9czOC4hA/andre-luis.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 103820,
+      "despesas_total": 70601.1,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Missão",
+          "percentual": 96.32
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 3.68
+        },
+        {
+          "nome": "toldo forte ltda",
+          "percentual": 20.05
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 18.41
+        },
+        {
+          "nome": "44.595.489 caio ryan beckman martins",
+          "percentual": 11.19
+        },
+        {
+          "nome": "68.574.377 abimael silva da costa",
+          "percentual": 9.91
+        },
+        {
+          "nome": "patricia de souza duarte lima servicos ltda",
+          "percentual": 7.08
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "toldo forte ltda",
+          "percentual": 20.05
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 18.41
+        },
+        {
+          "nome": "44.595.489 caio ryan beckman martins",
+          "percentual": 11.19
+        },
+        {
+          "nome": "68.574.377 abimael silva da costa",
+          "percentual": 9.91
+        },
+        {
+          "nome": "patricia de souza duarte lima servicos ltda",
+          "percentual": 7.08
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ma-100002544076.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:59:08.186Z"
+  },
+  {
+    "slug": "100002552700",
+    "nome": "Dimas Cassimiro",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "MA",
+    "foto_arquivo": "governador-ma-100002552700",
+    "foto_url_original": "https://s2-g1.glbimg.com/YI3RW_Q3HHVdPJLLIc_r3I4o6QA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/B/ddRNRCSb6z7BE6mGO75w/dimas-cassimiro.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ma/100002552700.ghtml",
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100017115622",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Dimas Cassimiro",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Professor de ensino superior",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100017115622",
+      "foto_url_original": "https://s2-g1.glbimg.com/YI3RW_Q3HHVdPJLLIc_r3I4o6QA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/B/ddRNRCSb6z7BE6mGO75w/dimas-cassimiro.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 11562724,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ma-100002552700.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:59:19.711Z"
+  },
+  {
+    "slug": "100002545679",
+    "nome": "Eduardo Braide",
+    "partido": "PSD",
+    "numero": 55,
+    "cargo": "governador",
+    "uf": "MA",
+    "foto_arquivo": "governador-ma-100002545679",
+    "foto_url_original": "https://s2-g1.glbimg.com/jmYcb92HehO5oEVIOHAJLhdyF1E=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/N/FRczBBSYa4jPVZUYn7Zw/eduardo-braide.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ma/100002545679.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100017102842",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1048910.76,
+    "receitas_total": 7739846.98,
+    "despesas_total": 4146826,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente banco do brasil",
+        "valor": 40575.3
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento no ed jose gonglaves dos santos filho",
+        "valor": 628206.73
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Marca general motors modelo s10",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Marca general motors modelo s10",
+        "valor": 160000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupanca cef",
+        "valor": 1168.48
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro em especie",
+        "valor": 50000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Quota de participação ideal de 33,33% em terreno conforme escritura publica de compa e venda de compra e venda registrada no livro n11 fls 07/08 da serventia da comarca de santa rita, estado do ma",
+        "valor": 73333.33
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento ed saquarema",
+        "valor": 95000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança banco do brasil",
+        "valor": 626.92
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 96.9
+      },
+      {
+        "nome": "Fernando Salim Braide",
+        "percentual": 1.2
+      },
+      {
+        "nome": "Andre Luiz Carvalho Ribeiro",
+        "percentual": 0.83
+      },
+      {
+        "nome": "Fernando Salim Braide",
+        "percentual": 0.23
+      },
+      {
+        "nome": "Carlos Wellington De Castro Bezerra",
+        "percentual": 0.17
+      },
+      {
+        "nome": "d s zago servicos de audio visual ltda",
+        "percentual": 43.41
+      },
+      {
+        "nome": "lettera producoes ltda",
+        "percentual": 12.06
+      },
+      {
+        "nome": "instituto razao",
+        "percentual": 9.53
+      },
+      {
+        "nome": "g carlos nunes",
+        "percentual": 8.51
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 5.67
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "d s zago servicos de audio visual ltda",
+        "percentual": 43.41
+      },
+      {
+        "nome": "lettera producoes ltda",
+        "percentual": 12.06
+      },
+      {
+        "nome": "instituto razao",
+        "percentual": 9.53
+      },
+      {
+        "nome": "g carlos nunes",
+        "percentual": 8.51
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 5.67
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Eduardo Braide",
+      "partido_pagina": "PSD",
+      "numero_pagina": 55,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100017102842",
+      "foto_url_original": "https://s2-g1.glbimg.com/jmYcb92HehO5oEVIOHAJLhdyF1E=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/N/FRczBBSYa4jPVZUYn7Zw/eduardo-braide.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Depósito bancário em conta corrente no país R$ 40.575,30 Conta corrente banco do brasil",
+        "Apartamento R$ 628.206,73 Apartamento no ed jose gonglaves dos santos filho",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 160.000,00 Marca general motors modelo s10",
+        "Caderneta de poupança R$ 1.168,48 Poupanca cef",
+        "Dinheiro em espécie - moeda nacional R$ 50.000,00 Dinheiro em especie",
+        "Terreno R$ 73.333,33 Quota de participação ideal de 33,33% em terreno conforme escritura publica de compa e venda de compra e venda registrada no livro n11 fls 07/08 da serventia da comarca de santa rita, estado do ma",
+        "Apartamento R$ 95.000,00 Apartamento ed saquarema",
+        "Caderneta de poupança R$ 626,92 Poupança banco do brasil"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 7739846.98,
+      "despesas_total": 4146826,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 96.9
+        },
+        {
+          "nome": "Fernando Salim Braide",
+          "percentual": 1.2
+        },
+        {
+          "nome": "Andre Luiz Carvalho Ribeiro",
+          "percentual": 0.83
+        },
+        {
+          "nome": "Fernando Salim Braide",
+          "percentual": 0.23
+        },
+        {
+          "nome": "Carlos Wellington De Castro Bezerra",
+          "percentual": 0.17
+        },
+        {
+          "nome": "d s zago servicos de audio visual ltda",
+          "percentual": 43.41
+        },
+        {
+          "nome": "lettera producoes ltda",
+          "percentual": 12.06
+        },
+        {
+          "nome": "instituto razao",
+          "percentual": 9.53
+        },
+        {
+          "nome": "g carlos nunes",
+          "percentual": 8.51
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 5.67
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "d s zago servicos de audio visual ltda",
+          "percentual": 43.41
+        },
+        {
+          "nome": "lettera producoes ltda",
+          "percentual": 12.06
+        },
+        {
+          "nome": "instituto razao",
+          "percentual": 9.53
+        },
+        {
+          "nome": "g carlos nunes",
+          "percentual": 8.51
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 5.67
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ma-100002545679.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:59:23.650Z"
+  },
+  {
+    "slug": "100002542556",
+    "nome": "Felipe Camarão",
+    "partido": "PT",
+    "numero": 13,
+    "cargo": "governador",
+    "uf": "MA",
+    "foto_arquivo": "governador-ma-100002542556",
+    "foto_url_original": "https://s2-g1.glbimg.com/swFp41uVjPd8tl_8GMmBUgYO79s=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/b/5vHRQTQh6KdfqOAhEFxw/felipe-camarao.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ma/100002542556.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100017016099",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 5208193.720000001,
+    "receitas_total": 3523817.2,
+    "despesas_total": 2699375.85,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento residencial adquirido por meio de contrato de compra e venda",
+        "valor": 380000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento adquirido na planta em 2023 junto à spe dom ricardo empreendimentos imobiliários ltda. valor total do imovel e de: 831.282,56.valor pago ate o presente momento foi 220.103,90-",
+        "valor": 831282.56
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento adquirido na planta em 2023 junto à spe dom ricardo empreendimentos imobiliários ltda. valor total do imovel e de: 831.282,56.valor pago ate o presente momento foi 220.103,90-",
+        "valor": 831282.56
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Participação correspondente a 50% (cinquenta por cento) de ponto comercial composto por 06 (seis) salas, localizado na avenida avicênia,",
+        "valor": 300000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento adquirido na planta em 2022 junto à spe condomínio península ii ltda,ponta d'areia, são luís/ma. valor de aquisição: r$ 2.865.628,60. valor pago até a presente data: r$ 822.003,91.",
+        "valor": 2865628.6
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 98.44
+      },
+      {
+        "nome": "Felipe Costa Camarao",
+        "percentual": 0.57
+      },
+      {
+        "nome": "Rafaela Everton Costa",
+        "percentual": 0.57
+      },
+      {
+        "nome": "Rita De Cassia Costa Camarao",
+        "percentual": 0.14
+      },
+      {
+        "nome": "Louis Philip Moses Camarao",
+        "percentual": 0.14
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 10.37
+      },
+      {
+        "nome": "j m engenharia e servicos graficos ltda",
+        "percentual": 7.39
+      },
+      {
+        "nome": "j m s fonseca",
+        "percentual": 6.77
+      },
+      {
+        "nome": "macband representacoes e comercio ltda",
+        "percentual": 6.67
+      },
+      {
+        "nome": "new tech comercio e servico ltda",
+        "percentual": 6.1
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 10.37
+      },
+      {
+        "nome": "j m engenharia e servicos graficos ltda",
+        "percentual": 7.39
+      },
+      {
+        "nome": "j m s fonseca",
+        "percentual": 6.77
+      },
+      {
+        "nome": "macband representacoes e comercio ltda",
+        "percentual": 6.67
+      },
+      {
+        "nome": "new tech comercio e servico ltda",
+        "percentual": 6.1
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Felipe Camarão",
+      "partido_pagina": "PT",
+      "numero_pagina": 13,
+      "profissao": "Advogado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100017016099",
+      "foto_url_original": "https://s2-g1.glbimg.com/swFp41uVjPd8tl_8GMmBUgYO79s=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/b/5vHRQTQh6KdfqOAhEFxw/felipe-camarao.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 380.000,00 Apartamento residencial adquirido por meio de contrato de compra e venda",
+        "Apartamento R$ 831.282,56 Apartamento adquirido na planta em 2023 junto à spe dom ricardo empreendimentos imobiliários ltda. valor total do imovel e de: 831.282,56.valor pago ate o presente momento foi 220.103,90-",
+        "Apartamento R$ 831.282,56 Apartamento adquirido na planta em 2023 junto à spe dom ricardo empreendimentos imobiliários ltda. valor total do imovel e de: 831.282,56.valor pago ate o presente momento foi 220.103,90-",
+        "Sala ou conjunto R$ 300.000,00 Participação correspondente a 50% (cinquenta por cento) de ponto comercial composto por 06 (seis) salas, localizado na avenida avicênia,",
+        "Apartamento R$ 2.865.628,60 Apartamento adquirido na planta em 2022 junto à spe condomínio península ii ltda,ponta d'areia, são luís/ma. valor de aquisição: r$ 2.865.628,60. valor pago até a presente data: r$ 822.003,91."
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 3523817.2,
+      "despesas_total": 2699375.85,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 98.44
+        },
+        {
+          "nome": "Felipe Costa Camarao",
+          "percentual": 0.57
+        },
+        {
+          "nome": "Rafaela Everton Costa",
+          "percentual": 0.57
+        },
+        {
+          "nome": "Rita De Cassia Costa Camarao",
+          "percentual": 0.14
+        },
+        {
+          "nome": "Louis Philip Moses Camarao",
+          "percentual": 0.14
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 10.37
+        },
+        {
+          "nome": "j m engenharia e servicos graficos ltda",
+          "percentual": 7.39
+        },
+        {
+          "nome": "j m s fonseca",
+          "percentual": 6.77
+        },
+        {
+          "nome": "macband representacoes e comercio ltda",
+          "percentual": 6.67
+        },
+        {
+          "nome": "new tech comercio e servico ltda",
+          "percentual": 6.1
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 10.37
+        },
+        {
+          "nome": "j m engenharia e servicos graficos ltda",
+          "percentual": 7.39
+        },
+        {
+          "nome": "j m s fonseca",
+          "percentual": 6.77
+        },
+        {
+          "nome": "macband representacoes e comercio ltda",
+          "percentual": 6.67
+        },
+        {
+          "nome": "new tech comercio e servico ltda",
+          "percentual": 6.1
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ma-100002542556.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:59:30.606Z"
+  },
+  {
+    "slug": "100002543869",
+    "nome": "Orleans Brandão",
+    "partido": "MDB",
+    "numero": 15,
+    "cargo": "governador",
+    "uf": "MA",
+    "foto_arquivo": "governador-ma-100002543869",
+    "foto_url_original": "https://s2-g1.glbimg.com/6G_QMK5gNdlzSvylA_0byRhbjA8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/I/sCdmc6Q0aSq8jG4tfNFw/orleans-brandao.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ma/100002543869.ghtml",
+    "profissao": "Administrador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100017028852",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 2515192.39,
+    "receitas_total": 3430100,
+    "despesas_total": 4677497.79,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux",
+        "valor": 230000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Holding participação",
+        "valor": 381071.75
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Sala comercial em são luís",
+        "valor": 255000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação financeira",
+        "valor": 2757.36
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Outras aplicações e investimentos",
+        "valor": 204600.73
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo",
+        "valor": 1923.02
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação cdb",
+        "valor": 596883.12
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Em são jose de ribamar 50%",
+        "valor": 335000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicações e investimentos",
+        "valor": 507956.41
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 87.46
+      },
+      {
+        "nome": "Jose Rodrigues Dos Santos",
+        "percentual": 2.92
+      },
+      {
+        "nome": "Lara Chaib Rodrigues De Souza",
+        "percentual": 2.92
+      },
+      {
+        "nome": "Lorena Chaib Rodrigues Gomes",
+        "percentual": 1.46
+      },
+      {
+        "nome": "Luana Chaib Rodrigues Napoli",
+        "percentual": 1.46
+      },
+      {
+        "nome": "k. f. n. guimaraes servicos",
+        "percentual": 33.82
+      },
+      {
+        "nome": "canal service ltda",
+        "percentual": 19.24
+      },
+      {
+        "nome": "caisnovo comunicacao estrategia e conteudo ltda",
+        "percentual": 17.1
+      },
+      {
+        "nome": "sakada industria comunicacao e eventos ltda",
+        "percentual": 8.58
+      },
+      {
+        "nome": "globo empreendimentos ltda",
+        "percentual": 8.55
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "k. f. n. guimaraes servicos",
+        "percentual": 33.82
+      },
+      {
+        "nome": "canal service ltda",
+        "percentual": 19.24
+      },
+      {
+        "nome": "caisnovo comunicacao estrategia e conteudo ltda",
+        "percentual": 17.1
+      },
+      {
+        "nome": "sakada industria comunicacao e eventos ltda",
+        "percentual": 8.58
+      },
+      {
+        "nome": "globo empreendimentos ltda",
+        "percentual": 8.55
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Orleans Brandão",
+      "partido_pagina": "MDB",
+      "numero_pagina": 15,
+      "profissao": "Administrador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100017028852",
+      "foto_url_original": "https://s2-g1.glbimg.com/6G_QMK5gNdlzSvylA_0byRhbjA8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/I/sCdmc6Q0aSq8jG4tfNFw/orleans-brandao.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 230.000,00 Hilux",
+        "Outras participações societárias R$ 381.071,75 Holding participação",
+        "Sala ou conjunto R$ 255.000,00 Sala comercial em são luís",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 2.757,36 Aplicação financeira",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 204.600,73 Outras aplicações e investimentos",
+        "Depósito bancário em conta corrente no país R$ 1.923,02 Saldo",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 596.883,12 Aplicação cdb",
+        "Casa R$ 335.000,00 Em são jose de ribamar 50%",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 507.956,41 Aplicações e investimentos"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 3430100,
+      "despesas_total": 4677497.79,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 87.46
+        },
+        {
+          "nome": "Jose Rodrigues Dos Santos",
+          "percentual": 2.92
+        },
+        {
+          "nome": "Lara Chaib Rodrigues De Souza",
+          "percentual": 2.92
+        },
+        {
+          "nome": "Lorena Chaib Rodrigues Gomes",
+          "percentual": 1.46
+        },
+        {
+          "nome": "Luana Chaib Rodrigues Napoli",
+          "percentual": 1.46
+        },
+        {
+          "nome": "k. f. n. guimaraes servicos",
+          "percentual": 33.82
+        },
+        {
+          "nome": "canal service ltda",
+          "percentual": 19.24
+        },
+        {
+          "nome": "caisnovo comunicacao estrategia e conteudo ltda",
+          "percentual": 17.1
+        },
+        {
+          "nome": "sakada industria comunicacao e eventos ltda",
+          "percentual": 8.58
+        },
+        {
+          "nome": "globo empreendimentos ltda",
+          "percentual": 8.55
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "k. f. n. guimaraes servicos",
+          "percentual": 33.82
+        },
+        {
+          "nome": "canal service ltda",
+          "percentual": 19.24
+        },
+        {
+          "nome": "caisnovo comunicacao estrategia e conteudo ltda",
+          "percentual": 17.1
+        },
+        {
+          "nome": "sakada industria comunicacao e eventos ltda",
+          "percentual": 8.58
+        },
+        {
+          "nome": "globo empreendimentos ltda",
+          "percentual": 8.55
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ma-100002543869.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:59:35.578Z"
+  },
+  {
+    "slug": "100002544073",
+    "nome": "Reginaldo Lima",
+    "partido": "PCB",
+    "numero": 21,
+    "cargo": "governador",
+    "uf": "MA",
+    "foto_arquivo": "governador-ma-100002544073",
+    "foto_url_original": "https://s2-g1.glbimg.com/c7_XCFS2iTlYvBEHtIsElAm23ek=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/w/7OgF7dTcmBVG7MRGSFOg/reginaldo-lima.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ma/100002544073.ghtml",
+    "profissao": "Locutor e comentarista de rádio e televisão e radialista",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100017027284",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 5500,
+    "despesas_total": 5754.83,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Matheus De Sousa Costa",
+        "percentual": 90.91
+      },
+      {
+        "nome": "Divaldo Pereira Da Silva",
+        "percentual": 9.09
+      },
+      {
+        "nome": "s l pereira multiplos servicos e comercio ltda",
+        "percentual": 38.05
+      },
+      {
+        "nome": "aldenice rodrigues chaves",
+        "percentual": 32.4
+      },
+      {
+        "nome": "anacely de jesus rodrigues",
+        "percentual": 17.38
+      },
+      {
+        "nome": "daylane bezerra dos santos",
+        "percentual": 12.16
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "s l pereira multiplos servicos e comercio ltda",
+        "percentual": 38.05
+      },
+      {
+        "nome": "aldenice rodrigues chaves",
+        "percentual": 32.4
+      },
+      {
+        "nome": "anacely de jesus rodrigues",
+        "percentual": 17.38
+      },
+      {
+        "nome": "daylane bezerra dos santos",
+        "percentual": 12.16
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Reginaldo Lima",
+      "partido_pagina": "PCB",
+      "numero_pagina": 21,
+      "profissao": "Locutor e comentarista de rádio e televisão e radialista",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100017027284",
+      "foto_url_original": "https://s2-g1.glbimg.com/c7_XCFS2iTlYvBEHtIsElAm23ek=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/w/7OgF7dTcmBVG7MRGSFOg/reginaldo-lima.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 5500,
+      "despesas_total": 5754.83,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Matheus De Sousa Costa",
+          "percentual": 90.91
+        },
+        {
+          "nome": "Divaldo Pereira Da Silva",
+          "percentual": 9.09
+        },
+        {
+          "nome": "s l pereira multiplos servicos e comercio ltda",
+          "percentual": 38.05
+        },
+        {
+          "nome": "aldenice rodrigues chaves",
+          "percentual": 32.4
+        },
+        {
+          "nome": "anacely de jesus rodrigues",
+          "percentual": 17.38
+        },
+        {
+          "nome": "daylane bezerra dos santos",
+          "percentual": 12.16
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "s l pereira multiplos servicos e comercio ltda",
+          "percentual": 38.05
+        },
+        {
+          "nome": "aldenice rodrigues chaves",
+          "percentual": 32.4
+        },
+        {
+          "nome": "anacely de jesus rodrigues",
+          "percentual": 17.38
+        },
+        {
+          "nome": "daylane bezerra dos santos",
+          "percentual": 12.16
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ma-100002544073.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:59:42.330Z"
+  },
+  {
+    "slug": "100002551399",
+    "nome": "Roberto Rocha",
+    "partido": "PRTB",
+    "numero": 28,
+    "cargo": "governador",
+    "uf": "MA",
+    "foto_arquivo": "governador-ma-100002551399",
+    "foto_url_original": "https://s2-g1.glbimg.com/l84AidCo6AV-KiWXMmBJ3D0dbR4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/p/j5b8VCRCqrcwxGuO9I6Q/roberto-rocha.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ma/100002551399.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100017104045",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 3557270.3900000006,
+    "receitas_total": 878523.98,
+    "despesas_total": 592493,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Onibus",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Onibus - mercedes benz",
+        "valor": 158000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Moto",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Moto - harley davidson - fatboy anniversary",
+        "valor": 134300
+      },
+      {
+        "tipo": "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc)",
+        "descricao": "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc) Consorcio de automovel ainda não contemplado",
+        "valor": 6855.56
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Reserva financeira - rebanho",
+        "valor": 1975000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação financeira em cdb",
+        "valor": 1888.24
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas em empresa de dependente",
+        "valor": 10000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de empresa de dependente",
+        "valor": 10000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno - santo amaro do maranhão/ma",
+        "valor": 16000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas em empresa",
+        "valor": 125899.58
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas em empresa",
+        "valor": 23211.72
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Valor em espécie para futura aquisição de imóvel",
+        "valor": 450000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno - porto franco/ma",
+        "valor": 69000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Cartão pré pago",
+        "valor": 383.65
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Onibus",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Onibus - mercedes benz",
+        "valor": 240000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação em capital social de empresa",
+        "valor": 640
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Valores em conta corrente",
+        "valor": 3591.64
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação em capital social de empresa",
+        "valor": 2500
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno - santo amaro do maranhão/ma",
+        "valor": 30000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa - balsas/ma",
+        "valor": 300000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Prtb",
+        "percentual": 59.59
+      },
+      {
+        "nome": "Terezinha De Jesus Coelho Rocha",
+        "percentual": 22.77
+      },
+      {
+        "nome": "Roberto Coelho Rocha",
+        "percentual": 11.38
+      },
+      {
+        "nome": "Antonio Rosendo Neto Junior",
+        "percentual": 3.98
+      },
+      {
+        "nome": "Marco Aurelio Ayres Diniz",
+        "percentual": 2.28
+      },
+      {
+        "nome": "eleja.se marketing, estrategia, qualificacao e inteligencia ltda",
+        "percentual": 42.19
+      },
+      {
+        "nome": "solida grafica e editora ltda",
+        "percentual": 16.73
+      },
+      {
+        "nome": "fara locacoes de equipamentos ltda",
+        "percentual": 8.44
+      },
+      {
+        "nome": "ted anderson sociedade individual de advocacia",
+        "percentual": 7.17
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 6.75
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "eleja.se marketing, estrategia, qualificacao e inteligencia ltda",
+        "percentual": 42.19
+      },
+      {
+        "nome": "solida grafica e editora ltda",
+        "percentual": 16.73
+      },
+      {
+        "nome": "fara locacoes de equipamentos ltda",
+        "percentual": 8.44
+      },
+      {
+        "nome": "ted anderson sociedade individual de advocacia",
+        "percentual": 7.17
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 6.75
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Roberto Rocha",
+      "partido_pagina": "PRTB",
+      "numero_pagina": 28,
+      "profissao": "Empresário",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100017104045",
+      "foto_url_original": "https://s2-g1.glbimg.com/l84AidCo6AV-KiWXMmBJ3D0dbR4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/p/j5b8VCRCqrcwxGuO9I6Q/roberto-rocha.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 158.000,00 Onibus - mercedes benz",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 134.300,00 Moto - harley davidson - fatboy anniversary",
+        "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc) R$ 6.855,56 Consorcio de automovel ainda não contemplado",
+        "Outros bens e direitos R$ 1.975.000,00 Reserva financeira - rebanho",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 1.888,24 Aplicação financeira em cdb",
+        "Quotas ou quinhões de capital R$ 10.000,00 Quotas em empresa de dependente",
+        "Quotas ou quinhões de capital R$ 10.000,00 Quotas de empresa de dependente",
+        "Terreno R$ 16.000,00 Terreno - santo amaro do maranhão/ma",
+        "Quotas ou quinhões de capital R$ 125.899,58 Quotas em empresa",
+        "Quotas ou quinhões de capital R$ 23.211,72 Quotas em empresa",
+        "Dinheiro em espécie - moeda nacional R$ 450.000,00 Valor em espécie para futura aquisição de imóvel",
+        "Terreno R$ 69.000,00 Terreno - porto franco/ma",
+        "Outros bens e direitos R$ 383,65 Cartão pré pago",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 240.000,00 Onibus - mercedes benz",
+        "Quotas ou quinhões de capital R$ 640,00 Participação em capital social de empresa",
+        "Depósito bancário em conta corrente no país R$ 3.591,64 Valores em conta corrente",
+        "Quotas ou quinhões de capital R$ 2.500,00 Participação em capital social de empresa",
+        "Terreno R$ 30.000,00 Terreno - santo amaro do maranhão/ma",
+        "Casa R$ 300.000,00 Casa - balsas/ma"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 878523.98,
+      "despesas_total": 592493,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Prtb",
+          "percentual": 59.59
+        },
+        {
+          "nome": "Terezinha De Jesus Coelho Rocha",
+          "percentual": 22.77
+        },
+        {
+          "nome": "Roberto Coelho Rocha",
+          "percentual": 11.38
+        },
+        {
+          "nome": "Antonio Rosendo Neto Junior",
+          "percentual": 3.98
+        },
+        {
+          "nome": "Marco Aurelio Ayres Diniz",
+          "percentual": 2.28
+        },
+        {
+          "nome": "eleja.se marketing, estrategia, qualificacao e inteligencia ltda",
+          "percentual": 42.19
+        },
+        {
+          "nome": "solida grafica e editora ltda",
+          "percentual": 16.73
+        },
+        {
+          "nome": "fara locacoes de equipamentos ltda",
+          "percentual": 8.44
+        },
+        {
+          "nome": "ted anderson sociedade individual de advocacia",
+          "percentual": 7.17
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 6.75
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "eleja.se marketing, estrategia, qualificacao e inteligencia ltda",
+          "percentual": 42.19
+        },
+        {
+          "nome": "solida grafica e editora ltda",
+          "percentual": 16.73
+        },
+        {
+          "nome": "fara locacoes de equipamentos ltda",
+          "percentual": 8.44
+        },
+        {
+          "nome": "ted anderson sociedade individual de advocacia",
+          "percentual": 7.17
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 6.75
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ma-100002551399.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:59:46.726Z"
+  },
+  {
+    "slug": "100002534190",
+    "nome": "Saulo Arcangeli",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "governador",
+    "uf": "MA",
+    "foto_arquivo": "governador-ma-100002534190",
+    "foto_url_original": "https://s2-g1.glbimg.com/GWIPVs6LNK7jbjj-PdPjBAp7KAo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/d/bHwz7SS4e2xD6PLnKZhQ/saulo-arcangeli.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ma/100002534190.ghtml",
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100016860223",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 656409.64,
+    "receitas_total": 26102,
+    "despesas_total": 25291.5,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Imovel financiado junto a caixa economica federal, contrato 144441648088-0, prazo financiado: 366 meses, prazo remanescente : 359 meses; entrada : r$ 100.175,00; total financiado : r$ 219.825,00",
+        "valor": 320000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Bb multimercado ouro fundo de investimento financeiro responsabilidade limitada - informado",
+        "valor": 9586.44
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo prisma lt",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo prisma lt 1.4 2015/2016",
+        "valor": 37000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Bb multimercado lp juros e moedas fundo de investimento em cotas de fundos de investimento",
+        "valor": 38990.68
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Bb renda fixa longo prazo high fundo de investimento em cotas de fundos de investimento",
+        "valor": 188632.52
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hyunday hb20 1.0 sense",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hyunday hb20 1.0 sense 2023/2024",
+        "valor": 62200
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 96.17
+      },
+      {
+        "nome": "Eloy Natan Silveira Nascimento",
+        "percentual": 3.83
+      },
+      {
+        "nome": "adonyara de jesus teixeira azevedo dias",
+        "percentual": 23.72
+      },
+      {
+        "nome": "maria luiza aguiar camoes",
+        "percentual": 21.79
+      },
+      {
+        "nome": "matheus ribeiro coimbra 05148655399",
+        "percentual": 15.82
+      },
+      {
+        "nome": "k de f c freitas ltda",
+        "percentual": 12.73
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 9.88
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "adonyara de jesus teixeira azevedo dias",
+        "percentual": 23.72
+      },
+      {
+        "nome": "maria luiza aguiar camoes",
+        "percentual": 21.79
+      },
+      {
+        "nome": "matheus ribeiro coimbra 05148655399",
+        "percentual": 15.82
+      },
+      {
+        "nome": "k de f c freitas ltda",
+        "percentual": 12.73
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 9.88
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Saulo Arcangeli",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Professor de ensino superior",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/100016860223",
+      "foto_url_original": "https://s2-g1.glbimg.com/GWIPVs6LNK7jbjj-PdPjBAp7KAo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/d/bHwz7SS4e2xD6PLnKZhQ/saulo-arcangeli.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 320.000,00 Imovel financiado junto a caixa economica federal, contrato 144441648088-0, prazo financiado: 366 meses, prazo remanescente : 359 meses; entrada : r$ 100.175,00; total financiado : r$ 219.825,00",
+        "Outras aplicações e investimentos R$ 9.586,44 Bb multimercado ouro fundo de investimento financeiro responsabilidade limitada - informado",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 37.000,00 Veiculo prisma lt 1.4 2015/2016",
+        "Outras aplicações e investimentos R$ 38.990,68 Bb multimercado lp juros e moedas fundo de investimento em cotas de fundos de investimento",
+        "Outras aplicações e investimentos R$ 188.632,52 Bb renda fixa longo prazo high fundo de investimento em cotas de fundos de investimento",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 62.200,00 Hyunday hb20 1.0 sense 2023/2024"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 26102,
+      "despesas_total": 25291.5,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 96.17
+        },
+        {
+          "nome": "Eloy Natan Silveira Nascimento",
+          "percentual": 3.83
+        },
+        {
+          "nome": "adonyara de jesus teixeira azevedo dias",
+          "percentual": 23.72
+        },
+        {
+          "nome": "maria luiza aguiar camoes",
+          "percentual": 21.79
+        },
+        {
+          "nome": "matheus ribeiro coimbra 05148655399",
+          "percentual": 15.82
+        },
+        {
+          "nome": "k de f c freitas ltda",
+          "percentual": 12.73
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 9.88
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "adonyara de jesus teixeira azevedo dias",
+          "percentual": 23.72
+        },
+        {
+          "nome": "maria luiza aguiar camoes",
+          "percentual": 21.79
+        },
+        {
+          "nome": "matheus ribeiro coimbra 05148655399",
+          "percentual": 15.82
+        },
+        {
+          "nome": "k de f c freitas ltda",
+          "percentual": 12.73
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 9.88
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ma-100002534190.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:59:51.147Z"
+  }
+]

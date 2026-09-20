@@ -1,0 +1,968 @@
+[
+  {
+    "slug": "150002552603",
+    "nome": "Camilo Duarte",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "PB",
+    "foto_arquivo": "governador-pb-150002552603",
+    "foto_url_original": "https://s2-g1.glbimg.com/sS9kiJIuKfF0_GAfNd2OBBiFHYY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/x/taGQHkQeuUR8qSI8HARA/camilo-duarte.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pb/150002552603.ghtml",
+    "profissao": "Servidor público federal",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/150017114544",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [
+      {
+        "ano": 2024,
+        "cargo": "Prefeito",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Camilo Duarte",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Servidor público federal",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/150017114544",
+      "foto_url_original": "https://s2-g1.glbimg.com/sS9kiJIuKfF0_GAfNd2OBBiFHYY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/x/taGQHkQeuUR8qSI8HARA/camilo-duarte.jpeg",
+      "historico": [
+        {
+          "ano": 2024,
+          "cargo": "Prefeito",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 7115522.46,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pb-150002552603.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:02:51.251Z"
+  },
+  {
+    "slug": "150002544133",
+    "nome": "Cícero Lucena",
+    "partido": "MDB",
+    "numero": 15,
+    "cargo": "governador",
+    "uf": "PB",
+    "foto_arquivo": "governador-pb-150002544133",
+    "foto_url_original": "https://s2-g1.glbimg.com/acfwr2vw43P1Exb9LXzg_g0jVdw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/C/saHg8aRvevkeTsxmPcWg/cicero-lucena.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pb/150002544133.ghtml",
+    "profissao": "Outros",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/150017027530",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 2517809.94,
+    "receitas_total": 5058000,
+    "despesas_total": 5693158.63,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Localizado em areia-pb",
+        "valor": 39304.47
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Pajero sport ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Pajero sport ano 2000",
+        "valor": 85000
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio bb",
+        "valor": 112244.95
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota tipo hilux cd",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota tipo hilux cd 4x4 ano 2012",
+        "valor": 100000
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro em especie",
+        "valor": 140000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Lp selic - banco do brasil",
+        "valor": 0.88
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Localizada na praia do poco - cabedelo-pb",
+        "valor": 169000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Empresa de construção civil",
+        "valor": 193800
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Brb - aplicacao de renda fixa",
+        "valor": 148265.56
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta estilo - banco do brasil",
+        "valor": 3.9
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente - cef",
+        "valor": 1994.25
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Localizado em ponta de campina - cabedelo-pb",
+        "valor": 726754.85
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Banco do brasil - cdb",
+        "valor": 154024.94
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta estilo",
+        "valor": 164261.91
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 1/3 do lote de terreno localizado em tambau - joão pessoa-pb",
+        "valor": 166660.52
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Posto de combustíveis",
+        "valor": 1
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Rf lp high",
+        "valor": 1.54
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Localizada no bairro do bessa - joao pessoa-pb",
+        "valor": 265719.27
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Tres salas comerciais, no bairro de tambiá - joão pessoa-pb",
+        "valor": 38907.23
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Duas salas comerciais no bairro de manaíra - joao pessoa-pb",
+        "valor": 10417.28
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupanca ouro bb",
+        "valor": 50.37
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Itau plus renda fixa curto prazo",
+        "valor": 1397.02
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 98.85
+      },
+      {
+        "nome": "Doris De Barros Araujo",
+        "percentual": 0.4
+      },
+      {
+        "nome": "Ariosvaldo De Andrade Alves",
+        "percentual": 0.4
+      },
+      {
+        "nome": "Thalyssa Bruna Isidio De Lucena",
+        "percentual": 0.2
+      },
+      {
+        "nome": "Walter De Agra Junior",
+        "percentual": 0.1
+      },
+      {
+        "nome": "guia servicos de comunicacao ltda",
+        "percentual": 19.32
+      },
+      {
+        "nome": "grafica santa marta ltda",
+        "percentual": 13.27
+      },
+      {
+        "nome": "grafica j b ltda",
+        "percentual": 6.4
+      },
+      {
+        "nome": "ink impressao de material publicitario, encadernacao e edicao de cadastros ltda",
+        "percentual": 3.24
+      },
+      {
+        "nome": "plastfort- industria e comercio de plasticos ltda",
+        "percentual": 3.05
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "guia servicos de comunicacao ltda",
+        "percentual": 19.32
+      },
+      {
+        "nome": "grafica santa marta ltda",
+        "percentual": 13.27
+      },
+      {
+        "nome": "grafica j b ltda",
+        "percentual": 6.4
+      },
+      {
+        "nome": "ink impressao de material publicitario, encadernacao e edicao de cadastros ltda",
+        "percentual": 3.24
+      },
+      {
+        "nome": "plastfort- industria e comercio de plasticos ltda",
+        "percentual": 3.05
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Cícero Lucena",
+      "partido_pagina": "MDB",
+      "numero_pagina": 15,
+      "profissao": "Outros",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/150017027530",
+      "foto_url_original": "https://s2-g1.glbimg.com/acfwr2vw43P1Exb9LXzg_g0jVdw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/C/saHg8aRvevkeTsxmPcWg/cicero-lucena.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 39.304,47 Localizado em areia-pb",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 85.000,00 Pajero sport ano 2000",
+        "Consórcio não contemplado R$ 112.244,95 Consorcio bb",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 100.000,00 Toyota tipo hilux cd 4x4 ano 2012",
+        "Dinheiro em espécie - moeda nacional R$ 140.000,00 Dinheiro em especie",
+        "Outras aplicações e investimentos R$ 0,88 Lp selic - banco do brasil",
+        "Casa R$ 169.000,00 Localizada na praia do poco - cabedelo-pb",
+        "Quotas ou quinhões de capital R$ 193.800,00 Empresa de construção civil",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 148.265,56 Brb - aplicacao de renda fixa",
+        "Depósito bancário em conta corrente no país R$ 3,90 Conta estilo - banco do brasil",
+        "Depósito bancário em conta corrente no país R$ 1.994,25 Conta corrente - cef",
+        "Apartamento R$ 726.754,85 Localizado em ponta de campina - cabedelo-pb",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 154.024,94 Banco do brasil - cdb",
+        "Depósito bancário em conta corrente no país R$ 164.261,91 Conta estilo",
+        "Terreno R$ 166.660,52 1/3 do lote de terreno localizado em tambau - joão pessoa-pb",
+        "Quotas ou quinhões de capital R$ 1,00 Posto de combustíveis",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 1,54 Rf lp high",
+        "Casa R$ 265.719,27 Localizada no bairro do bessa - joao pessoa-pb",
+        "Sala ou conjunto R$ 38.907,23 Tres salas comerciais, no bairro de tambiá - joão pessoa-pb",
+        "Sala ou conjunto R$ 10.417,28 Duas salas comerciais no bairro de manaíra - joao pessoa-pb",
+        "Caderneta de poupança R$ 50,37 Poupanca ouro bb",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 1.397,02 Itau plus renda fixa curto prazo"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 5058000,
+      "despesas_total": 5693158.63,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 98.85
+        },
+        {
+          "nome": "Doris De Barros Araujo",
+          "percentual": 0.4
+        },
+        {
+          "nome": "Ariosvaldo De Andrade Alves",
+          "percentual": 0.4
+        },
+        {
+          "nome": "Thalyssa Bruna Isidio De Lucena",
+          "percentual": 0.2
+        },
+        {
+          "nome": "Walter De Agra Junior",
+          "percentual": 0.1
+        },
+        {
+          "nome": "guia servicos de comunicacao ltda",
+          "percentual": 19.32
+        },
+        {
+          "nome": "grafica santa marta ltda",
+          "percentual": 13.27
+        },
+        {
+          "nome": "grafica j b ltda",
+          "percentual": 6.4
+        },
+        {
+          "nome": "ink impressao de material publicitario, encadernacao e edicao de cadastros ltda",
+          "percentual": 3.24
+        },
+        {
+          "nome": "plastfort- industria e comercio de plasticos ltda",
+          "percentual": 3.05
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "guia servicos de comunicacao ltda",
+          "percentual": 19.32
+        },
+        {
+          "nome": "grafica santa marta ltda",
+          "percentual": 13.27
+        },
+        {
+          "nome": "grafica j b ltda",
+          "percentual": 6.4
+        },
+        {
+          "nome": "ink impressao de material publicitario, encadernacao e edicao de cadastros ltda",
+          "percentual": 3.24
+        },
+        {
+          "nome": "plastfort- industria e comercio de plasticos ltda",
+          "percentual": 3.05
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pb-150002544133.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:02:57.197Z"
+  },
+  {
+    "slug": "150002538692",
+    "nome": "Efraim Filho",
+    "partido": "PL",
+    "numero": 22,
+    "cargo": "governador",
+    "uf": "PB",
+    "foto_arquivo": "governador-pb-150002538692",
+    "foto_url_original": "https://s2-g1.glbimg.com/C1zIFx_vUciVPK_VbAilqEkYpV0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/y/DDLN4lTD2lCB8o1KutTw/efraim-filho.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pb/150002538692.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/150016890636",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1682784.38,
+    "receitas_total": 6894800,
+    "despesas_total": 5708214.47,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Caixa giro imediato fic de classe de fif renda fixa",
+        "valor": 149682.12
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux sw4 ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux sw4 ano 2025",
+        "valor": 456295
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Consorcio 25 parcelas",
+        "valor": 31696.73
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bb cdb renda facil",
+        "valor": 14433.61
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Flat em cabedelo-pb",
+        "valor": 359083
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda em gurinhém-pb",
+        "valor": 42000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux sw4 ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux sw4 ano 2015",
+        "valor": 93000
+      },
+      {
+        "tipo": "Outros depósitos à vista e numerário",
+        "descricao": "Outros depósitos à vista e numerário Ouro car",
+        "valor": 244.26
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento em joão pessoa-pb",
+        "valor": 536349.66
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 99.64
+      },
+      {
+        "nome": "Efraim De Araujo Morais Filho",
+        "percentual": 0.35
+      },
+      {
+        "nome": "Paulo Jorge Fernandes De Freitas",
+        "percentual": 0.01
+      },
+      {
+        "nome": "jd impressos personalizados ltda",
+        "percentual": 10.11
+      },
+      {
+        "nome": "jader rodolpho finamore 30112218806",
+        "percentual": 8.67
+      },
+      {
+        "nome": "grafica j b ltda",
+        "percentual": 6.67
+      },
+      {
+        "nome": "marcelo pinheiro pinto filho",
+        "percentual": 3.15
+      },
+      {
+        "nome": "plattaforma de comunicacao e marketing ltda",
+        "percentual": 2.63
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "jd impressos personalizados ltda",
+        "percentual": 10.11
+      },
+      {
+        "nome": "jader rodolpho finamore 30112218806",
+        "percentual": 8.67
+      },
+      {
+        "nome": "grafica j b ltda",
+        "percentual": 6.67
+      },
+      {
+        "nome": "marcelo pinheiro pinto filho",
+        "percentual": 3.15
+      },
+      {
+        "nome": "plattaforma de comunicacao e marketing ltda",
+        "percentual": 2.63
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Efraim Filho",
+      "partido_pagina": "PL",
+      "numero_pagina": 22,
+      "profissao": "Senador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/150016890636",
+      "foto_url_original": "https://s2-g1.glbimg.com/C1zIFx_vUciVPK_VbAilqEkYpV0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/y/DDLN4lTD2lCB8o1KutTw/efraim-filho.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros fundos R$ 149.682,12 Caixa giro imediato fic de classe de fif renda fixa",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 456.295,00 Hilux sw4 ano 2025",
+        "Outros bens e direitos R$ 31.696,73 Consorcio 25 parcelas",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 14.433,61 Bb cdb renda facil",
+        "Outros bens imóveis R$ 359.083,00 Flat em cabedelo-pb",
+        "Outros bens imóveis R$ 42.000,00 Fazenda em gurinhém-pb",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 93.000,00 Hilux sw4 ano 2015",
+        "Outros depósitos à vista e numerário R$ 244,26 Ouro car",
+        "Apartamento R$ 536.349,66 Apartamento em joão pessoa-pb"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 6894800,
+      "despesas_total": 5708214.47,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 99.64
+        },
+        {
+          "nome": "Efraim De Araujo Morais Filho",
+          "percentual": 0.35
+        },
+        {
+          "nome": "Paulo Jorge Fernandes De Freitas",
+          "percentual": 0.01
+        },
+        {
+          "nome": "jd impressos personalizados ltda",
+          "percentual": 10.11
+        },
+        {
+          "nome": "jader rodolpho finamore 30112218806",
+          "percentual": 8.67
+        },
+        {
+          "nome": "grafica j b ltda",
+          "percentual": 6.67
+        },
+        {
+          "nome": "marcelo pinheiro pinto filho",
+          "percentual": 3.15
+        },
+        {
+          "nome": "plattaforma de comunicacao e marketing ltda",
+          "percentual": 2.63
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "jd impressos personalizados ltda",
+          "percentual": 10.11
+        },
+        {
+          "nome": "jader rodolpho finamore 30112218806",
+          "percentual": 8.67
+        },
+        {
+          "nome": "grafica j b ltda",
+          "percentual": 6.67
+        },
+        {
+          "nome": "marcelo pinheiro pinto filho",
+          "percentual": 3.15
+        },
+        {
+          "nome": "plattaforma de comunicacao e marketing ltda",
+          "percentual": 2.63
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pb-150002538692.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:03:02.114Z"
+  },
+  {
+    "slug": "150002551789",
+    "nome": "Lucas Ribeiro",
+    "partido": "PP",
+    "numero": 11,
+    "cargo": "governador",
+    "uf": "PB",
+    "foto_arquivo": "governador-pb-150002551789",
+    "foto_url_original": "https://s2-g1.glbimg.com/zwO5l3J3lvQNuklxS56E_X_znY8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/e/UzZK42SsK1Ul8kGsjHSQ/lucas-ribeiro.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pb/150002551789.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/150017105439",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 741354.9099999999,
+    "receitas_total": 7611173,
+    "despesas_total": 4526282.19,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança bb",
+        "valor": 48693.06
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança cef",
+        "valor": 1913.31
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação cdb",
+        "valor": 14403.19
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 270358.35
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 355733.26
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente",
+        "valor": 1764.1
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 48489.64
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pp",
+        "percentual": 65.69
+      },
+      {
+        "nome": "Direção Nacional - União",
+        "percentual": 33.91
+      },
+      {
+        "nome": "Ricardo Barbosa",
+        "percentual": 0.39
+      },
+      {
+        "nome": "zapier grafica e editora ltda",
+        "percentual": 15.24
+      },
+      {
+        "nome": "duozz comunicacao e estrategia ltda",
+        "percentual": 13.26
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 10.83
+      },
+      {
+        "nome": "noez servicos de consultoria em campanhas de marketing ltda",
+        "percentual": 6.63
+      },
+      {
+        "nome": "fabio brito ferreira sociedade individual de advocacia",
+        "percentual": 6.63
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "zapier grafica e editora ltda",
+        "percentual": 15.24
+      },
+      {
+        "nome": "duozz comunicacao e estrategia ltda",
+        "percentual": 13.26
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 10.83
+      },
+      {
+        "nome": "noez servicos de consultoria em campanhas de marketing ltda",
+        "percentual": 6.63
+      },
+      {
+        "nome": "fabio brito ferreira sociedade individual de advocacia",
+        "percentual": 6.63
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Lucas Ribeiro",
+      "partido_pagina": "PP",
+      "numero_pagina": 11,
+      "profissao": "Governador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/150017105439",
+      "foto_url_original": "https://s2-g1.glbimg.com/zwO5l3J3lvQNuklxS56E_X_znY8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/e/UzZK42SsK1Ul8kGsjHSQ/lucas-ribeiro.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 48.693,06 Poupança bb",
+        "Caderneta de poupança R$ 1.913,31 Poupança cef",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 14.403,19 Aplicação cdb",
+        "Apartamento R$ 270.358,35 Apartamento",
+        "Apartamento R$ 355.733,26 Apartamento",
+        "Depósito bancário em conta corrente no país R$ 1.764,10 Conta corrente",
+        "Apartamento R$ 48.489,64 Apartamento"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 7611173,
+      "despesas_total": 4526282.19,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pp",
+          "percentual": 65.69
+        },
+        {
+          "nome": "Direção Nacional - União",
+          "percentual": 33.91
+        },
+        {
+          "nome": "Ricardo Barbosa",
+          "percentual": 0.39
+        },
+        {
+          "nome": "zapier grafica e editora ltda",
+          "percentual": 15.24
+        },
+        {
+          "nome": "duozz comunicacao e estrategia ltda",
+          "percentual": 13.26
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 10.83
+        },
+        {
+          "nome": "noez servicos de consultoria em campanhas de marketing ltda",
+          "percentual": 6.63
+        },
+        {
+          "nome": "fabio brito ferreira sociedade individual de advocacia",
+          "percentual": 6.63
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "zapier grafica e editora ltda",
+          "percentual": 15.24
+        },
+        {
+          "nome": "duozz comunicacao e estrategia ltda",
+          "percentual": 13.26
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 10.83
+        },
+        {
+          "nome": "noez servicos de consultoria em campanhas de marketing ltda",
+          "percentual": 6.63
+        },
+        {
+          "nome": "fabio brito ferreira sociedade individual de advocacia",
+          "percentual": 6.63
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pb-150002551789.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:03:06.992Z"
+  },
+  {
+    "slug": "150002551911",
+    "nome": "Pedro Coutinho",
+    "partido": "DC",
+    "numero": 27,
+    "cargo": "governador",
+    "uf": "PB",
+    "foto_arquivo": "governador-pb-150002551911",
+    "foto_url_original": "https://s2-g1.glbimg.com/jdfYlHr_pKgx5XX9W-lW7XZe4Kc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/d/Aa02YpRfaVak7ryMWAMw/pedro-coutinho.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pb/150002551911.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/150017134978",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 502200,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento em joão pessoa",
+        "valor": 415200
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Um imóvel rural em sapé",
+        "valor": 37500
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital",
+        "valor": 49500
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2022,
+        "cargo": "Deputado estadual",
+        "partido": "PMB",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2022,
+        "cargo": "Deputado estadual",
+        "partido": "PMB",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2018,
+        "cargo": "Deputado estadual",
+        "partido": "MDB",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Pedro Coutinho",
+      "partido_pagina": "DC",
+      "numero_pagina": 27,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/150017134978",
+      "foto_url_original": "https://s2-g1.glbimg.com/jdfYlHr_pKgx5XX9W-lW7XZe4Kc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/d/Aa02YpRfaVak7ryMWAMw/pedro-coutinho.jpeg",
+      "historico": [
+        {
+          "ano": 2022,
+          "cargo": "Deputado estadual",
+          "partido": "PMB",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2022,
+          "cargo": "Deputado estadual",
+          "partido": "PMB",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2018,
+          "cargo": "Deputado estadual",
+          "partido": "MDB",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Apartamento R$ 415.200,00 Apartamento em joão pessoa",
+        "Outros bens imóveis R$ 37.500,00 Um imóvel rural em sapé",
+        "Quotas ou quinhões de capital R$ 49.500,00 Quotas de capital"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 7115522.46,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pb-150002551911.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:03:13.117Z"
+  },
+  {
+    "slug": "150002540204",
+    "nome": "Yuri Ezequiel",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "PB",
+    "foto_arquivo": "governador-pb-150002540204",
+    "foto_url_original": "https://s2-g1.glbimg.com/EJqhYdsUvyj3EpgmN2arKhdugqo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Y/XFZgQoRGCRA1omf0IpYQ/yuri-ezequiel.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pb/150002540204.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/150016978935",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 353.89,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Saldo em conta poupança",
+        "valor": 353.89
+      }
+    ],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Yuri Ezequiel",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Advogado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/150016978935",
+      "foto_url_original": "https://s2-g1.glbimg.com/EJqhYdsUvyj3EpgmN2arKhdugqo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Y/XFZgQoRGCRA1omf0IpYQ/yuri-ezequiel.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros créditos e poupança vinculados R$ 353,89 Saldo em conta poupança"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 7115522.46,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pb-150002540204.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:03:19.167Z"
+  }
+]

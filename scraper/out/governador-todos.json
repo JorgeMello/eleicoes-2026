@@ -1,0 +1,1060 @@
+[
+  {
+    "slug": "250002550913",
+    "nome": "Carlos Machado",
+    "partido": "PCB",
+    "numero": 21,
+    "cargo": "governador",
+    "uf": "SP",
+    "foto_arquivo": "governador-sp-250002550913",
+    "foto_url_original": "https://s2-g1.glbimg.com/s-U8fZoXbZCcUFNQbz38kbHlRhs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/a/SwzUagQ5eOIJLu1DYTVQ/carlos-machado.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sp/250002550913.ghtml",
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017098706",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 27000,
+    "receitas_total": 3281,
+    "despesas_total": 11609.61,
+    "limite_gastos": 26683209.24,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo honda accord",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo honda accord",
+        "valor": 12000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 100% de participação em uma empresa mei",
+        "valor": 15000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 50.47
+      },
+      {
+        "nome": "Marcel Jonathan Paulino Miranda",
+        "percentual": 36.57
+      },
+      {
+        "nome": "Rafael Leal Ayres",
+        "percentual": 12.95
+      },
+      {
+        "nome": "thiago menezes granzotti sociedade individual de advocacia",
+        "percentual": 68.91
+      },
+      {
+        "nome": "lara marques ramos dos santos",
+        "percentual": 17.23
+      },
+      {
+        "nome": "22.228.645 kelvin manoel da silva",
+        "percentual": 7.75
+      },
+      {
+        "nome": "geovan pereira de almeida",
+        "percentual": 1.1
+      },
+      {
+        "nome": "restaurante bom kilo ltda",
+        "percentual": 1.09
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "thiago menezes granzotti sociedade individual de advocacia",
+        "percentual": 68.91
+      },
+      {
+        "nome": "lara marques ramos dos santos",
+        "percentual": 17.23
+      },
+      {
+        "nome": "22.228.645 kelvin manoel da silva",
+        "percentual": 7.75
+      },
+      {
+        "nome": "geovan pereira de almeida",
+        "percentual": 1.1
+      },
+      {
+        "nome": "restaurante bom kilo ltda",
+        "percentual": 1.09
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Carlos Machado",
+      "partido_pagina": "PCB",
+      "numero_pagina": 21,
+      "profissao": "Professor de ensino médio",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017098706",
+      "foto_url_original": "https://s2-g1.glbimg.com/s-U8fZoXbZCcUFNQbz38kbHlRhs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/a/SwzUagQ5eOIJLu1DYTVQ/carlos-machado.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 12.000,00 Veículo honda accord",
+        "Quotas ou quinhões de capital R$ 15.000,00 100% de participação em uma empresa mei"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 3281,
+      "despesas_total": 11609.61,
+      "limite_gastos": 26683209.24,
+      "doadores": [
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 50.47
+        },
+        {
+          "nome": "Marcel Jonathan Paulino Miranda",
+          "percentual": 36.57
+        },
+        {
+          "nome": "Rafael Leal Ayres",
+          "percentual": 12.95
+        },
+        {
+          "nome": "thiago menezes granzotti sociedade individual de advocacia",
+          "percentual": 68.91
+        },
+        {
+          "nome": "lara marques ramos dos santos",
+          "percentual": 17.23
+        },
+        {
+          "nome": "22.228.645 kelvin manoel da silva",
+          "percentual": 7.75
+        },
+        {
+          "nome": "geovan pereira de almeida",
+          "percentual": 1.1
+        },
+        {
+          "nome": "restaurante bom kilo ltda",
+          "percentual": 1.09
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "thiago menezes granzotti sociedade individual de advocacia",
+          "percentual": 68.91
+        },
+        {
+          "nome": "lara marques ramos dos santos",
+          "percentual": 17.23
+        },
+        {
+          "nome": "22.228.645 kelvin manoel da silva",
+          "percentual": 7.75
+        },
+        {
+          "nome": "geovan pereira de almeida",
+          "percentual": 1.1
+        },
+        {
+          "nome": "restaurante bom kilo ltda",
+          "percentual": 1.09
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sp-250002550913.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:52:31.343Z"
+  },
+  {
+    "slug": "250002549705",
+    "nome": "Fernando Haddad",
+    "partido": "PT",
+    "numero": 13,
+    "cargo": "governador",
+    "uf": "SP",
+    "foto_arquivo": "governador-sp-250002549705",
+    "foto_url_original": "https://s2-g1.glbimg.com/LpsTxIx59zpzA8EOUDfLtWbCq7A=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/x/vIxcvZQDii0z7YoSMVcA/fernando-haddad.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sp/250002549705.ghtml",
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017095435",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 861217.25,
+    "receitas_total": 19093962.77,
+    "despesas_total": 12281657.76,
+    "limite_gastos": 26683209.24,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Depósito em caderneta de poupança na caixa econômica federal",
+        "valor": 1461.57
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente no banco do brasil",
+        "valor": 100970.99
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação financeira rf simples ágil",
+        "valor": 76000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 132.916 quota da empresa khlap administração participações ltda",
+        "valor": 140446.26
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 10 quotas da empresa haddad e haddad consultoria empresarial ltda",
+        "valor": 10
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação financeira rf ref di plus ágil",
+        "valor": 359328.43
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa 26,37% da casa situada bairro planalto paulista, são paulo, sp",
+        "valor": 183000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 94.58
+      },
+      {
+        "nome": "Direção Nacional - Psb",
+        "percentual": 5.24
+      },
+      {
+        "nome": "Direção Estadual/distrital - Pt - São Paulo",
+        "percentual": 0.1
+      },
+      {
+        "nome": "Luiz Martino Turco",
+        "percentual": 0.03
+      },
+      {
+        "nome": "Cilene Maria Obici",
+        "percentual": 0.03
+      },
+      {
+        "nome": "urissane comunicacao ltda",
+        "percentual": 52.92
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 10.76
+      },
+      {
+        "nome": "mca producoes artisticas ltda",
+        "percentual": 8.14
+      },
+      {
+        "nome": "bertoni soares advogados",
+        "percentual": 5.82
+      },
+      {
+        "nome": "silveira, andrade - advogados",
+        "percentual": 5.21
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "urissane comunicacao ltda",
+        "percentual": 52.92
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 10.76
+      },
+      {
+        "nome": "mca producoes artisticas ltda",
+        "percentual": 8.14
+      },
+      {
+        "nome": "bertoni soares advogados",
+        "percentual": 5.82
+      },
+      {
+        "nome": "silveira, andrade - advogados",
+        "percentual": 5.21
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Fernando Haddad",
+      "partido_pagina": "PT",
+      "numero_pagina": 13,
+      "profissao": "Professor de ensino superior",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017095435",
+      "foto_url_original": "https://s2-g1.glbimg.com/LpsTxIx59zpzA8EOUDfLtWbCq7A=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/x/vIxcvZQDii0z7YoSMVcA/fernando-haddad.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 1.461,57 Depósito em caderneta de poupança na caixa econômica federal",
+        "Depósito bancário em conta corrente no país R$ 100.970,99 Conta corrente no banco do brasil",
+        "Outras aplicações e investimentos R$ 76.000,00 Aplicação financeira rf simples ágil",
+        "Quotas ou quinhões de capital R$ 140.446,26 132.916 quota da empresa khlap administração participações ltda",
+        "Quotas ou quinhões de capital R$ 10,00 10 quotas da empresa haddad e haddad consultoria empresarial ltda",
+        "Outras aplicações e investimentos R$ 359.328,43 Aplicação financeira rf ref di plus ágil",
+        "Casa R$ 183.000,00 26,37% da casa situada bairro planalto paulista, são paulo, sp"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 19093962.77,
+      "despesas_total": 12281657.76,
+      "limite_gastos": 26683209.24,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 94.58
+        },
+        {
+          "nome": "Direção Nacional - Psb",
+          "percentual": 5.24
+        },
+        {
+          "nome": "Direção Estadual/distrital - Pt - São Paulo",
+          "percentual": 0.1
+        },
+        {
+          "nome": "Luiz Martino Turco",
+          "percentual": 0.03
+        },
+        {
+          "nome": "Cilene Maria Obici",
+          "percentual": 0.03
+        },
+        {
+          "nome": "urissane comunicacao ltda",
+          "percentual": 52.92
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 10.76
+        },
+        {
+          "nome": "mca producoes artisticas ltda",
+          "percentual": 8.14
+        },
+        {
+          "nome": "bertoni soares advogados",
+          "percentual": 5.82
+        },
+        {
+          "nome": "silveira, andrade - advogados",
+          "percentual": 5.21
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "urissane comunicacao ltda",
+          "percentual": 52.92
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 10.76
+        },
+        {
+          "nome": "mca producoes artisticas ltda",
+          "percentual": 8.14
+        },
+        {
+          "nome": "bertoni soares advogados",
+          "percentual": 5.82
+        },
+        {
+          "nome": "silveira, andrade - advogados",
+          "percentual": 5.21
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sp-250002549705.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:52:38.011Z"
+  },
+  {
+    "slug": "250002553062",
+    "nome": "Izadora Dias",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "SP",
+    "foto_arquivo": "governador-sp-250002553062",
+    "foto_url_original": "https://s2-g1.glbimg.com/132O1POLjcHmUHvYUOf4aTGct80=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/B/pyAxyxT8CtyPCRRxFJsA/izadora-dias.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sp/250002553062.ghtml",
+    "profissao": "Estudante, bolsista, estagiário e assemelhados",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017118778",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 26683209.24,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [
+      {
+        "ano": 2020,
+        "cargo": "Vereador",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Izadora Dias",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Estudante, bolsista, estagiário e assemelhados",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017118778",
+      "foto_url_original": "https://s2-g1.glbimg.com/132O1POLjcHmUHvYUOf4aTGct80=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/B/pyAxyxT8CtyPCRRxFJsA/izadora-dias.jpeg",
+      "historico": [
+        {
+          "ano": 2020,
+          "cargo": "Vereador",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 26683209.24,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sp-250002553062.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:52:43.017Z"
+  },
+  {
+    "slug": "250002548080",
+    "nome": "Policial Edjane",
+    "partido": "AGIR",
+    "numero": 36,
+    "cargo": "governador",
+    "uf": "SP",
+    "foto_arquivo": "governador-sp-250002548080",
+    "foto_url_original": "https://s2-g1.glbimg.com/ZBSGaJaBp6l2EGzROxODul5xqeQ=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/X/9gb8e7QDAjtgANRKegBQ/policial-edjane.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sp/250002548080.ghtml",
+    "profissao": "Policial militar",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 26683209.24,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Policial Edjane",
+      "partido_pagina": "AGIR",
+      "numero_pagina": 36,
+      "profissao": "Policial militar",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/ZBSGaJaBp6l2EGzROxODul5xqeQ=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/X/9gb8e7QDAjtgANRKegBQ/policial-edjane.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 26683209.24,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sp-250002548080.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:52:50.084Z"
+  },
+  {
+    "slug": "250002541303",
+    "nome": "Tarcísio",
+    "partido": "REP",
+    "numero": 10,
+    "cargo": "governador",
+    "uf": "SP",
+    "foto_arquivo": "governador-sp-250002541303",
+    "foto_url_original": "https://s2-g1.glbimg.com/jk_okW5fjTMsEmG4H9-ouEIbS94=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/3/EvAOMpRGGi9Gr6gDkXRw/tarcisio.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sp/250002541303.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017125598",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 2696808.4,
+    "receitas_total": 19660804.28,
+    "despesas_total": 23173320.5,
+    "limite_gastos": 26683209.24,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança ouro",
+        "valor": 525624.39
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Renda fixa",
+        "valor": 33522.33
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em caderneta da poupança - poupex",
+        "valor": 501.68
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel em brasília",
+        "valor": 2137160
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Republicanos",
+        "percentual": 44.71
+      },
+      {
+        "nome": "Direção Nacional - Prd",
+        "percentual": 7.63
+      },
+      {
+        "nome": "Direção Estadual/distrital - Republicanos - São Paulo",
+        "percentual": 5.23
+      },
+      {
+        "nome": "Celso Ferreira Penco Filho",
+        "percentual": 3.05
+      },
+      {
+        "nome": "Salo Davi Seibel",
+        "percentual": 2.92
+      },
+      {
+        "nome": "pltk comunicacao estrategica ltda",
+        "percentual": 19.42
+      },
+      {
+        "nome": "d. p. malachias - filmes",
+        "percentual": 16.4
+      },
+      {
+        "nome": "connect filmes - producao de filmes e publicidade ltda",
+        "percentual": 15.1
+      },
+      {
+        "nome": "malheiros, penteado e toledo - advogados",
+        "percentual": 12.95
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 7.34
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "pltk comunicacao estrategica ltda",
+        "percentual": 19.42
+      },
+      {
+        "nome": "d. p. malachias - filmes",
+        "percentual": 16.4
+      },
+      {
+        "nome": "connect filmes - producao de filmes e publicidade ltda",
+        "percentual": 15.1
+      },
+      {
+        "nome": "malheiros, penteado e toledo - advogados",
+        "percentual": 12.95
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 7.34
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Tarcísio",
+      "partido_pagina": "REP",
+      "numero_pagina": 10,
+      "profissao": "Governador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017125598",
+      "foto_url_original": "https://s2-g1.glbimg.com/jk_okW5fjTMsEmG4H9-ouEIbS94=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/3/EvAOMpRGGi9Gr6gDkXRw/tarcisio.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 525.624,39 Poupança ouro",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 33.522,33 Renda fixa",
+        "Caderneta de poupança R$ 501,68 Saldo em caderneta da poupança - poupex",
+        "Outros bens imóveis R$ 2.137.160,00 Imovel em brasília"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 19660804.28,
+      "despesas_total": 23173320.5,
+      "limite_gastos": 26683209.24,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Republicanos",
+          "percentual": 44.71
+        },
+        {
+          "nome": "Direção Nacional - Prd",
+          "percentual": 7.63
+        },
+        {
+          "nome": "Direção Estadual/distrital - Republicanos - São Paulo",
+          "percentual": 5.23
+        },
+        {
+          "nome": "Celso Ferreira Penco Filho",
+          "percentual": 3.05
+        },
+        {
+          "nome": "Salo Davi Seibel",
+          "percentual": 2.92
+        },
+        {
+          "nome": "pltk comunicacao estrategica ltda",
+          "percentual": 19.42
+        },
+        {
+          "nome": "d. p. malachias - filmes",
+          "percentual": 16.4
+        },
+        {
+          "nome": "connect filmes - producao de filmes e publicidade ltda",
+          "percentual": 15.1
+        },
+        {
+          "nome": "malheiros, penteado e toledo - advogados",
+          "percentual": 12.95
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 7.34
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "pltk comunicacao estrategica ltda",
+          "percentual": 19.42
+        },
+        {
+          "nome": "d. p. malachias - filmes",
+          "percentual": 16.4
+        },
+        {
+          "nome": "connect filmes - producao de filmes e publicidade ltda",
+          "percentual": 15.1
+        },
+        {
+          "nome": "malheiros, penteado e toledo - advogados",
+          "percentual": 12.95
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 7.34
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sp-250002541303.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:52:55.736Z"
+  },
+  {
+    "slug": "250002536915",
+    "nome": "Vera Lúcia",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "governador",
+    "uf": "SP",
+    "foto_arquivo": "governador-sp-250002536915",
+    "foto_url_original": "https://s2-g1.glbimg.com/igOC3KYnR8NXD2_k_BCGATIXJz8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/t/1jpWAJSY6ZEgKKUhXTeA/vera-lucia.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sp/250002536915.ghtml",
+    "profissao": "Sociólogo",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250016879121",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 294602.66,
+    "despesas_total": 281745.8,
+    "limite_gastos": 26683209.24,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 99.8
+      },
+      {
+        "nome": "Veruska Oliveira Tenorio",
+        "percentual": 0.2
+      },
+      {
+        "nome": "Luis Fernando Bispo",
+        "percentual": 0
+      },
+      {
+        "nome": "projeto ip grafis solucoes graficas ltda",
+        "percentual": 33.54
+      },
+      {
+        "nome": "multidao comunicacao e producao ltda",
+        "percentual": 31.94
+      },
+      {
+        "nome": "francisco de assis da silva filho",
+        "percentual": 15.97
+      },
+      {
+        "nome": "robert deyvis de barros santos",
+        "percentual": 7.1
+      },
+      {
+        "nome": "jose claudio pavan",
+        "percentual": 5.32
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "projeto ip grafis solucoes graficas ltda",
+        "percentual": 33.54
+      },
+      {
+        "nome": "multidao comunicacao e producao ltda",
+        "percentual": 31.94
+      },
+      {
+        "nome": "francisco de assis da silva filho",
+        "percentual": 15.97
+      },
+      {
+        "nome": "robert deyvis de barros santos",
+        "percentual": 7.1
+      },
+      {
+        "nome": "jose claudio pavan",
+        "percentual": 5.32
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Vera Lúcia",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Sociólogo",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250016879121",
+      "foto_url_original": "https://s2-g1.glbimg.com/igOC3KYnR8NXD2_k_BCGATIXJz8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/t/1jpWAJSY6ZEgKKUhXTeA/vera-lucia.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 294602.66,
+      "despesas_total": 281745.8,
+      "limite_gastos": 26683209.24,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 99.8
+        },
+        {
+          "nome": "Veruska Oliveira Tenorio",
+          "percentual": 0.2
+        },
+        {
+          "nome": "Luis Fernando Bispo",
+          "percentual": 0
+        },
+        {
+          "nome": "projeto ip grafis solucoes graficas ltda",
+          "percentual": 33.54
+        },
+        {
+          "nome": "multidao comunicacao e producao ltda",
+          "percentual": 31.94
+        },
+        {
+          "nome": "francisco de assis da silva filho",
+          "percentual": 15.97
+        },
+        {
+          "nome": "robert deyvis de barros santos",
+          "percentual": 7.1
+        },
+        {
+          "nome": "jose claudio pavan",
+          "percentual": 5.32
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "projeto ip grafis solucoes graficas ltda",
+          "percentual": 33.54
+        },
+        {
+          "nome": "multidao comunicacao e producao ltda",
+          "percentual": 31.94
+        },
+        {
+          "nome": "francisco de assis da silva filho",
+          "percentual": 15.97
+        },
+        {
+          "nome": "robert deyvis de barros santos",
+          "percentual": 7.1
+        },
+        {
+          "nome": "jose claudio pavan",
+          "percentual": 5.32
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sp-250002536915.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:53:01.266Z"
+  },
+  {
+    "slug": "250002544912",
+    "nome": "Vivian Mendes",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "SP",
+    "foto_arquivo": "governador-sp-250002544912",
+    "foto_url_original": "https://s2-g1.glbimg.com/N9cKixnWik_raGpb7RJxKGoPYMw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/l/SvjCPgQqmFdEVSVdpnmg/vivian-mendes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/sp/250002544912.ghtml",
+    "profissao": "Relações-públicas",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017039197",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 80000,
+    "receitas_total": 125053.12,
+    "despesas_total": 97678.4,
+    "limite_gastos": 26683209.24,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Residência",
+        "valor": 80000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 32.31
+      },
+      {
+        "nome": "Direção Estadual/distrital - Up - São Paulo",
+        "percentual": 25.39
+      },
+      {
+        "nome": "Philipe Yuri Palmeira Arraes",
+        "percentual": 4.5
+      },
+      {
+        "nome": "Luis Eduardo Patrone Regules",
+        "percentual": 0.8
+      },
+      {
+        "nome": "Raquel Rodrigues Da Silva Santana",
+        "percentual": 0.8
+      },
+      {
+        "nome": "margraf editora e industria grafica ltda",
+        "percentual": 79.27
+      },
+      {
+        "nome": "giga som locacao e eventos ltda",
+        "percentual": 2.05
+      },
+      {
+        "nome": "giga som eventos ltda",
+        "percentual": 1.38
+      },
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 0.91
+      },
+      {
+        "nome": "biana politto de sa",
+        "percentual": 0.82
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "margraf editora e industria grafica ltda",
+        "percentual": 79.27
+      },
+      {
+        "nome": "giga som locacao e eventos ltda",
+        "percentual": 2.05
+      },
+      {
+        "nome": "giga som eventos ltda",
+        "percentual": 1.38
+      },
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 0.91
+      },
+      {
+        "nome": "biana politto de sa",
+        "percentual": 0.82
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Vivian Mendes",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Relações-públicas",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017039197",
+      "foto_url_original": "https://s2-g1.glbimg.com/N9cKixnWik_raGpb7RJxKGoPYMw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/l/SvjCPgQqmFdEVSVdpnmg/vivian-mendes.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 80.000,00 Residência"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 125053.12,
+      "despesas_total": 97678.4,
+      "limite_gastos": 26683209.24,
+      "doadores": [
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 32.31
+        },
+        {
+          "nome": "Direção Estadual/distrital - Up - São Paulo",
+          "percentual": 25.39
+        },
+        {
+          "nome": "Philipe Yuri Palmeira Arraes",
+          "percentual": 4.5
+        },
+        {
+          "nome": "Luis Eduardo Patrone Regules",
+          "percentual": 0.8
+        },
+        {
+          "nome": "Raquel Rodrigues Da Silva Santana",
+          "percentual": 0.8
+        },
+        {
+          "nome": "margraf editora e industria grafica ltda",
+          "percentual": 79.27
+        },
+        {
+          "nome": "giga som locacao e eventos ltda",
+          "percentual": 2.05
+        },
+        {
+          "nome": "giga som eventos ltda",
+          "percentual": 1.38
+        },
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 0.91
+        },
+        {
+          "nome": "biana politto de sa",
+          "percentual": 0.82
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "margraf editora e industria grafica ltda",
+          "percentual": 79.27
+        },
+        {
+          "nome": "giga som locacao e eventos ltda",
+          "percentual": 2.05
+        },
+        {
+          "nome": "giga som eventos ltda",
+          "percentual": 1.38
+        },
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 0.91
+        },
+        {
+          "nome": "biana politto de sa",
+          "percentual": 0.82
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-sp-250002544912.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:53:06.892Z"
+  }
+]

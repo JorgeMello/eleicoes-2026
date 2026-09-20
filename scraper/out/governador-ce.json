@@ -1,0 +1,1282 @@
+[
+  {
+    "slug": "60002531351",
+    "nome": "Ciro Gomes",
+    "partido": "PSDB",
+    "numero": 45,
+    "cargo": "governador",
+    "uf": "CE",
+    "foto_arquivo": "governador-ce-60002531351",
+    "foto_url_original": "https://s2-g1.glbimg.com/-ln6Ka7PmYnEB74x48xHD_Itzb4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/C/Qz0YpmS3SB24XdXtXuJQ/ciro-gomes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ce/60002531351.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60016833100",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1756648.94,
+    "receitas_total": 8650000,
+    "despesas_total": 5250315.83,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 889375.65
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Vgbl no brasil prev seguros e previdências em nome do dependente",
+        "valor": 53676.49
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 381202.9
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo toyota hilux sw4",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo toyota hilux sw4",
+        "valor": 105000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Valores na posse da sra. maria luiza gurgel serpa para pagamento de despesas",
+        "valor": 19771.22
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos 1/5 de 01(um) imóvel residencial",
+        "valor": 160000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias 100% de particiapação na empresa ciro gomes sociedade individual de adavocacia",
+        "valor": 50000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo hyundai elantra",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo hyundai elantra",
+        "valor": 85000
+      },
+      {
+        "tipo": "Crédito decorrente de empréstimo",
+        "descricao": "Crédito decorrente de empréstimo Crédido decorrente de empréstimo a sociedade ciro gomes sociedade individual de advocacia",
+        "valor": 0
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente bb",
+        "valor": 622.68
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias 100% de particiapação na empresa newsletters",
+        "valor": 12000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psdb",
+        "percentual": 84.39
+      },
+      {
+        "nome": "Pedro Grendene Bartelle",
+        "percentual": 5.78
+      },
+      {
+        "nome": "Alexandre Grendene Bartelle",
+        "percentual": 5.78
+      },
+      {
+        "nome": "Francisco De Araujo Carneiro Neto",
+        "percentual": 1.16
+      },
+      {
+        "nome": "Rafael Carneiro Da Silveira",
+        "percentual": 1.16
+      },
+      {
+        "nome": "polis propaganda & marketing ltda",
+        "percentual": 28.57
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 26.67
+      },
+      {
+        "nome": "skyline aviation intensive care & charter ltda.",
+        "percentual": 9.52
+      },
+      {
+        "nome": "rh8 servicos e terceirizacoes ltda",
+        "percentual": 8.41
+      },
+      {
+        "nome": "helio parente & xerez sociedade de advogados",
+        "percentual": 7.62
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "polis propaganda & marketing ltda",
+        "percentual": 28.57
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 26.67
+      },
+      {
+        "nome": "skyline aviation intensive care & charter ltda.",
+        "percentual": 9.52
+      },
+      {
+        "nome": "rh8 servicos e terceirizacoes ltda",
+        "percentual": 8.41
+      },
+      {
+        "nome": "helio parente & xerez sociedade de advogados",
+        "percentual": 7.62
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Ciro Gomes",
+      "partido_pagina": "PSDB",
+      "numero_pagina": 45,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60016833100",
+      "foto_url_original": "https://s2-g1.glbimg.com/-ln6Ka7PmYnEB74x48xHD_Itzb4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/C/Qz0YpmS3SB24XdXtXuJQ/ciro-gomes.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 889.375,65 Apartamento",
+        "Vgbl - vida gerador de benefício livre R$ 53.676,49 Vgbl no brasil prev seguros e previdências em nome do dependente",
+        "Apartamento R$ 381.202,90 Apartamento",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 105.000,00 Veículo toyota hilux sw4",
+        "Outros bens e direitos R$ 19.771,22 Valores na posse da sra. maria luiza gurgel serpa para pagamento de despesas",
+        "Outros bens e direitos R$ 160.000,00 1/5 de 01(um) imóvel residencial",
+        "Outras participações societárias R$ 50.000,00 100% de particiapação na empresa ciro gomes sociedade individual de adavocacia",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 85.000,00 Veículo hyundai elantra",
+        "Crédito decorrente de empréstimo R$ 0,00 Crédido decorrente de empréstimo a sociedade ciro gomes sociedade individual de advocacia",
+        "Depósito bancário em conta corrente no país R$ 622,68 Conta corrente bb",
+        "Outras participações societárias R$ 12.000,00 100% de particiapação na empresa newsletters"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 8650000,
+      "despesas_total": 5250315.83,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psdb",
+          "percentual": 84.39
+        },
+        {
+          "nome": "Pedro Grendene Bartelle",
+          "percentual": 5.78
+        },
+        {
+          "nome": "Alexandre Grendene Bartelle",
+          "percentual": 5.78
+        },
+        {
+          "nome": "Francisco De Araujo Carneiro Neto",
+          "percentual": 1.16
+        },
+        {
+          "nome": "Rafael Carneiro Da Silveira",
+          "percentual": 1.16
+        },
+        {
+          "nome": "polis propaganda & marketing ltda",
+          "percentual": 28.57
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 26.67
+        },
+        {
+          "nome": "skyline aviation intensive care & charter ltda.",
+          "percentual": 9.52
+        },
+        {
+          "nome": "rh8 servicos e terceirizacoes ltda",
+          "percentual": 8.41
+        },
+        {
+          "nome": "helio parente & xerez sociedade de advogados",
+          "percentual": 7.62
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "polis propaganda & marketing ltda",
+          "percentual": 28.57
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 26.67
+        },
+        {
+          "nome": "skyline aviation intensive care & charter ltda.",
+          "percentual": 9.52
+        },
+        {
+          "nome": "rh8 servicos e terceirizacoes ltda",
+          "percentual": 8.41
+        },
+        {
+          "nome": "helio parente & xerez sociedade de advogados",
+          "percentual": 7.62
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ce-60002531351.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:56:18.661Z"
+  },
+  {
+    "slug": "60002552498",
+    "nome": "Danilo Soares",
+    "partido": "DEMOCRATA",
+    "numero": 35,
+    "cargo": "governador",
+    "uf": "CE",
+    "foto_arquivo": "governador-ce-60002552498",
+    "foto_url_original": "https://s2-g1.glbimg.com/9Xg_isqmGBBs3euDj3pZcetXX14=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/Q/IFLXgyTCy8wYfBN1KCBQ/danilo-soares.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ce/60002552498.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60017113522",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 3500,
+    "despesas_total": 0,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Franciso Das Chagas Magalhaes Paiva",
+        "percentual": 85.71
+      },
+      {
+        "nome": "Jean Gardênio Magalhães De Siqueira",
+        "percentual": 14.29
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Danilo Soares",
+      "partido_pagina": "DEMOCRATA",
+      "numero_pagina": 35,
+      "profissao": "Advogado",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60017113522",
+      "foto_url_original": "https://s2-g1.glbimg.com/9Xg_isqmGBBs3euDj3pZcetXX14=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/Q/IFLXgyTCy8wYfBN1KCBQ/danilo-soares.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 3500,
+      "despesas_total": 0,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Franciso Das Chagas Magalhaes Paiva",
+          "percentual": 85.71
+        },
+        {
+          "nome": "Jean Gardênio Magalhães De Siqueira",
+          "percentual": 14.29
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ce-60002552498.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:56:24.622Z"
+  },
+  {
+    "slug": "60002540417",
+    "nome": "Delegado Huggo",
+    "partido": "MISSÃO",
+    "numero": 14,
+    "cargo": "governador",
+    "uf": "CE",
+    "foto_arquivo": "governador-ce-60002540417",
+    "foto_url_original": "https://s2-g1.glbimg.com/ldyHwsvkupMSR4bQfjZ8CmcrRCA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/vJ6C7vThezSick4X0VBw/delegado-huggo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ce/60002540417.ghtml",
+    "profissao": "Servidor público estadual",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60016983478",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 256000,
+    "receitas_total": 107210,
+    "despesas_total": 53901.92,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno localizado no trairi",
+        "valor": 170000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro polo track preto, placa ths5h10, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro polo track preto, placa ths5h10, ano 2026",
+        "valor": 86000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Missão",
+        "percentual": 93.27
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 6.73
+      },
+      {
+        "nome": "rl rent a car locacao ltda",
+        "percentual": 34.6
+      },
+      {
+        "nome": "procult mais produtora de artes e eventos culturais ltda",
+        "percentual": 14.84
+      },
+      {
+        "nome": "a2 graf comunicacao visual ltda",
+        "percentual": 8.91
+      },
+      {
+        "nome": "thiago de oliveira rodrigues",
+        "percentual": 5.57
+      },
+      {
+        "nome": "luan nunes siqueira",
+        "percentual": 5.57
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "rl rent a car locacao ltda",
+        "percentual": 34.6
+      },
+      {
+        "nome": "procult mais produtora de artes e eventos culturais ltda",
+        "percentual": 14.84
+      },
+      {
+        "nome": "a2 graf comunicacao visual ltda",
+        "percentual": 8.91
+      },
+      {
+        "nome": "thiago de oliveira rodrigues",
+        "percentual": 5.57
+      },
+      {
+        "nome": "luan nunes siqueira",
+        "percentual": 5.57
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Delegado Huggo",
+      "partido_pagina": "MISSÃO",
+      "numero_pagina": 14,
+      "profissao": "Servidor público estadual",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60016983478",
+      "foto_url_original": "https://s2-g1.glbimg.com/ldyHwsvkupMSR4bQfjZ8CmcrRCA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/vJ6C7vThezSick4X0VBw/delegado-huggo.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 170.000,00 Terreno localizado no trairi",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 86.000,00 Carro polo track preto, placa ths5h10, ano 2026"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 107210,
+      "despesas_total": 53901.92,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Missão",
+          "percentual": 93.27
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 6.73
+        },
+        {
+          "nome": "rl rent a car locacao ltda",
+          "percentual": 34.6
+        },
+        {
+          "nome": "procult mais produtora de artes e eventos culturais ltda",
+          "percentual": 14.84
+        },
+        {
+          "nome": "a2 graf comunicacao visual ltda",
+          "percentual": 8.91
+        },
+        {
+          "nome": "thiago de oliveira rodrigues",
+          "percentual": 5.57
+        },
+        {
+          "nome": "luan nunes siqueira",
+          "percentual": 5.57
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "rl rent a car locacao ltda",
+          "percentual": 34.6
+        },
+        {
+          "nome": "procult mais produtora de artes e eventos culturais ltda",
+          "percentual": 14.84
+        },
+        {
+          "nome": "a2 graf comunicacao visual ltda",
+          "percentual": 8.91
+        },
+        {
+          "nome": "thiago de oliveira rodrigues",
+          "percentual": 5.57
+        },
+        {
+          "nome": "luan nunes siqueira",
+          "percentual": 5.57
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ce-60002540417.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:56:30.424Z"
+  },
+  {
+    "slug": "60002543969",
+    "nome": "Elmano De Freitas",
+    "partido": "PT",
+    "numero": 13,
+    "cargo": "governador",
+    "uf": "CE",
+    "foto_arquivo": "governador-ce-60002543969",
+    "foto_url_original": "https://s2-g1.glbimg.com/D1ELa33GGHtGsDeWtHgAI1NkjBU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/m/9GTsAvSWaIRQ9uMdB6IA/elmano-de-freitas.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ce/60002543969.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60017034681",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 366457.70999999996,
+    "receitas_total": 8644822.49,
+    "despesas_total": 6436945.58,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Equinos",
+        "valor": 4000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Bovinos destinados à reprodução",
+        "valor": 20000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo mantido em conta bancária",
+        "valor": 1
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Investimento de renda fixa em instituição financeira",
+        "valor": 13555.31
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Propriedade rural",
+        "valor": 10000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo mantido em conta bancária",
+        "valor": 16.4
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Rebanho bovino",
+        "valor": 191100
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Investimento de renda fixa em instituição financeira",
+        "valor": 185
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Propriedade rural",
+        "valor": 10000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação no capital de pessoa jurídica",
+        "valor": 55000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Destinado à reprodução",
+        "valor": 10000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Rebanho ovino",
+        "valor": 52600
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Maria Consuelo Saraiva Leao Dias Branco",
+        "percentual": 19.43
+      },
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 13.38
+      },
+      {
+        "nome": "Rodrigo Antonio Paes De Andrade Lopes De Oliveira",
+        "percentual": 11.74
+      },
+      {
+        "nome": "Pedro Grendene Bartelle",
+        "percentual": 11.57
+      },
+      {
+        "nome": "Rose Marie Matos Ferreira",
+        "percentual": 6.94
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 35.49
+      },
+      {
+        "nome": "contacto relacoes publicas ltda",
+        "percentual": 24.86
+      },
+      {
+        "nome": "alcimor rocha sociedade individual de advocacia",
+        "percentual": 6.21
+      },
+      {
+        "nome": "harmony servicos ltda",
+        "percentual": 4.66
+      },
+      {
+        "nome": "north star taxi aereo ltda",
+        "percentual": 2.95
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 35.49
+      },
+      {
+        "nome": "contacto relacoes publicas ltda",
+        "percentual": 24.86
+      },
+      {
+        "nome": "alcimor rocha sociedade individual de advocacia",
+        "percentual": 6.21
+      },
+      {
+        "nome": "harmony servicos ltda",
+        "percentual": 4.66
+      },
+      {
+        "nome": "north star taxi aereo ltda",
+        "percentual": 2.95
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Elmano De Freitas",
+      "partido_pagina": "PT",
+      "numero_pagina": 13,
+      "profissao": "Governador",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60017034681",
+      "foto_url_original": "https://s2-g1.glbimg.com/D1ELa33GGHtGsDeWtHgAI1NkjBU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/m/9GTsAvSWaIRQ9uMdB6IA/elmano-de-freitas.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens e direitos R$ 4.000,00 Equinos",
+        "Outros bens e direitos R$ 20.000,00 Bovinos destinados à reprodução",
+        "Depósito bancário em conta corrente no país R$ 1,00 Saldo mantido em conta bancária",
+        "Outras aplicações e investimentos R$ 13.555,31 Investimento de renda fixa em instituição financeira",
+        "Terreno R$ 10.000,00 Propriedade rural",
+        "Depósito bancário em conta corrente no país R$ 16,40 Saldo mantido em conta bancária",
+        "Outros bens e direitos R$ 191.100,00 Rebanho bovino",
+        "Outras aplicações e investimentos R$ 185,00 Investimento de renda fixa em instituição financeira",
+        "Terreno R$ 10.000,00 Propriedade rural",
+        "Outras participações societárias R$ 55.000,00 Participação no capital de pessoa jurídica",
+        "Outros bens e direitos R$ 10.000,00 Destinado à reprodução",
+        "Outros bens e direitos R$ 52.600,00 Rebanho ovino"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 8644822.49,
+      "despesas_total": 6436945.58,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Maria Consuelo Saraiva Leao Dias Branco",
+          "percentual": 19.43
+        },
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 13.38
+        },
+        {
+          "nome": "Rodrigo Antonio Paes De Andrade Lopes De Oliveira",
+          "percentual": 11.74
+        },
+        {
+          "nome": "Pedro Grendene Bartelle",
+          "percentual": 11.57
+        },
+        {
+          "nome": "Rose Marie Matos Ferreira",
+          "percentual": 6.94
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 35.49
+        },
+        {
+          "nome": "contacto relacoes publicas ltda",
+          "percentual": 24.86
+        },
+        {
+          "nome": "alcimor rocha sociedade individual de advocacia",
+          "percentual": 6.21
+        },
+        {
+          "nome": "harmony servicos ltda",
+          "percentual": 4.66
+        },
+        {
+          "nome": "north star taxi aereo ltda",
+          "percentual": 2.95
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 35.49
+        },
+        {
+          "nome": "contacto relacoes publicas ltda",
+          "percentual": 24.86
+        },
+        {
+          "nome": "alcimor rocha sociedade individual de advocacia",
+          "percentual": 6.21
+        },
+        {
+          "nome": "harmony servicos ltda",
+          "percentual": 4.66
+        },
+        {
+          "nome": "north star taxi aereo ltda",
+          "percentual": 2.95
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ce-60002543969.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:56:36.357Z"
+  },
+  {
+    "slug": "60002552320",
+    "nome": "Ieri Braga",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "CE",
+    "foto_arquivo": "governador-ce-60002552320",
+    "foto_url_original": "https://s2-g1.glbimg.com/KDreAOnUmesa4ARDy3pEeFozAJU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/w/Uf9PRRR8aU0VxvuGXvew/ieri-braga.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ce/60002552320.ghtml",
+    "profissao": "Químico",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60017111569",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Ieri Braga",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Químico",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60017111569",
+      "foto_url_original": "https://s2-g1.glbimg.com/KDreAOnUmesa4ARDy3pEeFozAJU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/w/Uf9PRRR8aU0VxvuGXvew/ieri-braga.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 11562724,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ce-60002552320.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:56:41.242Z"
+  },
+  {
+    "slug": "60002533729",
+    "nome": "Serley Leal",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "CE",
+    "foto_arquivo": "governador-ce-60002533729",
+    "foto_url_original": "https://s2-g1.glbimg.com/oKeKLJ3nQqxzsScyimLjSw0xELo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/y/9Wz9vNTleS2Es1AwKIVw/serley-leal.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ce/60002533729.ghtml",
+    "profissao": "Bancário e economiário",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60016845833",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 88094.69,
+    "receitas_total": 18625,
+    "despesas_total": 15861.78,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Previdência privada",
+        "valor": 23717.54
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Renault sandero",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Renault sandero 2020",
+        "valor": 41500
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Fundos e ações",
+        "valor": 21035.15
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Demais aplicações",
+        "valor": 1842
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Up - Ceará",
+        "percentual": 32.21
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 29.88
+      },
+      {
+        "nome": "Serley De Sousa Leal",
+        "percentual": 16.11
+      },
+      {
+        "nome": "Carolina De Fatima Almeida Matos",
+        "percentual": 10.74
+      },
+      {
+        "nome": "Catarina Da Graca Almeida Matos",
+        "percentual": 10.74
+      },
+      {
+        "nome": "nbl industria grafica ltda",
+        "percentual": 58.85
+      },
+      {
+        "nome": "thiago gomes eloi 02336118351",
+        "percentual": 11.03
+      },
+      {
+        "nome": "vitoria barbosa veras",
+        "percentual": 9.46
+      },
+      {
+        "nome": "57.201.151 saulo castro medina",
+        "percentual": 9.46
+      },
+      {
+        "nome": "csa - contabilidade e calculos ltda",
+        "percentual": 9.46
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "nbl industria grafica ltda",
+        "percentual": 58.85
+      },
+      {
+        "nome": "thiago gomes eloi 02336118351",
+        "percentual": 11.03
+      },
+      {
+        "nome": "vitoria barbosa veras",
+        "percentual": 9.46
+      },
+      {
+        "nome": "57.201.151 saulo castro medina",
+        "percentual": 9.46
+      },
+      {
+        "nome": "csa - contabilidade e calculos ltda",
+        "percentual": 9.46
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Serley Leal",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Bancário e economiário",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60016845833",
+      "foto_url_original": "https://s2-g1.glbimg.com/oKeKLJ3nQqxzsScyimLjSw0xELo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/y/9Wz9vNTleS2Es1AwKIVw/serley-leal.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens e direitos R$ 23.717,54 Previdência privada",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 41.500,00 Renault sandero 2020",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 21.035,15 Fundos e ações",
+        "Outras aplicações e investimentos R$ 1.842,00 Demais aplicações"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 18625,
+      "despesas_total": 15861.78,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Up - Ceará",
+          "percentual": 32.21
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 29.88
+        },
+        {
+          "nome": "Serley De Sousa Leal",
+          "percentual": 16.11
+        },
+        {
+          "nome": "Carolina De Fatima Almeida Matos",
+          "percentual": 10.74
+        },
+        {
+          "nome": "Catarina Da Graca Almeida Matos",
+          "percentual": 10.74
+        },
+        {
+          "nome": "nbl industria grafica ltda",
+          "percentual": 58.85
+        },
+        {
+          "nome": "thiago gomes eloi 02336118351",
+          "percentual": 11.03
+        },
+        {
+          "nome": "vitoria barbosa veras",
+          "percentual": 9.46
+        },
+        {
+          "nome": "57.201.151 saulo castro medina",
+          "percentual": 9.46
+        },
+        {
+          "nome": "csa - contabilidade e calculos ltda",
+          "percentual": 9.46
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "nbl industria grafica ltda",
+          "percentual": 58.85
+        },
+        {
+          "nome": "thiago gomes eloi 02336118351",
+          "percentual": 11.03
+        },
+        {
+          "nome": "vitoria barbosa veras",
+          "percentual": 9.46
+        },
+        {
+          "nome": "57.201.151 saulo castro medina",
+          "percentual": 9.46
+        },
+        {
+          "nome": "csa - contabilidade e calculos ltda",
+          "percentual": 9.46
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ce-60002533729.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:56:47.751Z"
+  },
+  {
+    "slug": "60002553922",
+    "nome": "Vera Lúcia",
+    "partido": "NOVO",
+    "numero": 30,
+    "cargo": "governador",
+    "uf": "CE",
+    "foto_arquivo": "governador-ce-60002553922",
+    "foto_url_original": "https://s2-g1.glbimg.com/pazcC8efyyKgNNlAgn109FTNwLI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/n/ZI0lzlSH6KlSzgFBg4WA/vera-lucia.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ce/60002553922.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60017139080",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 660300,
+    "receitas_total": 488810.01,
+    "despesas_total": 230126.9,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Outros bens móveis",
+        "valor": 67800
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 102500
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Outras participações societárias",
+        "valor": 40000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa",
+        "valor": 450000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Novo",
+        "percentual": 86.44
+      },
+      {
+        "nome": "Luis Eduardo Grangeiro Girao",
+        "percentual": 13.5
+      },
+      {
+        "nome": "Direção Estadual/distrital - Novo - Ceará",
+        "percentual": 0.06
+      },
+      {
+        "nome": "norb producoes ltda",
+        "percentual": 32.59
+      },
+      {
+        "nome": "casqueiro producoes ltda",
+        "percentual": 24.77
+      },
+      {
+        "nome": "monteiro e monteiro advogados associados",
+        "percentual": 14.48
+      },
+      {
+        "nome": "apolinario contabil ltda",
+        "percentual": 7.6
+      },
+      {
+        "nome": "carlos augusto oliveira melo",
+        "percentual": 6.52
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "norb producoes ltda",
+        "percentual": 32.59
+      },
+      {
+        "nome": "casqueiro producoes ltda",
+        "percentual": 24.77
+      },
+      {
+        "nome": "monteiro e monteiro advogados associados",
+        "percentual": 14.48
+      },
+      {
+        "nome": "apolinario contabil ltda",
+        "percentual": 7.6
+      },
+      {
+        "nome": "carlos augusto oliveira melo",
+        "percentual": 6.52
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Vera Lúcia",
+      "partido_pagina": "NOVO",
+      "numero_pagina": 30,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60017139080",
+      "foto_url_original": "https://s2-g1.glbimg.com/pazcC8efyyKgNNlAgn109FTNwLI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/n/ZI0lzlSH6KlSzgFBg4WA/vera-lucia.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens móveis R$ 67.800,00 Outros bens móveis",
+        "Terreno R$ 102.500,00 Terreno",
+        "Outras participações societárias R$ 40.000,00 Outras participações societárias",
+        "Casa R$ 450.000,00 Casa"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 488810.01,
+      "despesas_total": 230126.9,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Novo",
+          "percentual": 86.44
+        },
+        {
+          "nome": "Luis Eduardo Grangeiro Girao",
+          "percentual": 13.5
+        },
+        {
+          "nome": "Direção Estadual/distrital - Novo - Ceará",
+          "percentual": 0.06
+        },
+        {
+          "nome": "norb producoes ltda",
+          "percentual": 32.59
+        },
+        {
+          "nome": "casqueiro producoes ltda",
+          "percentual": 24.77
+        },
+        {
+          "nome": "monteiro e monteiro advogados associados",
+          "percentual": 14.48
+        },
+        {
+          "nome": "apolinario contabil ltda",
+          "percentual": 7.6
+        },
+        {
+          "nome": "carlos augusto oliveira melo",
+          "percentual": 6.52
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "norb producoes ltda",
+          "percentual": 32.59
+        },
+        {
+          "nome": "casqueiro producoes ltda",
+          "percentual": 24.77
+        },
+        {
+          "nome": "monteiro e monteiro advogados associados",
+          "percentual": 14.48
+        },
+        {
+          "nome": "apolinario contabil ltda",
+          "percentual": 7.6
+        },
+        {
+          "nome": "carlos augusto oliveira melo",
+          "percentual": 6.52
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ce-60002553922.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:56:53.885Z"
+  },
+  {
+    "slug": "60002549967",
+    "nome": "Zé Batista",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "governador",
+    "uf": "CE",
+    "foto_arquivo": "governador-ce-60002549967",
+    "foto_url_original": "https://s2-g1.glbimg.com/OAKdQYq19fy-SnW1qX1HI4lGJ00=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/S/DJWX2xSmWy2YASwkyBjg/ze-batista.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ce/60002549967.ghtml",
+    "profissao": "Trabalhador de construção civil",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino fundamental incompleto",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60017085920",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 157000,
+    "receitas_total": 27502,
+    "despesas_total": 10000,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro",
+        "valor": 17000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Uma casa",
+        "valor": 140000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 100
+      },
+      {
+        "nome": "anacely de jesus rodrigues",
+        "percentual": 70
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 30
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "anacely de jesus rodrigues",
+        "percentual": 70
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 30
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Zé Batista",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Trabalhador de construção civil",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino fundamental incompleto",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/60017085920",
+      "foto_url_original": "https://s2-g1.glbimg.com/OAKdQYq19fy-SnW1qX1HI4lGJ00=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/S/DJWX2xSmWy2YASwkyBjg/ze-batista.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 17.000,00 Carro",
+        "Casa R$ 140.000,00 Uma casa"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 27502,
+      "despesas_total": 10000,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 100
+        },
+        {
+          "nome": "anacely de jesus rodrigues",
+          "percentual": 70
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 30
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "anacely de jesus rodrigues",
+          "percentual": 70
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 30
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ce-60002549967.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:56:58.199Z"
+  }
+]

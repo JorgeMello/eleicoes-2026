@@ -1,0 +1,630 @@
+[
+  {
+    "slug": "20002553350",
+    "nome": "Jhc",
+    "partido": "PSDB",
+    "numero": 45,
+    "cargo": "governador",
+    "uf": "AL",
+    "foto_arquivo": "governador-al-20002553350",
+    "foto_url_original": "https://s2-g1.glbimg.com/xtfMLZ3b5rp4ZDuRRYHtffyu6Ik=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/g/mSQXqTTPKKASLRhvWm1A/jhc.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/al/20002553350.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/20017121679",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 2244732.19,
+    "receitas_total": 4729000,
+    "despesas_total": 2938600.44,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança",
+        "valor": 286316.36
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas da empresa alagoas comunicacoes ltda",
+        "valor": 45000
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Saldo em dinheiro",
+        "valor": 18000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Renda fixa",
+        "valor": 237764.24
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente",
+        "valor": 36388.02
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhão trio elétrico ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhão trio elétrico ano 2003",
+        "valor": 70000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança",
+        "valor": 487
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50% de um apartamento em maceió",
+        "valor": 1550776.57
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pp",
+        "percentual": 63.44
+      },
+      {
+        "nome": "Direção Nacional - Cidadania",
+        "percentual": 31.72
+      },
+      {
+        "nome": "Mario Roberto Candia De Figueiredo",
+        "percentual": 4.23
+      },
+      {
+        "nome": "Direção Estadual/distrital - Psdb - Alagoas",
+        "percentual": 0.32
+      },
+      {
+        "nome": "Marina Antunes Candia E Figueiredo",
+        "percentual": 0.3
+      },
+      {
+        "nome": "grafpel ind grafica ltda",
+        "percentual": 17.77
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 11.23
+      },
+      {
+        "nome": "twobunker producoes ltda",
+        "percentual": 10.21
+      },
+      {
+        "nome": "ne eleicoes spe ltda",
+        "percentual": 8.51
+      },
+      {
+        "nome": "bomfim & jatoba advogados associados",
+        "percentual": 6.81
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "grafpel ind grafica ltda",
+        "percentual": 17.77
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 11.23
+      },
+      {
+        "nome": "twobunker producoes ltda",
+        "percentual": 10.21
+      },
+      {
+        "nome": "ne eleicoes spe ltda",
+        "percentual": 8.51
+      },
+      {
+        "nome": "bomfim & jatoba advogados associados",
+        "percentual": 6.81
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Jhc",
+      "partido_pagina": "PSDB",
+      "numero_pagina": 45,
+      "profissao": "Advogado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/20017121679",
+      "foto_url_original": "https://s2-g1.glbimg.com/xtfMLZ3b5rp4ZDuRRYHtffyu6Ik=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/g/mSQXqTTPKKASLRhvWm1A/jhc.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 286.316,36 Poupança",
+        "Quotas ou quinhões de capital R$ 45.000,00 Quotas da empresa alagoas comunicacoes ltda",
+        "Dinheiro em espécie - moeda nacional R$ 18.000,00 Saldo em dinheiro",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 237.764,24 Renda fixa",
+        "Depósito bancário em conta corrente no país R$ 36.388,02 Conta corrente",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 70.000,00 Caminhão trio elétrico ano 2003",
+        "Caderneta de poupança R$ 487,00 Poupança",
+        "Apartamento R$ 1.550.776,57 50% de um apartamento em maceió"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 4729000,
+      "despesas_total": 2938600.44,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pp",
+          "percentual": 63.44
+        },
+        {
+          "nome": "Direção Nacional - Cidadania",
+          "percentual": 31.72
+        },
+        {
+          "nome": "Mario Roberto Candia De Figueiredo",
+          "percentual": 4.23
+        },
+        {
+          "nome": "Direção Estadual/distrital - Psdb - Alagoas",
+          "percentual": 0.32
+        },
+        {
+          "nome": "Marina Antunes Candia E Figueiredo",
+          "percentual": 0.3
+        },
+        {
+          "nome": "grafpel ind grafica ltda",
+          "percentual": 17.77
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 11.23
+        },
+        {
+          "nome": "twobunker producoes ltda",
+          "percentual": 10.21
+        },
+        {
+          "nome": "ne eleicoes spe ltda",
+          "percentual": 8.51
+        },
+        {
+          "nome": "bomfim & jatoba advogados associados",
+          "percentual": 6.81
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "grafpel ind grafica ltda",
+          "percentual": 17.77
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 11.23
+        },
+        {
+          "nome": "twobunker producoes ltda",
+          "percentual": 10.21
+        },
+        {
+          "nome": "ne eleicoes spe ltda",
+          "percentual": 8.51
+        },
+        {
+          "nome": "bomfim & jatoba advogados associados",
+          "percentual": 6.81
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-al-20002553350.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:54:11.444Z"
+  },
+  {
+    "slug": "20002539642",
+    "nome": "Lenilda Luna",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "AL",
+    "foto_arquivo": "governador-al-20002539642",
+    "foto_url_original": "https://s2-g1.glbimg.com/-XUcw3wn5ryiRNC46lff_Nafb0w=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/j/H9zk4ZQLAIijF5F5zGWA/lenilda-luna.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/al/20002539642.ghtml",
+    "profissao": "Servidor público federal",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/20016934251",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 115000,
+    "receitas_total": 10770,
+    "despesas_total": 5705,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro hb20 1.6 2018/2019",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro hb20 1.6 2018/2019",
+        "valor": 55000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento financiado pelo fundo de arrendamento residencial",
+        "valor": 60000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 52.04
+      },
+      {
+        "nome": "Direção Estadual/distrital - Up - Alagoas",
+        "percentual": 47.03
+      },
+      {
+        "nome": "Elvira Simoes Barretto",
+        "percentual": 0.93
+      },
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 2.32
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 2.32
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Lenilda Luna",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Servidor público federal",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/20016934251",
+      "foto_url_original": "https://s2-g1.glbimg.com/-XUcw3wn5ryiRNC46lff_Nafb0w=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/j/H9zk4ZQLAIijF5F5zGWA/lenilda-luna.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 55.000,00 Carro hb20 1.6 2018/2019",
+        "Apartamento R$ 60.000,00 Apartamento financiado pelo fundo de arrendamento residencial"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 10770,
+      "despesas_total": 5705,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 52.04
+        },
+        {
+          "nome": "Direção Estadual/distrital - Up - Alagoas",
+          "percentual": 47.03
+        },
+        {
+          "nome": "Elvira Simoes Barretto",
+          "percentual": 0.93
+        },
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 2.32
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 2.32
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-al-20002539642.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:54:17.288Z"
+  },
+  {
+    "slug": "20002552502",
+    "nome": "Márcio Jambo",
+    "partido": "DEMOCRATA",
+    "numero": 35,
+    "cargo": "governador",
+    "uf": "AL",
+    "foto_arquivo": "governador-al-20002552502",
+    "foto_url_original": "https://s2-g1.glbimg.com/HR7iTlDZKh6AWz7qkE9zSQDTNqY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/S/mljKb5RBSmAmyf8EnXoA/marcio-jambo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/al/20002552502.ghtml",
+    "profissao": "Corretor de imóveis, seguros, títulos e valores",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/20017113582",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [
+      {
+        "ano": 2022,
+        "cargo": "Deputado federal",
+        "partido": "PMB",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Márcio Jambo",
+      "partido_pagina": "DEMOCRATA",
+      "numero_pagina": 35,
+      "profissao": "Corretor de imóveis, seguros, títulos e valores",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/20017113582",
+      "foto_url_original": "https://s2-g1.glbimg.com/HR7iTlDZKh6AWz7qkE9zSQDTNqY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/S/mljKb5RBSmAmyf8EnXoA/marcio-jambo.jpeg",
+      "historico": [
+        {
+          "ano": 2022,
+          "cargo": "Deputado federal",
+          "partido": "PMB",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 7115522.46,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-al-20002552502.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:54:23.677Z"
+  },
+  {
+    "slug": "20002553745",
+    "nome": "Renan Filho",
+    "partido": "MDB",
+    "numero": 15,
+    "cargo": "governador",
+    "uf": "AL",
+    "foto_arquivo": "governador-al-20002553745",
+    "foto_url_original": "https://s2-g1.glbimg.com/p6YCQ_SUMNVJm6-c_wRcgQen4WI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/z/vXnYinTBOayFAsROXHRA/renan-filho.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/al/20002553745.ghtml",
+    "profissao": "Economista",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/20017141344",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1785449.87,
+    "receitas_total": 7051780,
+    "despesas_total": 4823860.46,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação no capital social da empresa rádio correio",
+        "valor": 196709
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bb renda fixa longo prazo high fundo de investimento em cotas de fundos de investimento",
+        "valor": 267336.7
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação no capital social da empresa agropecuária alagoas ltda",
+        "valor": 2500
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta livre movimentação cef",
+        "valor": 586.8
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação no capital social da empresa sistema costa dourada de rádiofusão eireli",
+        "valor": 190000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo denza b5",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo denza b5",
+        "valor": 449000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo pajero sport legend mitsubish, 2023",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo pajero sport legend mitsubish, 2023",
+        "valor": 410000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento , maceió/al",
+        "valor": 269317.37
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 55.31
+      },
+      {
+        "nome": "Direção Nacional - Pode",
+        "percentual": 42.54
+      },
+      {
+        "nome": "Jose Renan Vasconcelos Calheiros Filho",
+        "percentual": 1.66
+      },
+      {
+        "nome": "Henry Hudson Amaral Lima",
+        "percentual": 0.26
+      },
+      {
+        "nome": "Carlos Eduardo Moura Do Nascimento",
+        "percentual": 0.09
+      },
+      {
+        "nome": "f7 comunicacao ltda",
+        "percentual": 40.84
+      },
+      {
+        "nome": "matheus campelo guimaraes da silva ltda",
+        "percentual": 9.33
+      },
+      {
+        "nome": "grafmarques industria editora e servicos ltda",
+        "percentual": 9.22
+      },
+      {
+        "nome": "vero filmes ltda",
+        "percentual": 8.4
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 5.97
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "f7 comunicacao ltda",
+        "percentual": 40.84
+      },
+      {
+        "nome": "matheus campelo guimaraes da silva ltda",
+        "percentual": 9.33
+      },
+      {
+        "nome": "grafmarques industria editora e servicos ltda",
+        "percentual": 9.22
+      },
+      {
+        "nome": "vero filmes ltda",
+        "percentual": 8.4
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 5.97
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Renan Filho",
+      "partido_pagina": "MDB",
+      "numero_pagina": 15,
+      "profissao": "Economista",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/20017141344",
+      "foto_url_original": "https://s2-g1.glbimg.com/p6YCQ_SUMNVJm6-c_wRcgQen4WI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/z/vXnYinTBOayFAsROXHRA/renan-filho.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outras participações societárias R$ 196.709,00 Participação no capital social da empresa rádio correio",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 267.336,70 Bb renda fixa longo prazo high fundo de investimento em cotas de fundos de investimento",
+        "Outras participações societárias R$ 2.500,00 Participação no capital social da empresa agropecuária alagoas ltda",
+        "Depósito bancário em conta corrente no país R$ 586,80 Conta livre movimentação cef",
+        "Outras participações societárias R$ 190.000,00 Participação no capital social da empresa sistema costa dourada de rádiofusão eireli",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 449.000,00 Veículo denza b5",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 410.000,00 Veículo pajero sport legend mitsubish, 2023",
+        "Apartamento R$ 269.317,37 Apartamento , maceió/al"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 7051780,
+      "despesas_total": 4823860.46,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 55.31
+        },
+        {
+          "nome": "Direção Nacional - Pode",
+          "percentual": 42.54
+        },
+        {
+          "nome": "Jose Renan Vasconcelos Calheiros Filho",
+          "percentual": 1.66
+        },
+        {
+          "nome": "Henry Hudson Amaral Lima",
+          "percentual": 0.26
+        },
+        {
+          "nome": "Carlos Eduardo Moura Do Nascimento",
+          "percentual": 0.09
+        },
+        {
+          "nome": "f7 comunicacao ltda",
+          "percentual": 40.84
+        },
+        {
+          "nome": "matheus campelo guimaraes da silva ltda",
+          "percentual": 9.33
+        },
+        {
+          "nome": "grafmarques industria editora e servicos ltda",
+          "percentual": 9.22
+        },
+        {
+          "nome": "vero filmes ltda",
+          "percentual": 8.4
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 5.97
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "f7 comunicacao ltda",
+          "percentual": 40.84
+        },
+        {
+          "nome": "matheus campelo guimaraes da silva ltda",
+          "percentual": 9.33
+        },
+        {
+          "nome": "grafmarques industria editora e servicos ltda",
+          "percentual": 9.22
+        },
+        {
+          "nome": "vero filmes ltda",
+          "percentual": 8.4
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 5.97
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-al-20002553745.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:54:30.709Z"
+  }
+]

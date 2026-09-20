@@ -1,0 +1,1312 @@
+[
+  {
+    "slug": "40002551740",
+    "nome": "Cabo Daciolo",
+    "partido": "MOB",
+    "numero": 33,
+    "cargo": "governador",
+    "uf": "AM",
+    "foto_arquivo": "governador-am-40002551740",
+    "foto_url_original": "https://s2-g1.glbimg.com/trpynbugcVsfCU8pp0mwOH-8dKg=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/7/PclnAIQMqxXIGlkQB0XA/cabo-daciolo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/am/40002551740.ghtml",
+    "profissao": "Militar reformado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/40017115862",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 190750,
+    "receitas_total": 10000,
+    "despesas_total": 0,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Um cavalo mangalarga marchador",
+        "valor": 10000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Um cavalo mangalarga marchador",
+        "valor": 25500
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Um cavalo mangalarga marchador",
+        "valor": 10000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Um cavalo mangalarga marchador",
+        "valor": 15000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Um cavalo mangalarga marchador",
+        "valor": 15000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Um cavalo mangalarga marchador",
+        "valor": 14000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital (participação) em empresa",
+        "valor": 1000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos 50% de um cavalo mangalarga marchador",
+        "valor": 18000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Um cavalo mangalarga marchador",
+        "valor": 8250
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Um cavalo mangalarga marchador",
+        "valor": 10000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Um cavalo mangalarga marchador",
+        "valor": 15000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Um cavalo mangalarga marchador",
+        "valor": 15000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos 50% de um cavalo mangalarga marchador",
+        "valor": 18000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Um cavalo mangalarga marchador",
+        "valor": 15000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital (participação) em empresa",
+        "valor": 1000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mobiliza",
+        "percentual": 100
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Cabo Daciolo",
+      "partido_pagina": "MOB",
+      "numero_pagina": 33,
+      "profissao": "Militar reformado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/40017115862",
+      "foto_url_original": "https://s2-g1.glbimg.com/trpynbugcVsfCU8pp0mwOH-8dKg=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/7/PclnAIQMqxXIGlkQB0XA/cabo-daciolo.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens e direitos R$ 10.000,00 Um cavalo mangalarga marchador",
+        "Outros bens e direitos R$ 25.500,00 Um cavalo mangalarga marchador",
+        "Outros bens e direitos R$ 10.000,00 Um cavalo mangalarga marchador",
+        "Outros bens e direitos R$ 15.000,00 Um cavalo mangalarga marchador",
+        "Outros bens e direitos R$ 15.000,00 Um cavalo mangalarga marchador",
+        "Outros bens e direitos R$ 14.000,00 Um cavalo mangalarga marchador",
+        "Quotas ou quinhões de capital R$ 1.000,00 Quotas de capital (participação) em empresa",
+        "Outros bens e direitos R$ 18.000,00 50% de um cavalo mangalarga marchador",
+        "Outros bens e direitos R$ 8.250,00 Um cavalo mangalarga marchador",
+        "Outros bens e direitos R$ 10.000,00 Um cavalo mangalarga marchador",
+        "Outros bens e direitos R$ 15.000,00 Um cavalo mangalarga marchador",
+        "Outros bens e direitos R$ 15.000,00 Um cavalo mangalarga marchador",
+        "Outros bens e direitos R$ 18.000,00 50% de um cavalo mangalarga marchador",
+        "Outros bens e direitos R$ 15.000,00 Um cavalo mangalarga marchador",
+        "Quotas ou quinhões de capital R$ 1.000,00 Quotas de capital (participação) em empresa"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 10000,
+      "despesas_total": 0,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mobiliza",
+          "percentual": 100
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-am-40002551740.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:55:05.173Z"
+  },
+  {
+    "slug": "40002536086",
+    "nome": "David Almeida",
+    "partido": "AVANTE",
+    "numero": 70,
+    "cargo": "governador",
+    "uf": "AM",
+    "foto_arquivo": "governador-am-40002536086",
+    "foto_url_original": "https://s2-g1.glbimg.com/P4Nn-3CqZ0h3Rg17iZ-vWpSpylw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/F/o9TM9ZRAy9c0ceCEyAdw/david-almeida.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/am/40002536086.ghtml",
+    "profissao": "Outros",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/40016870408",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1432848.4,
+    "receitas_total": 4300000,
+    "despesas_total": 4553257.59,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo",
+        "valor": 180000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Morro da liberdade",
+        "valor": 290000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Manaus",
+        "valor": 510000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 350000
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Moeda nacional",
+        "valor": 80000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Renda fixa",
+        "valor": 22848.4
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Avante",
+        "percentual": 100
+      },
+      {
+        "nome": "otto producoes ltda",
+        "percentual": 21.96
+      },
+      {
+        "nome": "borghi, kalil & kotsifas - advogados associados",
+        "percentual": 17.57
+      },
+      {
+        "nome": "grupo midia publicidades e eventos ltda",
+        "percentual": 10.98
+      },
+      {
+        "nome": "jacob & nogueira advogados",
+        "percentual": 6.59
+      },
+      {
+        "nome": "a o da silva junior producoes musicais",
+        "percentual": 6.59
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "otto producoes ltda",
+        "percentual": 21.96
+      },
+      {
+        "nome": "borghi, kalil & kotsifas - advogados associados",
+        "percentual": 17.57
+      },
+      {
+        "nome": "grupo midia publicidades e eventos ltda",
+        "percentual": 10.98
+      },
+      {
+        "nome": "jacob & nogueira advogados",
+        "percentual": 6.59
+      },
+      {
+        "nome": "a o da silva junior producoes musicais",
+        "percentual": 6.59
+      }
+    ],
+    "raw": {
+      "nome_pagina": "David Almeida",
+      "partido_pagina": "AVANTE",
+      "numero_pagina": 70,
+      "profissao": "Outros",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/40016870408",
+      "foto_url_original": "https://s2-g1.glbimg.com/P4Nn-3CqZ0h3Rg17iZ-vWpSpylw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/F/o9TM9ZRAy9c0ceCEyAdw/david-almeida.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 180.000,00 Veículo",
+        "Casa R$ 290.000,00 Morro da liberdade",
+        "Apartamento R$ 510.000,00 Manaus",
+        "Terreno R$ 350.000,00 Terreno",
+        "Dinheiro em espécie - moeda nacional R$ 80.000,00 Moeda nacional",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 22.848,40 Renda fixa"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 4300000,
+      "despesas_total": 4553257.59,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Avante",
+          "percentual": 100
+        },
+        {
+          "nome": "otto producoes ltda",
+          "percentual": 21.96
+        },
+        {
+          "nome": "borghi, kalil & kotsifas - advogados associados",
+          "percentual": 17.57
+        },
+        {
+          "nome": "grupo midia publicidades e eventos ltda",
+          "percentual": 10.98
+        },
+        {
+          "nome": "jacob & nogueira advogados",
+          "percentual": 6.59
+        },
+        {
+          "nome": "a o da silva junior producoes musicais",
+          "percentual": 6.59
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "otto producoes ltda",
+          "percentual": 21.96
+        },
+        {
+          "nome": "borghi, kalil & kotsifas - advogados associados",
+          "percentual": 17.57
+        },
+        {
+          "nome": "grupo midia publicidades e eventos ltda",
+          "percentual": 10.98
+        },
+        {
+          "nome": "jacob & nogueira advogados",
+          "percentual": 6.59
+        },
+        {
+          "nome": "a o da silva junior producoes musicais",
+          "percentual": 6.59
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-am-40002536086.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:55:10.892Z"
+  },
+  {
+    "slug": "40002535267",
+    "nome": "Gilberto Vasconcelos",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "governador",
+    "uf": "AM",
+    "foto_arquivo": "governador-am-40002535267",
+    "foto_url_original": "https://s2-g1.glbimg.com/G3KbmtX_CzNXnz0Q0Uqh8C4ilyE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/W/S6kDgESGyBTUvamVUnnQ/gilberto-vasconcelos.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/am/40002535267.ghtml",
+    "profissao": "Professor de ensino fundamental",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/40016865838",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 31002,
+    "despesas_total": 12500,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 83.87
+      },
+      {
+        "nome": "Bernardo Thiago Paiva Mesquita",
+        "percentual": 6.45
+      },
+      {
+        "nome": "Gilberto Vasconcelos Da Silva",
+        "percentual": 4.84
+      },
+      {
+        "nome": "Juliana Frota Reboucas",
+        "percentual": 4.84
+      },
+      {
+        "nome": "francisco de assis da silva filho",
+        "percentual": 72
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 20
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 8
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "francisco de assis da silva filho",
+        "percentual": 72
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 20
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 8
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Gilberto Vasconcelos",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Professor de ensino fundamental",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/40016865838",
+      "foto_url_original": "https://s2-g1.glbimg.com/G3KbmtX_CzNXnz0Q0Uqh8C4ilyE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/W/S6kDgESGyBTUvamVUnnQ/gilberto-vasconcelos.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 31002,
+      "despesas_total": 12500,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 83.87
+        },
+        {
+          "nome": "Bernardo Thiago Paiva Mesquita",
+          "percentual": 6.45
+        },
+        {
+          "nome": "Gilberto Vasconcelos Da Silva",
+          "percentual": 4.84
+        },
+        {
+          "nome": "Juliana Frota Reboucas",
+          "percentual": 4.84
+        },
+        {
+          "nome": "francisco de assis da silva filho",
+          "percentual": 72
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 20
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 8
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "francisco de assis da silva filho",
+          "percentual": 72
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 20
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 8
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-am-40002535267.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:55:16.215Z"
+  },
+  {
+    "slug": "40002550776",
+    "nome": "Isael Munduruku",
+    "partido": "REDE",
+    "numero": 18,
+    "cargo": "governador",
+    "uf": "AM",
+    "foto_arquivo": "governador-am-40002550776",
+    "foto_url_original": "https://s2-g1.glbimg.com/WOeCsfX-nyER5OS1JulF3ofhoYc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/U/yg7W1tQBSbqAj3R7sptA/isael-munduruku.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/am/40002550776.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Indígena",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/40017097265",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1657000,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Edificada",
+        "valor": 1500000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "valor": 95000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "valor": 62000
+      }
+    ],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Isael Munduruku",
+      "partido_pagina": "REDE",
+      "numero_pagina": 18,
+      "profissao": "Advogado",
+      "cor_etnia": "Indígena",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/40017097265",
+      "foto_url_original": "https://s2-g1.glbimg.com/WOeCsfX-nyER5OS1JulF3ofhoYc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/U/yg7W1tQBSbqAj3R7sptA/isael-munduruku.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 1.500.000,00 Edificada",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 95.000,00 Automóvel",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 62.000,00 Automóvel"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 7115522.46,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-am-40002550776.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:55:20.526Z"
+  },
+  {
+    "slug": "40002532272",
+    "nome": "Omar Aziz",
+    "partido": "PSD",
+    "numero": 55,
+    "cargo": "governador",
+    "uf": "AM",
+    "foto_arquivo": "governador-am-40002532272",
+    "foto_url_original": "https://s2-g1.glbimg.com/ZJpzRbEifptLztbJGWkI29O9kR0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/o/4HKafoR1Wa3vbin5CdGw/omar-aziz.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/am/40002532272.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/40017124955",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 2070608.0000000002,
+    "receitas_total": 6120000,
+    "despesas_total": 5780356.67,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa",
+        "valor": 670133.39
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Fundo de investimento - renda fixa",
+        "valor": 993654.23
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lotes de terra",
+        "valor": 320000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação financeira",
+        "valor": 125.84
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação financeira",
+        "valor": 86694.54
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Republicanos",
+        "percentual": 49.02
+      },
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 49.02
+      },
+      {
+        "nome": "Francisco Rocha Da Silva",
+        "percentual": 1.63
+      },
+      {
+        "nome": "Mario Silva Barreiro",
+        "percentual": 0.33
+      },
+      {
+        "nome": "cta - cleiton taxi aereo ltda",
+        "percentual": 10.29
+      },
+      {
+        "nome": "blackup ltda",
+        "percentual": 6.92
+      },
+      {
+        "nome": "jose heretiano da silva neto",
+        "percentual": 3.11
+      },
+      {
+        "nome": "figliuolo, gentil, tavares & brandao sociedade de advogados",
+        "percentual": 2.59
+      },
+      {
+        "nome": "odoia publicidade ltda",
+        "percentual": 2.59
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "cta - cleiton taxi aereo ltda",
+        "percentual": 10.29
+      },
+      {
+        "nome": "blackup ltda",
+        "percentual": 6.92
+      },
+      {
+        "nome": "jose heretiano da silva neto",
+        "percentual": 3.11
+      },
+      {
+        "nome": "figliuolo, gentil, tavares & brandao sociedade de advogados",
+        "percentual": 2.59
+      },
+      {
+        "nome": "odoia publicidade ltda",
+        "percentual": 2.59
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Omar Aziz",
+      "partido_pagina": "PSD",
+      "numero_pagina": 55,
+      "profissao": "Senador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/40017124955",
+      "foto_url_original": "https://s2-g1.glbimg.com/ZJpzRbEifptLztbJGWkI29O9kR0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/o/4HKafoR1Wa3vbin5CdGw/omar-aziz.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 670.133,39 Casa",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 993.654,23 Fundo de investimento - renda fixa",
+        "Terreno R$ 320.000,00 Lotes de terra",
+        "Outras aplicações e investimentos R$ 125,84 Aplicação financeira",
+        "Outras aplicações e investimentos R$ 86.694,54 Aplicação financeira"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 6120000,
+      "despesas_total": 5780356.67,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Republicanos",
+          "percentual": 49.02
+        },
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 49.02
+        },
+        {
+          "nome": "Francisco Rocha Da Silva",
+          "percentual": 1.63
+        },
+        {
+          "nome": "Mario Silva Barreiro",
+          "percentual": 0.33
+        },
+        {
+          "nome": "cta - cleiton taxi aereo ltda",
+          "percentual": 10.29
+        },
+        {
+          "nome": "blackup ltda",
+          "percentual": 6.92
+        },
+        {
+          "nome": "jose heretiano da silva neto",
+          "percentual": 3.11
+        },
+        {
+          "nome": "figliuolo, gentil, tavares & brandao sociedade de advogados",
+          "percentual": 2.59
+        },
+        {
+          "nome": "odoia publicidade ltda",
+          "percentual": 2.59
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "cta - cleiton taxi aereo ltda",
+          "percentual": 10.29
+        },
+        {
+          "nome": "blackup ltda",
+          "percentual": 6.92
+        },
+        {
+          "nome": "jose heretiano da silva neto",
+          "percentual": 3.11
+        },
+        {
+          "nome": "figliuolo, gentil, tavares & brandao sociedade de advogados",
+          "percentual": 2.59
+        },
+        {
+          "nome": "odoia publicidade ltda",
+          "percentual": 2.59
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-am-40002532272.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:55:27.556Z"
+  },
+  {
+    "slug": "40002541626",
+    "nome": "Professora Maria Do Carmo",
+    "partido": "PL",
+    "numero": 22,
+    "cargo": "governador",
+    "uf": "AM",
+    "foto_arquivo": "governador-am-40002541626",
+    "foto_url_original": "https://s2-g1.glbimg.com/JuZvC4-RLo4iOHKQoE2OeY_RQCs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/a/eiOOjFT4O7ZKKLZ30BDQ/professora-maria-do-carmo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/am/40002541626.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/40017005304",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 118473769.48,
+    "receitas_total": 4530000,
+    "despesas_total": 5841925.24,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária",
+        "valor": 2500
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Previdencia privada",
+        "valor": 1734239.57
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Credito com pessoa juridica",
+        "valor": 92004111.43
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação financeira",
+        "valor": 40306.36
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária",
+        "valor": 1
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária",
+        "valor": 100000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária",
+        "valor": 97000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária",
+        "valor": 7600000
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio não contemplado",
+        "valor": 9558.88
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária",
+        "valor": 1
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária",
+        "valor": 5000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária",
+        "valor": 25000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente",
+        "valor": 636.87
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio não contemplado",
+        "valor": 4962.09
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel",
+        "valor": 5444036
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação financeira",
+        "valor": 999642
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária",
+        "valor": 190000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária",
+        "valor": 192000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária",
+        "valor": 375000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente",
+        "valor": 13267.24
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Previdencia privada",
+        "valor": 2402509.27
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio não contemplado",
+        "valor": 5306.68
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no exterior",
+        "descricao": "Depósito bancário em conta corrente no exterior Moedas extrangeiras",
+        "valor": 151628.09
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio não contemplado",
+        "valor": 9558.88
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária",
+        "valor": 50000
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio não contemplado",
+        "valor": 16104.12
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária",
+        "valor": 7001400
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 99.34
+      },
+      {
+        "nome": "Maria Do Carmo Seffair Lins De Albuquerque",
+        "percentual": 0.66
+      },
+      {
+        "nome": "sergio roberto bulcao bringel junior sociedade individual de advocacia",
+        "percentual": 16.79
+      },
+      {
+        "nome": "nucleo estrategico de pesquisa ltda.",
+        "percentual": 12.28
+      },
+      {
+        "nome": "g. wilde silva de oliveira",
+        "percentual": 8.56
+      },
+      {
+        "nome": "jobgraf servicos graficos ltda",
+        "percentual": 8.56
+      },
+      {
+        "nome": "asc comunicacoes e producoes ltda",
+        "percentual": 6.85
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "sergio roberto bulcao bringel junior sociedade individual de advocacia",
+        "percentual": 16.79
+      },
+      {
+        "nome": "nucleo estrategico de pesquisa ltda.",
+        "percentual": 12.28
+      },
+      {
+        "nome": "g. wilde silva de oliveira",
+        "percentual": 8.56
+      },
+      {
+        "nome": "jobgraf servicos graficos ltda",
+        "percentual": 8.56
+      },
+      {
+        "nome": "asc comunicacoes e producoes ltda",
+        "percentual": 6.85
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Professora Maria Do Carmo",
+      "partido_pagina": "PL",
+      "numero_pagina": 22,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/40017005304",
+      "foto_url_original": "https://s2-g1.glbimg.com/JuZvC4-RLo4iOHKQoE2OeY_RQCs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/a/eiOOjFT4O7ZKKLZ30BDQ/professora-maria-do-carmo.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outras participações societárias R$ 2.500,00 Participação societária",
+        "Outros fundos R$ 1.734.239,57 Previdencia privada",
+        "Outros créditos e poupança vinculados R$ 92.004.111,43 Credito com pessoa juridica",
+        "Outras aplicações e investimentos R$ 40.306,36 Aplicação financeira",
+        "Outras participações societárias R$ 1,00 Participação societária",
+        "Outras participações societárias R$ 100.000,00 Participação societária",
+        "Outras participações societárias R$ 97.000,00 Participação societária",
+        "Outras participações societárias R$ 7.600.000,00 Participação societária",
+        "Consórcio não contemplado R$ 9.558,88 Consorcio não contemplado",
+        "Outras participações societárias R$ 1,00 Participação societária",
+        "Outras participações societárias R$ 5.000,00 Participação societária",
+        "Outras participações societárias R$ 25.000,00 Participação societária",
+        "Depósito bancário em conta corrente no país R$ 636,87 Conta corrente",
+        "Consórcio não contemplado R$ 4.962,09 Consorcio não contemplado",
+        "Outros bens imóveis R$ 5.444.036,00 Imovel",
+        "Outras aplicações e investimentos R$ 999.642,00 Aplicação financeira",
+        "Outras participações societárias R$ 190.000,00 Participação societária",
+        "Outras participações societárias R$ 192.000,00 Participação societária",
+        "Outras participações societárias R$ 375.000,00 Participação societária",
+        "Depósito bancário em conta corrente no país R$ 13.267,24 Conta corrente",
+        "Outros fundos R$ 2.402.509,27 Previdencia privada",
+        "Consórcio não contemplado R$ 5.306,68 Consorcio não contemplado",
+        "Depósito bancário em conta corrente no exterior R$ 151.628,09 Moedas extrangeiras",
+        "Consórcio não contemplado R$ 9.558,88 Consorcio não contemplado",
+        "Outras participações societárias R$ 50.000,00 Participação societária",
+        "Consórcio não contemplado R$ 16.104,12 Consorcio não contemplado",
+        "Outras participações societárias R$ 7.001.400,00 Participação societária"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 4530000,
+      "despesas_total": 5841925.24,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 99.34
+        },
+        {
+          "nome": "Maria Do Carmo Seffair Lins De Albuquerque",
+          "percentual": 0.66
+        },
+        {
+          "nome": "sergio roberto bulcao bringel junior sociedade individual de advocacia",
+          "percentual": 16.79
+        },
+        {
+          "nome": "nucleo estrategico de pesquisa ltda.",
+          "percentual": 12.28
+        },
+        {
+          "nome": "g. wilde silva de oliveira",
+          "percentual": 8.56
+        },
+        {
+          "nome": "jobgraf servicos graficos ltda",
+          "percentual": 8.56
+        },
+        {
+          "nome": "asc comunicacoes e producoes ltda",
+          "percentual": 6.85
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "sergio roberto bulcao bringel junior sociedade individual de advocacia",
+          "percentual": 16.79
+        },
+        {
+          "nome": "nucleo estrategico de pesquisa ltda.",
+          "percentual": 12.28
+        },
+        {
+          "nome": "g. wilde silva de oliveira",
+          "percentual": 8.56
+        },
+        {
+          "nome": "jobgraf servicos graficos ltda",
+          "percentual": 8.56
+        },
+        {
+          "nome": "asc comunicacoes e producoes ltda",
+          "percentual": 6.85
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-am-40002541626.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:55:33.357Z"
+  },
+  {
+    "slug": "40002541741",
+    "nome": "Roberto Cidade",
+    "partido": "UNIÃO",
+    "numero": 44,
+    "cargo": "governador",
+    "uf": "AM",
+    "foto_arquivo": "governador-am-40002541741",
+    "foto_url_original": "https://s2-g1.glbimg.com/B9t27n4A8DyRtt5exBQ4JCjVZO4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/A/xmfWoZT6qHjBeawJBDqA/roberto-cidade.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/am/40002541741.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/40017006462",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 4285400.8,
+    "receitas_total": 4119376.7,
+    "despesas_total": 4925780,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta poupança caixa economica federal",
+        "valor": 22003.93
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno/fração - lote",
+        "valor": 25000
+      },
+      {
+        "tipo": "Plano pait e caderneta de pecúlio",
+        "descricao": "Plano pait e caderneta de pecúlio Peculio da previdencia privada",
+        "valor": 16768.11
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 492809.9
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 300000
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Premios acumulados em vgbl",
+        "valor": 100000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 450000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bradesco (cbd)",
+        "valor": 158337.86
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Bradesco",
+        "valor": 1
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 1220000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 1350480
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro em espécie",
+        "valor": 150000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - União",
+        "percentual": 93.6
+      },
+      {
+        "nome": "Direção Estadual/distrital - União - Amazonas",
+        "percentual": 3.67
+      },
+      {
+        "nome": "Roberto Maia Cidade Filho",
+        "percentual": 0.49
+      },
+      {
+        "nome": "Rodrigo Costa De Lima",
+        "percentual": 0.36
+      },
+      {
+        "nome": "Luzia Aldenise Nascimento Albuquerque",
+        "percentual": 0.07
+      },
+      {
+        "nome": "victoriana producoes ltda",
+        "percentual": 11.17
+      },
+      {
+        "nome": "alpha producoes de eventos ltda",
+        "percentual": 10.15
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 7.31
+      },
+      {
+        "nome": "yuri dantas barroso & advogados",
+        "percentual": 5.08
+      },
+      {
+        "nome": "zaidan e zaidan filho advogados",
+        "percentual": 5.08
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "victoriana producoes ltda",
+        "percentual": 11.17
+      },
+      {
+        "nome": "alpha producoes de eventos ltda",
+        "percentual": 10.15
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 7.31
+      },
+      {
+        "nome": "yuri dantas barroso & advogados",
+        "percentual": 5.08
+      },
+      {
+        "nome": "zaidan e zaidan filho advogados",
+        "percentual": 5.08
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Roberto Cidade",
+      "partido_pagina": "UNIÃO",
+      "numero_pagina": 44,
+      "profissao": "Governador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/40017006462",
+      "foto_url_original": "https://s2-g1.glbimg.com/B9t27n4A8DyRtt5exBQ4JCjVZO4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/A/xmfWoZT6qHjBeawJBDqA/roberto-cidade.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Depósito bancário em conta corrente no país R$ 22.003,93 Conta poupança caixa economica federal",
+        "Terreno R$ 25.000,00 Terreno/fração - lote",
+        "Plano pait e caderneta de pecúlio R$ 16.768,11 Peculio da previdencia privada",
+        "Apartamento R$ 492.809,90 Apartamento",
+        "Terreno R$ 300.000,00 Terreno",
+        "Vgbl - vida gerador de benefício livre R$ 100.000,00 Premios acumulados em vgbl",
+        "Apartamento R$ 450.000,00 Apartamento",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 158.337,86 Bradesco (cbd)",
+        "Depósito bancário em conta corrente no país R$ 1,00 Bradesco",
+        "Terreno R$ 1.220.000,00 Terreno",
+        "Terreno R$ 1.350.480,00 Terreno",
+        "Dinheiro em espécie - moeda nacional R$ 150.000,00 Dinheiro em espécie"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 4119376.7,
+      "despesas_total": 4925780,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - União",
+          "percentual": 93.6
+        },
+        {
+          "nome": "Direção Estadual/distrital - União - Amazonas",
+          "percentual": 3.67
+        },
+        {
+          "nome": "Roberto Maia Cidade Filho",
+          "percentual": 0.49
+        },
+        {
+          "nome": "Rodrigo Costa De Lima",
+          "percentual": 0.36
+        },
+        {
+          "nome": "Luzia Aldenise Nascimento Albuquerque",
+          "percentual": 0.07
+        },
+        {
+          "nome": "victoriana producoes ltda",
+          "percentual": 11.17
+        },
+        {
+          "nome": "alpha producoes de eventos ltda",
+          "percentual": 10.15
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 7.31
+        },
+        {
+          "nome": "yuri dantas barroso & advogados",
+          "percentual": 5.08
+        },
+        {
+          "nome": "zaidan e zaidan filho advogados",
+          "percentual": 5.08
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "victoriana producoes ltda",
+          "percentual": 11.17
+        },
+        {
+          "nome": "alpha producoes de eventos ltda",
+          "percentual": 10.15
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 7.31
+        },
+        {
+          "nome": "yuri dantas barroso & advogados",
+          "percentual": 5.08
+        },
+        {
+          "nome": "zaidan e zaidan filho advogados",
+          "percentual": 5.08
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-am-40002541741.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:55:37.922Z"
+  }
+]

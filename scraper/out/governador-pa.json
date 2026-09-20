@@ -1,0 +1,922 @@
+[
+  {
+    "slug": "140002542386",
+    "nome": "Araceli",
+    "partido": "PSOL",
+    "numero": 50,
+    "cargo": "governador",
+    "uf": "PA",
+    "foto_arquivo": "governador-pa-140002542386",
+    "foto_url_original": "https://s2-g1.glbimg.com/i4_joYNTMEZsjG84eP1C1PmM_Vs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/U/wk4sm4Q4i5Ii50Ph7koA/araceli.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pa/140002542386.ghtml",
+    "profissao": "Aposentado (exceto servidor público)",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/140017134577",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 534231.19,
+    "receitas_total": 1382244.27,
+    "despesas_total": 494979.04,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação em renda fixa no sicoob",
+        "valor": 31000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente banco do brasil",
+        "valor": 34408.48
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação em renda fixa no banpara",
+        "valor": 23898.72
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote urbano",
+        "valor": 380000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 50% de um apartamento",
+        "valor": 55000
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Cooperativa de crédito sicoob",
+        "valor": 9923.99
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 76.69
+      },
+      {
+        "nome": "Direção Estadual/distrital - Psol - Pará",
+        "percentual": 23.31
+      },
+      {
+        "nome": "tucupix ltda",
+        "percentual": 37.38
+      },
+      {
+        "nome": "penna & russo advocacia",
+        "percentual": 24.24
+      },
+      {
+        "nome": "dinora cassia valente pereira",
+        "percentual": 3.48
+      },
+      {
+        "nome": "25.364.816 edvaldo da costa magno",
+        "percentual": 2.67
+      },
+      {
+        "nome": "quatro estacoes turismo ltda",
+        "percentual": 2.12
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "tucupix ltda",
+        "percentual": 37.38
+      },
+      {
+        "nome": "penna & russo advocacia",
+        "percentual": 24.24
+      },
+      {
+        "nome": "dinora cassia valente pereira",
+        "percentual": 3.48
+      },
+      {
+        "nome": "25.364.816 edvaldo da costa magno",
+        "percentual": 2.67
+      },
+      {
+        "nome": "quatro estacoes turismo ltda",
+        "percentual": 2.12
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Araceli",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 50,
+      "profissao": "Aposentado (exceto servidor público)",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/140017134577",
+      "foto_url_original": "https://s2-g1.glbimg.com/i4_joYNTMEZsjG84eP1C1PmM_Vs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/U/wk4sm4Q4i5Ii50Ph7koA/araceli.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 31.000,00 Aplicação em renda fixa no sicoob",
+        "Depósito bancário em conta corrente no país R$ 34.408,48 Saldo em conta corrente banco do brasil",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 23.898,72 Aplicação em renda fixa no banpara",
+        "Terreno R$ 380.000,00 Lote urbano",
+        "Outros bens imóveis R$ 55.000,00 50% de um apartamento",
+        "Outros créditos e poupança vinculados R$ 9.923,99 Cooperativa de crédito sicoob"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 1382244.27,
+      "despesas_total": 494979.04,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 76.69
+        },
+        {
+          "nome": "Direção Estadual/distrital - Psol - Pará",
+          "percentual": 23.31
+        },
+        {
+          "nome": "tucupix ltda",
+          "percentual": 37.38
+        },
+        {
+          "nome": "penna & russo advocacia",
+          "percentual": 24.24
+        },
+        {
+          "nome": "dinora cassia valente pereira",
+          "percentual": 3.48
+        },
+        {
+          "nome": "25.364.816 edvaldo da costa magno",
+          "percentual": 2.67
+        },
+        {
+          "nome": "quatro estacoes turismo ltda",
+          "percentual": 2.12
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "tucupix ltda",
+          "percentual": 37.38
+        },
+        {
+          "nome": "penna & russo advocacia",
+          "percentual": 24.24
+        },
+        {
+          "nome": "dinora cassia valente pereira",
+          "percentual": 3.48
+        },
+        {
+          "nome": "25.364.816 edvaldo da costa magno",
+          "percentual": 2.67
+        },
+        {
+          "nome": "quatro estacoes turismo ltda",
+          "percentual": 2.12
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pa-140002542386.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:02:15.385Z"
+  },
+  {
+    "slug": "140002549930",
+    "nome": "Dr. Daniel",
+    "partido": "PODE",
+    "numero": 20,
+    "cargo": "governador",
+    "uf": "PA",
+    "foto_arquivo": "governador-pa-140002549930",
+    "foto_url_original": "https://s2-g1.glbimg.com/OGTSHuE6mVfXeEDOeVOLOgwneSk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Q/FAnUMxTB26Jwo8ifEiAA/dr.-daniel.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pa/140002549930.ghtml",
+    "profissao": "Médico",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/140017085515",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 4753760.8,
+    "receitas_total": 2805000,
+    "despesas_total": 1826662.88,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa",
+        "valor": 692049.84
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro",
+        "valor": 151000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Propriedade rural",
+        "valor": 1000000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Propriedade rural",
+        "valor": 1800000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro",
+        "valor": 240000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Empresa agropecuária",
+        "valor": 100000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Propriedade rural",
+        "valor": 350000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 138710.96
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 170000
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro",
+        "valor": 112000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pode",
+        "percentual": 99.82
+      },
+      {
+        "nome": "Patricia Kelly Da Silva Resque Campos",
+        "percentual": 0.18
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 64.6
+      },
+      {
+        "nome": "moura e figueiredo contabilidade ltda",
+        "percentual": 4.38
+      },
+      {
+        "nome": "f g de melo ltda",
+        "percentual": 4.15
+      },
+      {
+        "nome": "joyo tecnologia brasil ltda.",
+        "percentual": 2.74
+      },
+      {
+        "nome": "posto cristo ltda.",
+        "percentual": 2.42
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 64.6
+      },
+      {
+        "nome": "moura e figueiredo contabilidade ltda",
+        "percentual": 4.38
+      },
+      {
+        "nome": "f g de melo ltda",
+        "percentual": 4.15
+      },
+      {
+        "nome": "joyo tecnologia brasil ltda.",
+        "percentual": 2.74
+      },
+      {
+        "nome": "posto cristo ltda.",
+        "percentual": 2.42
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Dr. Daniel",
+      "partido_pagina": "PODE",
+      "numero_pagina": 20,
+      "profissao": "Médico",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/140017085515",
+      "foto_url_original": "https://s2-g1.glbimg.com/OGTSHuE6mVfXeEDOeVOLOgwneSk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Q/FAnUMxTB26Jwo8ifEiAA/dr.-daniel.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 692.049,84 Casa",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 151.000,00 Carro",
+        "Outros bens imóveis R$ 1.000.000,00 Propriedade rural",
+        "Outros bens imóveis R$ 1.800.000,00 Propriedade rural",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 240.000,00 Carro",
+        "Quotas ou quinhões de capital R$ 100.000,00 Empresa agropecuária",
+        "Outros bens imóveis R$ 350.000,00 Propriedade rural",
+        "Terreno R$ 138.710,96 Terreno",
+        "Terreno R$ 170.000,00 Terreno",
+        "Dinheiro em espécie - moeda nacional R$ 112.000,00 Dinheiro"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 2805000,
+      "despesas_total": 1826662.88,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pode",
+          "percentual": 99.82
+        },
+        {
+          "nome": "Patricia Kelly Da Silva Resque Campos",
+          "percentual": 0.18
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 64.6
+        },
+        {
+          "nome": "moura e figueiredo contabilidade ltda",
+          "percentual": 4.38
+        },
+        {
+          "nome": "f g de melo ltda",
+          "percentual": 4.15
+        },
+        {
+          "nome": "joyo tecnologia brasil ltda.",
+          "percentual": 2.74
+        },
+        {
+          "nome": "posto cristo ltda.",
+          "percentual": 2.42
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 64.6
+        },
+        {
+          "nome": "moura e figueiredo contabilidade ltda",
+          "percentual": 4.38
+        },
+        {
+          "nome": "f g de melo ltda",
+          "percentual": 4.15
+        },
+        {
+          "nome": "joyo tecnologia brasil ltda.",
+          "percentual": 2.74
+        },
+        {
+          "nome": "posto cristo ltda.",
+          "percentual": 2.42
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pa-140002549930.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:02:21.374Z"
+  },
+  {
+    "slug": "140002551943",
+    "nome": "Gal Leite",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "PA",
+    "foto_arquivo": "governador-pa-140002551943",
+    "foto_url_original": "https://s2-g1.glbimg.com/O63OiO2UUnDbH2Emte2DpJb94ac=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/P/jbbvDETXmLrjpSJoWAag/gal-leite.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pa/140002551943.ghtml",
+    "profissao": "Aposentado (exceto servidor público)",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/140017106691",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 4670,
+    "despesas_total": 93.72,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 100
+      },
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 100
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 100
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Gal Leite",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Aposentado (exceto servidor público)",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/140017106691",
+      "foto_url_original": "https://s2-g1.glbimg.com/O63OiO2UUnDbH2Emte2DpJb94ac=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/P/jbbvDETXmLrjpSJoWAag/gal-leite.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 4670,
+      "despesas_total": 93.72,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 100
+        },
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 100
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 100
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pa-140002551943.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:02:25.810Z"
+  },
+  {
+    "slug": "140002551598",
+    "nome": "Hana Ghassan",
+    "partido": "MDB",
+    "numero": 15,
+    "cargo": "governador",
+    "uf": "PA",
+    "foto_arquivo": "governador-pa-140002551598",
+    "foto_url_original": "https://s2-g1.glbimg.com/cUYENqwpmQv42-ZuROiE9dZLrm8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/A/w7pefvTtKjvPxnBSBfvQ/hana-ghassan.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pa/140002551598.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/140017108621",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1670461,
+    "receitas_total": 8127141.97,
+    "despesas_total": 2950281.27,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro em especie",
+        "valor": 20000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Outros bens e direitos",
+        "valor": 50000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bb lca",
+        "valor": 40000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente",
+        "valor": 30461
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Cdb bb pre",
+        "valor": 440000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 900000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Compass",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Compass 21/22",
+        "valor": 190000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 98.44
+      },
+      {
+        "nome": "Direção Estadual/distrital - Mdb - Pará",
+        "percentual": 1.23
+      },
+      {
+        "nome": "Renilce Conceicao Nicodemos De Albuquerque",
+        "percentual": 0.18
+      },
+      {
+        "nome": "Maria Da Conceicao Silva Vieira",
+        "percentual": 0.12
+      },
+      {
+        "nome": "Jair Lopes Martins",
+        "percentual": 0.03
+      },
+      {
+        "nome": "3d estudios ltda",
+        "percentual": 33.9
+      },
+      {
+        "nome": "palavra comunicacao e marketing ltda",
+        "percentual": 28.13
+      },
+      {
+        "nome": "costa impressoes ltda",
+        "percentual": 16.29
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 8.47
+      },
+      {
+        "nome": "pinheiro & penafort advogados associados s/s",
+        "percentual": 4.07
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "3d estudios ltda",
+        "percentual": 33.9
+      },
+      {
+        "nome": "palavra comunicacao e marketing ltda",
+        "percentual": 28.13
+      },
+      {
+        "nome": "costa impressoes ltda",
+        "percentual": 16.29
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 8.47
+      },
+      {
+        "nome": "pinheiro & penafort advogados associados s/s",
+        "percentual": 4.07
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Hana Ghassan",
+      "partido_pagina": "MDB",
+      "numero_pagina": 15,
+      "profissao": "Governador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/140017108621",
+      "foto_url_original": "https://s2-g1.glbimg.com/cUYENqwpmQv42-ZuROiE9dZLrm8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/A/w7pefvTtKjvPxnBSBfvQ/hana-ghassan.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Dinheiro em espécie - moeda nacional R$ 20.000,00 Dinheiro em especie",
+        "Outros bens e direitos R$ 50.000,00 Outros bens e direitos",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 40.000,00 Bb lca",
+        "Depósito bancário em conta corrente no país R$ 30.461,00 Conta corrente",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 440.000,00 Cdb bb pre",
+        "Apartamento R$ 900.000,00 Apartamento",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 190.000,00 Compass 21/22"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 8127141.97,
+      "despesas_total": 2950281.27,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 98.44
+        },
+        {
+          "nome": "Direção Estadual/distrital - Mdb - Pará",
+          "percentual": 1.23
+        },
+        {
+          "nome": "Renilce Conceicao Nicodemos De Albuquerque",
+          "percentual": 0.18
+        },
+        {
+          "nome": "Maria Da Conceicao Silva Vieira",
+          "percentual": 0.12
+        },
+        {
+          "nome": "Jair Lopes Martins",
+          "percentual": 0.03
+        },
+        {
+          "nome": "3d estudios ltda",
+          "percentual": 33.9
+        },
+        {
+          "nome": "palavra comunicacao e marketing ltda",
+          "percentual": 28.13
+        },
+        {
+          "nome": "costa impressoes ltda",
+          "percentual": 16.29
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 8.47
+        },
+        {
+          "nome": "pinheiro & penafort advogados associados s/s",
+          "percentual": 4.07
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "3d estudios ltda",
+          "percentual": 33.9
+        },
+        {
+          "nome": "palavra comunicacao e marketing ltda",
+          "percentual": 28.13
+        },
+        {
+          "nome": "costa impressoes ltda",
+          "percentual": 16.29
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 8.47
+        },
+        {
+          "nome": "pinheiro & penafort advogados associados s/s",
+          "percentual": 4.07
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pa-140002551598.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:02:32.140Z"
+  },
+  {
+    "slug": "140002554434",
+    "nome": "Ruth Reis",
+    "partido": "DEMOCRATA",
+    "numero": 35,
+    "cargo": "governador",
+    "uf": "PA",
+    "foto_arquivo": "governador-pa-140002554434",
+    "foto_url_original": "https://s2-g1.glbimg.com/km0LQ0ile0SwCT_B2C9PsgvzMGc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/w/CTpTA2TYmbqOBw9CAk0A/ruth-reis.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pa/140002554434.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/140017140331",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1324017.48,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa residencial",
+        "valor": 700000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Banco bradesco s.a - saldo conta poupanca",
+        "valor": 4763.98
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis 08 computadores completos",
+        "valor": 17580
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Dinheiro em conta corrente",
+        "valor": 1589.5
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Um apartamento ed. prime",
+        "valor": 274000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Jeep renegade longitude t270 flex",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Jeep renegade longitude t270 flex",
+        "valor": 146023
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Cnpj: 02.342.620/0001-34",
+        "valor": 60000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo conta corrente",
+        "valor": 1
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Uma casa residencial",
+        "valor": 48900
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Moveis e utensilios",
+        "valor": 8360
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Um terreno",
+        "valor": 62800
+      }
+    ],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Ruth Reis",
+      "partido_pagina": "DEMOCRATA",
+      "numero_pagina": 35,
+      "profissao": "Advogado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/140017140331",
+      "foto_url_original": "https://s2-g1.glbimg.com/km0LQ0ile0SwCT_B2C9PsgvzMGc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/w/CTpTA2TYmbqOBw9CAk0A/ruth-reis.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 700.000,00 Casa residencial",
+        "Caderneta de poupança R$ 4.763,98 Banco bradesco s.a - saldo conta poupanca",
+        "Outros bens móveis R$ 17.580,00 08 computadores completos",
+        "Depósito bancário em conta corrente no país R$ 1.589,50 Dinheiro em conta corrente",
+        "Apartamento R$ 274.000,00 Um apartamento ed. prime",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 146.023,00 Jeep renegade longitude t270 flex",
+        "Quotas ou quinhões de capital R$ 60.000,00 Cnpj: 02.342.620/0001-34",
+        "Depósito bancário em conta corrente no país R$ 1,00 Saldo conta corrente",
+        "Casa R$ 48.900,00 Uma casa residencial",
+        "Outros bens móveis R$ 8.360,00 Moveis e utensilios",
+        "Terreno R$ 62.800,00 Um terreno"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 11562724,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pa-140002554434.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:02:37.865Z"
+  },
+  {
+    "slug": "140002554108",
+    "nome": "Well Macedo",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "governador",
+    "uf": "PA",
+    "foto_arquivo": "governador-pa-140002554108",
+    "foto_url_original": "https://s2-g1.glbimg.com/z8vgJLlRdTJfVTgSCcFWZCVYsWs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/z/GH4TNIScik55UQzgMNyA/well-macedo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pa/140002554108.ghtml",
+    "profissao": "Comunicólogo",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/140017131010",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 34462,
+    "despesas_total": 10000,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 100
+      },
+      {
+        "nome": "anacely de jesus rodrigues",
+        "percentual": 70
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 30
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "anacely de jesus rodrigues",
+        "percentual": 70
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 30
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Well Macedo",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Comunicólogo",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/140017131010",
+      "foto_url_original": "https://s2-g1.glbimg.com/z8vgJLlRdTJfVTgSCcFWZCVYsWs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/z/GH4TNIScik55UQzgMNyA/well-macedo.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 34462,
+      "despesas_total": 10000,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 100
+        },
+        {
+          "nome": "anacely de jesus rodrigues",
+          "percentual": 70
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 30
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "anacely de jesus rodrigues",
+          "percentual": 70
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 30
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pa-140002554108.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:02:44.359Z"
+  }
+]

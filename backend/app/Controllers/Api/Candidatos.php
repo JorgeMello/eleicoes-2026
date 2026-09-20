@@ -21,9 +21,14 @@ class Candidatos extends BaseController
         $profissao  = trim((string) ($this->request->getGet('profissao') ?? ''));
         $instrucao  = trim((string) ($this->request->getGet('instrucao') ?? ''));
         $cor        = trim((string) ($this->request->getGet('cor') ?? ''));
+        $uf         = trim((string) ($this->request->getGet('uf') ?? ''));
         $ordenar    = $this->request->getGet('ordenar') ?? 'nome';
 
         $builder = $model->where('cargo', $cargo);
+
+        if ($uf !== '') {
+            $builder = $builder->where('uf', $uf);
+        }
 
         if ($busca !== '') {
             $builder = $builder->groupStart()

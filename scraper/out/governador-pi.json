@@ -1,0 +1,1546 @@
+[
+  {
+    "slug": "180002544216",
+    "nome": "Dra. Lúcia Santos",
+    "partido": "PSDB",
+    "numero": 45,
+    "cargo": "governador",
+    "uf": "PI",
+    "foto_arquivo": "governador-pi-180002544216",
+    "foto_url_original": "https://s2-g1.glbimg.com/gDUKysLZCDmefDNF6-LZr5cAipY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/E/90Du3STbC15WOvQJOFJw/dra.-lucia-santos.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pi/180002544216.ghtml",
+    "profissao": "Médico",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180017036523",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 799134.68,
+    "receitas_total": 87500,
+    "despesas_total": 57302,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 3 fracao hard rock hotal e resort",
+        "valor": 204000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Nubank aplicacao e investimentos",
+        "valor": 210000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupanca caixa",
+        "valor": 40000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno adquirido em 2026",
+        "valor": 240000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa residencial",
+        "valor": 24234.68
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo toro",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo toro 2016",
+        "valor": 60000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento quitado 12/07/2014",
+        "valor": 10000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente caixa",
+        "valor": 10900
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psdb",
+        "percentual": 80
+      },
+      {
+        "nome": "Lucia Maria De Sousa Aguiar Dos Santos",
+        "percentual": 20
+      },
+      {
+        "nome": "gilvan carneiro de andrade filho",
+        "percentual": 26.18
+      },
+      {
+        "nome": "x conexoes consultoria e produtora ltda",
+        "percentual": 16.84
+      },
+      {
+        "nome": "b p c de carvalho ltda",
+        "percentual": 9.77
+      },
+      {
+        "nome": "amanda andrade da rocha",
+        "percentual": 9.18
+      },
+      {
+        "nome": "maria da conceicao da silva araujo",
+        "percentual": 8.73
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "gilvan carneiro de andrade filho",
+        "percentual": 26.18
+      },
+      {
+        "nome": "x conexoes consultoria e produtora ltda",
+        "percentual": 16.84
+      },
+      {
+        "nome": "b p c de carvalho ltda",
+        "percentual": 9.77
+      },
+      {
+        "nome": "amanda andrade da rocha",
+        "percentual": 9.18
+      },
+      {
+        "nome": "maria da conceicao da silva araujo",
+        "percentual": 8.73
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Dra. Lúcia Santos",
+      "partido_pagina": "PSDB",
+      "numero_pagina": 45,
+      "profissao": "Médico",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180017036523",
+      "foto_url_original": "https://s2-g1.glbimg.com/gDUKysLZCDmefDNF6-LZr5cAipY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/E/90Du3STbC15WOvQJOFJw/dra.-lucia-santos.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens imóveis R$ 204.000,00 3 fracao hard rock hotal e resort",
+        "Outras aplicações e investimentos R$ 210.000,00 Nubank aplicacao e investimentos",
+        "Caderneta de poupança R$ 40.000,00 Poupanca caixa",
+        "Terreno R$ 240.000,00 Terreno adquirido em 2026",
+        "Casa R$ 24.234,68 Casa residencial",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 60.000,00 Veículo toro 2016",
+        "Apartamento R$ 10.000,00 Apartamento quitado 12/07/2014",
+        "Depósito bancário em conta corrente no país R$ 10.900,00 Conta corrente caixa"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 87500,
+      "despesas_total": 57302,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psdb",
+          "percentual": 80
+        },
+        {
+          "nome": "Lucia Maria De Sousa Aguiar Dos Santos",
+          "percentual": 20
+        },
+        {
+          "nome": "gilvan carneiro de andrade filho",
+          "percentual": 26.18
+        },
+        {
+          "nome": "x conexoes consultoria e produtora ltda",
+          "percentual": 16.84
+        },
+        {
+          "nome": "b p c de carvalho ltda",
+          "percentual": 9.77
+        },
+        {
+          "nome": "amanda andrade da rocha",
+          "percentual": 9.18
+        },
+        {
+          "nome": "maria da conceicao da silva araujo",
+          "percentual": 8.73
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "gilvan carneiro de andrade filho",
+          "percentual": 26.18
+        },
+        {
+          "nome": "x conexoes consultoria e produtora ltda",
+          "percentual": 16.84
+        },
+        {
+          "nome": "b p c de carvalho ltda",
+          "percentual": 9.77
+        },
+        {
+          "nome": "amanda andrade da rocha",
+          "percentual": 9.18
+        },
+        {
+          "nome": "maria da conceicao da silva araujo",
+          "percentual": 8.73
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pi-180002544216.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:04:49.326Z"
+  },
+  {
+    "slug": "180002549920",
+    "nome": "Elizeu Aguiar",
+    "partido": "NOVO",
+    "numero": 30,
+    "cargo": "governador",
+    "uf": "PI",
+    "foto_arquivo": "governador-pi-180002549920",
+    "foto_url_original": "https://s2-g1.glbimg.com/MVwS9JhWiiihBMCMD64BELw4Rh4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/l/D8g036RLm2h1KBI3rQaw/elizeu-aguiar.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pi/180002549920.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180017085378",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1592808,
+    "receitas_total": 45734.15,
+    "despesas_total": 36912.71,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Um terreno",
+        "valor": 40000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo toyota corolla",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo toyota corolla",
+        "valor": 802808
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Uma casa residencial",
+        "valor": 750000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Novo",
+        "percentual": 76.53
+      },
+      {
+        "nome": "Direção Estadual/distrital - Novo - Piauí",
+        "percentual": 9.84
+      },
+      {
+        "nome": "Maria Do Carmo Ribeiro De Morais Aguiar",
+        "percentual": 6.47
+      },
+      {
+        "nome": "Francisco Das Chagas Oliveira",
+        "percentual": 4.19
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 2.97
+      },
+      {
+        "nome": "fortlight comunicacao ltda",
+        "percentual": 28.61
+      },
+      {
+        "nome": "viviane alves sociedade individual de advocacia",
+        "percentual": 27.09
+      },
+      {
+        "nome": "39.266.123 vitor henrique soares pedrosa almeida",
+        "percentual": 20.59
+      },
+      {
+        "nome": "l l propag entretenimentos artisticos ltda",
+        "percentual": 9.48
+      },
+      {
+        "nome": "j d solucoes contabeis & tributarias ltda",
+        "percentual": 5.42
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "fortlight comunicacao ltda",
+        "percentual": 28.61
+      },
+      {
+        "nome": "viviane alves sociedade individual de advocacia",
+        "percentual": 27.09
+      },
+      {
+        "nome": "39.266.123 vitor henrique soares pedrosa almeida",
+        "percentual": 20.59
+      },
+      {
+        "nome": "l l propag entretenimentos artisticos ltda",
+        "percentual": 9.48
+      },
+      {
+        "nome": "j d solucoes contabeis & tributarias ltda",
+        "percentual": 5.42
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Elizeu Aguiar",
+      "partido_pagina": "NOVO",
+      "numero_pagina": 30,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180017085378",
+      "foto_url_original": "https://s2-g1.glbimg.com/MVwS9JhWiiihBMCMD64BELw4Rh4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/l/D8g036RLm2h1KBI3rQaw/elizeu-aguiar.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 40.000,00 Um terreno",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 802.808,00 Veículo toyota corolla",
+        "Casa R$ 750.000,00 Uma casa residencial"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 45734.15,
+      "despesas_total": 36912.71,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Novo",
+          "percentual": 76.53
+        },
+        {
+          "nome": "Direção Estadual/distrital - Novo - Piauí",
+          "percentual": 9.84
+        },
+        {
+          "nome": "Maria Do Carmo Ribeiro De Morais Aguiar",
+          "percentual": 6.47
+        },
+        {
+          "nome": "Francisco Das Chagas Oliveira",
+          "percentual": 4.19
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 2.97
+        },
+        {
+          "nome": "fortlight comunicacao ltda",
+          "percentual": 28.61
+        },
+        {
+          "nome": "viviane alves sociedade individual de advocacia",
+          "percentual": 27.09
+        },
+        {
+          "nome": "39.266.123 vitor henrique soares pedrosa almeida",
+          "percentual": 20.59
+        },
+        {
+          "nome": "l l propag entretenimentos artisticos ltda",
+          "percentual": 9.48
+        },
+        {
+          "nome": "j d solucoes contabeis & tributarias ltda",
+          "percentual": 5.42
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "fortlight comunicacao ltda",
+          "percentual": 28.61
+        },
+        {
+          "nome": "viviane alves sociedade individual de advocacia",
+          "percentual": 27.09
+        },
+        {
+          "nome": "39.266.123 vitor henrique soares pedrosa almeida",
+          "percentual": 20.59
+        },
+        {
+          "nome": "l l propag entretenimentos artisticos ltda",
+          "percentual": 9.48
+        },
+        {
+          "nome": "j d solucoes contabeis & tributarias ltda",
+          "percentual": 5.42
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pi-180002549920.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:04:53.829Z"
+  },
+  {
+    "slug": "180002537422",
+    "nome": "Geraldo Carvalho",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "governador",
+    "uf": "PI",
+    "foto_arquivo": "governador-pi-180002537422",
+    "foto_url_original": "https://s2-g1.glbimg.com/yBvCjtvexpARf9hzZrbR_UJLfVM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/5/mf7jLJTAeEqFwMlWNLrg/geraldo-carvalho.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pi/180002537422.ghtml",
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180016885807",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 200590,
+    "receitas_total": 27002,
+    "despesas_total": 21000,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Sítio denominado trapiazin, nº 5739, comunidade mata velha, adquirido o direito de uso em 2012, com área de 3 hectares, com casa, poço artesiano, cercado de arame farpado e outras benfeitorias.",
+        "valor": 150000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel novo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel novo - kwid zen 1.0 - 2021/2022 - chassi: 93yrbb008nj916777 cil 999",
+        "valor": 50590
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 100
+      },
+      {
+        "nome": "caio augusto tadeu carvalho de almeida",
+        "percentual": 28.57
+      },
+      {
+        "nome": "wilson da silva barbosa 06154989490",
+        "percentual": 28.57
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 11.9
+      },
+      {
+        "nome": "solimar silva",
+        "percentual": 11.9
+      },
+      {
+        "nome": "clesiana santos madeiros",
+        "percentual": 9.52
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "caio augusto tadeu carvalho de almeida",
+        "percentual": 28.57
+      },
+      {
+        "nome": "wilson da silva barbosa 06154989490",
+        "percentual": 28.57
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 11.9
+      },
+      {
+        "nome": "solimar silva",
+        "percentual": 11.9
+      },
+      {
+        "nome": "clesiana santos madeiros",
+        "percentual": 9.52
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Geraldo Carvalho",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Professor de ensino superior",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180016885807",
+      "foto_url_original": "https://s2-g1.glbimg.com/yBvCjtvexpARf9hzZrbR_UJLfVM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/5/mf7jLJTAeEqFwMlWNLrg/geraldo-carvalho.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 150.000,00 Sítio denominado trapiazin, nº 5739, comunidade mata velha, adquirido o direito de uso em 2012, com área de 3 hectares, com casa, poço artesiano, cercado de arame farpado e outras benfeitorias.",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 50.590,00 Automóvel novo - kwid zen 1.0 - 2021/2022 - chassi: 93yrbb008nj916777 cil 999"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 27002,
+      "despesas_total": 21000,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 100
+        },
+        {
+          "nome": "caio augusto tadeu carvalho de almeida",
+          "percentual": 28.57
+        },
+        {
+          "nome": "wilson da silva barbosa 06154989490",
+          "percentual": 28.57
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 11.9
+        },
+        {
+          "nome": "solimar silva",
+          "percentual": 11.9
+        },
+        {
+          "nome": "clesiana santos madeiros",
+          "percentual": 9.52
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "caio augusto tadeu carvalho de almeida",
+          "percentual": 28.57
+        },
+        {
+          "nome": "wilson da silva barbosa 06154989490",
+          "percentual": 28.57
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 11.9
+        },
+        {
+          "nome": "solimar silva",
+          "percentual": 11.9
+        },
+        {
+          "nome": "clesiana santos madeiros",
+          "percentual": 9.52
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pi-180002537422.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:04:59.082Z"
+  },
+  {
+    "slug": "180002538530",
+    "nome": "Joel Rodrigues",
+    "partido": "PP",
+    "numero": 11,
+    "cargo": "governador",
+    "uf": "PI",
+    "foto_arquivo": "governador-pi-180002538530",
+    "foto_url_original": "https://s2-g1.glbimg.com/iEEXITcj-Mly9xUCtfXVfiW_8TM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/6/k3XRU3QVufg3FvmALDkA/joel-rodrigues.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pi/180002538530.ghtml",
+    "profissao": "Técnico contabilidade, estatística, economia doméstica e administração",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180016896994",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1688256.2,
+    "receitas_total": 7154680.6,
+    "despesas_total": 2108677.51,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro",
+        "valor": 22000
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Banco do brasil",
+        "valor": 24159.4
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente banco nordeste",
+        "valor": 1101.3
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Residencial",
+        "valor": 900000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro ano 2021/22",
+        "valor": 175000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro ano 2023/24",
+        "valor": 175800
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Residencial",
+        "valor": 300000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Ourocap",
+        "valor": 1402.83
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Fração",
+        "valor": 80000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente banco do brasil",
+        "valor": 8792.67
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pp",
+        "percentual": 72.65
+      },
+      {
+        "nome": "Direção Nacional - União",
+        "percentual": 26.34
+      },
+      {
+        "nome": "Francisco Antonio Carvalho Viana",
+        "percentual": 0.31
+      },
+      {
+        "nome": "Joel Rodrigues Da Silva",
+        "percentual": 0.21
+      },
+      {
+        "nome": "Ciro Nogueira Lima Filho",
+        "percentual": 0.18
+      },
+      {
+        "nome": "delu comunicacao ltda",
+        "percentual": 16.6
+      },
+      {
+        "nome": "halley sa grafica e editora",
+        "percentual": 9.64
+      },
+      {
+        "nome": "r. de castro santos",
+        "percentual": 8.31
+      },
+      {
+        "nome": "r r s eventos e transportes ltda",
+        "percentual": 7.33
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 7.11
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "delu comunicacao ltda",
+        "percentual": 16.6
+      },
+      {
+        "nome": "halley sa grafica e editora",
+        "percentual": 9.64
+      },
+      {
+        "nome": "r. de castro santos",
+        "percentual": 8.31
+      },
+      {
+        "nome": "r r s eventos e transportes ltda",
+        "percentual": 7.33
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 7.11
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Joel Rodrigues",
+      "partido_pagina": "PP",
+      "numero_pagina": 11,
+      "profissao": "Técnico contabilidade, estatística, economia doméstica e administração",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180016896994",
+      "foto_url_original": "https://s2-g1.glbimg.com/iEEXITcj-Mly9xUCtfXVfiW_8TM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/6/k3XRU3QVufg3FvmALDkA/joel-rodrigues.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Dinheiro em espécie - moeda nacional R$ 22.000,00 Dinheiro",
+        "Consórcio não contemplado R$ 24.159,40 Banco do brasil",
+        "Depósito bancário em conta corrente no país R$ 1.101,30 Conta corrente banco nordeste",
+        "Casa R$ 900.000,00 Residencial",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 175.000,00 Carro ano 2021/22",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 175.800,00 Carro ano 2023/24",
+        "Apartamento R$ 300.000,00 Residencial",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 1.402,83 Ourocap",
+        "Terreno R$ 80.000,00 Fração",
+        "Depósito bancário em conta corrente no país R$ 8.792,67 Conta corrente banco do brasil"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 7154680.6,
+      "despesas_total": 2108677.51,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pp",
+          "percentual": 72.65
+        },
+        {
+          "nome": "Direção Nacional - União",
+          "percentual": 26.34
+        },
+        {
+          "nome": "Francisco Antonio Carvalho Viana",
+          "percentual": 0.31
+        },
+        {
+          "nome": "Joel Rodrigues Da Silva",
+          "percentual": 0.21
+        },
+        {
+          "nome": "Ciro Nogueira Lima Filho",
+          "percentual": 0.18
+        },
+        {
+          "nome": "delu comunicacao ltda",
+          "percentual": 16.6
+        },
+        {
+          "nome": "halley sa grafica e editora",
+          "percentual": 9.64
+        },
+        {
+          "nome": "r. de castro santos",
+          "percentual": 8.31
+        },
+        {
+          "nome": "r r s eventos e transportes ltda",
+          "percentual": 7.33
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 7.11
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "delu comunicacao ltda",
+          "percentual": 16.6
+        },
+        {
+          "nome": "halley sa grafica e editora",
+          "percentual": 9.64
+        },
+        {
+          "nome": "r. de castro santos",
+          "percentual": 8.31
+        },
+        {
+          "nome": "r r s eventos e transportes ltda",
+          "percentual": 7.33
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 7.11
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pi-180002538530.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:05:03.211Z"
+  },
+  {
+    "slug": "180002553722",
+    "nome": "Lourdes Melo",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "PI",
+    "foto_arquivo": "governador-pi-180002553722",
+    "foto_url_original": "https://s2-g1.glbimg.com/sRCzVAa03UmRfCs_NL4xepCMJtY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/v/eUwLWfRdmujds3nX0OVA/lourdes-melo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pi/180002553722.ghtml",
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180017123680",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 450000,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro",
+        "valor": 150000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imóvel residencial",
+        "valor": 300000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2022,
+        "cargo": "Governador",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2010,
+        "cargo": "Governador",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Lourdes Melo",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Professor de ensino médio",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180017123680",
+      "foto_url_original": "https://s2-g1.glbimg.com/sRCzVAa03UmRfCs_NL4xepCMJtY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/v/eUwLWfRdmujds3nX0OVA/lourdes-melo.jpeg",
+      "historico": [
+        {
+          "ano": 2022,
+          "cargo": "Governador",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2010,
+          "cargo": "Governador",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 150.000,00 Carro",
+        "Casa R$ 300.000,00 Imóvel residencial"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 7115522.46,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pi-180002553722.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:05:08.693Z"
+  },
+  {
+    "slug": "180002549970",
+    "nome": "Professor Gisvaldo",
+    "partido": "PSOL",
+    "numero": 50,
+    "cargo": "governador",
+    "uf": "PI",
+    "foto_arquivo": "governador-pi-180002549970",
+    "foto_url_original": "https://s2-g1.glbimg.com/_YUICyXbtVh8jVtKLVy-38h6RjU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/4/jn3Ee9RtyVnS2rjOgBjw/professor-gisvaldo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pi/180002549970.ghtml",
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180017085957",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 100000,
+    "receitas_total": 97610,
+    "despesas_total": 72654.8,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "28/08/2026 • Atualizado há 22 dias\n\nDado",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento de 48,0 m2 - valor: 100.000,00",
+        "valor": 100000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 96.3
+      },
+      {
+        "nome": "Queroapoiar.com.br Ltda",
+        "percentual": 3.7
+      },
+      {
+        "nome": "46.294.915 thiago cruz dos santos",
+        "percentual": 17.2
+      },
+      {
+        "nome": "i. h. martins silveira",
+        "percentual": 12.99
+      },
+      {
+        "nome": "helio vinicius mesquita silva",
+        "percentual": 10.32
+      },
+      {
+        "nome": "lucas de oliveira martins",
+        "percentual": 10.32
+      },
+      {
+        "nome": "ohana luize alves lima",
+        "percentual": 10.32
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "46.294.915 thiago cruz dos santos",
+        "percentual": 17.2
+      },
+      {
+        "nome": "i. h. martins silveira",
+        "percentual": 12.99
+      },
+      {
+        "nome": "helio vinicius mesquita silva",
+        "percentual": 10.32
+      },
+      {
+        "nome": "lucas de oliveira martins",
+        "percentual": 10.32
+      },
+      {
+        "nome": "ohana luize alves lima",
+        "percentual": 10.32
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Professor Gisvaldo",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 50,
+      "profissao": "Professor de ensino superior",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180017085957",
+      "foto_url_original": "https://s2-g1.glbimg.com/_YUICyXbtVh8jVtKLVy-38h6RjU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/4/jn3Ee9RtyVnS2rjOgBjw/professor-gisvaldo.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 100.000,00 Apartamento de 48,0 m2 - valor: 100.000,00"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 97610,
+      "despesas_total": 72654.8,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 96.3
+        },
+        {
+          "nome": "Queroapoiar.com.br Ltda",
+          "percentual": 3.7
+        },
+        {
+          "nome": "46.294.915 thiago cruz dos santos",
+          "percentual": 17.2
+        },
+        {
+          "nome": "i. h. martins silveira",
+          "percentual": 12.99
+        },
+        {
+          "nome": "helio vinicius mesquita silva",
+          "percentual": 10.32
+        },
+        {
+          "nome": "lucas de oliveira martins",
+          "percentual": 10.32
+        },
+        {
+          "nome": "ohana luize alves lima",
+          "percentual": 10.32
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "46.294.915 thiago cruz dos santos",
+          "percentual": 17.2
+        },
+        {
+          "nome": "i. h. martins silveira",
+          "percentual": 12.99
+        },
+        {
+          "nome": "helio vinicius mesquita silva",
+          "percentual": 10.32
+        },
+        {
+          "nome": "lucas de oliveira martins",
+          "percentual": 10.32
+        },
+        {
+          "nome": "ohana luize alves lima",
+          "percentual": 10.32
+        }
+      ],
+      "fonte_atualizado_em": "28/08/2026 • Atualizado há 22 dias\n\nDado"
+    },
+    "foto_local": "/uploads/candidatos/governador-pi-180002549970.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:05:14.812Z"
+  },
+  {
+    "slug": "180002548565",
+    "nome": "Professor Jurity",
+    "partido": "DC",
+    "numero": 27,
+    "cargo": "governador",
+    "uf": "PI",
+    "foto_arquivo": "governador-pi-180002548565",
+    "foto_url_original": "https://s2-g1.glbimg.com/pZy3lUiy8w8AKFf8TXQIbTxWZbk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/3/4MrYaRQRuYAkrvJsQPcQ/professor-jurity.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pi/180002548565.ghtml",
+    "profissao": "Servidor público civil aposentado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180017073593",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 998500,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Uma casa residencial - teresina - pi",
+        "valor": 500000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno - teresina - pi",
+        "valor": 150000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux sw4 2016/2017",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux sw4 2016/2017",
+        "valor": 200000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societaria na empresa santuario buffet e eventos ltda - cnpj: 17.365.058/0001-31",
+        "valor": 51000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societaria na empresa sociedade de ensino superior do piauí - cnpj: 04.641.466/0001-27",
+        "valor": 47500
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societaria na empresa templario buffet e eventos ltda - cnpj: 17.365.089/0001-92",
+        "valor": 50000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2010,
+        "cargo": "Deputado federal",
+        "partido": "PSC",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Professor Jurity",
+      "partido_pagina": "DC",
+      "numero_pagina": 27,
+      "profissao": "Servidor público civil aposentado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180017073593",
+      "foto_url_original": "https://s2-g1.glbimg.com/pZy3lUiy8w8AKFf8TXQIbTxWZbk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/3/4MrYaRQRuYAkrvJsQPcQ/professor-jurity.jpeg",
+      "historico": [
+        {
+          "ano": 2010,
+          "cargo": "Deputado federal",
+          "partido": "PSC",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Casa R$ 500.000,00 Uma casa residencial - teresina - pi",
+        "Terreno R$ 150.000,00 Terreno - teresina - pi",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 200.000,00 Hilux sw4 2016/2017",
+        "Outras participações societárias R$ 51.000,00 Participação societaria na empresa santuario buffet e eventos ltda - cnpj: 17.365.058/0001-31",
+        "Outras participações societárias R$ 47.500,00 Participação societaria na empresa sociedade de ensino superior do piauí - cnpj: 04.641.466/0001-27",
+        "Outras participações societárias R$ 50.000,00 Participação societaria na empresa templario buffet e eventos ltda - cnpj: 17.365.089/0001-92"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 7115522.46,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pi-180002548565.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:05:22.455Z"
+  },
+  {
+    "slug": "180002532987",
+    "nome": "Rafael Fonteles",
+    "partido": "PT",
+    "numero": 13,
+    "cargo": "governador",
+    "uf": "PI",
+    "foto_arquivo": "governador-pi-180002532987",
+    "foto_url_original": "https://s2-g1.glbimg.com/AUWrigkuKD2qftZABbrgyJJ_9qc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/e/50m9JFSASV0jBcCeBQ5A/rafael-fonteles.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pi/180002532987.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180016838798",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1799948.6,
+    "receitas_total": 2255609.46,
+    "despesas_total": 5632064.13,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel sw4 2021-2021",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel sw4 2021-2021",
+        "valor": 290000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Participação no capital social na empresa tf3 participações s.a. com 79.200 ações",
+        "valor": 198000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imóvel em teresina correspondente a 20ha de um total de 60hs, financiado",
+        "valor": 950000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em cardeneta de pupança na cef",
+        "valor": 4374.37
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel chevrolet s10 ltz dd4a",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel chevrolet s10 ltz dd4a 2021\\2022",
+        "valor": 270000
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro em espécie",
+        "valor": 60000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta no banco do brasil",
+        "valor": 27574.23
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 31.55
+      },
+      {
+        "nome": "Florentino Alves Veras Neto",
+        "percentual": 22.17
+      },
+      {
+        "nome": "Rafael Tajra Fonteles",
+        "percentual": 5.72
+      },
+      {
+        "nome": "Flavio Chaib",
+        "percentual": 1.55
+      },
+      {
+        "nome": "Alberto Elias Hidd Neto",
+        "percentual": 1.55
+      },
+      {
+        "nome": "sieart grafica e editora ltda",
+        "percentual": 35.31
+      },
+      {
+        "nome": "close audiovisual ltda",
+        "percentual": 14.2
+      },
+      {
+        "nome": "eletrica locacoes e eventos ltda",
+        "percentual": 10.65
+      },
+      {
+        "nome": "green ltda",
+        "percentual": 8.92
+      },
+      {
+        "nome": "empresa brasileira de correios e telegrafos",
+        "percentual": 7.48
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "sieart grafica e editora ltda",
+        "percentual": 35.31
+      },
+      {
+        "nome": "close audiovisual ltda",
+        "percentual": 14.2
+      },
+      {
+        "nome": "eletrica locacoes e eventos ltda",
+        "percentual": 10.65
+      },
+      {
+        "nome": "green ltda",
+        "percentual": 8.92
+      },
+      {
+        "nome": "empresa brasileira de correios e telegrafos",
+        "percentual": 7.48
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Rafael Fonteles",
+      "partido_pagina": "PT",
+      "numero_pagina": 13,
+      "profissao": "Governador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180016838798",
+      "foto_url_original": "https://s2-g1.glbimg.com/AUWrigkuKD2qftZABbrgyJJ_9qc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/e/50m9JFSASV0jBcCeBQ5A/rafael-fonteles.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 290.000,00 Automóvel sw4 2021-2021",
+        "Outras aplicações e investimentos R$ 198.000,00 Participação no capital social na empresa tf3 participações s.a. com 79.200 ações",
+        "Outros bens imóveis R$ 950.000,00 Imóvel em teresina correspondente a 20ha de um total de 60hs, financiado",
+        "Caderneta de poupança R$ 4.374,37 Saldo em cardeneta de pupança na cef",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 270.000,00 Automóvel chevrolet s10 ltz dd4a 2021\\2022",
+        "Dinheiro em espécie - moeda nacional R$ 60.000,00 Dinheiro em espécie",
+        "Depósito bancário em conta corrente no país R$ 27.574,23 Saldo em conta no banco do brasil"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 2255609.46,
+      "despesas_total": 5632064.13,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 31.55
+        },
+        {
+          "nome": "Florentino Alves Veras Neto",
+          "percentual": 22.17
+        },
+        {
+          "nome": "Rafael Tajra Fonteles",
+          "percentual": 5.72
+        },
+        {
+          "nome": "Flavio Chaib",
+          "percentual": 1.55
+        },
+        {
+          "nome": "Alberto Elias Hidd Neto",
+          "percentual": 1.55
+        },
+        {
+          "nome": "sieart grafica e editora ltda",
+          "percentual": 35.31
+        },
+        {
+          "nome": "close audiovisual ltda",
+          "percentual": 14.2
+        },
+        {
+          "nome": "eletrica locacoes e eventos ltda",
+          "percentual": 10.65
+        },
+        {
+          "nome": "green ltda",
+          "percentual": 8.92
+        },
+        {
+          "nome": "empresa brasileira de correios e telegrafos",
+          "percentual": 7.48
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "sieart grafica e editora ltda",
+          "percentual": 35.31
+        },
+        {
+          "nome": "close audiovisual ltda",
+          "percentual": 14.2
+        },
+        {
+          "nome": "eletrica locacoes e eventos ltda",
+          "percentual": 10.65
+        },
+        {
+          "nome": "green ltda",
+          "percentual": 8.92
+        },
+        {
+          "nome": "empresa brasileira de correios e telegrafos",
+          "percentual": 7.48
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pi-180002532987.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:05:27.174Z"
+  },
+  {
+    "slug": "180002548388",
+    "nome": "Ravenna Da Inclusão",
+    "partido": "DEMOCRATA",
+    "numero": 35,
+    "cargo": "governador",
+    "uf": "PI",
+    "foto_arquivo": "governador-pi-180002548388",
+    "foto_url_original": "https://s2-g1.glbimg.com/3twI8Lh6fkWE3WuGCxX1bto3NhY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/9/6GJwgGTmCzF340o08ABw/ravenna-da-inclusao.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pi/180002548388.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180017071583",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 91600.52,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "16/09/2026 • Atualizado há 3 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Caixa econômica federal ag 0029 conta",
+        "valor": 55
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Banco do brasil ag 3507-6 conta corrente",
+        "valor": 10.52
+      },
+      {
+        "tipo": "Apartamento Ágio de apartamento financiado",
+        "descricao": "Apartamento Ágio de apartamento financiado",
+        "valor": 30000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Nu pagamentos ag 0001 conta",
+        "valor": 1535
+      },
+      {
+        "tipo": "Apartamento Ágio de apartamento financiado",
+        "descricao": "Apartamento Ágio de apartamento financiado",
+        "valor": 60000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Banco do brasil ag 3507-6 conta corrente",
+        "valor": 0
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2024,
+        "cargo": "Vereador",
+        "partido": "PODE",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Ravenna Da Inclusão",
+      "partido_pagina": "DEMOCRATA",
+      "numero_pagina": 35,
+      "profissao": "Advogado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180017071583",
+      "foto_url_original": "https://s2-g1.glbimg.com/3twI8Lh6fkWE3WuGCxX1bto3NhY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/9/6GJwgGTmCzF340o08ABw/ravenna-da-inclusao.jpeg",
+      "historico": [
+        {
+          "ano": 2024,
+          "cargo": "Vereador",
+          "partido": "PODE",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 55,00 Caixa econômica federal ag 0029 conta",
+        "Depósito bancário em conta corrente no país R$ 10,52 Banco do brasil ag 3507-6 conta corrente",
+        "Apartamento R$ 30.000,00 Ágio de apartamento financiado",
+        "Depósito bancário em conta corrente no país R$ 1.535,00 Nu pagamentos ag 0001 conta",
+        "Apartamento R$ 60.000,00 Ágio de apartamento financiado",
+        "Caderneta de poupança R$ 0,00 Banco do brasil ag 3507-6 conta corrente"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 7115522.46,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "16/09/2026 • Atualizado há 3 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pi-180002548388.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:05:32.746Z"
+  },
+  {
+    "slug": "180002549995",
+    "nome": "Santiago Belizário",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "PI",
+    "foto_arquivo": "governador-pi-180002549995",
+    "foto_url_original": "https://s2-g1.glbimg.com/dG13Aznb-ipKco6lQLuRW1w7t50=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/t/Bmd9aFQmWkAYoReFUOtA/santiago-belizario.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pi/180002549995.ghtml",
+    "profissao": "Outros",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180017086198",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 967.43,
+    "receitas_total": 4189,
+    "despesas_total": 0,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Conta bancária",
+        "valor": 967.43
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Up - Piauí",
+        "percentual": 100
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Santiago Belizário",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Outros",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/180017086198",
+      "foto_url_original": "https://s2-g1.glbimg.com/dG13Aznb-ipKco6lQLuRW1w7t50=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/t/Bmd9aFQmWkAYoReFUOtA/santiago-belizario.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 967,43 Conta bancária"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 4189,
+      "despesas_total": 0,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Up - Piauí",
+          "percentual": 100
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pi-180002549995.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:05:39.771Z"
+  }
+]

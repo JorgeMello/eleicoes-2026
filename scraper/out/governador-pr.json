@@ -1,0 +1,1438 @@
+[
+  {
+    "slug": "160002552560",
+    "nome": "Adriano Funileiro",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "PR",
+    "foto_arquivo": "governador-pr-160002552560",
+    "foto_url_original": "https://s2-g1.glbimg.com/Z3CmPKU2uEzO87S9X1NgW3JAnHY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/m/xck2UARk6I6keiM4gxiA/adriano-funileiro.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pr/160002552560.ghtml",
+    "profissao": "Mecânico de manutenção",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017114109",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [
+      {
+        "ano": 2024,
+        "cargo": "Prefeito",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2020,
+        "cargo": "Vereador",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Adriano Funileiro",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Mecânico de manutenção",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017114109",
+      "foto_url_original": "https://s2-g1.glbimg.com/Z3CmPKU2uEzO87S9X1NgW3JAnHY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/m/xck2UARk6I6keiM4gxiA/adriano-funileiro.jpeg",
+      "historico": [
+        {
+          "ano": 2024,
+          "cargo": "Prefeito",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2020,
+          "cargo": "Vereador",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 11562724,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pr-160002552560.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:03:24.125Z"
+  },
+  {
+    "slug": "160002547594",
+    "nome": "Doutor Alexandre Salomão",
+    "partido": "MOB",
+    "numero": 33,
+    "cargo": "governador",
+    "uf": "PR",
+    "foto_arquivo": "governador-pr-160002547594",
+    "foto_url_original": "https://s2-g1.glbimg.com/LFwg6qNxodOyW1uglfLgEj5zwaM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/S/ioAJfNTEA2YBCXsf5SxQ/doutor-alexandre-salomao.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pr/160002547594.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017066734",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 27695000,
+    "receitas_total": 34000,
+    "despesas_total": 33980.5,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "15/09/2026 • Atualizado há 4 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "valor": 150000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa comercial curitiba",
+        "valor": 1000000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa em curitiba",
+        "valor": 1500000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Parcicipação societária: advocacia alexandre salomão",
+        "valor": 5000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Direitos e ações",
+        "valor": 10000000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária em stai - solucoes tecnologicas ambientais integradas ltda",
+        "valor": 15040000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Juliano Franca Tetto",
+        "percentual": 58.82
+      },
+      {
+        "nome": "Danniel Salomao Eulalio De Souza",
+        "percentual": 41.18
+      },
+      {
+        "nome": "patras servicos graficos ltda",
+        "percentual": 52.91
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 47.09
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "patras servicos graficos ltda",
+        "percentual": 52.91
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 47.09
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Doutor Alexandre Salomão",
+      "partido_pagina": "MOB",
+      "numero_pagina": 33,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017066734",
+      "foto_url_original": "https://s2-g1.glbimg.com/LFwg6qNxodOyW1uglfLgEj5zwaM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/S/ioAJfNTEA2YBCXsf5SxQ/doutor-alexandre-salomao.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 150.000,00 Automóvel",
+        "Casa R$ 1.000.000,00 Casa comercial curitiba",
+        "Casa R$ 1.500.000,00 Casa em curitiba",
+        "Outras participações societárias R$ 5.000,00 Parcicipação societária: advocacia alexandre salomão",
+        "Outros bens e direitos R$ 10.000.000,00 Direitos e ações",
+        "Outras participações societárias R$ 15.040.000,00 Participação societária em stai - solucoes tecnologicas ambientais integradas ltda"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 34000,
+      "despesas_total": 33980.5,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Juliano Franca Tetto",
+          "percentual": 58.82
+        },
+        {
+          "nome": "Danniel Salomao Eulalio De Souza",
+          "percentual": 41.18
+        },
+        {
+          "nome": "patras servicos graficos ltda",
+          "percentual": 52.91
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 47.09
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "patras servicos graficos ltda",
+          "percentual": 52.91
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 47.09
+        }
+      ],
+      "fonte_atualizado_em": "15/09/2026 • Atualizado há 4 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pr-160002547594.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:03:30.853Z"
+  },
+  {
+    "slug": "160002551353",
+    "nome": "Luiz França",
+    "partido": "MISSÃO",
+    "numero": 14,
+    "cargo": "governador",
+    "uf": "PR",
+    "foto_arquivo": "governador-pr-160002551353",
+    "foto_url_original": "https://s2-g1.glbimg.com/h-SIoLV8eOEmIxM78EPsKHpHZoI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/S/ePTroKRIqJ5Xazm0JGtQ/luiz-franca.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pr/160002551353.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017103411",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 144999.99,
+    "receitas_total": 155000,
+    "despesas_total": 116322.1,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Parte ideal de 33,33% do apartamento residencial nº 502, localizado na torre ¿b¿, 6º pavimento, do empreendimento denominado edifício folador.",
+        "valor": 48333.33
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Parte ideal de 33,33% do apartamento residencial nº 904, localizado na torre ¿b¿, 10º pavimento, do empreendimento denominado edifício folador.",
+        "valor": 48333.33
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Parte ideal de 33,33% do apartamento residencial nº 702, localizado na torre ¿b¿, 8º pavimento, do empreendimento denominado edifício folador.",
+        "valor": 48333.33
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Missão",
+        "percentual": 96.77
+      },
+      {
+        "nome": "Guilberto Minguetti",
+        "percentual": 3.23
+      },
+      {
+        "nome": "imaggo comunicacao visual ltda",
+        "percentual": 53.55
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 8.6
+      },
+      {
+        "nome": "juliana santos derzette",
+        "percentual": 5.16
+      },
+      {
+        "nome": "joao lucas rosa da silva",
+        "percentual": 2.84
+      },
+      {
+        "nome": "lucas ramos loser",
+        "percentual": 2.84
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "imaggo comunicacao visual ltda",
+        "percentual": 53.55
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 8.6
+      },
+      {
+        "nome": "juliana santos derzette",
+        "percentual": 5.16
+      },
+      {
+        "nome": "joao lucas rosa da silva",
+        "percentual": 2.84
+      },
+      {
+        "nome": "lucas ramos loser",
+        "percentual": 2.84
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Luiz França",
+      "partido_pagina": "MISSÃO",
+      "numero_pagina": 14,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017103411",
+      "foto_url_original": "https://s2-g1.glbimg.com/h-SIoLV8eOEmIxM78EPsKHpHZoI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/S/ePTroKRIqJ5Xazm0JGtQ/luiz-franca.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 48.333,33 Parte ideal de 33,33% do apartamento residencial nº 502, localizado na torre ¿b¿, 6º pavimento, do empreendimento denominado edifício folador.",
+        "Apartamento R$ 48.333,33 Parte ideal de 33,33% do apartamento residencial nº 904, localizado na torre ¿b¿, 10º pavimento, do empreendimento denominado edifício folador.",
+        "Apartamento R$ 48.333,33 Parte ideal de 33,33% do apartamento residencial nº 702, localizado na torre ¿b¿, 8º pavimento, do empreendimento denominado edifício folador."
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 155000,
+      "despesas_total": 116322.1,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Missão",
+          "percentual": 96.77
+        },
+        {
+          "nome": "Guilberto Minguetti",
+          "percentual": 3.23
+        },
+        {
+          "nome": "imaggo comunicacao visual ltda",
+          "percentual": 53.55
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 8.6
+        },
+        {
+          "nome": "juliana santos derzette",
+          "percentual": 5.16
+        },
+        {
+          "nome": "joao lucas rosa da silva",
+          "percentual": 2.84
+        },
+        {
+          "nome": "lucas ramos loser",
+          "percentual": 2.84
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "imaggo comunicacao visual ltda",
+          "percentual": 53.55
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 8.6
+        },
+        {
+          "nome": "juliana santos derzette",
+          "percentual": 5.16
+        },
+        {
+          "nome": "joao lucas rosa da silva",
+          "percentual": 2.84
+        },
+        {
+          "nome": "lucas ramos loser",
+          "percentual": 2.84
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pr-160002551353.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:03:36.873Z"
+  },
+  {
+    "slug": "160002547666",
+    "nome": "Requião Filho",
+    "partido": "PDT",
+    "numero": 12,
+    "cargo": "governador",
+    "uf": "PR",
+    "foto_arquivo": "governador-pr-160002547666",
+    "foto_url_original": "https://s2-g1.glbimg.com/dgcNrtQH6foHkXKC6p3tyeeXAcs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/X/AgmYrSR6qiZuYjjXAdZA/requiao-filho.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pr/160002547666.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017104577",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1876342.14,
+    "receitas_total": 11073005,
+    "despesas_total": 2942703.76,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Volks passat",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Volks passat 1999",
+        "valor": 8000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 50% garagem num 32 em bal. camboriu",
+        "valor": 5000
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio servopa",
+        "valor": 22359.86
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Audi rs4 2001",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Audi rs4 2001",
+        "valor": 130000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Nissan x terra",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Nissan x terra 2003",
+        "valor": 75000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Itau aplicação em cdb",
+        "valor": 28432.88
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Moto s1000rr",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Moto s1000rr 2025",
+        "valor": 135648
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Residencia no bairro campo comprido/ curitiba",
+        "valor": 1445000
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Bb cp estilo",
+        "valor": 13731.13
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Cef conta corrente",
+        "valor": 9760
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Bb poupanca ouro",
+        "valor": 3410.27
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pdt",
+        "percentual": 99.34
+      },
+      {
+        "nome": "Murilo Cassol",
+        "percentual": 0.27
+      },
+      {
+        "nome": "Roberto Requiao De Mello E Silva",
+        "percentual": 0.22
+      },
+      {
+        "nome": "Luciano Pierri Ribas",
+        "percentual": 0.07
+      },
+      {
+        "nome": "Waldirene Antonia Carreira",
+        "percentual": 0.03
+      },
+      {
+        "nome": "carambola producoes ltda",
+        "percentual": 33.98
+      },
+      {
+        "nome": "super grafic digital ltda",
+        "percentual": 15.79
+      },
+      {
+        "nome": "ziliotto e dominschek sociedade de advogados",
+        "percentual": 13.59
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 8.16
+      },
+      {
+        "nome": "studio pesquisas e consultoria ltda.",
+        "percentual": 5.23
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "carambola producoes ltda",
+        "percentual": 33.98
+      },
+      {
+        "nome": "super grafic digital ltda",
+        "percentual": 15.79
+      },
+      {
+        "nome": "ziliotto e dominschek sociedade de advogados",
+        "percentual": 13.59
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 8.16
+      },
+      {
+        "nome": "studio pesquisas e consultoria ltda.",
+        "percentual": 5.23
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Requião Filho",
+      "partido_pagina": "PDT",
+      "numero_pagina": 12,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017104577",
+      "foto_url_original": "https://s2-g1.glbimg.com/dgcNrtQH6foHkXKC6p3tyeeXAcs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/X/AgmYrSR6qiZuYjjXAdZA/requiao-filho.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 8.000,00 Volks passat 1999",
+        "Outros bens imóveis R$ 5.000,00 50% garagem num 32 em bal. camboriu",
+        "Consórcio não contemplado R$ 22.359,86 Consorcio servopa",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 130.000,00 Audi rs4 2001",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 75.000,00 Nissan x terra 2003",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 28.432,88 Itau aplicação em cdb",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 135.648,00 Moto s1000rr 2025",
+        "Casa R$ 1.445.000,00 Residencia no bairro campo comprido/ curitiba",
+        "Outros créditos e poupança vinculados R$ 13.731,13 Bb cp estilo",
+        "Outros créditos e poupança vinculados R$ 9.760,00 Cef conta corrente",
+        "Outros créditos e poupança vinculados R$ 3.410,27 Bb poupanca ouro"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 11073005,
+      "despesas_total": 2942703.76,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pdt",
+          "percentual": 99.34
+        },
+        {
+          "nome": "Murilo Cassol",
+          "percentual": 0.27
+        },
+        {
+          "nome": "Roberto Requiao De Mello E Silva",
+          "percentual": 0.22
+        },
+        {
+          "nome": "Luciano Pierri Ribas",
+          "percentual": 0.07
+        },
+        {
+          "nome": "Waldirene Antonia Carreira",
+          "percentual": 0.03
+        },
+        {
+          "nome": "carambola producoes ltda",
+          "percentual": 33.98
+        },
+        {
+          "nome": "super grafic digital ltda",
+          "percentual": 15.79
+        },
+        {
+          "nome": "ziliotto e dominschek sociedade de advogados",
+          "percentual": 13.59
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 8.16
+        },
+        {
+          "nome": "studio pesquisas e consultoria ltda.",
+          "percentual": 5.23
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "carambola producoes ltda",
+          "percentual": 33.98
+        },
+        {
+          "nome": "super grafic digital ltda",
+          "percentual": 15.79
+        },
+        {
+          "nome": "ziliotto e dominschek sociedade de advogados",
+          "percentual": 13.59
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 8.16
+        },
+        {
+          "nome": "studio pesquisas e consultoria ltda.",
+          "percentual": 5.23
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pr-160002547666.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:03:43.229Z"
+  },
+  {
+    "slug": "160002548010",
+    "nome": "Samuel De Mattos",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "governador",
+    "uf": "PR",
+    "foto_arquivo": "governador-pr-160002548010",
+    "foto_url_original": "https://s2-g1.glbimg.com/OrBHK1oPrRanTynGzJ-0U-oDKXQ=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/R/uUUsBDRxOL4GCQxHH95w/samuel-de-mattos.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pr/160002548010.ghtml",
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017064155",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1035000,
+    "receitas_total": 24002,
+    "despesas_total": 23143.7,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa em curitiba",
+        "valor": 950000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro ka",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro ka",
+        "valor": 30000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno forquilinha",
+        "valor": 55000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 100
+      },
+      {
+        "nome": "pedro henrique nogueira giordano",
+        "percentual": 28.09
+      },
+      {
+        "nome": "projeto ip grafis solucoes graficas ltda",
+        "percentual": 23.85
+      },
+      {
+        "nome": "phillip de lima natal",
+        "percentual": 12.96
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 10.8
+      },
+      {
+        "nome": "cristian pedro alesis herrera rosa",
+        "percentual": 8.64
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "pedro henrique nogueira giordano",
+        "percentual": 28.09
+      },
+      {
+        "nome": "projeto ip grafis solucoes graficas ltda",
+        "percentual": 23.85
+      },
+      {
+        "nome": "phillip de lima natal",
+        "percentual": 12.96
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 10.8
+      },
+      {
+        "nome": "cristian pedro alesis herrera rosa",
+        "percentual": 8.64
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Samuel De Mattos",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Professor de ensino médio",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017064155",
+      "foto_url_original": "https://s2-g1.glbimg.com/OrBHK1oPrRanTynGzJ-0U-oDKXQ=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/R/uUUsBDRxOL4GCQxHH95w/samuel-de-mattos.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 950.000,00 Casa em curitiba",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 30.000,00 Carro ka",
+        "Terreno R$ 55.000,00 Terreno forquilinha"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 24002,
+      "despesas_total": 23143.7,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 100
+        },
+        {
+          "nome": "pedro henrique nogueira giordano",
+          "percentual": 28.09
+        },
+        {
+          "nome": "projeto ip grafis solucoes graficas ltda",
+          "percentual": 23.85
+        },
+        {
+          "nome": "phillip de lima natal",
+          "percentual": 12.96
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 10.8
+        },
+        {
+          "nome": "cristian pedro alesis herrera rosa",
+          "percentual": 8.64
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "pedro henrique nogueira giordano",
+          "percentual": 28.09
+        },
+        {
+          "nome": "projeto ip grafis solucoes graficas ltda",
+          "percentual": 23.85
+        },
+        {
+          "nome": "phillip de lima natal",
+          "percentual": 12.96
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 10.8
+        },
+        {
+          "nome": "cristian pedro alesis herrera rosa",
+          "percentual": 8.64
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pr-160002548010.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:03:48.628Z"
+  },
+  {
+    "slug": "160002549553",
+    "nome": "Sandro Alex",
+    "partido": "PSD",
+    "numero": 55,
+    "cargo": "governador",
+    "uf": "PR",
+    "foto_arquivo": "governador-pr-160002549553",
+    "foto_url_original": "https://s2-g1.glbimg.com/GUftDojy4iw2dWjswG6oX9DJGDE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/p/e66dyVQ2iAU55Sy6xHaA/sandro-alex.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pr/160002549553.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017084909",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1667125.5299999998,
+    "receitas_total": 7012800,
+    "despesas_total": 7259993.14,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação financeira de renda fixa - bb cdb rende fácil - junto ao banco do brasil",
+        "valor": 56749.5
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Título patrimonial",
+        "valor": 2500
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Caderneta de poupança junto ao sicredi",
+        "valor": 17.75
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa 50% de casa residencial",
+        "valor": 1013076
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Cota empresarial",
+        "valor": 75000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor",
+        "valor": 253000
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Itens pessoais",
+        "valor": 13173
+      },
+      {
+        "tipo": "Outros depósitos à vista e numerário",
+        "descricao": "Outros depósitos à vista e numerário Disponibilidade financeira",
+        "valor": 220000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Conta capital junto à cooperativa de crédito, poupança e investimentos campos gerais",
+        "valor": 2922.68
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente junto ao sicredi campos gerais",
+        "valor": 10539.96
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta",
+        "valor": 20000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente junto ao banco do brasil",
+        "valor": 146.64
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pp",
+        "percentual": 49.91
+      },
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 42.78
+      },
+      {
+        "nome": "Direção Estadual/distrital - Psd - Paraná",
+        "percentual": 6.42
+      },
+      {
+        "nome": "Moacir De Souza",
+        "percentual": 0.57
+      },
+      {
+        "nome": "Carlos Roberto Massa",
+        "percentual": 0.09
+      },
+      {
+        "nome": "bonini guedes advocacia",
+        "percentual": 21.35
+      },
+      {
+        "nome": "soma producao de video ltda",
+        "percentual": 16.53
+      },
+      {
+        "nome": "gerez branding ltda",
+        "percentual": 13.77
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 13.29
+      },
+      {
+        "nome": "hellograf artes graficas ltda",
+        "percentual": 4.74
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "bonini guedes advocacia",
+        "percentual": 21.35
+      },
+      {
+        "nome": "soma producao de video ltda",
+        "percentual": 16.53
+      },
+      {
+        "nome": "gerez branding ltda",
+        "percentual": 13.77
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 13.29
+      },
+      {
+        "nome": "hellograf artes graficas ltda",
+        "percentual": 4.74
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Sandro Alex",
+      "partido_pagina": "PSD",
+      "numero_pagina": 55,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017084909",
+      "foto_url_original": "https://s2-g1.glbimg.com/GUftDojy4iw2dWjswG6oX9DJGDE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/p/e66dyVQ2iAU55Sy6xHaA/sandro-alex.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 56.749,50 Aplicação financeira de renda fixa - bb cdb rende fácil - junto ao banco do brasil",
+        "Outras aplicações e investimentos R$ 2.500,00 Título patrimonial",
+        "Caderneta de poupança R$ 17,75 Caderneta de poupança junto ao sicredi",
+        "Casa R$ 1.013.076,00 50% de casa residencial",
+        "Quotas ou quinhões de capital R$ 75.000,00 Cota empresarial",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 253.000,00 Veículo automotor",
+        "Outros bens móveis R$ 13.173,00 Itens pessoais",
+        "Outros depósitos à vista e numerário R$ 220.000,00 Disponibilidade financeira",
+        "Outras aplicações e investimentos R$ 2.922,68 Conta capital junto à cooperativa de crédito, poupança e investimentos campos gerais",
+        "Depósito bancário em conta corrente no país R$ 10.539,96 Saldo em conta corrente junto ao sicredi campos gerais",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 20.000,00 Motocicleta",
+        "Depósito bancário em conta corrente no país R$ 146,64 Saldo em conta corrente junto ao banco do brasil"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 7012800,
+      "despesas_total": 7259993.14,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pp",
+          "percentual": 49.91
+        },
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 42.78
+        },
+        {
+          "nome": "Direção Estadual/distrital - Psd - Paraná",
+          "percentual": 6.42
+        },
+        {
+          "nome": "Moacir De Souza",
+          "percentual": 0.57
+        },
+        {
+          "nome": "Carlos Roberto Massa",
+          "percentual": 0.09
+        },
+        {
+          "nome": "bonini guedes advocacia",
+          "percentual": 21.35
+        },
+        {
+          "nome": "soma producao de video ltda",
+          "percentual": 16.53
+        },
+        {
+          "nome": "gerez branding ltda",
+          "percentual": 13.77
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 13.29
+        },
+        {
+          "nome": "hellograf artes graficas ltda",
+          "percentual": 4.74
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "bonini guedes advocacia",
+          "percentual": 21.35
+        },
+        {
+          "nome": "soma producao de video ltda",
+          "percentual": 16.53
+        },
+        {
+          "nome": "gerez branding ltda",
+          "percentual": 13.77
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 13.29
+        },
+        {
+          "nome": "hellograf artes graficas ltda",
+          "percentual": 4.74
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pr-160002549553.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:03:53.313Z"
+  },
+  {
+    "slug": "160002540833",
+    "nome": "Sergio Moro",
+    "partido": "PL",
+    "numero": 22,
+    "cargo": "governador",
+    "uf": "PR",
+    "foto_arquivo": "governador-pr-160002540833",
+    "foto_url_original": "https://s2-g1.glbimg.com/DeF7W8YVxevbl2qEP05HEoOY7FE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/P/9PKYtdSWCVSuaLF9HJOQ/sergio-moro.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pr/160002540833.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017127486",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1036642.25,
+    "receitas_total": 11936010,
+    "despesas_total": 7893971.42,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Prédio residencial",
+        "descricao": "Prédio residencial Apartamento no edifício fit marumbi, financiado junto à caixa econômica federal",
+        "valor": 238463.07
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo tiguan adquirido em",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo tiguan adquirido em 2020",
+        "valor": 155000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Letras de crédito do agronegócio vinculadas ao itaú unibanco",
+        "valor": 60400
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Letra de crédito do agronegócio vinculada à itaú corretora",
+        "valor": 0
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Cotas da empresa moro consultoria e assessoria em gestão empresarial de riscos ltda.",
+        "valor": 1000
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Conta poupança na caixa econômica federal",
+        "valor": 3061.04
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Fundos vinculados ao itaú investimentos",
+        "valor": 239738.26
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Letras de crédito imobiliário vinculadas ao itaú unibanco",
+        "valor": 70615
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Contas correntes na caixa econômica federal - pessoal e gabinete",
+        "valor": 37137.25
+      },
+      {
+        "tipo": "Prédio comercial",
+        "descricao": "Prédio comercial Apartamento 703 (sala comercial em prédio), edifício alberto abujamra",
+        "valor": 45000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente no banco do brasil",
+        "valor": 305.63
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no exterior",
+        "descricao": "Depósito bancário em conta corrente no exterior Conta no exterior",
+        "valor": 185922
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 90.48
+      },
+      {
+        "nome": "Luis Felipe Cunha",
+        "percentual": 4.19
+      },
+      {
+        "nome": "Mauricio Melhim Abou Rejaile",
+        "percentual": 0.84
+      },
+      {
+        "nome": "Jefferson Melhim Abou Rejaile",
+        "percentual": 0.84
+      },
+      {
+        "nome": "Daniel Krepel Goldberg",
+        "percentual": 0.67
+      },
+      {
+        "nome": "leandro rosa advogados associados",
+        "percentual": 21.54
+      },
+      {
+        "nome": "yari estrategias em marketing ltda",
+        "percentual": 17.48
+      },
+      {
+        "nome": "appc - analise pesquisa planejamento e consultoria ltda",
+        "percentual": 8.94
+      },
+      {
+        "nome": "luchina & luchina ltda",
+        "percentual": 8.61
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 5.95
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "leandro rosa advogados associados",
+        "percentual": 21.54
+      },
+      {
+        "nome": "yari estrategias em marketing ltda",
+        "percentual": 17.48
+      },
+      {
+        "nome": "appc - analise pesquisa planejamento e consultoria ltda",
+        "percentual": 8.94
+      },
+      {
+        "nome": "luchina & luchina ltda",
+        "percentual": 8.61
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 5.95
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Sergio Moro",
+      "partido_pagina": "PL",
+      "numero_pagina": 22,
+      "profissao": "Senador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017127486",
+      "foto_url_original": "https://s2-g1.glbimg.com/DeF7W8YVxevbl2qEP05HEoOY7FE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/P/9PKYtdSWCVSuaLF9HJOQ/sergio-moro.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Prédio residencial R$ 238.463,07 Apartamento no edifício fit marumbi, financiado junto à caixa econômica federal",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 155.000,00 Veículo tiguan adquirido em 2020",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 60.400,00 Letras de crédito do agronegócio vinculadas ao itaú unibanco",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 0,00 Letra de crédito do agronegócio vinculada à itaú corretora",
+        "Quotas ou quinhões de capital R$ 1.000,00 Cotas da empresa moro consultoria e assessoria em gestão empresarial de riscos ltda.",
+        "Outros créditos e poupança vinculados R$ 3.061,04 Conta poupança na caixa econômica federal",
+        "Outras aplicações e investimentos R$ 239.738,26 Fundos vinculados ao itaú investimentos",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 70.615,00 Letras de crédito imobiliário vinculadas ao itaú unibanco",
+        "Depósito bancário em conta corrente no país R$ 37.137,25 Contas correntes na caixa econômica federal - pessoal e gabinete",
+        "Prédio comercial R$ 45.000,00 Apartamento 703 (sala comercial em prédio), edifício alberto abujamra",
+        "Depósito bancário em conta corrente no país R$ 305,63 Conta corrente no banco do brasil",
+        "Depósito bancário em conta corrente no exterior R$ 185.922,00 Conta no exterior"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 11936010,
+      "despesas_total": 7893971.42,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 90.48
+        },
+        {
+          "nome": "Luis Felipe Cunha",
+          "percentual": 4.19
+        },
+        {
+          "nome": "Mauricio Melhim Abou Rejaile",
+          "percentual": 0.84
+        },
+        {
+          "nome": "Jefferson Melhim Abou Rejaile",
+          "percentual": 0.84
+        },
+        {
+          "nome": "Daniel Krepel Goldberg",
+          "percentual": 0.67
+        },
+        {
+          "nome": "leandro rosa advogados associados",
+          "percentual": 21.54
+        },
+        {
+          "nome": "yari estrategias em marketing ltda",
+          "percentual": 17.48
+        },
+        {
+          "nome": "appc - analise pesquisa planejamento e consultoria ltda",
+          "percentual": 8.94
+        },
+        {
+          "nome": "luchina & luchina ltda",
+          "percentual": 8.61
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 5.95
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "leandro rosa advogados associados",
+          "percentual": 21.54
+        },
+        {
+          "nome": "yari estrategias em marketing ltda",
+          "percentual": 17.48
+        },
+        {
+          "nome": "appc - analise pesquisa planejamento e consultoria ltda",
+          "percentual": 8.94
+        },
+        {
+          "nome": "luchina & luchina ltda",
+          "percentual": 8.61
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 5.95
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pr-160002540833.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:03:57.474Z"
+  },
+  {
+    "slug": "160002550997",
+    "nome": "Tayná Miessa",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "PR",
+    "foto_arquivo": "governador-pr-160002550997",
+    "foto_url_original": "https://s2-g1.glbimg.com/3m3DIulMH01yk24ClFjdUlXvUKo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/L/dcYMW8RLOHvVyTlnkRbA/tayna-miessa.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pr/160002550997.ghtml",
+    "profissao": "Produtor de espetáculos públicos",
+    "cor_etnia": "Amarela",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017099452",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 250000,
+    "receitas_total": 24315,
+    "despesas_total": 18413.62,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apto",
+        "valor": 250000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Up",
+        "percentual": 41.13
+      },
+      {
+        "nome": "Renan Raul Pereira Da Silva",
+        "percentual": 28.79
+      },
+      {
+        "nome": "Andre Filippe Dos Santos",
+        "percentual": 12.34
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 10.34
+      },
+      {
+        "nome": "Luana Miran",
+        "percentual": 4.11
+      },
+      {
+        "nome": "editora integrando solucoes ltda",
+        "percentual": 99.55
+      },
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 0.45
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "editora integrando solucoes ltda",
+        "percentual": 99.55
+      },
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 0.45
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Tayná Miessa",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Produtor de espetáculos públicos",
+      "cor_etnia": "Amarela",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/160017099452",
+      "foto_url_original": "https://s2-g1.glbimg.com/3m3DIulMH01yk24ClFjdUlXvUKo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/L/dcYMW8RLOHvVyTlnkRbA/tayna-miessa.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 250.000,00 Apto"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 24315,
+      "despesas_total": 18413.62,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Up",
+          "percentual": 41.13
+        },
+        {
+          "nome": "Renan Raul Pereira Da Silva",
+          "percentual": 28.79
+        },
+        {
+          "nome": "Andre Filippe Dos Santos",
+          "percentual": 12.34
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 10.34
+        },
+        {
+          "nome": "Luana Miran",
+          "percentual": 4.11
+        },
+        {
+          "nome": "editora integrando solucoes ltda",
+          "percentual": 99.55
+        },
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 0.45
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "editora integrando solucoes ltda",
+          "percentual": 99.55
+        },
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 0.45
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pr-160002550997.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:04:02.490Z"
+  }
+]

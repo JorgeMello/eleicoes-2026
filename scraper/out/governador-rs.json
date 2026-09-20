@@ -1,0 +1,1292 @@
+[
+  {
+    "slug": "210002552592",
+    "nome": "Cesar Pontes",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "RS",
+    "foto_arquivo": "governador-rs-210002552592",
+    "foto_url_original": "https://s2-g1.glbimg.com/q-jy3ddq8kGwcLjaSN1F3BQj2uc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/p/BXGvSERW2mJHRTZa7OXQ/cesar-pontes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rs/210002552592.ghtml",
+    "profissao": "Aposentado (exceto servidor público)",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/210017114435",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [
+      {
+        "ano": 2022,
+        "cargo": "Deputado federal",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2022,
+        "cargo": "Governador",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Cesar Pontes",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Aposentado (exceto servidor público)",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/210017114435",
+      "foto_url_original": "https://s2-g1.glbimg.com/q-jy3ddq8kGwcLjaSN1F3BQj2uc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/p/BXGvSERW2mJHRTZa7OXQ/cesar-pontes.jpeg",
+      "historico": [
+        {
+          "ano": 2022,
+          "cargo": "Deputado federal",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2022,
+          "cargo": "Governador",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 11562724,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rs-210002552592.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:07:26.637Z"
+  },
+  {
+    "slug": "210002542892",
+    "nome": "Gabriel Souza",
+    "partido": "MDB",
+    "numero": 15,
+    "cargo": "governador",
+    "uf": "RS",
+    "foto_arquivo": "governador-rs-210002542892",
+    "foto_url_original": "https://s2-g1.glbimg.com/hgyLAlcUc2Kg3VjMV3pbYhYzSc8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/Q/CbVMtLRty1zTQyuBA39Q/gabriel-souza.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rs/210002542892.ghtml",
+    "profissao": "Veterinário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/210017018692",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 935461.08,
+    "receitas_total": 7661350,
+    "despesas_total": 5737997.79,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depósito em contas-correntes",
+        "valor": 18249.34
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Previdência privada",
+        "valor": 134835.45
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa 50% de uma casa em tramandaí-rs",
+        "valor": 295874.33
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro em espécie",
+        "valor": 6950
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50% de um apartamento com box em porto alegre - com saldo financiado",
+        "valor": 287653.38
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicações e investimentos",
+        "valor": 191898.58
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 78.32
+      },
+      {
+        "nome": "Direção Estadual/distrital - Mdb - Rio Grande Do Sul",
+        "percentual": 12.35
+      },
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 3.92
+      },
+      {
+        "nome": "Direção Estadual/distrital - Psd - Rio Grande Do Sul",
+        "percentual": 1.96
+      },
+      {
+        "nome": "Rogerio Merlin Ribeiro",
+        "percentual": 1.31
+      },
+      {
+        "nome": "estudio 90 producoes ltda",
+        "percentual": 34.86
+      },
+      {
+        "nome": "faber publicidade ltda",
+        "percentual": 8.71
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 8.63
+      },
+      {
+        "nome": "amostra instituto de pesquisa ltda",
+        "percentual": 7.84
+      },
+      {
+        "nome": "rb solucoes digitais ltda",
+        "percentual": 5.32
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "estudio 90 producoes ltda",
+        "percentual": 34.86
+      },
+      {
+        "nome": "faber publicidade ltda",
+        "percentual": 8.71
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 8.63
+      },
+      {
+        "nome": "amostra instituto de pesquisa ltda",
+        "percentual": 7.84
+      },
+      {
+        "nome": "rb solucoes digitais ltda",
+        "percentual": 5.32
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Gabriel Souza",
+      "partido_pagina": "MDB",
+      "numero_pagina": 15,
+      "profissao": "Veterinário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/210017018692",
+      "foto_url_original": "https://s2-g1.glbimg.com/hgyLAlcUc2Kg3VjMV3pbYhYzSc8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/Q/CbVMtLRty1zTQyuBA39Q/gabriel-souza.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Depósito bancário em conta corrente no país R$ 18.249,34 Depósito em contas-correntes",
+        "Outras aplicações e investimentos R$ 134.835,45 Previdência privada",
+        "Casa R$ 295.874,33 50% de uma casa em tramandaí-rs",
+        "Dinheiro em espécie - moeda nacional R$ 6.950,00 Dinheiro em espécie",
+        "Apartamento R$ 287.653,38 50% de um apartamento com box em porto alegre - com saldo financiado",
+        "Outras aplicações e investimentos R$ 191.898,58 Aplicações e investimentos"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 7661350,
+      "despesas_total": 5737997.79,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 78.32
+        },
+        {
+          "nome": "Direção Estadual/distrital - Mdb - Rio Grande Do Sul",
+          "percentual": 12.35
+        },
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 3.92
+        },
+        {
+          "nome": "Direção Estadual/distrital - Psd - Rio Grande Do Sul",
+          "percentual": 1.96
+        },
+        {
+          "nome": "Rogerio Merlin Ribeiro",
+          "percentual": 1.31
+        },
+        {
+          "nome": "estudio 90 producoes ltda",
+          "percentual": 34.86
+        },
+        {
+          "nome": "faber publicidade ltda",
+          "percentual": 8.71
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 8.63
+        },
+        {
+          "nome": "amostra instituto de pesquisa ltda",
+          "percentual": 7.84
+        },
+        {
+          "nome": "rb solucoes digitais ltda",
+          "percentual": 5.32
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "estudio 90 producoes ltda",
+          "percentual": 34.86
+        },
+        {
+          "nome": "faber publicidade ltda",
+          "percentual": 8.71
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 8.63
+        },
+        {
+          "nome": "amostra instituto de pesquisa ltda",
+          "percentual": 7.84
+        },
+        {
+          "nome": "rb solucoes digitais ltda",
+          "percentual": 5.32
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rs-210002542892.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:07:31.836Z"
+  },
+  {
+    "slug": "210002551508",
+    "nome": "Juliana Brizola",
+    "partido": "PDT",
+    "numero": 12,
+    "cargo": "governador",
+    "uf": "RS",
+    "foto_arquivo": "governador-rs-210002551508",
+    "foto_url_original": "https://s2-g1.glbimg.com/oc3dohmQdM2p0Y0Ee3gEs6uNvYM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/4/fiMYxtSAKgYLtpjt4wzA/juliana-brizola.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rs/210002551508.ghtml",
+    "profissao": "Outros",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/210017104498",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 376137.78,
+    "receitas_total": 11512400,
+    "despesas_total": 5383183.67,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "17/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Conta poupança junto ao banrisul",
+        "valor": 59.03
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Honda hr-v",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Honda hr-v",
+        "valor": 155500
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 51% de um apartamento financiado junto ao banrisul",
+        "valor": 220578.75
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pdt",
+        "percentual": 99.89
+      },
+      {
+        "nome": "Atilo Da Luz Escobar",
+        "percentual": 0.07
+      },
+      {
+        "nome": "Ana Luiza Backes",
+        "percentual": 0.04
+      },
+      {
+        "nome": "condado marketing ltda",
+        "percentual": 46.44
+      },
+      {
+        "nome": "grafica e editora comunicacao impressa ltda",
+        "percentual": 8.96
+      },
+      {
+        "nome": "joka sublimacao digital ltda",
+        "percentual": 6.95
+      },
+      {
+        "nome": "instituto travessia diagnostico ltda",
+        "percentual": 5
+      },
+      {
+        "nome": "mobiliscar locacao de veiculos ltda",
+        "percentual": 3.83
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "condado marketing ltda",
+        "percentual": 46.44
+      },
+      {
+        "nome": "grafica e editora comunicacao impressa ltda",
+        "percentual": 8.96
+      },
+      {
+        "nome": "joka sublimacao digital ltda",
+        "percentual": 6.95
+      },
+      {
+        "nome": "instituto travessia diagnostico ltda",
+        "percentual": 5
+      },
+      {
+        "nome": "mobiliscar locacao de veiculos ltda",
+        "percentual": 3.83
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Juliana Brizola",
+      "partido_pagina": "PDT",
+      "numero_pagina": 12,
+      "profissao": "Outros",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/210017104498",
+      "foto_url_original": "https://s2-g1.glbimg.com/oc3dohmQdM2p0Y0Ee3gEs6uNvYM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/4/fiMYxtSAKgYLtpjt4wzA/juliana-brizola.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 59,03 Conta poupança junto ao banrisul",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 155.500,00 Honda hr-v",
+        "Apartamento R$ 220.578,75 51% de um apartamento financiado junto ao banrisul"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 11512400,
+      "despesas_total": 5383183.67,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pdt",
+          "percentual": 99.89
+        },
+        {
+          "nome": "Atilo Da Luz Escobar",
+          "percentual": 0.07
+        },
+        {
+          "nome": "Ana Luiza Backes",
+          "percentual": 0.04
+        },
+        {
+          "nome": "condado marketing ltda",
+          "percentual": 46.44
+        },
+        {
+          "nome": "grafica e editora comunicacao impressa ltda",
+          "percentual": 8.96
+        },
+        {
+          "nome": "joka sublimacao digital ltda",
+          "percentual": 6.95
+        },
+        {
+          "nome": "instituto travessia diagnostico ltda",
+          "percentual": 5
+        },
+        {
+          "nome": "mobiliscar locacao de veiculos ltda",
+          "percentual": 3.83
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "condado marketing ltda",
+          "percentual": 46.44
+        },
+        {
+          "nome": "grafica e editora comunicacao impressa ltda",
+          "percentual": 8.96
+        },
+        {
+          "nome": "joka sublimacao digital ltda",
+          "percentual": 6.95
+        },
+        {
+          "nome": "instituto travessia diagnostico ltda",
+          "percentual": 5
+        },
+        {
+          "nome": "mobiliscar locacao de veiculos ltda",
+          "percentual": 3.83
+        }
+      ],
+      "fonte_atualizado_em": "17/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rs-210002551508.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:07:38.769Z"
+  },
+  {
+    "slug": "210002535802",
+    "nome": "Marcelo Maranata",
+    "partido": "PSDB",
+    "numero": 45,
+    "cargo": "governador",
+    "uf": "RS",
+    "foto_arquivo": "governador-rs-210002535802",
+    "foto_url_original": "https://s2-g1.glbimg.com/Q60Xiq2AEZZ2PXcHAb1NtU--t_g=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/z/NYp0BZQZm3TDEostiQaw/marcelo-maranata.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rs/210002535802.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/210016868477",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 249805,
+    "receitas_total": 2209000,
+    "despesas_total": 2369467,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Um terreno sem benfeitorias na chacara das paineiras em guaíba",
+        "valor": 24180
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 50% quotas de capital da empresa marjorie administração de condominio",
+        "valor": 60000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital da empresa marcelly moveis ltda",
+        "valor": 9000
+      },
+      {
+        "tipo": "Galpão",
+        "descricao": "Galpão Um galpão pré-moldado na rua são josé em guaíba",
+        "valor": 40000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Um automóvel vw gol",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Um automóvel vw gol 1.0 ano/modelo 2013/14",
+        "valor": 11210
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital da empresa amitie livraria e papelaria",
+        "valor": 13500
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa banco bradesco",
+        "valor": 31915
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Uma casa no bairro cohab em guaíba",
+        "valor": 60000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psdb",
+        "percentual": 98.23
+      },
+      {
+        "nome": "Carlos Eduardo Chaise",
+        "percentual": 0.68
+      },
+      {
+        "nome": "Gabriel Bandeira Cajaty Goncalves",
+        "percentual": 0.18
+      },
+      {
+        "nome": "Marcelo Campello Cajaty Goncalves",
+        "percentual": 0.18
+      },
+      {
+        "nome": "Gabriel Ricardo Canavezi De Barros",
+        "percentual": 0.18
+      },
+      {
+        "nome": "777 comunicacao estrategica ltda",
+        "percentual": 33.78
+      },
+      {
+        "nome": "inseptos filmes ltda",
+        "percentual": 22.11
+      },
+      {
+        "nome": "impressos portao ltda",
+        "percentual": 10.22
+      },
+      {
+        "nome": "kevin chaves krieger ltda",
+        "percentual": 6.33
+      },
+      {
+        "nome": "brenner de moraes - sociedade de advogados",
+        "percentual": 5.47
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "777 comunicacao estrategica ltda",
+        "percentual": 33.78
+      },
+      {
+        "nome": "inseptos filmes ltda",
+        "percentual": 22.11
+      },
+      {
+        "nome": "impressos portao ltda",
+        "percentual": 10.22
+      },
+      {
+        "nome": "kevin chaves krieger ltda",
+        "percentual": 6.33
+      },
+      {
+        "nome": "brenner de moraes - sociedade de advogados",
+        "percentual": 5.47
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Marcelo Maranata",
+      "partido_pagina": "PSDB",
+      "numero_pagina": 45,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/210016868477",
+      "foto_url_original": "https://s2-g1.glbimg.com/Q60Xiq2AEZZ2PXcHAb1NtU--t_g=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/z/NYp0BZQZm3TDEostiQaw/marcelo-maranata.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 24.180,00 Um terreno sem benfeitorias na chacara das paineiras em guaíba",
+        "Quotas ou quinhões de capital R$ 60.000,00 50% quotas de capital da empresa marjorie administração de condominio",
+        "Quotas ou quinhões de capital R$ 9.000,00 Quotas de capital da empresa marcelly moveis ltda",
+        "Galpão R$ 40.000,00 Um galpão pré-moldado na rua são josé em guaíba",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 11.210,00 Um automóvel vw gol 1.0 ano/modelo 2013/14",
+        "Quotas ou quinhões de capital R$ 13.500,00 Quotas de capital da empresa amitie livraria e papelaria",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 31.915,00 Aplicação de renda fixa banco bradesco",
+        "Casa R$ 60.000,00 Uma casa no bairro cohab em guaíba"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 2209000,
+      "despesas_total": 2369467,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psdb",
+          "percentual": 98.23
+        },
+        {
+          "nome": "Carlos Eduardo Chaise",
+          "percentual": 0.68
+        },
+        {
+          "nome": "Gabriel Bandeira Cajaty Goncalves",
+          "percentual": 0.18
+        },
+        {
+          "nome": "Marcelo Campello Cajaty Goncalves",
+          "percentual": 0.18
+        },
+        {
+          "nome": "Gabriel Ricardo Canavezi De Barros",
+          "percentual": 0.18
+        },
+        {
+          "nome": "777 comunicacao estrategica ltda",
+          "percentual": 33.78
+        },
+        {
+          "nome": "inseptos filmes ltda",
+          "percentual": 22.11
+        },
+        {
+          "nome": "impressos portao ltda",
+          "percentual": 10.22
+        },
+        {
+          "nome": "kevin chaves krieger ltda",
+          "percentual": 6.33
+        },
+        {
+          "nome": "brenner de moraes - sociedade de advogados",
+          "percentual": 5.47
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "777 comunicacao estrategica ltda",
+          "percentual": 33.78
+        },
+        {
+          "nome": "inseptos filmes ltda",
+          "percentual": 22.11
+        },
+        {
+          "nome": "impressos portao ltda",
+          "percentual": 10.22
+        },
+        {
+          "nome": "kevin chaves krieger ltda",
+          "percentual": 6.33
+        },
+        {
+          "nome": "brenner de moraes - sociedade de advogados",
+          "percentual": 5.47
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rs-210002535802.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:07:44.428Z"
+  },
+  {
+    "slug": "210002533355",
+    "nome": "Priscila Voigt",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "RS",
+    "foto_arquivo": "governador-rs-210002533355",
+    "foto_url_original": "https://s2-g1.glbimg.com/1VtZDX6hDWEYIvxc5h5BT5lyVZc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/b/4UaThCTYeXIZnAKPa6zA/priscila-voigt.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rs/210002533355.ghtml",
+    "profissao": "Nutricionista e assemelhados",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/210016842100",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1000,
+    "receitas_total": 44554.65,
+    "despesas_total": 67707.21,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Dinheiro",
+        "valor": 1000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Up - Rio Grande Do Sul",
+        "percentual": 75.23
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 24.77
+      },
+      {
+        "nome": "celi maria da luz nascente ltda",
+        "percentual": 59.18
+      },
+      {
+        "nome": "amanda benedett",
+        "percentual": 7.38
+      },
+      {
+        "nome": "thaina battesini teixeira",
+        "percentual": 7.38
+      },
+      {
+        "nome": "nanashara d avila sanches",
+        "percentual": 4.43
+      },
+      {
+        "nome": "vinicius stone silva",
+        "percentual": 4.43
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "celi maria da luz nascente ltda",
+        "percentual": 59.18
+      },
+      {
+        "nome": "amanda benedett",
+        "percentual": 7.38
+      },
+      {
+        "nome": "thaina battesini teixeira",
+        "percentual": 7.38
+      },
+      {
+        "nome": "nanashara d avila sanches",
+        "percentual": 4.43
+      },
+      {
+        "nome": "vinicius stone silva",
+        "percentual": 4.43
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Priscila Voigt",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Nutricionista e assemelhados",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/210016842100",
+      "foto_url_original": "https://s2-g1.glbimg.com/1VtZDX6hDWEYIvxc5h5BT5lyVZc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/b/4UaThCTYeXIZnAKPa6zA/priscila-voigt.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Depósito bancário em conta corrente no país R$ 1.000,00 Dinheiro"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 44554.65,
+      "despesas_total": 67707.21,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Up - Rio Grande Do Sul",
+          "percentual": 75.23
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 24.77
+        },
+        {
+          "nome": "celi maria da luz nascente ltda",
+          "percentual": 59.18
+        },
+        {
+          "nome": "amanda benedett",
+          "percentual": 7.38
+        },
+        {
+          "nome": "thaina battesini teixeira",
+          "percentual": 7.38
+        },
+        {
+          "nome": "nanashara d avila sanches",
+          "percentual": 4.43
+        },
+        {
+          "nome": "vinicius stone silva",
+          "percentual": 4.43
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "celi maria da luz nascente ltda",
+          "percentual": 59.18
+        },
+        {
+          "nome": "amanda benedett",
+          "percentual": 7.38
+        },
+        {
+          "nome": "thaina battesini teixeira",
+          "percentual": 7.38
+        },
+        {
+          "nome": "nanashara d avila sanches",
+          "percentual": 4.43
+        },
+        {
+          "nome": "vinicius stone silva",
+          "percentual": 4.43
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rs-210002533355.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:07:50.377Z"
+  },
+  {
+    "slug": "210002541367",
+    "nome": "Rejane De Oliveira",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "governador",
+    "uf": "RS",
+    "foto_arquivo": "governador-rs-210002541367",
+    "foto_url_original": "https://s2-g1.glbimg.com/LQKQW3_2nCOU3VyNFnK8LNWUNDo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/0/VRGnYCTumRSoCVyZ4cCg/rejane-de-oliveira.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rs/210002541367.ghtml",
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/210017130611",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 498000,
+    "receitas_total": 57902.5,
+    "despesas_total": 42553,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro",
+        "valor": 18000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 480000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 96.72
+      },
+      {
+        "nome": "Roselena Leal",
+        "percentual": 1.73
+      },
+      {
+        "nome": "Marcela Cristina Andrade De Azevedo",
+        "percentual": 0.86
+      },
+      {
+        "nome": "Fabiana Da Silva Sanguine",
+        "percentual": 0.69
+      },
+      {
+        "nome": "albiero, gomes sociedade de advogados",
+        "percentual": 35.25
+      },
+      {
+        "nome": "vânia gobetti",
+        "percentual": 23.5
+      },
+      {
+        "nome": "celi maria da luz nascente ltda",
+        "percentual": 12.34
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 9.4
+      },
+      {
+        "nome": "marco aurélio da silva vanzin",
+        "percentual": 9.4
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "albiero, gomes sociedade de advogados",
+        "percentual": 35.25
+      },
+      {
+        "nome": "vânia gobetti",
+        "percentual": 23.5
+      },
+      {
+        "nome": "celi maria da luz nascente ltda",
+        "percentual": 12.34
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 9.4
+      },
+      {
+        "nome": "marco aurélio da silva vanzin",
+        "percentual": 9.4
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Rejane De Oliveira",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Professor de ensino médio",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/210017130611",
+      "foto_url_original": "https://s2-g1.glbimg.com/LQKQW3_2nCOU3VyNFnK8LNWUNDo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/0/VRGnYCTumRSoCVyZ4cCg/rejane-de-oliveira.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 18.000,00 Carro",
+        "Apartamento R$ 480.000,00 Apartamento"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 57902.5,
+      "despesas_total": 42553,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 96.72
+        },
+        {
+          "nome": "Roselena Leal",
+          "percentual": 1.73
+        },
+        {
+          "nome": "Marcela Cristina Andrade De Azevedo",
+          "percentual": 0.86
+        },
+        {
+          "nome": "Fabiana Da Silva Sanguine",
+          "percentual": 0.69
+        },
+        {
+          "nome": "albiero, gomes sociedade de advogados",
+          "percentual": 35.25
+        },
+        {
+          "nome": "vânia gobetti",
+          "percentual": 23.5
+        },
+        {
+          "nome": "celi maria da luz nascente ltda",
+          "percentual": 12.34
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 9.4
+        },
+        {
+          "nome": "marco aurélio da silva vanzin",
+          "percentual": 9.4
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "albiero, gomes sociedade de advogados",
+          "percentual": 35.25
+        },
+        {
+          "nome": "vânia gobetti",
+          "percentual": 23.5
+        },
+        {
+          "nome": "celi maria da luz nascente ltda",
+          "percentual": 12.34
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 9.4
+        },
+        {
+          "nome": "marco aurélio da silva vanzin",
+          "percentual": 9.4
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rs-210002541367.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:07:55.010Z"
+  },
+  {
+    "slug": "210002547857",
+    "nome": "Zucco",
+    "partido": "PL",
+    "numero": 22,
+    "cargo": "governador",
+    "uf": "RS",
+    "foto_arquivo": "governador-rs-210002547857",
+    "foto_url_original": "https://s2-g1.glbimg.com/OZ2lEadwZRZXi5SN3tO5r6dXAc4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/R/YUiWx1QzSTJownIThrIA/zucco.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rs/210002547857.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/210017095572",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 709304,
+    "receitas_total": 11570005,
+    "despesas_total": 9303244.94,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Bb",
+        "valor": 32
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Banco itaú",
+        "valor": 78426
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Bb",
+        "valor": 3133
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupex",
+        "valor": 34
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Banco itaú",
+        "valor": 20000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta",
+        "valor": 39348
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "valor": 30000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Banrisul",
+        "valor": 217
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Banrisul",
+        "valor": 256
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Banrisul",
+        "valor": 251
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "valor": 267607
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Porto alegre/rs",
+        "valor": 270000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 43.22
+      },
+      {
+        "nome": "Alexandre Grendene Bartelle",
+        "percentual": 21.61
+      },
+      {
+        "nome": "Direção Nacional - Pp",
+        "percentual": 17.29
+      },
+      {
+        "nome": "Direção Nacional - Pode",
+        "percentual": 17.29
+      },
+      {
+        "nome": "Ernani Reuter",
+        "percentual": 0.61
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 12.9
+      },
+      {
+        "nome": "moreira - conceito em comunicacao ltda",
+        "percentual": 12.47
+      },
+      {
+        "nome": "sao bento consultoria ltda",
+        "percentual": 10.75
+      },
+      {
+        "nome": "grafica e editora comunicacao impressa ltda",
+        "percentual": 10.53
+      },
+      {
+        "nome": "crj comunicacao visual ltda",
+        "percentual": 6.64
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 12.9
+      },
+      {
+        "nome": "moreira - conceito em comunicacao ltda",
+        "percentual": 12.47
+      },
+      {
+        "nome": "sao bento consultoria ltda",
+        "percentual": 10.75
+      },
+      {
+        "nome": "grafica e editora comunicacao impressa ltda",
+        "percentual": 10.53
+      },
+      {
+        "nome": "crj comunicacao visual ltda",
+        "percentual": 6.64
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Zucco",
+      "partido_pagina": "PL",
+      "numero_pagina": 22,
+      "profissao": "Deputado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/210017095572",
+      "foto_url_original": "https://s2-g1.glbimg.com/OZ2lEadwZRZXi5SN3tO5r6dXAc4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/R/YUiWx1QzSTJownIThrIA/zucco.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 32,00 Bb",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 78.426,00 Banco itaú",
+        "Depósito bancário em conta corrente no país R$ 3.133,00 Bb",
+        "Caderneta de poupança R$ 34,00 Poupex",
+        "Vgbl - vida gerador de benefício livre R$ 20.000,00 Banco itaú",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 39.348,00 Motocicleta",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 30.000,00 Automóvel",
+        "Depósito bancário em conta corrente no país R$ 217,00 Banrisul",
+        "Depósito bancário em conta corrente no país R$ 256,00 Banrisul",
+        "Depósito bancário em conta corrente no país R$ 251,00 Banrisul",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 267.607,00 Automóvel",
+        "Apartamento R$ 270.000,00 Porto alegre/rs"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 11570005,
+      "despesas_total": 9303244.94,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 43.22
+        },
+        {
+          "nome": "Alexandre Grendene Bartelle",
+          "percentual": 21.61
+        },
+        {
+          "nome": "Direção Nacional - Pp",
+          "percentual": 17.29
+        },
+        {
+          "nome": "Direção Nacional - Pode",
+          "percentual": 17.29
+        },
+        {
+          "nome": "Ernani Reuter",
+          "percentual": 0.61
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 12.9
+        },
+        {
+          "nome": "moreira - conceito em comunicacao ltda",
+          "percentual": 12.47
+        },
+        {
+          "nome": "sao bento consultoria ltda",
+          "percentual": 10.75
+        },
+        {
+          "nome": "grafica e editora comunicacao impressa ltda",
+          "percentual": 10.53
+        },
+        {
+          "nome": "crj comunicacao visual ltda",
+          "percentual": 6.64
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 12.9
+        },
+        {
+          "nome": "moreira - conceito em comunicacao ltda",
+          "percentual": 12.47
+        },
+        {
+          "nome": "sao bento consultoria ltda",
+          "percentual": 10.75
+        },
+        {
+          "nome": "grafica e editora comunicacao impressa ltda",
+          "percentual": 10.53
+        },
+        {
+          "nome": "crj comunicacao visual ltda",
+          "percentual": 6.64
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rs-210002547857.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:08:00.853Z"
+  }
+]

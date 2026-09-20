@@ -1,0 +1,2626 @@
+[
+  {
+    "slug": "130002539775",
+    "nome": "Alexandre Kalil",
+    "partido": "PDT",
+    "numero": 12,
+    "cargo": "governador",
+    "uf": "MG",
+    "foto_arquivo": "governador-mg-130002539775",
+    "foto_url_original": "https://s2-g1.glbimg.com/TK36PPZ1ZHwVwCDeNKvVD2xOa-Q=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/1/VLlomxR4mskXQ8OHA8Ug/alexandre-kalil.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/mg/130002539775.ghtml",
+    "profissao": "Outros",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130016911243",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 5941176.840000003,
+    "receitas_total": 14106562.5,
+    "despesas_total": 13543286.38,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 31,25 por cento (12,5 + 18,5 ) do lote 10 quadra 28, 13a secao urbana, casa, av.bernardo monteiro, 448, r-2 - matricula 33270 - protocolo 75277 - livro 2 em 25/10/85, 4o oficio de registro de",
+        "valor": 98023.65
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 18,75 por cento da loja 05 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil cpf: 662.562.756-9",
+        "valor": 51159.74
+      },
+      {
+        "tipo": "Prédio residencial",
+        "descricao": "Prédio residencial Glaucia - 50% predio residencial com todas as suas benfeitorias e instalacoes, formado pelos lotes 01 ao 06 e 26 ao 34 da quadra 34 do bairro trevo - pertencente a glaucia naves kalil - adquirido por",
+        "valor": 112477.68
+      },
+      {
+        "tipo": "Prédio residencial",
+        "descricao": "Prédio residencial Glaucia - 50% do predio residencial com todas as suas benfeitorias e instalacoes, terreno formado pelos lotes 07 ao 10 do bairro trevo - pertencente a glaucia nvaves kalil - ad",
+        "valor": 31281
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 18,75 por cento da garagem loja 02 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil",
+        "valor": 1929.2
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas do capital social da alka locacao de maquinas e equipamentos eireli-epp cnpj no 21.001.279/0001-06",
+        "valor": 80000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no exterior",
+        "descricao": "Depósito bancário em conta corrente no exterior Deposito no exterior / recursos mantidos na c/c, delta national bank and trust company- usa. - sendo saldo em dolares em 31/12/18 de u$270.739,53 com dolar em 31/12/18 valendo r$3,89 - saldo de u$ 263",
+        "valor": 1420459.22
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 18,75 por cento da loja 03 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil cpf: 662.562.756-",
+        "valor": 51159.74
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 18,75 por cento da garagem loja 04 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil",
+        "valor": 1929.2
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 18,75 por cento da garagem loja 05 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil",
+        "valor": 1929.2
+      },
+      {
+        "tipo": "Crédito decorrente de empréstimo",
+        "descricao": "Crédito decorrente de empréstimo Emprestimo a erkal engenharia lda",
+        "valor": 319511.39
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Banco bradesco - saldo conta corrente",
+        "valor": 12.79
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 18,75 por cento da loja 01 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil cpf: 662.562.756-9",
+        "valor": 51159.74
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 18,75 por cento da loja 05 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil cpf: 662.562.756-9",
+        "valor": 1929.2
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Sim 18,75 por cento da garagem loja 03 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil",
+        "valor": 1929.2
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhonete cabine dupla mitsubishi caminhonte cabine dupla",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhonete cabine dupla mitsubishi caminhonte cabine dupla mitsubishi l200 sport 4x4 ano 2005 -",
+        "valor": 40000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta harley davidson/1bw5je-flstc-heritage softail c",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta harley davidson/1bw5je-flstc-heritage softail classic ano/modelo 2014/2014",
+        "valor": 54000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 12,5 por cento do lote 13 quadra 18 do loteamento denominado vila do pero situado no lugar denominado guriri, na cidade de cabo frio/rj, comarea de 420 m - r-3 - matricula 27.133 em 15/02/1989 - 1o e",
+        "valor": 971.56
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Glaucia - 50% lotes 11 a 22 do quarteirao 17 ma regiao denominada confisco - pampulha - pertencente a glaucia nvaves kalil - adquirido por heranca de sua mae joyce barros naves",
+        "valor": 56650
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta harley davidson / flhtc ano/modelo: 2008/2009",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta harley davidson / flhtc ano/modelo: 2008/2009",
+        "valor": 53000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas do capital social da fergikal ltda 18.793.539/0001-00.",
+        "valor": 296000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 37,50 meio por cento lote 24, quadra 33, bairro castelo, belo horizonte/mg, conforme r-3-matricula 9445 protcolo 104117-livro 2 em 17/08/1987, 43 oficio de registro de imoveis em belo horizonte-mg, co",
+        "valor": 11450.55
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Land rover, preta modelo/ano:2012 adquirido de terra nova v",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Land rover, preta modelo/ano:2012 adquirido de terra nova veiculos e pecas ltda, financiamento bmg leasing sa.",
+        "valor": 351996.17
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta harley davidson/1klje-flhtk-eletrica glide ultr",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta harley davidson/1klje-flhtk-eletrica glide ultra ano/modelo: 2014/2014",
+        "valor": 81900
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 18,75 por cento do apartamento no 201 da rua pirapetinga,240, edificio lalu, bairro serra, belo horizonte/mg, inclusive respectiva fracao ideal de 1/6 do lote no 06, quarteirao 22, 1a secao, r-2 - mat",
+        "valor": 8848.15
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 25 por cento do lote 26 quadra 18 do loteamento denominado vila do pero situado no lugar denominado guriri, na cidade de cabo frio/rj, comarea de 420 m - r-3 - matricula 27.139 em 15/02/1989 - 1o e 4o",
+        "valor": 1943.12
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel situado - bairro trevo em belo horizonte, matricula no 67.255-l.2-cartorio do 6o oficio e registro no 3.574 do l.3-c do cartorio do 6o oficio, area de 5.590 m2. registro d",
+        "valor": 400817.34
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Caderneta de poupanca bradesco(237) ag.513 conta 400.306-3",
+        "valor": 72.7
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Banco bradesco - saldo conta corrente",
+        "valor": 15231.38
+      },
+      {
+        "tipo": "Crédito decorrente de empréstimo",
+        "descricao": "Crédito decorrente de empréstimo Emprestimo a erkal engenharia ltda",
+        "valor": 46927.79
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Banco bradesco - saldo em dolar us$ 46,14",
+        "valor": 255.84
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Glaucia - apartamento 201 do edificio parque belvedere - pertencentes a glaucia naves kalil - adqurido por heranca de sua mae joyce barros naves - cf formal de partilha",
+        "valor": 1859235
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 18,75 por cento loja 02 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil cpf: 662.562.756-91,",
+        "valor": 51159.74
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas do capital social erikal engenharia ltda cnpj 17.177.015/0001-22.",
+        "valor": 55055
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 50,0 por cento do lote 310, quadra n, situado no loteamento olhos dagua , condominio estancia das amendoeiras em lagoa santa mg,area de 5.000 m2,conforme escritura de compra e venda , cartorio 1o.ofic",
+        "valor": 15000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 18,75 por cento da loja 04 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil cpf: 662.562.756-9",
+        "valor": 51159.74
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 25 por cento da area de 1.027,77 m2 rua pedrinhas em venda nova bh/mg havido por heranca de meu pai elias kalil cpf 055.436.816-15 conf. formal de partilha em 25/02/94.",
+        "valor": 19431.24
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 25 por cento do lote 13 quadra 27 rua salinas bh/mg havido por heranca de meu pai elias kalil cpf 055.436.816-15 conf. formal de partilha em 25/02/94.",
+        "valor": 78765.91
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 18,75 por cento lote 12, quadra 28 da av.bernardo monteiro no 468, 13a secao urbana, registros nos r-1 matricula 13341 e 41890 - livro 2 em 12/06/1979 e 09/03/1988 - 4o oficio registro de imoveis de b",
+        "valor": 58814.19
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 12,5 por cento do lote 30 quadra 79 - rua yazigi - jardim leonor - bairro morumbi em sao paulo/sp- r296368 livro 2 - 18o oficio registro de imoveis de sao paulo/sp em 03/08/1989 - protocolo 151130.",
+        "valor": 7633.7
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 25 por cento do lote 27 quadra 18 do loteamento denominado vila do pero situado no lugar denominado guriri, na cidade de cabo frio/rj, comarea de 420 m - r-3 - matricula 27.140 em 15/02/1989 - 1o e 4o",
+        "valor": 1943.12
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 31,25 por cento do lote 11, quadra 28, 13a secao urbana avenida bernado monteiro,458 registro 431, fls 18, cartorio 9o oficio de notas, adquirido em 08.06.10984 em belo horizonte/mg, havido por heranc",
+        "valor": 98023.65
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2014,
+        "cargo": "Deputado federal",
+        "partido": "PSB",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pdt",
+        "percentual": 99.24
+      },
+      {
+        "nome": "Direção Nacional - Psdb",
+        "percentual": 0.35
+      },
+      {
+        "nome": "Direção Estadual/distrital - Psdb - Minas Gerais",
+        "percentual": 0.35
+      },
+      {
+        "nome": "Jose Mario Da Silva",
+        "percentual": 0.02
+      },
+      {
+        "nome": "Jorge Luiz Da Silva",
+        "percentual": 0.02
+      },
+      {
+        "nome": "all mg26 comunicacao e estrategia spe ltda",
+        "percentual": 35.44
+      },
+      {
+        "nome": "sete meio producoes ltda",
+        "percentual": 8.86
+      },
+      {
+        "nome": "vinicius souza dieguez",
+        "percentual": 8.49
+      },
+      {
+        "nome": "bigrafica embalagens ltda",
+        "percentual": 7.99
+      },
+      {
+        "nome": "ws producoes e eventos ltda",
+        "percentual": 7.75
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "all mg26 comunicacao e estrategia spe ltda",
+        "percentual": 35.44
+      },
+      {
+        "nome": "sete meio producoes ltda",
+        "percentual": 8.86
+      },
+      {
+        "nome": "vinicius souza dieguez",
+        "percentual": 8.49
+      },
+      {
+        "nome": "bigrafica embalagens ltda",
+        "percentual": 7.99
+      },
+      {
+        "nome": "ws producoes e eventos ltda",
+        "percentual": 7.75
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Alexandre Kalil",
+      "partido_pagina": "PDT",
+      "numero_pagina": 12,
+      "profissao": "Outros",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130016911243",
+      "foto_url_original": "https://s2-g1.glbimg.com/TK36PPZ1ZHwVwCDeNKvVD2xOa-Q=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/1/VLlomxR4mskXQ8OHA8Ug/alexandre-kalil.jpeg",
+      "historico": [
+        {
+          "ano": 2014,
+          "cargo": "Deputado federal",
+          "partido": "PSB",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Terreno R$ 98.023,65 31,25 por cento (12,5 + 18,5 ) do lote 10 quadra 28, 13a secao urbana, casa, av.bernardo monteiro, 448, r-2 - matricula 33270 - protocolo 75277 - livro 2 em 25/10/85, 4o oficio de registro de",
+        "Outros bens imóveis R$ 51.159,74 18,75 por cento da loja 05 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil cpf: 662.562.756-9",
+        "Prédio residencial R$ 112.477,68 Glaucia - 50% predio residencial com todas as suas benfeitorias e instalacoes, formado pelos lotes 01 ao 06 e 26 ao 34 da quadra 34 do bairro trevo - pertencente a glaucia naves kalil - adquirido por",
+        "Prédio residencial R$ 31.281,00 Glaucia - 50% do predio residencial com todas as suas benfeitorias e instalacoes, terreno formado pelos lotes 07 ao 10 do bairro trevo - pertencente a glaucia nvaves kalil - ad",
+        "Outros bens imóveis R$ 1.929,20 18,75 por cento da garagem loja 02 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil",
+        "Quotas ou quinhões de capital R$ 80.000,00 Quotas do capital social da alka locacao de maquinas e equipamentos eireli-epp cnpj no 21.001.279/0001-06",
+        "Depósito bancário em conta corrente no exterior R$ 1.420.459,22 Deposito no exterior / recursos mantidos na c/c, delta national bank and trust company- usa. - sendo saldo em dolares em 31/12/18 de u$270.739,53 com dolar em 31/12/18 valendo r$3,89 - saldo de u$ 263",
+        "Outros bens imóveis R$ 51.159,74 18,75 por cento da loja 03 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil cpf: 662.562.756-",
+        "Outros bens imóveis R$ 1.929,20 18,75 por cento da garagem loja 04 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil",
+        "Outros bens imóveis R$ 1.929,20 18,75 por cento da garagem loja 05 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil",
+        "Crédito decorrente de empréstimo R$ 319.511,39 Emprestimo a erkal engenharia lda",
+        "Depósito bancário em conta corrente no país R$ 12,79 Banco bradesco - saldo conta corrente",
+        "Outros bens imóveis R$ 51.159,74 18,75 por cento da loja 01 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil cpf: 662.562.756-9",
+        "Outros bens imóveis R$ 1.929,20 18,75 por cento da loja 05 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil cpf: 662.562.756-9",
+        "Outros bens imóveis R$ 1.929,20 Sim 18,75 por cento da garagem loja 03 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 40.000,00 Caminhonete cabine dupla mitsubishi caminhonte cabine dupla mitsubishi l200 sport 4x4 ano 2005 -",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 54.000,00 Motocicleta harley davidson/1bw5je-flstc-heritage softail classic ano/modelo 2014/2014",
+        "Outros bens imóveis R$ 971,56 12,5 por cento do lote 13 quadra 18 do loteamento denominado vila do pero situado no lugar denominado guriri, na cidade de cabo frio/rj, comarea de 420 m - r-3 - matricula 27.133 em 15/02/1989 - 1o e",
+        "Outros bens imóveis R$ 56.650,00 Glaucia - 50% lotes 11 a 22 do quarteirao 17 ma regiao denominada confisco - pampulha - pertencente a glaucia nvaves kalil - adquirido por heranca de sua mae joyce barros naves",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 53.000,00 Motocicleta harley davidson / flhtc ano/modelo: 2008/2009",
+        "Quotas ou quinhões de capital R$ 296.000,00 Quotas do capital social da fergikal ltda 18.793.539/0001-00.",
+        "Outros bens imóveis R$ 11.450,55 37,50 meio por cento lote 24, quadra 33, bairro castelo, belo horizonte/mg, conforme r-3-matricula 9445 protcolo 104117-livro 2 em 17/08/1987, 43 oficio de registro de imoveis em belo horizonte-mg, co",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 351.996,17 Land rover, preta modelo/ano:2012 adquirido de terra nova veiculos e pecas ltda, financiamento bmg leasing sa.",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 81.900,00 Motocicleta harley davidson/1klje-flhtk-eletrica glide ultra ano/modelo: 2014/2014",
+        "Apartamento R$ 8.848,15 18,75 por cento do apartamento no 201 da rua pirapetinga,240, edificio lalu, bairro serra, belo horizonte/mg, inclusive respectiva fracao ideal de 1/6 do lote no 06, quarteirao 22, 1a secao, r-2 - mat",
+        "Outros bens imóveis R$ 1.943,12 25 por cento do lote 26 quadra 18 do loteamento denominado vila do pero situado no lugar denominado guriri, na cidade de cabo frio/rj, comarea de 420 m - r-3 - matricula 27.139 em 15/02/1989 - 1o e 4o",
+        "Outros bens imóveis R$ 400.817,34 Imovel situado - bairro trevo em belo horizonte, matricula no 67.255-l.2-cartorio do 6o oficio e registro no 3.574 do l.3-c do cartorio do 6o oficio, area de 5.590 m2. registro d",
+        "Caderneta de poupança R$ 72,70 Caderneta de poupanca bradesco(237) ag.513 conta 400.306-3",
+        "Depósito bancário em conta corrente no país R$ 15.231,38 Banco bradesco - saldo conta corrente",
+        "Crédito decorrente de empréstimo R$ 46.927,79 Emprestimo a erkal engenharia ltda",
+        "Depósito bancário em conta corrente no país R$ 255,84 Banco bradesco - saldo em dolar us$ 46,14",
+        "Apartamento R$ 1.859.235,00 Glaucia - apartamento 201 do edificio parque belvedere - pertencentes a glaucia naves kalil - adqurido por heranca de sua mae joyce barros naves - cf formal de partilha",
+        "Outros bens imóveis R$ 51.159,74 18,75 por cento loja 02 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil cpf: 662.562.756-91,",
+        "Quotas ou quinhões de capital R$ 55.055,00 Quotas do capital social erikal engenharia ltda cnpj 17.177.015/0001-22.",
+        "Outros bens imóveis R$ 15.000,00 50,0 por cento do lote 310, quadra n, situado no loteamento olhos dagua , condominio estancia das amendoeiras em lagoa santa mg,area de 5.000 m2,conforme escritura de compra e venda , cartorio 1o.ofic",
+        "Outros bens imóveis R$ 51.159,74 18,75 por cento da loja 04 do edificio moyses kalil, na avenida getulio vargas, 620, bairro funcionarios, belo horizonte/mg, recebido em doacao de seua mae leila antonio hissa kalil cpf: 662.562.756-9",
+        "Outros bens imóveis R$ 19.431,24 25 por cento da area de 1.027,77 m2 rua pedrinhas em venda nova bh/mg havido por heranca de meu pai elias kalil cpf 055.436.816-15 conf. formal de partilha em 25/02/94.",
+        "Outros bens imóveis R$ 78.765,91 25 por cento do lote 13 quadra 27 rua salinas bh/mg havido por heranca de meu pai elias kalil cpf 055.436.816-15 conf. formal de partilha em 25/02/94.",
+        "Outros bens imóveis R$ 58.814,19 18,75 por cento lote 12, quadra 28 da av.bernardo monteiro no 468, 13a secao urbana, registros nos r-1 matricula 13341 e 41890 - livro 2 em 12/06/1979 e 09/03/1988 - 4o oficio registro de imoveis de b",
+        "Outros bens imóveis R$ 7.633,70 12,5 por cento do lote 30 quadra 79 - rua yazigi - jardim leonor - bairro morumbi em sao paulo/sp- r296368 livro 2 - 18o oficio registro de imoveis de sao paulo/sp em 03/08/1989 - protocolo 151130.",
+        "Outros bens imóveis R$ 1.943,12 25 por cento do lote 27 quadra 18 do loteamento denominado vila do pero situado no lugar denominado guriri, na cidade de cabo frio/rj, comarea de 420 m - r-3 - matricula 27.140 em 15/02/1989 - 1o e 4o",
+        "Outros bens imóveis R$ 98.023,65 31,25 por cento do lote 11, quadra 28, 13a secao urbana avenida bernado monteiro,458 registro 431, fls 18, cartorio 9o oficio de notas, adquirido em 08.06.10984 em belo horizonte/mg, havido por heranc"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 14106562.5,
+      "despesas_total": 13543286.38,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pdt",
+          "percentual": 99.24
+        },
+        {
+          "nome": "Direção Nacional - Psdb",
+          "percentual": 0.35
+        },
+        {
+          "nome": "Direção Estadual/distrital - Psdb - Minas Gerais",
+          "percentual": 0.35
+        },
+        {
+          "nome": "Jose Mario Da Silva",
+          "percentual": 0.02
+        },
+        {
+          "nome": "Jorge Luiz Da Silva",
+          "percentual": 0.02
+        },
+        {
+          "nome": "all mg26 comunicacao e estrategia spe ltda",
+          "percentual": 35.44
+        },
+        {
+          "nome": "sete meio producoes ltda",
+          "percentual": 8.86
+        },
+        {
+          "nome": "vinicius souza dieguez",
+          "percentual": 8.49
+        },
+        {
+          "nome": "bigrafica embalagens ltda",
+          "percentual": 7.99
+        },
+        {
+          "nome": "ws producoes e eventos ltda",
+          "percentual": 7.75
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "all mg26 comunicacao e estrategia spe ltda",
+          "percentual": 35.44
+        },
+        {
+          "nome": "sete meio producoes ltda",
+          "percentual": 8.86
+        },
+        {
+          "nome": "vinicius souza dieguez",
+          "percentual": 8.49
+        },
+        {
+          "nome": "bigrafica embalagens ltda",
+          "percentual": 7.99
+        },
+        {
+          "nome": "ws producoes e eventos ltda",
+          "percentual": 7.75
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-mg-130002539775.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:01:18.617Z"
+  },
+  {
+    "slug": "130002544411",
+    "nome": "Ben Mendes",
+    "partido": "MISSÃO",
+    "numero": 14,
+    "cargo": "governador",
+    "uf": "MG",
+    "foto_arquivo": "governador-mg-130002544411",
+    "foto_url_original": "https://s2-g1.glbimg.com/pOhTKseGHUm4J1CWIRKUh3F7ZFE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/F/qQ5eNPRlGfZMefgkQX7A/ben-mendes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/mg/130002544411.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017139584",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 80000,
+    "receitas_total": 120000,
+    "despesas_total": 57611.93,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "17/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Btn produções ltda - capital social",
+        "valor": 10000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Cavalo mangalarga marchador",
+        "valor": 20000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Btn comércio de alimentos",
+        "valor": 50000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Missão",
+        "percentual": 100
+      },
+      {
+        "nome": "maquine empreendimentos s.a.",
+        "percentual": 40.29
+      },
+      {
+        "nome": "camargraf grafica e editora ltda",
+        "percentual": 17.46
+      },
+      {
+        "nome": "lokamig rent a car s.a.",
+        "percentual": 10.45
+      },
+      {
+        "nome": "arte eventos limitada",
+        "percentual": 9.15
+      },
+      {
+        "nome": "matheus martins de carvalho",
+        "percentual": 9.11
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "maquine empreendimentos s.a.",
+        "percentual": 40.29
+      },
+      {
+        "nome": "camargraf grafica e editora ltda",
+        "percentual": 17.46
+      },
+      {
+        "nome": "lokamig rent a car s.a.",
+        "percentual": 10.45
+      },
+      {
+        "nome": "arte eventos limitada",
+        "percentual": 9.15
+      },
+      {
+        "nome": "matheus martins de carvalho",
+        "percentual": 9.11
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Ben Mendes",
+      "partido_pagina": "MISSÃO",
+      "numero_pagina": 14,
+      "profissao": "Advogado",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017139584",
+      "foto_url_original": "https://s2-g1.glbimg.com/pOhTKseGHUm4J1CWIRKUh3F7ZFE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/F/qQ5eNPRlGfZMefgkQX7A/ben-mendes.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outras participações societárias R$ 10.000,00 Btn produções ltda - capital social",
+        "Outros bens e direitos R$ 20.000,00 Cavalo mangalarga marchador",
+        "Outras participações societárias R$ 50.000,00 Btn comércio de alimentos"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 120000,
+      "despesas_total": 57611.93,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Missão",
+          "percentual": 100
+        },
+        {
+          "nome": "maquine empreendimentos s.a.",
+          "percentual": 40.29
+        },
+        {
+          "nome": "camargraf grafica e editora ltda",
+          "percentual": 17.46
+        },
+        {
+          "nome": "lokamig rent a car s.a.",
+          "percentual": 10.45
+        },
+        {
+          "nome": "arte eventos limitada",
+          "percentual": 9.15
+        },
+        {
+          "nome": "matheus martins de carvalho",
+          "percentual": 9.11
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "maquine empreendimentos s.a.",
+          "percentual": 40.29
+        },
+        {
+          "nome": "camargraf grafica e editora ltda",
+          "percentual": 17.46
+        },
+        {
+          "nome": "lokamig rent a car s.a.",
+          "percentual": 10.45
+        },
+        {
+          "nome": "arte eventos limitada",
+          "percentual": 9.15
+        },
+        {
+          "nome": "matheus martins de carvalho",
+          "percentual": 9.11
+        }
+      ],
+      "fonte_atualizado_em": "17/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-mg-130002544411.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:01:23.998Z"
+  },
+  {
+    "slug": "130002552296",
+    "nome": "Cleitinho Azevedo",
+    "partido": "REP",
+    "numero": 10,
+    "cargo": "governador",
+    "uf": "MG",
+    "foto_arquivo": "governador-mg-130002552296",
+    "foto_url_original": "https://s2-g1.glbimg.com/AwqF8qI2t-0MQPviSPgshxzNsNs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/v/g41Fm9Q6CkZFTvBBcBCg/cleitinho-azevedo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/mg/130002552296.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino fundamental completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017111301",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 956564.03,
+    "receitas_total": 734975,
+    "despesas_total": 669285.06,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta banco itaú",
+        "valor": 699
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas sociais na empresa tamo junto produtora ltda.",
+        "valor": 50000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Conta investimento - picpay bank",
+        "valor": 66560.58
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa, bairro jardim betania, divinópolis - (mg) (em financiamento)",
+        "valor": 300000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta nubank",
+        "valor": 434.33
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo ford maverick tremor",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo ford maverick tremor",
+        "valor": 239900
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automovel vw saveiro",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automovel vw saveiro",
+        "valor": 23000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta caixa econômica federal",
+        "valor": 4679.53
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo rampage laramie gas",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo rampage laramie gas",
+        "valor": 256000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta picpay bank",
+        "valor": 4003
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Iss",
+        "valor": 11287.59
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Eduardo Pinheiro Campos",
+        "percentual": 13.61
+      },
+      {
+        "nome": "Lucas Candido Pereira Neto",
+        "percentual": 8.16
+      },
+      {
+        "nome": "Rodrigo Andrade De Souza Lima",
+        "percentual": 6.94
+      },
+      {
+        "nome": "Elias Ferreira Caixeta",
+        "percentual": 6.8
+      },
+      {
+        "nome": "Paulo Veloso Junior",
+        "percentual": 6.8
+      },
+      {
+        "nome": "v. u. pereira impressao e sinalizacao digital ltda",
+        "percentual": 29.61
+      },
+      {
+        "nome": "projeminas comercio e servicos ltda",
+        "percentual": 8.96
+      },
+      {
+        "nome": "serconta servicos contabeis ltda",
+        "percentual": 7.77
+      },
+      {
+        "nome": "inove impressoes graficas e marketing politico ltda",
+        "percentual": 4.03
+      },
+      {
+        "nome": "guilherme rafael savoldi secci",
+        "percentual": 3.93
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "v. u. pereira impressao e sinalizacao digital ltda",
+        "percentual": 29.61
+      },
+      {
+        "nome": "projeminas comercio e servicos ltda",
+        "percentual": 8.96
+      },
+      {
+        "nome": "serconta servicos contabeis ltda",
+        "percentual": 7.77
+      },
+      {
+        "nome": "inove impressoes graficas e marketing politico ltda",
+        "percentual": 4.03
+      },
+      {
+        "nome": "guilherme rafael savoldi secci",
+        "percentual": 3.93
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Cleitinho Azevedo",
+      "partido_pagina": "REP",
+      "numero_pagina": 10,
+      "profissao": "Senador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino fundamental completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017111301",
+      "foto_url_original": "https://s2-g1.glbimg.com/AwqF8qI2t-0MQPviSPgshxzNsNs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/v/g41Fm9Q6CkZFTvBBcBCg/cleitinho-azevedo.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Depósito bancário em conta corrente no país R$ 699,00 Conta banco itaú",
+        "Quotas ou quinhões de capital R$ 50.000,00 Quotas sociais na empresa tamo junto produtora ltda.",
+        "Outros bens e direitos R$ 66.560,58 Conta investimento - picpay bank",
+        "Casa R$ 300.000,00 Casa, bairro jardim betania, divinópolis - (mg) (em financiamento)",
+        "Depósito bancário em conta corrente no país R$ 434,33 Conta nubank",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 239.900,00 Veículo ford maverick tremor",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 23.000,00 Automovel vw saveiro",
+        "Depósito bancário em conta corrente no país R$ 4.679,53 Conta caixa econômica federal",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 256.000,00 Veículo rampage laramie gas",
+        "Depósito bancário em conta corrente no país R$ 4.003,00 Conta picpay bank",
+        "Outros bens e direitos R$ 11.287,59 Iss"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 734975,
+      "despesas_total": 669285.06,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Eduardo Pinheiro Campos",
+          "percentual": 13.61
+        },
+        {
+          "nome": "Lucas Candido Pereira Neto",
+          "percentual": 8.16
+        },
+        {
+          "nome": "Rodrigo Andrade De Souza Lima",
+          "percentual": 6.94
+        },
+        {
+          "nome": "Elias Ferreira Caixeta",
+          "percentual": 6.8
+        },
+        {
+          "nome": "Paulo Veloso Junior",
+          "percentual": 6.8
+        },
+        {
+          "nome": "v. u. pereira impressao e sinalizacao digital ltda",
+          "percentual": 29.61
+        },
+        {
+          "nome": "projeminas comercio e servicos ltda",
+          "percentual": 8.96
+        },
+        {
+          "nome": "serconta servicos contabeis ltda",
+          "percentual": 7.77
+        },
+        {
+          "nome": "inove impressoes graficas e marketing politico ltda",
+          "percentual": 4.03
+        },
+        {
+          "nome": "guilherme rafael savoldi secci",
+          "percentual": 3.93
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "v. u. pereira impressao e sinalizacao digital ltda",
+          "percentual": 29.61
+        },
+        {
+          "nome": "projeminas comercio e servicos ltda",
+          "percentual": 8.96
+        },
+        {
+          "nome": "serconta servicos contabeis ltda",
+          "percentual": 7.77
+        },
+        {
+          "nome": "inove impressoes graficas e marketing politico ltda",
+          "percentual": 4.03
+        },
+        {
+          "nome": "guilherme rafael savoldi secci",
+          "percentual": 3.93
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-mg-130002552296.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:01:28.223Z"
+  },
+  {
+    "slug": "130002550834",
+    "nome": "Flávio Roscoe",
+    "partido": "PL",
+    "numero": 22,
+    "cargo": "governador",
+    "uf": "MG",
+    "foto_arquivo": "governador-mg-130002550834",
+    "foto_url_original": "https://s2-g1.glbimg.com/jCRfIg6V-10osnIPtJ6Ie0C_55A=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/t/9NH4n6S12cbdAbjKlqRA/flavio-roscoe.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/mg/130002550834.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017092515",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 13350362.209999999,
+    "receitas_total": 11453843.55,
+    "despesas_total": 6488885.79,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Equipamento industrial jig-flow, capacidade 300kg, marca phoenix",
+        "valor": 5000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 12.000 quotas do capital social da itatextil indústria têxtil ltda",
+        "valor": 12000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Fundo de investimento (saf sob max cic rf simples), safra asset",
+        "valor": 176097.43
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Cota de consórcio, ponta administradora de consórcios",
+        "valor": 459788.66
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Ford fusion v6 fwd,",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Ford fusion v6 fwd,",
+        "valor": 55000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente, banco safra",
+        "valor": 2.8
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro em espécie",
+        "valor": 14000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Audi a3 lm",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Audi a3 lm 150cv, - ano/modelo 2016",
+        "valor": 70000
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto 2 salas comerciais - belo horizonte/mg",
+        "valor": 150000
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ações do banco safra s/a",
+        "valor": 556500.18
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Depósito a prazo, banco sicoob",
+        "valor": 7228167.25
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Empréstimo concedido a terceiro (pessoa física)",
+        "valor": 40000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente, banco itaú",
+        "valor": 10
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 444.124 ações da colortêxtil participações s.a.",
+        "valor": 474767.6
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 50 quotas de capital da colortextil nordeste ltda",
+        "valor": 6123
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 33,33% do capital social da fgg gestão empresarial ltda",
+        "valor": 7000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Empréstimo concedido a familiar (entrada de imóvel)",
+        "valor": 350000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Caderneta de poupança, banco itaú",
+        "valor": 36071.68
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Empréstimo concedido a familiar para aquisição de imóvel",
+        "valor": 848000
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Máquina circular, marca orizio paolo, modelo jh standart",
+        "valor": 5000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital do banco sicoob (credifiemg)",
+        "valor": 422750.84
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente e investimento vgbl, banco sicoob",
+        "valor": 119382.77
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Depósito a prazo, banco safra",
+        "valor": 700
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento - nova lima/mg",
+        "valor": 2100000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Empréstimo concedido a familiar (consórcio)",
+        "valor": 214000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 22.7
+      },
+      {
+        "nome": "Direção Estadual/distrital - Pl - Minas Gerais",
+        "percentual": 14.63
+      },
+      {
+        "nome": "Carlos Geo Quick",
+        "percentual": 7.86
+      },
+      {
+        "nome": "Robert Carlos Lyra",
+        "percentual": 4.37
+      },
+      {
+        "nome": "Ailton Ricaldoni Lobo",
+        "percentual": 4.37
+      },
+      {
+        "nome": "bigrafica embalagens ltda",
+        "percentual": 13.28
+      },
+      {
+        "nome": "bcr50 negocios inteligentes ltda",
+        "percentual": 12.61
+      },
+      {
+        "nome": "sociedade de advogados arthur guerra e advogados associados",
+        "percentual": 6.16
+      },
+      {
+        "nome": "lg thompson solucoes em eventos e festas ltda",
+        "percentual": 4.62
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 3.08
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "bigrafica embalagens ltda",
+        "percentual": 13.28
+      },
+      {
+        "nome": "bcr50 negocios inteligentes ltda",
+        "percentual": 12.61
+      },
+      {
+        "nome": "sociedade de advogados arthur guerra e advogados associados",
+        "percentual": 6.16
+      },
+      {
+        "nome": "lg thompson solucoes em eventos e festas ltda",
+        "percentual": 4.62
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 3.08
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Flávio Roscoe",
+      "partido_pagina": "PL",
+      "numero_pagina": 22,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017092515",
+      "foto_url_original": "https://s2-g1.glbimg.com/jCRfIg6V-10osnIPtJ6Ie0C_55A=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/t/9NH4n6S12cbdAbjKlqRA/flavio-roscoe.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens móveis R$ 5.000,00 Equipamento industrial jig-flow, capacidade 300kg, marca phoenix",
+        "Quotas ou quinhões de capital R$ 12.000,00 12.000 quotas do capital social da itatextil indústria têxtil ltda",
+        "Outras aplicações e investimentos R$ 176.097,43 Fundo de investimento (saf sob max cic rf simples), safra asset",
+        "Outros bens e direitos R$ 459.788,66 Cota de consórcio, ponta administradora de consórcios",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 55.000,00 Ford fusion v6 fwd,",
+        "Depósito bancário em conta corrente no país R$ 2,80 Conta corrente, banco safra",
+        "Dinheiro em espécie - moeda nacional R$ 14.000,00 Dinheiro em espécie",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 70.000,00 Audi a3 lm 150cv, - ano/modelo 2016",
+        "Sala ou conjunto R$ 150.000,00 2 salas comerciais - belo horizonte/mg",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 556.500,18 Ações do banco safra s/a",
+        "Outras aplicações e investimentos R$ 7.228.167,25 Depósito a prazo, banco sicoob",
+        "Outros bens e direitos R$ 40.000,00 Empréstimo concedido a terceiro (pessoa física)",
+        "Depósito bancário em conta corrente no país R$ 10,00 Conta corrente, banco itaú",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 474.767,60 444.124 ações da colortêxtil participações s.a.",
+        "Quotas ou quinhões de capital R$ 6.123,00 50 quotas de capital da colortextil nordeste ltda",
+        "Quotas ou quinhões de capital R$ 7.000,00 33,33% do capital social da fgg gestão empresarial ltda",
+        "Outros bens e direitos R$ 350.000,00 Empréstimo concedido a familiar (entrada de imóvel)",
+        "Outras aplicações e investimentos R$ 36.071,68 Caderneta de poupança, banco itaú",
+        "Outros bens e direitos R$ 848.000,00 Empréstimo concedido a familiar para aquisição de imóvel",
+        "Outros bens móveis R$ 5.000,00 Máquina circular, marca orizio paolo, modelo jh standart",
+        "Quotas ou quinhões de capital R$ 422.750,84 Quotas de capital do banco sicoob (credifiemg)",
+        "Depósito bancário em conta corrente no país R$ 119.382,77 Conta corrente e investimento vgbl, banco sicoob",
+        "Outras aplicações e investimentos R$ 700,00 Depósito a prazo, banco safra",
+        "Apartamento R$ 2.100.000,00 Apartamento - nova lima/mg",
+        "Outros bens e direitos R$ 214.000,00 Empréstimo concedido a familiar (consórcio)"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 11453843.55,
+      "despesas_total": 6488885.79,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 22.7
+        },
+        {
+          "nome": "Direção Estadual/distrital - Pl - Minas Gerais",
+          "percentual": 14.63
+        },
+        {
+          "nome": "Carlos Geo Quick",
+          "percentual": 7.86
+        },
+        {
+          "nome": "Robert Carlos Lyra",
+          "percentual": 4.37
+        },
+        {
+          "nome": "Ailton Ricaldoni Lobo",
+          "percentual": 4.37
+        },
+        {
+          "nome": "bigrafica embalagens ltda",
+          "percentual": 13.28
+        },
+        {
+          "nome": "bcr50 negocios inteligentes ltda",
+          "percentual": 12.61
+        },
+        {
+          "nome": "sociedade de advogados arthur guerra e advogados associados",
+          "percentual": 6.16
+        },
+        {
+          "nome": "lg thompson solucoes em eventos e festas ltda",
+          "percentual": 4.62
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 3.08
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "bigrafica embalagens ltda",
+          "percentual": 13.28
+        },
+        {
+          "nome": "bcr50 negocios inteligentes ltda",
+          "percentual": 12.61
+        },
+        {
+          "nome": "sociedade de advogados arthur guerra e advogados associados",
+          "percentual": 6.16
+        },
+        {
+          "nome": "lg thompson solucoes em eventos e festas ltda",
+          "percentual": 4.62
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 3.08
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-mg-130002550834.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:01:32.910Z"
+  },
+  {
+    "slug": "130002549557",
+    "nome": "Gabriel",
+    "partido": "MDB",
+    "numero": 15,
+    "cargo": "governador",
+    "uf": "MG",
+    "foto_arquivo": "governador-mg-130002549557",
+    "foto_url_original": "https://s2-g1.glbimg.com/Nlzs9-IEkZ_k0DK96Rft7PyEa7Y=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/k/pBqYHwTs23yhTAz3z6Bg/gabriel.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/mg/130002549557.ghtml",
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017136172",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1702153.8800000001,
+    "receitas_total": 3500085,
+    "despesas_total": 1694993.31,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "16/09/2026 • Atualizado há 3 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Bicicleta pashley 2016",
+        "valor": 6000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Cra - banco genial",
+        "valor": 20449.07
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Cdb - banco genial",
+        "valor": 59778.23
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta - xp",
+        "valor": 1289.83
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Bicicleta velorbis 2023",
+        "valor": 10000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital social da empresa mina jazz bar ltda",
+        "valor": 10000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital social da empresa gabriel sousa marques de azevedo comunicação",
+        "valor": 1000
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Bicicleta velorbis churchill ballon 2013",
+        "valor": 13000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Xp debêntures incentivadas",
+        "valor": 21931.75
+      },
+      {
+        "tipo": "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc)",
+        "descricao": "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc) Az quest valore fi renda fixa cp",
+        "valor": 17847.56
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Jgp ecossistema fic incentivados",
+        "valor": 11684.39
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente - itaú unibanco s.a.",
+        "valor": 1
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Kapitalo k10 advisory fif em cot",
+        "valor": 10742.39
+      },
+      {
+        "tipo": "Fundo de curto prazo",
+        "descricao": "Fundo de curto prazo V8 cash platinum fic firf cp",
+        "valor": 7555.77
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no exterior",
+        "descricao": "Depósito bancário em conta corrente no exterior Saldo em conta - banco bd2 s.a. (câmbio: 5,5024)",
+        "valor": 9139.43
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Créditos em trânsito - xp investimentos cctvm s/a",
+        "valor": 140
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação em renda fixa - xp investimentos cctvm s/a",
+        "valor": 41156.97
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente - banco bs2 s.a.",
+        "valor": 2.13
+      },
+      {
+        "tipo": "Fundo de curto prazo",
+        "descricao": "Fundo de curto prazo Trend inb fic firf simples",
+        "valor": 439.47
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente - genial",
+        "valor": 5884.35
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50% de apartamento em belo horizonte - mg, com usufruto vitalício de terceiro",
+        "valor": 733838.93
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento em belo horizonte - mg, adquirido com recursos próprios e financiamento",
+        "valor": 188423.04
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Bicicleta gorilla 2020",
+        "valor": 6000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Cri - banco genial",
+        "valor": 63437.29
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa - xp investimentos cctvm s.a.",
+        "valor": 28340.73
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta global - banco inter s.a.",
+        "valor": 4032.82
+      },
+      {
+        "tipo": "Fundo de curto prazo",
+        "descricao": "Fundo de curto prazo Btg pactual tesouro",
+        "valor": 4928.02
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Rdb/cdb - itaú unibanco s.a.",
+        "valor": 7848.69
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em conta poupança - itaú unibanco s.a.",
+        "valor": 194.61
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Ntn-b",
+        "valor": 993.23
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa - banco inter s.a.",
+        "valor": 578.52
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa - nu pagamentos s.a.",
+        "valor": 9424.75
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento em belo horizonte - mg",
+        "valor": 406070.91
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 90
+      },
+      {
+        "nome": "Ricardo Annes Guimaraes",
+        "percentual": 5.71
+      },
+      {
+        "nome": "Lucas Felipe Melo Couto",
+        "percentual": 2.86
+      },
+      {
+        "nome": "Alberto Lage Paula Carvalho Rezende",
+        "percentual": 1
+      },
+      {
+        "nome": "Andre De Souza Simil",
+        "percentual": 0.29
+      },
+      {
+        "nome": "quarteto filmes producoes ltda",
+        "percentual": 35.4
+      },
+      {
+        "nome": "oliveira filho advogados",
+        "percentual": 35.4
+      },
+      {
+        "nome": "ambidestria digital ltda",
+        "percentual": 7.26
+      },
+      {
+        "nome": "almeida & galvao associados ltda",
+        "percentual": 4.16
+      },
+      {
+        "nome": "bca producao e distribuicao de filmes ltda",
+        "percentual": 4.13
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "quarteto filmes producoes ltda",
+        "percentual": 35.4
+      },
+      {
+        "nome": "oliveira filho advogados",
+        "percentual": 35.4
+      },
+      {
+        "nome": "ambidestria digital ltda",
+        "percentual": 7.26
+      },
+      {
+        "nome": "almeida & galvao associados ltda",
+        "percentual": 4.16
+      },
+      {
+        "nome": "bca producao e distribuicao de filmes ltda",
+        "percentual": 4.13
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Gabriel",
+      "partido_pagina": "MDB",
+      "numero_pagina": 15,
+      "profissao": "Professor de ensino superior",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017136172",
+      "foto_url_original": "https://s2-g1.glbimg.com/Nlzs9-IEkZ_k0DK96Rft7PyEa7Y=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/k/pBqYHwTs23yhTAz3z6Bg/gabriel.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens móveis R$ 6.000,00 Bicicleta pashley 2016",
+        "Outras aplicações e investimentos R$ 20.449,07 Cra - banco genial",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 59.778,23 Cdb - banco genial",
+        "Depósito bancário em conta corrente no país R$ 1.289,83 Saldo em conta - xp",
+        "Outros bens móveis R$ 10.000,00 Bicicleta velorbis 2023",
+        "Quotas ou quinhões de capital R$ 10.000,00 Quotas de capital social da empresa mina jazz bar ltda",
+        "Quotas ou quinhões de capital R$ 1.000,00 Quotas de capital social da empresa gabriel sousa marques de azevedo comunicação",
+        "Outros bens móveis R$ 13.000,00 Bicicleta velorbis churchill ballon 2013",
+        "Outras aplicações e investimentos R$ 21.931,75 Xp debêntures incentivadas",
+        "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc) R$ 17.847,56 Az quest valore fi renda fixa cp",
+        "Outros fundos R$ 11.684,39 Jgp ecossistema fic incentivados",
+        "Depósito bancário em conta corrente no país R$ 1,00 Saldo em conta corrente - itaú unibanco s.a.",
+        "Outros fundos R$ 10.742,39 Kapitalo k10 advisory fif em cot",
+        "Fundo de curto prazo R$ 7.555,77 V8 cash platinum fic firf cp",
+        "Depósito bancário em conta corrente no exterior R$ 9.139,43 Saldo em conta - banco bd2 s.a. (câmbio: 5,5024)",
+        "Outros créditos e poupança vinculados R$ 140,00 Créditos em trânsito - xp investimentos cctvm s/a",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 41.156,97 Aplicação em renda fixa - xp investimentos cctvm s/a",
+        "Depósito bancário em conta corrente no país R$ 2,13 Saldo em conta corrente - banco bs2 s.a.",
+        "Fundo de curto prazo R$ 439,47 Trend inb fic firf simples",
+        "Depósito bancário em conta corrente no país R$ 5.884,35 Saldo em conta corrente - genial",
+        "Apartamento R$ 733.838,93 50% de apartamento em belo horizonte - mg, com usufruto vitalício de terceiro",
+        "Apartamento R$ 188.423,04 Apartamento em belo horizonte - mg, adquirido com recursos próprios e financiamento",
+        "Outros bens móveis R$ 6.000,00 Bicicleta gorilla 2020",
+        "Outras aplicações e investimentos R$ 63.437,29 Cri - banco genial",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 28.340,73 Aplicação de renda fixa - xp investimentos cctvm s.a.",
+        "Depósito bancário em conta corrente no país R$ 4.032,82 Saldo em conta global - banco inter s.a.",
+        "Fundo de curto prazo R$ 4.928,02 Btg pactual tesouro",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 7.848,69 Rdb/cdb - itaú unibanco s.a.",
+        "Caderneta de poupança R$ 194,61 Saldo em conta poupança - itaú unibanco s.a.",
+        "Outras aplicações e investimentos R$ 993,23 Ntn-b",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 578,52 Aplicação de renda fixa - banco inter s.a.",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 9.424,75 Aplicação de renda fixa - nu pagamentos s.a.",
+        "Apartamento R$ 406.070,91 Apartamento em belo horizonte - mg"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 3500085,
+      "despesas_total": 1694993.31,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 90
+        },
+        {
+          "nome": "Ricardo Annes Guimaraes",
+          "percentual": 5.71
+        },
+        {
+          "nome": "Lucas Felipe Melo Couto",
+          "percentual": 2.86
+        },
+        {
+          "nome": "Alberto Lage Paula Carvalho Rezende",
+          "percentual": 1
+        },
+        {
+          "nome": "Andre De Souza Simil",
+          "percentual": 0.29
+        },
+        {
+          "nome": "quarteto filmes producoes ltda",
+          "percentual": 35.4
+        },
+        {
+          "nome": "oliveira filho advogados",
+          "percentual": 35.4
+        },
+        {
+          "nome": "ambidestria digital ltda",
+          "percentual": 7.26
+        },
+        {
+          "nome": "almeida & galvao associados ltda",
+          "percentual": 4.16
+        },
+        {
+          "nome": "bca producao e distribuicao de filmes ltda",
+          "percentual": 4.13
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "quarteto filmes producoes ltda",
+          "percentual": 35.4
+        },
+        {
+          "nome": "oliveira filho advogados",
+          "percentual": 35.4
+        },
+        {
+          "nome": "ambidestria digital ltda",
+          "percentual": 7.26
+        },
+        {
+          "nome": "almeida & galvao associados ltda",
+          "percentual": 4.16
+        },
+        {
+          "nome": "bca producao e distribuicao de filmes ltda",
+          "percentual": 4.13
+        }
+      ],
+      "fonte_atualizado_em": "16/09/2026 • Atualizado há 3 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-mg-130002549557.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:01:38.204Z"
+  },
+  {
+    "slug": "130002552308",
+    "nome": "Henrique Áreas",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "MG",
+    "foto_arquivo": "governador-mg-130002552308",
+    "foto_url_original": "https://s2-g1.glbimg.com/TnWSZHCqiMB-F9T6_r74gRIfdFw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/G/BOevfeRnCot3hgvk28WQ/henrique-areas.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/mg/130002552308.ghtml",
+    "profissao": "Jornalista e redator",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017111443",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [
+      {
+        "ano": 2018,
+        "cargo": "Deputado federal",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Henrique Áreas",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Jornalista e redator",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017111443",
+      "foto_url_original": "https://s2-g1.glbimg.com/TnWSZHCqiMB-F9T6_r74gRIfdFw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/G/BOevfeRnCot3hgvk28WQ/henrique-areas.jpeg",
+      "historico": [
+        {
+          "ano": 2018,
+          "cargo": "Deputado federal",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 17788806.16,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-mg-130002552308.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:01:45.096Z"
+  },
+  {
+    "slug": "130002547874",
+    "nome": "Indira Xavier",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "MG",
+    "foto_arquivo": "governador-mg-130002547874",
+    "foto_url_original": "https://s2-g1.glbimg.com/O1XsKnlST-Rz34WGhx9iH35HVXY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/b/vvpTISRLucDBItb4qvwA/indira-xavier.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/mg/130002547874.ghtml",
+    "profissao": "Auxiliar de escritório e assemelhados",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017069375",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 479.89,
+    "receitas_total": 27945.23,
+    "despesas_total": 9144.47,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "27/08/2026 • Atualizado há 23 dias\n\nDado",
+    "bens": [
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Banco do brasil",
+        "valor": 479.89
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 51.19
+      },
+      {
+        "nome": "Direção Estadual/distrital - Up - Minas Gerais",
+        "percentual": 35.78
+      },
+      {
+        "nome": "Hudson Dyele Pinheiro De Oliveira",
+        "percentual": 3.15
+      },
+      {
+        "nome": "Eliza Corina Godoi Ferreira",
+        "percentual": 2.86
+      },
+      {
+        "nome": "Maria Regina Godinho Delgado",
+        "percentual": 1.93
+      },
+      {
+        "nome": "grafica silva lara ltda",
+        "percentual": 94.26
+      },
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 3.44
+      },
+      {
+        "nome": "sendas distribuidora s/a",
+        "percentual": 2.24
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "grafica silva lara ltda",
+        "percentual": 94.26
+      },
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 3.44
+      },
+      {
+        "nome": "sendas distribuidora s/a",
+        "percentual": 2.24
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Indira Xavier",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Auxiliar de escritório e assemelhados",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017069375",
+      "foto_url_original": "https://s2-g1.glbimg.com/O1XsKnlST-Rz34WGhx9iH35HVXY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/b/vvpTISRLucDBItb4qvwA/indira-xavier.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Depósito bancário em conta corrente no país R$ 479,89 Banco do brasil"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 27945.23,
+      "despesas_total": 9144.47,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 51.19
+        },
+        {
+          "nome": "Direção Estadual/distrital - Up - Minas Gerais",
+          "percentual": 35.78
+        },
+        {
+          "nome": "Hudson Dyele Pinheiro De Oliveira",
+          "percentual": 3.15
+        },
+        {
+          "nome": "Eliza Corina Godoi Ferreira",
+          "percentual": 2.86
+        },
+        {
+          "nome": "Maria Regina Godinho Delgado",
+          "percentual": 1.93
+        },
+        {
+          "nome": "grafica silva lara ltda",
+          "percentual": 94.26
+        },
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 3.44
+        },
+        {
+          "nome": "sendas distribuidora s/a",
+          "percentual": 2.24
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "grafica silva lara ltda",
+          "percentual": 94.26
+        },
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 3.44
+        },
+        {
+          "nome": "sendas distribuidora s/a",
+          "percentual": 2.24
+        }
+      ],
+      "fonte_atualizado_em": "27/08/2026 • Atualizado há 23 dias\n\nDado"
+    },
+    "foto_local": "/uploads/candidatos/governador-mg-130002547874.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:01:51.293Z"
+  },
+  {
+    "slug": "130002541911",
+    "nome": "Mateus Simões",
+    "partido": "PSD",
+    "numero": 55,
+    "cargo": "governador",
+    "uf": "MG",
+    "foto_arquivo": "governador-mg-130002541911",
+    "foto_url_original": "https://s2-g1.glbimg.com/VpufOGaxu7r9PrOEt4bFLsOlODg=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/R/ryhC5USkeFooJ4VIXOUw/mateus-simoes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/mg/130002541911.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017009051",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 2904492.23,
+    "receitas_total": 13344522.78,
+    "despesas_total": 8601293.51,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis 50% de 39,98% das quotas: almeida behrens carvalho sociedade de advogados",
+        "valor": 6438
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis 50% do saldo: renda fixa xp investimentos cctvm s/a",
+        "valor": 7500
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) 50% do saldo: btg pactual tesouro selic fundo de investimento renda fixa",
+        "valor": 6802.75
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Afac junto a albeca partcipacoes ltda., constituida em 19 de marco de 2012",
+        "valor": 0
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Bitcoin btc (mercado livre) - em 31/12/2025 - informado por cnpj 23.351.302/0001-00",
+        "valor": 0
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Afac na alphabto participações ltda",
+        "valor": 0
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis 50% do saldo: siccob cofal - cc",
+        "valor": 210.62
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis 50% de 40% das quotas + afac: maguro participações ltda",
+        "valor": 102780
+      },
+      {
+        "tipo": "Ouro, ativo financeiro",
+        "descricao": "Ouro, ativo financeiro 12.500 u$ (doze mil e quinhentos dólares)",
+        "valor": 37562.5
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) 50% do saldo: cdb - itau",
+        "valor": 16767.77
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Afac na maguro participações ltda",
+        "valor": 0
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis 50% de 55% das quotas + afac: albeca participacoes ltda.",
+        "valor": 89420
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados 50% do saldo: poupanca caixa",
+        "valor": 42.78
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Lucros distribuídos e não pagos de almeida behrens carvalho consultoria ltda - ata de 23/12/2025",
+        "valor": 0
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Lucros distribuídos e nao pagos de almeida behrens carvalho sociedade de advogados",
+        "valor": 0
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis 50% de 40% das quotas + afac: maguro participações ltda",
+        "valor": 102780
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país 50% do saldo: cdb - santander",
+        "valor": 157701.58
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Bem de christiana - emprestimo para helenice francisca santos - (240 parcelas de r$600,00 venciveis a partir de 01/05/2018)",
+        "valor": 53800
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50% do apartamento 207 ed alagoas em bh/mg.",
+        "valor": 107500
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis 50% de 58,57% das quotas: icc indústria comércio e construções ltda",
+        "valor": 311869.85
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis 50% do saldo: caixa - cc",
+        "valor": 225.59
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis 50% de 39,97% das quotas: almeida behrens carvalho consultoria ltda.",
+        "valor": 600
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis 50% de quotas: sicoob cofal - capital social",
+        "valor": 110.38
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Bem de christiana - quota automovel clube - n.o 333",
+        "valor": 1000
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis 50% do saldo: btg pactual - cc",
+        "valor": 219.12
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Bem de christiana - deposito judicial relativo a ir ganho de capital - espolio de joao henrique renault - mandado de seguranca 0024221- 69.2016.4.01.3800",
+        "valor": 0
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50% de 20% do apartamento 501, ed. limoges, em bh/mg, com usufruto vitalicio de clelia renault.",
+        "valor": 114325.62
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa 50% da casa na alameda merano, 350 em bh/mg. 1.786.835,67",
+        "valor": 1786835.67
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 48.71
+      },
+      {
+        "nome": "Direção Estadual/distrital - Novo - Minas Gerais",
+        "percentual": 20.13
+      },
+      {
+        "nome": "Direção Estadual/distrital - Psd - Minas Gerais",
+        "percentual": 8.05
+      },
+      {
+        "nome": "Direção Nacional - Avante",
+        "percentual": 5.46
+      },
+      {
+        "nome": "Alfonso De Castro Gonzalez",
+        "percentual": 3.75
+      },
+      {
+        "nome": "2026 comunicacao spe ltda",
+        "percentual": 26.16
+      },
+      {
+        "nome": "lider taxi aereo s/a - air brasil",
+        "percentual": 18.47
+      },
+      {
+        "nome": "d26 comunicacao spe ltda.",
+        "percentual": 8.72
+      },
+      {
+        "nome": "al9 editora grafica ltda",
+        "percentual": 6.32
+      },
+      {
+        "nome": "jose sad junior",
+        "percentual": 4.65
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "2026 comunicacao spe ltda",
+        "percentual": 26.16
+      },
+      {
+        "nome": "lider taxi aereo s/a - air brasil",
+        "percentual": 18.47
+      },
+      {
+        "nome": "d26 comunicacao spe ltda.",
+        "percentual": 8.72
+      },
+      {
+        "nome": "al9 editora grafica ltda",
+        "percentual": 6.32
+      },
+      {
+        "nome": "jose sad junior",
+        "percentual": 4.65
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Mateus Simões",
+      "partido_pagina": "PSD",
+      "numero_pagina": 55,
+      "profissao": "Governador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017009051",
+      "foto_url_original": "https://s2-g1.glbimg.com/VpufOGaxu7r9PrOEt4bFLsOlODg=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/R/ryhC5USkeFooJ4VIXOUw/mateus-simoes.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens móveis R$ 6.438,00 50% de 39,98% das quotas: almeida behrens carvalho sociedade de advogados",
+        "Outros bens móveis R$ 7.500,00 50% do saldo: renda fixa xp investimentos cctvm s/a",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 6.802,75 50% do saldo: btg pactual tesouro selic fundo de investimento renda fixa",
+        "Outros bens móveis R$ 0,00 Afac junto a albeca partcipacoes ltda., constituida em 19 de marco de 2012",
+        "Outros bens móveis R$ 0,00 Bitcoin btc (mercado livre) - em 31/12/2025 - informado por cnpj 23.351.302/0001-00",
+        "Outros bens móveis R$ 0,00 Afac na alphabto participações ltda",
+        "Outros bens móveis R$ 210,62 50% do saldo: siccob cofal - cc",
+        "Outros bens móveis R$ 102.780,00 50% de 40% das quotas + afac: maguro participações ltda",
+        "Ouro, ativo financeiro R$ 37.562,50 12.500 u$ (doze mil e quinhentos dólares)",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 16.767,77 50% do saldo: cdb - itau",
+        "Outros bens móveis R$ 0,00 Afac na maguro participações ltda",
+        "Outros bens móveis R$ 89.420,00 50% de 55% das quotas + afac: albeca participacoes ltda.",
+        "Outros créditos e poupança vinculados R$ 42,78 50% do saldo: poupanca caixa",
+        "Outros bens móveis R$ 0,00 Lucros distribuídos e não pagos de almeida behrens carvalho consultoria ltda - ata de 23/12/2025",
+        "Outros bens móveis R$ 0,00 Lucros distribuídos e nao pagos de almeida behrens carvalho sociedade de advogados",
+        "Outros bens móveis R$ 102.780,00 50% de 40% das quotas + afac: maguro participações ltda",
+        "Depósito bancário em conta corrente no país R$ 157.701,58 50% do saldo: cdb - santander",
+        "Outros bens móveis R$ 53.800,00 Bem de christiana - emprestimo para helenice francisca santos - (240 parcelas de r$600,00 venciveis a partir de 01/05/2018)",
+        "Apartamento R$ 107.500,00 50% do apartamento 207 ed alagoas em bh/mg.",
+        "Outros bens móveis R$ 311.869,85 50% de 58,57% das quotas: icc indústria comércio e construções ltda",
+        "Outros bens móveis R$ 225,59 50% do saldo: caixa - cc",
+        "Outros bens móveis R$ 600,00 50% de 39,97% das quotas: almeida behrens carvalho consultoria ltda.",
+        "Outros bens móveis R$ 110,38 50% de quotas: sicoob cofal - capital social",
+        "Quotas ou quinhões de capital R$ 1.000,00 Bem de christiana - quota automovel clube - n.o 333",
+        "Outros bens móveis R$ 219,12 50% do saldo: btg pactual - cc",
+        "Outros bens móveis R$ 0,00 Bem de christiana - deposito judicial relativo a ir ganho de capital - espolio de joao henrique renault - mandado de seguranca 0024221- 69.2016.4.01.3800",
+        "Apartamento R$ 114.325,62 50% de 20% do apartamento 501, ed. limoges, em bh/mg, com usufruto vitalicio de clelia renault.",
+        "Casa R$ 1.786.835,67 50% da casa na alameda merano, 350 em bh/mg. 1.786.835,67"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 13344522.78,
+      "despesas_total": 8601293.51,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 48.71
+        },
+        {
+          "nome": "Direção Estadual/distrital - Novo - Minas Gerais",
+          "percentual": 20.13
+        },
+        {
+          "nome": "Direção Estadual/distrital - Psd - Minas Gerais",
+          "percentual": 8.05
+        },
+        {
+          "nome": "Direção Nacional - Avante",
+          "percentual": 5.46
+        },
+        {
+          "nome": "Alfonso De Castro Gonzalez",
+          "percentual": 3.75
+        },
+        {
+          "nome": "2026 comunicacao spe ltda",
+          "percentual": 26.16
+        },
+        {
+          "nome": "lider taxi aereo s/a - air brasil",
+          "percentual": 18.47
+        },
+        {
+          "nome": "d26 comunicacao spe ltda.",
+          "percentual": 8.72
+        },
+        {
+          "nome": "al9 editora grafica ltda",
+          "percentual": 6.32
+        },
+        {
+          "nome": "jose sad junior",
+          "percentual": 4.65
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "2026 comunicacao spe ltda",
+          "percentual": 26.16
+        },
+        {
+          "nome": "lider taxi aereo s/a - air brasil",
+          "percentual": 18.47
+        },
+        {
+          "nome": "d26 comunicacao spe ltda.",
+          "percentual": 8.72
+        },
+        {
+          "nome": "al9 editora grafica ltda",
+          "percentual": 6.32
+        },
+        {
+          "nome": "jose sad junior",
+          "percentual": 4.65
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-mg-130002541911.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:01:56.416Z"
+  },
+  {
+    "slug": "130002550464",
+    "nome": "Patrus Ananias",
+    "partido": "PT",
+    "numero": 13,
+    "cargo": "governador",
+    "uf": "MG",
+    "foto_arquivo": "governador-mg-130002550464",
+    "foto_url_original": "https://s2-g1.glbimg.com/08iyY-lD1jyub8DOIcNSZXMsP_4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/k/viFKdiTjSAms1tkZl4yg/patrus-ananias.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/mg/130002550464.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017118859",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1247212.54,
+    "receitas_total": 13391178.36,
+    "despesas_total": 6067468.88,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Renda fixa longo prazo",
+        "valor": 385603.11
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 3,845% de apartamento em belo horizonte",
+        "valor": 15244.57
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente",
+        "valor": 25460.11
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro de passeio",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro de passeio",
+        "valor": 49210
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 50% de garagem em belo horizonte",
+        "valor": 2738.75
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa 3,845% de casa residencial em bocaiúva",
+        "valor": 4103.85
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 50% de lote em brumadinho",
+        "valor": 44874.94
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Previdência privada",
+        "valor": 625481.71
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50% de apartamento em belo horizonte",
+        "valor": 94495.5
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 99.82
+      },
+      {
+        "nome": "Angela Maria Carrato Diniz",
+        "percentual": 0.1
+      },
+      {
+        "nome": "Antonio Luiz Bernardes",
+        "percentual": 0.07
+      },
+      {
+        "nome": "Patrus Ananias De Souza",
+        "percentual": 0
+      },
+      {
+        "nome": "Hildebrando Candido Coelho",
+        "percentual": 0
+      },
+      {
+        "nome": "okan comunicacao ltda",
+        "percentual": 27.77
+      },
+      {
+        "nome": "helic fly taxi e servicos aereos especializados ltda",
+        "percentual": 13.6
+      },
+      {
+        "nome": "rede editora grafica ltda",
+        "percentual": 10.75
+      },
+      {
+        "nome": "schmidt praxedes advocacia",
+        "percentual": 7.83
+      },
+      {
+        "nome": "m designer city ltda",
+        "percentual": 7.47
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "okan comunicacao ltda",
+        "percentual": 27.77
+      },
+      {
+        "nome": "helic fly taxi e servicos aereos especializados ltda",
+        "percentual": 13.6
+      },
+      {
+        "nome": "rede editora grafica ltda",
+        "percentual": 10.75
+      },
+      {
+        "nome": "schmidt praxedes advocacia",
+        "percentual": 7.83
+      },
+      {
+        "nome": "m designer city ltda",
+        "percentual": 7.47
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Patrus Ananias",
+      "partido_pagina": "PT",
+      "numero_pagina": 13,
+      "profissao": "Deputado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017118859",
+      "foto_url_original": "https://s2-g1.glbimg.com/08iyY-lD1jyub8DOIcNSZXMsP_4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/k/viFKdiTjSAms1tkZl4yg/patrus-ananias.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros fundos R$ 385.603,11 Renda fixa longo prazo",
+        "Apartamento R$ 15.244,57 3,845% de apartamento em belo horizonte",
+        "Depósito bancário em conta corrente no país R$ 25.460,11 Conta corrente",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 49.210,00 Carro de passeio",
+        "Outros bens imóveis R$ 2.738,75 50% de garagem em belo horizonte",
+        "Casa R$ 4.103,85 3,845% de casa residencial em bocaiúva",
+        "Terreno R$ 44.874,94 50% de lote em brumadinho",
+        "Vgbl - vida gerador de benefício livre R$ 625.481,71 Previdência privada",
+        "Apartamento R$ 94.495,50 50% de apartamento em belo horizonte"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 13391178.36,
+      "despesas_total": 6067468.88,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 99.82
+        },
+        {
+          "nome": "Angela Maria Carrato Diniz",
+          "percentual": 0.1
+        },
+        {
+          "nome": "Antonio Luiz Bernardes",
+          "percentual": 0.07
+        },
+        {
+          "nome": "Patrus Ananias De Souza",
+          "percentual": 0
+        },
+        {
+          "nome": "Hildebrando Candido Coelho",
+          "percentual": 0
+        },
+        {
+          "nome": "okan comunicacao ltda",
+          "percentual": 27.77
+        },
+        {
+          "nome": "helic fly taxi e servicos aereos especializados ltda",
+          "percentual": 13.6
+        },
+        {
+          "nome": "rede editora grafica ltda",
+          "percentual": 10.75
+        },
+        {
+          "nome": "schmidt praxedes advocacia",
+          "percentual": 7.83
+        },
+        {
+          "nome": "m designer city ltda",
+          "percentual": 7.47
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "okan comunicacao ltda",
+          "percentual": 27.77
+        },
+        {
+          "nome": "helic fly taxi e servicos aereos especializados ltda",
+          "percentual": 13.6
+        },
+        {
+          "nome": "rede editora grafica ltda",
+          "percentual": 10.75
+        },
+        {
+          "nome": "schmidt praxedes advocacia",
+          "percentual": 7.83
+        },
+        {
+          "nome": "m designer city ltda",
+          "percentual": 7.47
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-mg-130002550464.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:02:01.091Z"
+  },
+  {
+    "slug": "130002544122",
+    "nome": "Professor Túlio Lopes",
+    "partido": "PCB",
+    "numero": 21,
+    "cargo": "governador",
+    "uf": "MG",
+    "foto_arquivo": "governador-mg-130002544122",
+    "foto_url_original": "https://s2-g1.glbimg.com/mJB-RM5MLsycHNhuckvtjLjdsxk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/y/tHUsB4Sr258OyQqOHQtQ/professor-tulio-lopes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/mg/130002544122.ghtml",
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017031875",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 11161.08,
+    "despesas_total": 8207.07,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 100
+      },
+      {
+        "nome": "elipse msp ltda",
+        "percentual": 13.66
+      },
+      {
+        "nome": "mylena mara reis pereira",
+        "percentual": 13.66
+      },
+      {
+        "nome": "henrique jayme rabelo cunha",
+        "percentual": 13.66
+      },
+      {
+        "nome": "adriana dias lopes",
+        "percentual": 13.66
+      },
+      {
+        "nome": "59.769.637 esther barbara cardoso",
+        "percentual": 12.37
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "elipse msp ltda",
+        "percentual": 13.66
+      },
+      {
+        "nome": "mylena mara reis pereira",
+        "percentual": 13.66
+      },
+      {
+        "nome": "henrique jayme rabelo cunha",
+        "percentual": 13.66
+      },
+      {
+        "nome": "adriana dias lopes",
+        "percentual": 13.66
+      },
+      {
+        "nome": "59.769.637 esther barbara cardoso",
+        "percentual": 12.37
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Professor Túlio Lopes",
+      "partido_pagina": "PCB",
+      "numero_pagina": 21,
+      "profissao": "Professor de ensino superior",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017031875",
+      "foto_url_original": "https://s2-g1.glbimg.com/mJB-RM5MLsycHNhuckvtjLjdsxk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/y/tHUsB4Sr258OyQqOHQtQ/professor-tulio-lopes.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 11161.08,
+      "despesas_total": 8207.07,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 100
+        },
+        {
+          "nome": "elipse msp ltda",
+          "percentual": 13.66
+        },
+        {
+          "nome": "mylena mara reis pereira",
+          "percentual": 13.66
+        },
+        {
+          "nome": "henrique jayme rabelo cunha",
+          "percentual": 13.66
+        },
+        {
+          "nome": "adriana dias lopes",
+          "percentual": 13.66
+        },
+        {
+          "nome": "59.769.637 esther barbara cardoso",
+          "percentual": 12.37
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "elipse msp ltda",
+          "percentual": 13.66
+        },
+        {
+          "nome": "mylena mara reis pereira",
+          "percentual": 13.66
+        },
+        {
+          "nome": "henrique jayme rabelo cunha",
+          "percentual": 13.66
+        },
+        {
+          "nome": "adriana dias lopes",
+          "percentual": 13.66
+        },
+        {
+          "nome": "59.769.637 esther barbara cardoso",
+          "percentual": 12.37
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-mg-130002544122.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:02:06.036Z"
+  },
+  {
+    "slug": "130002546802",
+    "nome": "Rafael Duda",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "governador",
+    "uf": "MG",
+    "foto_arquivo": "governador-mg-130002546802",
+    "foto_url_original": "https://s2-g1.glbimg.com/IZ9arT3WujtehFEreBeKJB9k-ZA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/y/U6BBHHQ522fSCvn9aRbg/rafael-duda.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/mg/130002546802.ghtml",
+    "profissao": "Técnico de mineração, metalurgia e geologia",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017056761",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 153502.5,
+    "despesas_total": 60505,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 100
+      },
+      {
+        "nome": "caio augusto tadeu carvalho de almeida",
+        "percentual": 57.85
+      },
+      {
+        "nome": "cassia cilene santos da silva",
+        "percentual": 19.83
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 14.87
+      },
+      {
+        "nome": "grafica silva lara ltda",
+        "percentual": 7.45
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "caio augusto tadeu carvalho de almeida",
+        "percentual": 57.85
+      },
+      {
+        "nome": "cassia cilene santos da silva",
+        "percentual": 19.83
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 14.87
+      },
+      {
+        "nome": "grafica silva lara ltda",
+        "percentual": 7.45
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Rafael Duda",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Técnico de mineração, metalurgia e geologia",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/130017056761",
+      "foto_url_original": "https://s2-g1.glbimg.com/IZ9arT3WujtehFEreBeKJB9k-ZA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/y/U6BBHHQ522fSCvn9aRbg/rafael-duda.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 153502.5,
+      "despesas_total": 60505,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 100
+        },
+        {
+          "nome": "caio augusto tadeu carvalho de almeida",
+          "percentual": 57.85
+        },
+        {
+          "nome": "cassia cilene santos da silva",
+          "percentual": 19.83
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 14.87
+        },
+        {
+          "nome": "grafica silva lara ltda",
+          "percentual": 7.45
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "caio augusto tadeu carvalho de almeida",
+          "percentual": 57.85
+        },
+        {
+          "nome": "cassia cilene santos da silva",
+          "percentual": 19.83
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 14.87
+        },
+        {
+          "nome": "grafica silva lara ltda",
+          "percentual": 7.45
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-mg-130002546802.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:02:10.631Z"
+  }
+]

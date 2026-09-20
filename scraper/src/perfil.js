@@ -138,8 +138,9 @@ export async function coletarPerfil(page, item) {
     nome: dados.nome_pagina || item.nome_sugerido || item.slug,
     partido: dados.partido_pagina || item.partido_sugerido || null,
     numero: dados.numero_pagina ?? item.numero ?? null,
-    cargo: 'presidente',
-    uf: 'BR',
+    cargo: item.cargo ?? 'presidente',
+    uf: item.uf ?? 'BR',
+    foto_arquivo: item.foto_arquivo ?? item.slug, // nome base do arquivo local (governador-sp-...)
     foto_url_original: dados.foto_url_original || item.foto_url_original || null,
     perfil_g1_url: item.perfil_g1_url,
     profissao: dados.profissao,

@@ -1,0 +1,1706 @@
+[
+  {
+    "slug": "190002537524",
+    "nome": "André Marinho",
+    "partido": "NOVO",
+    "numero": 30,
+    "cargo": "governador",
+    "uf": "RJ",
+    "foto_arquivo": "governador-rj-190002537524",
+    "foto_url_original": "https://s2-g1.glbimg.com/PudTPj_LoCLwbIxPy1sEn1b8-hA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/L/wTPVPZS9S1SvKgJ7LeDA/andre-marinho.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rj/190002537524.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017128817",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 407503.55,
+    "receitas_total": 315000,
+    "despesas_total": 383572.15,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Caderneta de poupança",
+        "valor": 7487.18
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa (cdb, rdb e outros)",
+        "valor": 14.37
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depósito bancário em conta corrente no país",
+        "valor": 1
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 300000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depósito bancário em conta corrente no país",
+        "valor": 1
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas ou quinhões de capital",
+        "valor": 100000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Wagner Madruga Do Nascimento",
+        "percentual": 50.79
+      },
+      {
+        "nome": "Marcio Drummond Sequeiros Tanure",
+        "percentual": 33.33
+      },
+      {
+        "nome": "Sergio Leite De Andrade Filho",
+        "percentual": 7.94
+      },
+      {
+        "nome": "Marcio Barreto Braga",
+        "percentual": 6.35
+      },
+      {
+        "nome": "Andrew Marc Reider",
+        "percentual": 1.59
+      },
+      {
+        "nome": "bruno gomes perpetuo",
+        "percentual": 13.04
+      },
+      {
+        "nome": "sunna comunicacao ltda",
+        "percentual": 10.43
+      },
+      {
+        "nome": "rogerio vieira ramos",
+        "percentual": 6.26
+      },
+      {
+        "nome": "61.473.611 jose maria da silva filho",
+        "percentual": 5.78
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 5.74
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "bruno gomes perpetuo",
+        "percentual": 13.04
+      },
+      {
+        "nome": "sunna comunicacao ltda",
+        "percentual": 10.43
+      },
+      {
+        "nome": "rogerio vieira ramos",
+        "percentual": 6.26
+      },
+      {
+        "nome": "61.473.611 jose maria da silva filho",
+        "percentual": 5.78
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 5.74
+      }
+    ],
+    "raw": {
+      "nome_pagina": "André Marinho",
+      "partido_pagina": "NOVO",
+      "numero_pagina": 30,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017128817",
+      "foto_url_original": "https://s2-g1.glbimg.com/PudTPj_LoCLwbIxPy1sEn1b8-hA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/L/wTPVPZS9S1SvKgJ7LeDA/andre-marinho.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 7.487,18 Caderneta de poupança",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 14,37 Aplicação de renda fixa (cdb, rdb e outros)",
+        "Depósito bancário em conta corrente no país R$ 1,00 Depósito bancário em conta corrente no país",
+        "Apartamento R$ 300.000,00 Apartamento",
+        "Depósito bancário em conta corrente no país R$ 1,00 Depósito bancário em conta corrente no país",
+        "Quotas ou quinhões de capital R$ 100.000,00 Quotas ou quinhões de capital"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 315000,
+      "despesas_total": 383572.15,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Wagner Madruga Do Nascimento",
+          "percentual": 50.79
+        },
+        {
+          "nome": "Marcio Drummond Sequeiros Tanure",
+          "percentual": 33.33
+        },
+        {
+          "nome": "Sergio Leite De Andrade Filho",
+          "percentual": 7.94
+        },
+        {
+          "nome": "Marcio Barreto Braga",
+          "percentual": 6.35
+        },
+        {
+          "nome": "Andrew Marc Reider",
+          "percentual": 1.59
+        },
+        {
+          "nome": "bruno gomes perpetuo",
+          "percentual": 13.04
+        },
+        {
+          "nome": "sunna comunicacao ltda",
+          "percentual": 10.43
+        },
+        {
+          "nome": "rogerio vieira ramos",
+          "percentual": 6.26
+        },
+        {
+          "nome": "61.473.611 jose maria da silva filho",
+          "percentual": 5.78
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 5.74
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "bruno gomes perpetuo",
+          "percentual": 13.04
+        },
+        {
+          "nome": "sunna comunicacao ltda",
+          "percentual": 10.43
+        },
+        {
+          "nome": "rogerio vieira ramos",
+          "percentual": 6.26
+        },
+        {
+          "nome": "61.473.611 jose maria da silva filho",
+          "percentual": 5.78
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 5.74
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rj-190002537524.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:05:47.158Z"
+  },
+  {
+    "slug": "190002544120",
+    "nome": "Coronel Busnello",
+    "partido": "MISSÃO",
+    "numero": 14,
+    "cargo": "governador",
+    "uf": "RJ",
+    "foto_arquivo": "governador-rj-190002544120",
+    "foto_url_original": "https://s2-g1.glbimg.com/lj12bxsOnUEE-yjq18YB5ArYRZ4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/9/B3bzeATyGfQBD0zKA10w/coronel-busnello.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rj/190002544120.ghtml",
+    "profissao": "Policial militar",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017031845",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 950000,
+    "receitas_total": 130000,
+    "despesas_total": 63218.21,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa de vila",
+        "valor": 750000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Fiat toro",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Fiat toro",
+        "valor": 200000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Missão",
+        "percentual": 76.92
+      },
+      {
+        "nome": "Joao Jacques Soares Busnello",
+        "percentual": 23.08
+      },
+      {
+        "nome": "invista criativa cv ltda",
+        "percentual": 23.28
+      },
+      {
+        "nome": "higor borges dos santos",
+        "percentual": 18.98
+      },
+      {
+        "nome": "espacos de eventos fire ltda",
+        "percentual": 15.59
+      },
+      {
+        "nome": "joao vitor sousa de morais",
+        "percentual": 14.6
+      },
+      {
+        "nome": "joao pedro carvalho dos santos",
+        "percentual": 3.8
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "invista criativa cv ltda",
+        "percentual": 23.28
+      },
+      {
+        "nome": "higor borges dos santos",
+        "percentual": 18.98
+      },
+      {
+        "nome": "espacos de eventos fire ltda",
+        "percentual": 15.59
+      },
+      {
+        "nome": "joao vitor sousa de morais",
+        "percentual": 14.6
+      },
+      {
+        "nome": "joao pedro carvalho dos santos",
+        "percentual": 3.8
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Coronel Busnello",
+      "partido_pagina": "MISSÃO",
+      "numero_pagina": 14,
+      "profissao": "Policial militar",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017031845",
+      "foto_url_original": "https://s2-g1.glbimg.com/lj12bxsOnUEE-yjq18YB5ArYRZ4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/9/B3bzeATyGfQBD0zKA10w/coronel-busnello.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 750.000,00 Casa de vila",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 200.000,00 Fiat toro"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 130000,
+      "despesas_total": 63218.21,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Missão",
+          "percentual": 76.92
+        },
+        {
+          "nome": "Joao Jacques Soares Busnello",
+          "percentual": 23.08
+        },
+        {
+          "nome": "invista criativa cv ltda",
+          "percentual": 23.28
+        },
+        {
+          "nome": "higor borges dos santos",
+          "percentual": 18.98
+        },
+        {
+          "nome": "espacos de eventos fire ltda",
+          "percentual": 15.59
+        },
+        {
+          "nome": "joao vitor sousa de morais",
+          "percentual": 14.6
+        },
+        {
+          "nome": "joao pedro carvalho dos santos",
+          "percentual": 3.8
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "invista criativa cv ltda",
+          "percentual": 23.28
+        },
+        {
+          "nome": "higor borges dos santos",
+          "percentual": 18.98
+        },
+        {
+          "nome": "espacos de eventos fire ltda",
+          "percentual": 15.59
+        },
+        {
+          "nome": "joao vitor sousa de morais",
+          "percentual": 14.6
+        },
+        {
+          "nome": "joao pedro carvalho dos santos",
+          "percentual": 3.8
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rj-190002544120.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:05:51.349Z"
+  },
+  {
+    "slug": "190002540198",
+    "nome": "Cyro Garcia",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "governador",
+    "uf": "RJ",
+    "foto_arquivo": "governador-rj-190002540198",
+    "foto_url_original": "https://s2-g1.glbimg.com/8ehtL1NYkLU9_3JQCixXXPNeZak=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Q/lgQ8MmQtK8xPJs90OdNQ/cyro-garcia.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rj/190002540198.ghtml",
+    "profissao": "Aposentado (exceto servidor público)",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190016929078",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 385400,
+    "receitas_total": 145302.5,
+    "despesas_total": 135557,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Celta ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Celta ano 2010 - modelo 2011",
+        "valor": 27400
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Imovel localizado na avenida marechal rondon, 500/301",
+        "valor": 358000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 99.79
+      },
+      {
+        "nome": "Marcelo Cezar Medici",
+        "percentual": 0.21
+      },
+      {
+        "nome": "caio augusto tadeu carvalho de almeida",
+        "percentual": 25.82
+      },
+      {
+        "nome": "cj editora ltda",
+        "percentual": 13.65
+      },
+      {
+        "nome": "luiz carlos baptista machado junior",
+        "percentual": 10.33
+      },
+      {
+        "nome": "luisa duque estrada rosati",
+        "percentual": 10.33
+      },
+      {
+        "nome": "59.255.319 elias junio dias ferreira",
+        "percentual": 8.85
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "caio augusto tadeu carvalho de almeida",
+        "percentual": 25.82
+      },
+      {
+        "nome": "cj editora ltda",
+        "percentual": 13.65
+      },
+      {
+        "nome": "luiz carlos baptista machado junior",
+        "percentual": 10.33
+      },
+      {
+        "nome": "luisa duque estrada rosati",
+        "percentual": 10.33
+      },
+      {
+        "nome": "59.255.319 elias junio dias ferreira",
+        "percentual": 8.85
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Cyro Garcia",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Aposentado (exceto servidor público)",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190016929078",
+      "foto_url_original": "https://s2-g1.glbimg.com/8ehtL1NYkLU9_3JQCixXXPNeZak=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Q/lgQ8MmQtK8xPJs90OdNQ/cyro-garcia.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 27.400,00 Celta ano 2010 - modelo 2011",
+        "Apartamento R$ 358.000,00 Imovel localizado na avenida marechal rondon, 500/301"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 145302.5,
+      "despesas_total": 135557,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 99.79
+        },
+        {
+          "nome": "Marcelo Cezar Medici",
+          "percentual": 0.21
+        },
+        {
+          "nome": "caio augusto tadeu carvalho de almeida",
+          "percentual": 25.82
+        },
+        {
+          "nome": "cj editora ltda",
+          "percentual": 13.65
+        },
+        {
+          "nome": "luiz carlos baptista machado junior",
+          "percentual": 10.33
+        },
+        {
+          "nome": "luisa duque estrada rosati",
+          "percentual": 10.33
+        },
+        {
+          "nome": "59.255.319 elias junio dias ferreira",
+          "percentual": 8.85
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "caio augusto tadeu carvalho de almeida",
+          "percentual": 25.82
+        },
+        {
+          "nome": "cj editora ltda",
+          "percentual": 13.65
+        },
+        {
+          "nome": "luiz carlos baptista machado junior",
+          "percentual": 10.33
+        },
+        {
+          "nome": "luisa duque estrada rosati",
+          "percentual": 10.33
+        },
+        {
+          "nome": "59.255.319 elias junio dias ferreira",
+          "percentual": 8.85
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rj-190002540198.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:05:56.860Z"
+  },
+  {
+    "slug": "190002542887",
+    "nome": "Douglas Ruas",
+    "partido": "PL",
+    "numero": 22,
+    "cargo": "governador",
+    "uf": "RJ",
+    "foto_arquivo": "governador-rj-190002542887",
+    "foto_url_original": "https://s2-g1.glbimg.com/gYk33FmL0WwWBKP8g9LLs4SuJJc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/l/H0Z2wARaOtCBBfwF5FNQ/douglas-ruas.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rj/190002542887.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017018638",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1467687.88,
+    "receitas_total": 18338000,
+    "despesas_total": 12417923.82,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de empresa",
+        "valor": 300000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel",
+        "valor": 60000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Fundo de investimento",
+        "valor": 3499.04
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bradesco",
+        "valor": 111957.71
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Itau kinea renda fixa",
+        "valor": 50000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel",
+        "valor": 50000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Bradesco",
+        "valor": 1
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Fundo de investimento itau renda fixa",
+        "valor": 124663.57
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel",
+        "valor": 83000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel",
+        "valor": 50000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de empresa",
+        "valor": 225000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Itau",
+        "valor": 1
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bradesco",
+        "valor": 26605.39
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Fundo de investimento",
+        "valor": 3700.38
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicaçao itau",
+        "valor": 315282.04
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Hashdex fundo",
+        "valor": 50000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo",
+        "valor": 6743.73
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Itau",
+        "valor": 7234.02
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 97
+      },
+      {
+        "nome": "Prisciane Mendes De Araujo Silveira",
+        "percentual": 2.73
+      },
+      {
+        "nome": "Douglas Ruas Dos Santos",
+        "percentual": 0.27
+      },
+      {
+        "nome": "d26 comunicacao spe ltda.",
+        "percentual": 8.05
+      },
+      {
+        "nome": "2026 comunicacao spe ltda",
+        "percentual": 8.05
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 5.56
+      },
+      {
+        "nome": "exact industria e servicos de embalagens e rotulos ltda",
+        "percentual": 5.19
+      },
+      {
+        "nome": "tiago santos sociedade individual de advocacia",
+        "percentual": 4.03
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "d26 comunicacao spe ltda.",
+        "percentual": 8.05
+      },
+      {
+        "nome": "2026 comunicacao spe ltda",
+        "percentual": 8.05
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 5.56
+      },
+      {
+        "nome": "exact industria e servicos de embalagens e rotulos ltda",
+        "percentual": 5.19
+      },
+      {
+        "nome": "tiago santos sociedade individual de advocacia",
+        "percentual": 4.03
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Douglas Ruas",
+      "partido_pagina": "PL",
+      "numero_pagina": 22,
+      "profissao": "Deputado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017018638",
+      "foto_url_original": "https://s2-g1.glbimg.com/gYk33FmL0WwWBKP8g9LLs4SuJJc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/l/H0Z2wARaOtCBBfwF5FNQ/douglas-ruas.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Quotas ou quinhões de capital R$ 300.000,00 Quotas de empresa",
+        "Outros bens imóveis R$ 60.000,00 Imovel",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 3.499,04 Fundo de investimento",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 111.957,71 Bradesco",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 50.000,00 Itau kinea renda fixa",
+        "Outros bens imóveis R$ 50.000,00 Imovel",
+        "Depósito bancário em conta corrente no país R$ 1,00 Bradesco",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 124.663,57 Fundo de investimento itau renda fixa",
+        "Outros bens imóveis R$ 83.000,00 Imovel",
+        "Outros bens imóveis R$ 50.000,00 Imovel",
+        "Quotas ou quinhões de capital R$ 225.000,00 Quotas de empresa",
+        "Depósito bancário em conta corrente no país R$ 1,00 Itau",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 26.605,39 Bradesco",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 3.700,38 Fundo de investimento",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 315.282,04 Aplicaçao itau",
+        "Outras aplicações e investimentos R$ 50.000,00 Hashdex fundo",
+        "Caderneta de poupança R$ 6.743,73 Saldo",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 7.234,02 Itau"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 18338000,
+      "despesas_total": 12417923.82,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 97
+        },
+        {
+          "nome": "Prisciane Mendes De Araujo Silveira",
+          "percentual": 2.73
+        },
+        {
+          "nome": "Douglas Ruas Dos Santos",
+          "percentual": 0.27
+        },
+        {
+          "nome": "d26 comunicacao spe ltda.",
+          "percentual": 8.05
+        },
+        {
+          "nome": "2026 comunicacao spe ltda",
+          "percentual": 8.05
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 5.56
+        },
+        {
+          "nome": "exact industria e servicos de embalagens e rotulos ltda",
+          "percentual": 5.19
+        },
+        {
+          "nome": "tiago santos sociedade individual de advocacia",
+          "percentual": 4.03
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "d26 comunicacao spe ltda.",
+          "percentual": 8.05
+        },
+        {
+          "nome": "2026 comunicacao spe ltda",
+          "percentual": 8.05
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 5.56
+        },
+        {
+          "nome": "exact industria e servicos de embalagens e rotulos ltda",
+          "percentual": 5.19
+        },
+        {
+          "nome": "tiago santos sociedade individual de advocacia",
+          "percentual": 4.03
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rj-190002542887.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:06:03.267Z"
+  },
+  {
+    "slug": "190002543380",
+    "nome": "Eduardo Paes",
+    "partido": "PSD",
+    "numero": 55,
+    "cargo": "governador",
+    "uf": "RJ",
+    "foto_arquivo": "governador-rj-190002543380",
+    "foto_url_original": "https://s2-g1.glbimg.com/9IvFSjrLxlNti6wz1MM5kpSqqJA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/8/ZqOWbgQDKddLrBBe43pg/eduardo-paes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rj/190002543380.ghtml",
+    "profissao": "Outros",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017138970",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 189210.62999999998,
+    "receitas_total": 17584270.21,
+    "despesas_total": 7692232.28,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente",
+        "valor": 115.54
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente",
+        "valor": 1085.74
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente",
+        "valor": 2397.49
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo",
+        "valor": 150000
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Vgbl brasil prev",
+        "valor": 32811.38
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Renda fixa",
+        "valor": 49.58
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente",
+        "valor": 2750.9
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 71.97
+      },
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 22.75
+      },
+      {
+        "nome": "Direção Estadual/distrital - Psd - Rio De Janeiro",
+        "percentual": 1.93
+      },
+      {
+        "nome": "Arminio Fraga Neto",
+        "percentual": 1.71
+      },
+      {
+        "nome": "Tanit Maria Rey Sanches Galdeano",
+        "percentual": 0.57
+      },
+      {
+        "nome": "kmk comunicacao ltda",
+        "percentual": 65
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 2.08
+      },
+      {
+        "nome": "marcio alvim trindade braga sociedade individual de advocacia",
+        "percentual": 1.95
+      },
+      {
+        "nome": "filipe danan saraiva sociedade individual de advocacia",
+        "percentual": 0.65
+      },
+      {
+        "nome": "aapl servicos contabeis ltda",
+        "percentual": 0.65
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "kmk comunicacao ltda",
+        "percentual": 65
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 2.08
+      },
+      {
+        "nome": "marcio alvim trindade braga sociedade individual de advocacia",
+        "percentual": 1.95
+      },
+      {
+        "nome": "filipe danan saraiva sociedade individual de advocacia",
+        "percentual": 0.65
+      },
+      {
+        "nome": "aapl servicos contabeis ltda",
+        "percentual": 0.65
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Eduardo Paes",
+      "partido_pagina": "PSD",
+      "numero_pagina": 55,
+      "profissao": "Outros",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017138970",
+      "foto_url_original": "https://s2-g1.glbimg.com/9IvFSjrLxlNti6wz1MM5kpSqqJA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/8/ZqOWbgQDKddLrBBe43pg/eduardo-paes.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Depósito bancário em conta corrente no país R$ 115,54 Conta corrente",
+        "Depósito bancário em conta corrente no país R$ 1.085,74 Conta corrente",
+        "Depósito bancário em conta corrente no país R$ 2.397,49 Conta corrente",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 150.000,00 Veículo",
+        "Vgbl - vida gerador de benefício livre R$ 32.811,38 Vgbl brasil prev",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 49,58 Renda fixa",
+        "Depósito bancário em conta corrente no país R$ 2.750,90 Conta corrente"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 17584270.21,
+      "despesas_total": 7692232.28,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 71.97
+        },
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 22.75
+        },
+        {
+          "nome": "Direção Estadual/distrital - Psd - Rio De Janeiro",
+          "percentual": 1.93
+        },
+        {
+          "nome": "Arminio Fraga Neto",
+          "percentual": 1.71
+        },
+        {
+          "nome": "Tanit Maria Rey Sanches Galdeano",
+          "percentual": 0.57
+        },
+        {
+          "nome": "kmk comunicacao ltda",
+          "percentual": 65
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 2.08
+        },
+        {
+          "nome": "marcio alvim trindade braga sociedade individual de advocacia",
+          "percentual": 1.95
+        },
+        {
+          "nome": "filipe danan saraiva sociedade individual de advocacia",
+          "percentual": 0.65
+        },
+        {
+          "nome": "aapl servicos contabeis ltda",
+          "percentual": 0.65
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "kmk comunicacao ltda",
+          "percentual": 65
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 2.08
+        },
+        {
+          "nome": "marcio alvim trindade braga sociedade individual de advocacia",
+          "percentual": 1.95
+        },
+        {
+          "nome": "filipe danan saraiva sociedade individual de advocacia",
+          "percentual": 0.65
+        },
+        {
+          "nome": "aapl servicos contabeis ltda",
+          "percentual": 0.65
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rj-190002543380.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:06:08.618Z"
+  },
+  {
+    "slug": "190002550196",
+    "nome": "Garotinho",
+    "partido": "REP",
+    "numero": 10,
+    "cargo": "governador",
+    "uf": "RJ",
+    "foto_arquivo": "governador-rj-190002550196",
+    "foto_url_original": "https://s2-g1.glbimg.com/AFc2TDEdRMEBdRL4eNtJFs2hGps=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/S/CbQU4ZSqSi4Fc4yCtorQ/garotinho.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rj/190002550196.ghtml",
+    "profissao": "Jornalista e redator",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 167585.05,
+    "receitas_total": 1148764.18,
+    "despesas_total": 433001.5,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Valor informado por cnpj 60.746.948/0001-12",
+        "valor": 839.78
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Valor informado por cnpj 60.746.948/0001-12",
+        "valor": 2587.37
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Valor informado por cnpj 60.746.948/0001-12",
+        "valor": 22267.74
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Informado por cnpj 60.746.948/0001-12",
+        "valor": 28267.74
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel",
+        "valor": 45000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Valor informado por cnpj 60.746.948/0001-12",
+        "valor": 33448.22
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 2000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Emprestimo concedido",
+        "valor": 33174.2
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2022,
+        "cargo": "Deputado federal",
+        "partido": "UNIÃO",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2018,
+        "cargo": "Governador",
+        "partido": "PRP",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Republicanos",
+        "percentual": 95.81
+      },
+      {
+        "nome": "Wagner Dos Santos Carneiro",
+        "percentual": 1.57
+      },
+      {
+        "nome": "Wladimir Barros Assed Matheus De Oliveira",
+        "percentual": 1.29
+      },
+      {
+        "nome": "Nilo Sergio Dias Passos",
+        "percentual": 0.44
+      },
+      {
+        "nome": "Claudio Soares Fernandes",
+        "percentual": 0.22
+      },
+      {
+        "nome": "central do brasil producoes ltda",
+        "percentual": 46.19
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 34.64
+      },
+      {
+        "nome": "paulo roberto de azeredo pinto",
+        "percentual": 11.55
+      },
+      {
+        "nome": "joreal contabilidade ltda",
+        "percentual": 4.62
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 2.31
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "central do brasil producoes ltda",
+        "percentual": 46.19
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 34.64
+      },
+      {
+        "nome": "paulo roberto de azeredo pinto",
+        "percentual": 11.55
+      },
+      {
+        "nome": "joreal contabilidade ltda",
+        "percentual": 4.62
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 2.31
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Garotinho",
+      "partido_pagina": "REP",
+      "numero_pagina": 10,
+      "profissao": "Jornalista e redator",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/AFc2TDEdRMEBdRL4eNtJFs2hGps=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/S/CbQU4ZSqSi4Fc4yCtorQ/garotinho.jpeg",
+      "historico": [
+        {
+          "ano": 2022,
+          "cargo": "Deputado federal",
+          "partido": "UNIÃO",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2018,
+          "cargo": "Governador",
+          "partido": "PRP",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Outros bens e direitos R$ 839,78 Valor informado por cnpj 60.746.948/0001-12",
+        "Outros bens e direitos R$ 2.587,37 Valor informado por cnpj 60.746.948/0001-12",
+        "Outros bens e direitos R$ 22.267,74 Valor informado por cnpj 60.746.948/0001-12",
+        "Outros bens e direitos R$ 28.267,74 Informado por cnpj 60.746.948/0001-12",
+        "Outros bens imóveis R$ 45.000,00 Imovel",
+        "Outros bens e direitos R$ 33.448,22 Valor informado por cnpj 60.746.948/0001-12",
+        "Terreno R$ 2.000,00 Terreno",
+        "Outros bens e direitos R$ 33.174,20 Emprestimo concedido"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 1148764.18,
+      "despesas_total": 433001.5,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Republicanos",
+          "percentual": 95.81
+        },
+        {
+          "nome": "Wagner Dos Santos Carneiro",
+          "percentual": 1.57
+        },
+        {
+          "nome": "Wladimir Barros Assed Matheus De Oliveira",
+          "percentual": 1.29
+        },
+        {
+          "nome": "Nilo Sergio Dias Passos",
+          "percentual": 0.44
+        },
+        {
+          "nome": "Claudio Soares Fernandes",
+          "percentual": 0.22
+        },
+        {
+          "nome": "central do brasil producoes ltda",
+          "percentual": 46.19
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 34.64
+        },
+        {
+          "nome": "paulo roberto de azeredo pinto",
+          "percentual": 11.55
+        },
+        {
+          "nome": "joreal contabilidade ltda",
+          "percentual": 4.62
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 2.31
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "central do brasil producoes ltda",
+          "percentual": 46.19
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 34.64
+        },
+        {
+          "nome": "paulo roberto de azeredo pinto",
+          "percentual": 11.55
+        },
+        {
+          "nome": "joreal contabilidade ltda",
+          "percentual": 4.62
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 2.31
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rj-190002550196.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:06:12.916Z"
+  },
+  {
+    "slug": "190002547272",
+    "nome": "Juliete",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "RJ",
+    "foto_arquivo": "governador-rj-190002547272",
+    "foto_url_original": "https://s2-g1.glbimg.com/OIrWY51yiLgZgcXbmWqeZUrLc8o=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/v/Xh322JQUeBEBIopmManQ/juliete.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rj/190002547272.ghtml",
+    "profissao": "Outros",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017059799",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 7545.19,
+    "despesas_total": 1938.33,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [
+      {
+        "ano": 2020,
+        "cargo": "Vereador",
+        "partido": "UP",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2012,
+        "cargo": "Vereador",
+        "partido": "PSC",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2012,
+        "cargo": "Vereador",
+        "partido": "PSC",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 86.75
+      },
+      {
+        "nome": "Christian Vincenzi Nunes",
+        "percentual": 13.25
+      },
+      {
+        "nome": "j. m. c. reis servicos de auto falante e panfletagem",
+        "percentual": 92.86
+      },
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 7.14
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "j. m. c. reis servicos de auto falante e panfletagem",
+        "percentual": 92.86
+      },
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 7.14
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Juliete",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Outros",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017059799",
+      "foto_url_original": "https://s2-g1.glbimg.com/OIrWY51yiLgZgcXbmWqeZUrLc8o=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/v/Xh322JQUeBEBIopmManQ/juliete.jpeg",
+      "historico": [
+        {
+          "ano": 2020,
+          "cargo": "Vereador",
+          "partido": "UP",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2012,
+          "cargo": "Vereador",
+          "partido": "PSC",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2012,
+          "cargo": "Vereador",
+          "partido": "PSC",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 7545.19,
+      "despesas_total": 1938.33,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 86.75
+        },
+        {
+          "nome": "Christian Vincenzi Nunes",
+          "percentual": 13.25
+        },
+        {
+          "nome": "j. m. c. reis servicos de auto falante e panfletagem",
+          "percentual": 92.86
+        },
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 7.14
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "j. m. c. reis servicos de auto falante e panfletagem",
+          "percentual": 92.86
+        },
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 7.14
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rj-190002547272.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:06:17.816Z"
+  },
+  {
+    "slug": "190002552513",
+    "nome": "Luan Monteiro",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "RJ",
+    "foto_arquivo": "governador-rj-190002552513",
+    "foto_url_original": "https://s2-g1.glbimg.com/1Dt71akssvjhyQv3xnGMTRo1lYI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/a/esmPc7RfCijfARrF9lvQ/luan-monteiro.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rj/190002552513.ghtml",
+    "profissao": "Comerciante",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017113692",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [
+      {
+        "ano": 2024,
+        "cargo": "Vereador",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2022,
+        "cargo": "Deputado estadual",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2020,
+        "cargo": "Vereador",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Luan Monteiro",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Comerciante",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017113692",
+      "foto_url_original": "https://s2-g1.glbimg.com/1Dt71akssvjhyQv3xnGMTRo1lYI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/a/esmPc7RfCijfARrF9lvQ/luan-monteiro.jpeg",
+      "historico": [
+        {
+          "ano": 2024,
+          "cargo": "Vereador",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2022,
+          "cargo": "Deputado estadual",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2020,
+          "cargo": "Vereador",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 17788806.16,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rj-190002552513.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:06:24.079Z"
+  },
+  {
+    "slug": "190002536162",
+    "nome": "William Siri",
+    "partido": "PSOL",
+    "numero": 50,
+    "cargo": "governador",
+    "uf": "RJ",
+    "foto_arquivo": "governador-rj-190002536162",
+    "foto_url_original": "https://s2-g1.glbimg.com/RJYP4WZXJrJgiVzn7bGjs4RRm3M=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/j/LVAE4KTmeH492e8jAeDw/william-siri.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/rj/190002536162.ghtml",
+    "profissao": "Vereador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190016871149",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 120000,
+    "receitas_total": 1082589.19,
+    "despesas_total": 707720.76,
+    "limite_gastos": 17788806.16,
+    "fonte_atualizado_em": "15/09/2026 • Atualizado há 4 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participacao societaria empresa: casas thereza produtos alimenticios ltda",
+        "valor": 120000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 92.37
+      },
+      {
+        "nome": "Direção Estadual/distrital - Psol - Rio De Janeiro",
+        "percentual": 2.51
+      },
+      {
+        "nome": "Anna Luiza Gaudini De Oliveira",
+        "percentual": 1.85
+      },
+      {
+        "nome": "Gabriel Silva Cerqueira",
+        "percentual": 1.39
+      },
+      {
+        "nome": "Luis Octavio Doro Rodrigues",
+        "percentual": 0.55
+      },
+      {
+        "nome": "color set industria grafica ltda",
+        "percentual": 13.53
+      },
+      {
+        "nome": "flex marketing direto ltda",
+        "percentual": 12.72
+      },
+      {
+        "nome": "flora, matheus e mangabeira sociedade de advogados",
+        "percentual": 8.48
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 7.06
+      },
+      {
+        "nome": "antonia philippsen boaventura",
+        "percentual": 6.78
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "color set industria grafica ltda",
+        "percentual": 13.53
+      },
+      {
+        "nome": "flex marketing direto ltda",
+        "percentual": 12.72
+      },
+      {
+        "nome": "flora, matheus e mangabeira sociedade de advogados",
+        "percentual": 8.48
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 7.06
+      },
+      {
+        "nome": "antonia philippsen boaventura",
+        "percentual": 6.78
+      }
+    ],
+    "raw": {
+      "nome_pagina": "William Siri",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 50,
+      "profissao": "Vereador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190016871149",
+      "foto_url_original": "https://s2-g1.glbimg.com/RJYP4WZXJrJgiVzn7bGjs4RRm3M=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/j/LVAE4KTmeH492e8jAeDw/william-siri.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outras participações societárias R$ 120.000,00 Participacao societaria empresa: casas thereza produtos alimenticios ltda"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 1082589.19,
+      "despesas_total": 707720.76,
+      "limite_gastos": 17788806.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 92.37
+        },
+        {
+          "nome": "Direção Estadual/distrital - Psol - Rio De Janeiro",
+          "percentual": 2.51
+        },
+        {
+          "nome": "Anna Luiza Gaudini De Oliveira",
+          "percentual": 1.85
+        },
+        {
+          "nome": "Gabriel Silva Cerqueira",
+          "percentual": 1.39
+        },
+        {
+          "nome": "Luis Octavio Doro Rodrigues",
+          "percentual": 0.55
+        },
+        {
+          "nome": "color set industria grafica ltda",
+          "percentual": 13.53
+        },
+        {
+          "nome": "flex marketing direto ltda",
+          "percentual": 12.72
+        },
+        {
+          "nome": "flora, matheus e mangabeira sociedade de advogados",
+          "percentual": 8.48
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 7.06
+        },
+        {
+          "nome": "antonia philippsen boaventura",
+          "percentual": 6.78
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "color set industria grafica ltda",
+          "percentual": 13.53
+        },
+        {
+          "nome": "flex marketing direto ltda",
+          "percentual": 12.72
+        },
+        {
+          "nome": "flora, matheus e mangabeira sociedade de advogados",
+          "percentual": 8.48
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 7.06
+        },
+        {
+          "nome": "antonia philippsen boaventura",
+          "percentual": 6.78
+        }
+      ],
+      "fonte_atualizado_em": "15/09/2026 • Atualizado há 4 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-rj-190002536162.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:06:30.644Z"
+  }
+]

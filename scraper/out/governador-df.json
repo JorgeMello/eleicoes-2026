@@ -1,0 +1,1868 @@
+[
+  {
+    "slug": "70002552586",
+    "nome": "Arruda",
+    "partido": "PSD",
+    "numero": 55,
+    "cargo": "governador",
+    "uf": "DF",
+    "foto_arquivo": "governador-df-70002552586",
+    "foto_url_original": "https://s2-g1.glbimg.com/uUW_jBEd4iWy1RJM7PC6TB51A9c=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/x/9p2XgZSASPW9JAGdAIZQ/arruda.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/df/70002552586.ghtml",
+    "profissao": "Engenheiro",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017114369",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 830170.98,
+    "receitas_total": 3315000,
+    "despesas_total": 2326132.44,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança",
+        "valor": 49459.2
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento situado em brasília - df",
+        "valor": 195261.56
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa situada em itajuba - mg",
+        "valor": 194986.9
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação no capital social de empresa",
+        "valor": 198000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Gol",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Gol - vw, 2010/11",
+        "valor": 30990
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento situado em itajuba - mg",
+        "valor": 19431.24
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente",
+        "valor": 30355.97
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento situado em itajuba - mg",
+        "valor": 66955.53
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Crédito em empresa",
+        "valor": 40000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança",
+        "valor": 4730.58
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2022,
+        "cargo": "Deputado federal",
+        "partido": "PL",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2014,
+        "cargo": "Governador",
+        "partido": "PR",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 90.5
+      },
+      {
+        "nome": "Ronaldo Fonseca De Souza",
+        "percentual": 5.28
+      },
+      {
+        "nome": "Luiz Carlos Pietschmann",
+        "percentual": 3.92
+      },
+      {
+        "nome": "Paulo Roberto Cardoso",
+        "percentual": 0.3
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 9.46
+      },
+      {
+        "nome": "portes servicos de marketing direto ltda",
+        "percentual": 6.45
+      },
+      {
+        "nome": "emerenciano sociedade individual de advocacia",
+        "percentual": 4.3
+      },
+      {
+        "nome": "grafica e editora qualidade ltda",
+        "percentual": 3.22
+      },
+      {
+        "nome": "ab grafica ltda",
+        "percentual": 2.86
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 9.46
+      },
+      {
+        "nome": "portes servicos de marketing direto ltda",
+        "percentual": 6.45
+      },
+      {
+        "nome": "emerenciano sociedade individual de advocacia",
+        "percentual": 4.3
+      },
+      {
+        "nome": "grafica e editora qualidade ltda",
+        "percentual": 3.22
+      },
+      {
+        "nome": "ab grafica ltda",
+        "percentual": 2.86
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Arruda",
+      "partido_pagina": "PSD",
+      "numero_pagina": 55,
+      "profissao": "Engenheiro",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017114369",
+      "foto_url_original": "https://s2-g1.glbimg.com/uUW_jBEd4iWy1RJM7PC6TB51A9c=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/x/9p2XgZSASPW9JAGdAIZQ/arruda.jpeg",
+      "historico": [
+        {
+          "ano": 2022,
+          "cargo": "Deputado federal",
+          "partido": "PL",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2014,
+          "cargo": "Governador",
+          "partido": "PR",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 49.459,20 Poupança",
+        "Apartamento R$ 195.261,56 Apartamento situado em brasília - df",
+        "Casa R$ 194.986,90 Casa situada em itajuba - mg",
+        "Quotas ou quinhões de capital R$ 198.000,00 Participação no capital social de empresa",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 30.990,00 Gol - vw, 2010/11",
+        "Apartamento R$ 19.431,24 Apartamento situado em itajuba - mg",
+        "Depósito bancário em conta corrente no país R$ 30.355,97 Conta corrente",
+        "Apartamento R$ 66.955,53 Apartamento situado em itajuba - mg",
+        "Outros créditos e poupança vinculados R$ 40.000,00 Crédito em empresa",
+        "Caderneta de poupança R$ 4.730,58 Poupança"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 3315000,
+      "despesas_total": 2326132.44,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 90.5
+        },
+        {
+          "nome": "Ronaldo Fonseca De Souza",
+          "percentual": 5.28
+        },
+        {
+          "nome": "Luiz Carlos Pietschmann",
+          "percentual": 3.92
+        },
+        {
+          "nome": "Paulo Roberto Cardoso",
+          "percentual": 0.3
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 9.46
+        },
+        {
+          "nome": "portes servicos de marketing direto ltda",
+          "percentual": 6.45
+        },
+        {
+          "nome": "emerenciano sociedade individual de advocacia",
+          "percentual": 4.3
+        },
+        {
+          "nome": "grafica e editora qualidade ltda",
+          "percentual": 3.22
+        },
+        {
+          "nome": "ab grafica ltda",
+          "percentual": 2.86
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 9.46
+        },
+        {
+          "nome": "portes servicos de marketing direto ltda",
+          "percentual": 6.45
+        },
+        {
+          "nome": "emerenciano sociedade individual de advocacia",
+          "percentual": 4.3
+        },
+        {
+          "nome": "grafica e editora qualidade ltda",
+          "percentual": 3.22
+        },
+        {
+          "nome": "ab grafica ltda",
+          "percentual": 2.86
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-df-70002552586.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:57:03.379Z"
+  },
+  {
+    "slug": "70002551557",
+    "nome": "Cappelli",
+    "partido": "PSB",
+    "numero": 40,
+    "cargo": "governador",
+    "uf": "DF",
+    "foto_arquivo": "governador-df-70002551557",
+    "foto_url_original": "https://s2-g1.glbimg.com/J5OyMyqQ3zES2f8kwY-j4Bi86_w=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/i/rtT9V6Q8KKpYNh9UFW2g/cappelli.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/df/70002551557.ghtml",
+    "profissao": "Jornalista e redator",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017107334",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1226908.08,
+    "receitas_total": 543499.99,
+    "despesas_total": 1088158.5,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Renda fixa",
+        "valor": 295172.91
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Renda fixa",
+        "valor": 669.94
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa",
+        "valor": 350000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa",
+        "valor": 380000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro",
+        "valor": 170044.96
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Debentures",
+        "valor": 31020.27
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psb",
+        "percentual": 80.96
+      },
+      {
+        "nome": "Rodrigo Sobral Rollemberg",
+        "percentual": 17.02
+      },
+      {
+        "nome": "Patricia Candida Alvim",
+        "percentual": 0.64
+      },
+      {
+        "nome": "Daniel Pereira De Araujo",
+        "percentual": 0.64
+      },
+      {
+        "nome": "Edinaldo Dos Santos Silva",
+        "percentual": 0.55
+      },
+      {
+        "nome": "cria producoes artisticas ltda",
+        "percentual": 27.57
+      },
+      {
+        "nome": "gabriela rollemberg & rodrigo pedreira advocacia",
+        "percentual": 13.78
+      },
+      {
+        "nome": "treze lab - laboratorio digital ltda",
+        "percentual": 9.19
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 9.19
+      },
+      {
+        "nome": "marlon anderson costa",
+        "percentual": 4.59
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "cria producoes artisticas ltda",
+        "percentual": 27.57
+      },
+      {
+        "nome": "gabriela rollemberg & rodrigo pedreira advocacia",
+        "percentual": 13.78
+      },
+      {
+        "nome": "treze lab - laboratorio digital ltda",
+        "percentual": 9.19
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 9.19
+      },
+      {
+        "nome": "marlon anderson costa",
+        "percentual": 4.59
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Cappelli",
+      "partido_pagina": "PSB",
+      "numero_pagina": 40,
+      "profissao": "Jornalista e redator",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017107334",
+      "foto_url_original": "https://s2-g1.glbimg.com/J5OyMyqQ3zES2f8kwY-j4Bi86_w=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/i/rtT9V6Q8KKpYNh9UFW2g/cappelli.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 295.172,91 Renda fixa",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 669,94 Renda fixa",
+        "Casa R$ 350.000,00 Casa",
+        "Casa R$ 380.000,00 Casa",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 170.044,96 Carro",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 31.020,27 Debentures"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 543499.99,
+      "despesas_total": 1088158.5,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psb",
+          "percentual": 80.96
+        },
+        {
+          "nome": "Rodrigo Sobral Rollemberg",
+          "percentual": 17.02
+        },
+        {
+          "nome": "Patricia Candida Alvim",
+          "percentual": 0.64
+        },
+        {
+          "nome": "Daniel Pereira De Araujo",
+          "percentual": 0.64
+        },
+        {
+          "nome": "Edinaldo Dos Santos Silva",
+          "percentual": 0.55
+        },
+        {
+          "nome": "cria producoes artisticas ltda",
+          "percentual": 27.57
+        },
+        {
+          "nome": "gabriela rollemberg & rodrigo pedreira advocacia",
+          "percentual": 13.78
+        },
+        {
+          "nome": "treze lab - laboratorio digital ltda",
+          "percentual": 9.19
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 9.19
+        },
+        {
+          "nome": "marlon anderson costa",
+          "percentual": 4.59
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "cria producoes artisticas ltda",
+          "percentual": 27.57
+        },
+        {
+          "nome": "gabriela rollemberg & rodrigo pedreira advocacia",
+          "percentual": 13.78
+        },
+        {
+          "nome": "treze lab - laboratorio digital ltda",
+          "percentual": 9.19
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 9.19
+        },
+        {
+          "nome": "marlon anderson costa",
+          "percentual": 4.59
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-df-70002551557.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:57:10.931Z"
+  },
+  {
+    "slug": "70002553055",
+    "nome": "Celina Leão",
+    "partido": "PP",
+    "numero": 11,
+    "cargo": "governador",
+    "uf": "DF",
+    "foto_arquivo": "governador-df-70002553055",
+    "foto_url_original": "https://s2-g1.glbimg.com/Rw_kiC3RjtfdWRRIEkK_cKc5GlE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/i/VbhnnGQcKrNPjsUrRUzw/celina-leao.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/df/70002553055.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017118691",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 440131.38999999996,
+    "receitas_total": 6922000,
+    "despesas_total": 3576811.99,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Aquisição de embrião bovino em 30 parcelas de r$ 7.500,00, totalizando r$ 225.000,00. em 2025, pago 2 parcelas de r$ 7.500,00",
+        "valor": 15000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Vgbl",
+        "valor": 36245.35
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Lote residencial no condomínio prive - lago norte",
+        "valor": 280000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Discovery",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Discovery 4",
+        "valor": 107210
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta",
+        "valor": 1676.04
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pp",
+        "percentual": 99.68
+      },
+      {
+        "nome": "Edeluiza Campos Pereira",
+        "percentual": 0.03
+      },
+      {
+        "nome": "Tailane Tavares Rodrigues",
+        "percentual": 0.03
+      },
+      {
+        "nome": "Luciano Bocayuva",
+        "percentual": 0.03
+      },
+      {
+        "nome": "Roberto Martins De Miranda",
+        "percentual": 0.03
+      },
+      {
+        "nome": "camp 26 spe ltda",
+        "percentual": 13.98
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 13.98
+      },
+      {
+        "nome": "monet comunicacao digital e marketing ltda",
+        "percentual": 5.59
+      },
+      {
+        "nome": "araujo e morais sociedade de advogados",
+        "percentual": 5.59
+      },
+      {
+        "nome": "athiva contabilidade s/s",
+        "percentual": 2.8
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "camp 26 spe ltda",
+        "percentual": 13.98
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 13.98
+      },
+      {
+        "nome": "monet comunicacao digital e marketing ltda",
+        "percentual": 5.59
+      },
+      {
+        "nome": "araujo e morais sociedade de advogados",
+        "percentual": 5.59
+      },
+      {
+        "nome": "athiva contabilidade s/s",
+        "percentual": 2.8
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Celina Leão",
+      "partido_pagina": "PP",
+      "numero_pagina": 11,
+      "profissao": "Governador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017118691",
+      "foto_url_original": "https://s2-g1.glbimg.com/Rw_kiC3RjtfdWRRIEkK_cKc5GlE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/i/VbhnnGQcKrNPjsUrRUzw/celina-leao.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens e direitos R$ 15.000,00 Aquisição de embrião bovino em 30 parcelas de r$ 7.500,00, totalizando r$ 225.000,00. em 2025, pago 2 parcelas de r$ 7.500,00",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 36.245,35 Vgbl",
+        "Casa R$ 280.000,00 Lote residencial no condomínio prive - lago norte",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 107.210,00 Discovery 4",
+        "Depósito bancário em conta corrente no país R$ 1.676,04 Saldo em conta"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 6922000,
+      "despesas_total": 3576811.99,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pp",
+          "percentual": 99.68
+        },
+        {
+          "nome": "Edeluiza Campos Pereira",
+          "percentual": 0.03
+        },
+        {
+          "nome": "Tailane Tavares Rodrigues",
+          "percentual": 0.03
+        },
+        {
+          "nome": "Luciano Bocayuva",
+          "percentual": 0.03
+        },
+        {
+          "nome": "Roberto Martins De Miranda",
+          "percentual": 0.03
+        },
+        {
+          "nome": "camp 26 spe ltda",
+          "percentual": 13.98
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 13.98
+        },
+        {
+          "nome": "monet comunicacao digital e marketing ltda",
+          "percentual": 5.59
+        },
+        {
+          "nome": "araujo e morais sociedade de advogados",
+          "percentual": 5.59
+        },
+        {
+          "nome": "athiva contabilidade s/s",
+          "percentual": 2.8
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "camp 26 spe ltda",
+          "percentual": 13.98
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 13.98
+        },
+        {
+          "nome": "monet comunicacao digital e marketing ltda",
+          "percentual": 5.59
+        },
+        {
+          "nome": "araujo e morais sociedade de advogados",
+          "percentual": 5.59
+        },
+        {
+          "nome": "athiva contabilidade s/s",
+          "percentual": 2.8
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-df-70002553055.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:57:15.836Z"
+  },
+  {
+    "slug": "70002551298",
+    "nome": "Elisson",
+    "partido": "AGIR",
+    "numero": 36,
+    "cargo": "governador",
+    "uf": "DF",
+    "foto_arquivo": "governador-df-70002551298",
+    "foto_url_original": "https://s2-g1.glbimg.com/j0gLTKT-9BgS2y90xWhAmCHTK9k=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/Y/4IImyLSOOz6RvtVRxhNQ/elisson.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/df/70002551298.ghtml",
+    "profissao": "Jornalista e redator",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017102955",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 251374,
+    "receitas_total": 5500,
+    "despesas_total": 1068.99,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias 25% em sociedade participativa",
+        "valor": 12500
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo auto motor",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo auto motor",
+        "valor": 121500
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicações diversas",
+        "valor": 117374
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Wagner De Melo Pereira Santana",
+        "percentual": 63.64
+      },
+      {
+        "nome": "Elisson Ferreira Freire",
+        "percentual": 36.36
+      },
+      {
+        "nome": "art midia comercio, representacoes e servicos ltda",
+        "percentual": 93.45
+      },
+      {
+        "nome": "nucleo de informacao e coordenacao do ponto br - nic .br",
+        "percentual": 3.74
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 2.81
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "art midia comercio, representacoes e servicos ltda",
+        "percentual": 93.45
+      },
+      {
+        "nome": "nucleo de informacao e coordenacao do ponto br - nic .br",
+        "percentual": 3.74
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 2.81
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Elisson",
+      "partido_pagina": "AGIR",
+      "numero_pagina": 36,
+      "profissao": "Jornalista e redator",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017102955",
+      "foto_url_original": "https://s2-g1.glbimg.com/j0gLTKT-9BgS2y90xWhAmCHTK9k=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/Y/4IImyLSOOz6RvtVRxhNQ/elisson.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outras participações societárias R$ 12.500,00 25% em sociedade participativa",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 121.500,00 Veiculo auto motor",
+        "Outras aplicações e investimentos R$ 117.374,00 Aplicações diversas"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 5500,
+      "despesas_total": 1068.99,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Wagner De Melo Pereira Santana",
+          "percentual": 63.64
+        },
+        {
+          "nome": "Elisson Ferreira Freire",
+          "percentual": 36.36
+        },
+        {
+          "nome": "art midia comercio, representacoes e servicos ltda",
+          "percentual": 93.45
+        },
+        {
+          "nome": "nucleo de informacao e coordenacao do ponto br - nic .br",
+          "percentual": 3.74
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 2.81
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "art midia comercio, representacoes e servicos ltda",
+          "percentual": 93.45
+        },
+        {
+          "nome": "nucleo de informacao e coordenacao do ponto br - nic .br",
+          "percentual": 3.74
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 2.81
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-df-70002551298.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:57:19.802Z"
+  },
+  {
+    "slug": "70002552341",
+    "nome": "Expedito Mendonça",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "DF",
+    "foto_arquivo": "governador-df-70002552341",
+    "foto_url_original": "https://s2-g1.glbimg.com/sWfYZTDj8yecz-h-1dQCE473I6E=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/C/5t4jrURTGJBRZ2XX4wmw/expedito-mendonca.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/df/70002552341.ghtml",
+    "profissao": "Servidor público federal",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017111770",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 5000,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor gm/kadett ipanema gl, placa jfo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor gm/kadett ipanema gl, placa jfo 2632, ano modelo 1997, cor branca, gasolina",
+        "valor": 5000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2018,
+        "cargo": "Deputado distrital",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Expedito Mendonça",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Servidor público federal",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017111770",
+      "foto_url_original": "https://s2-g1.glbimg.com/sWfYZTDj8yecz-h-1dQCE473I6E=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/C/5t4jrURTGJBRZ2XX4wmw/expedito-mendonca.jpeg",
+      "historico": [
+        {
+          "ano": 2018,
+          "cargo": "Deputado distrital",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 5.000,00 Veículo automotor gm/kadett ipanema gl, placa jfo 2632, ano modelo 1997, cor branca, gasolina"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 7115522.46,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-df-70002552341.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:57:23.915Z"
+  },
+  {
+    "slug": "70002547775",
+    "nome": "Kiko Caputo",
+    "partido": "NOVO",
+    "numero": 30,
+    "cargo": "governador",
+    "uf": "DF",
+    "foto_arquivo": "governador-df-70002547775",
+    "foto_url_original": "https://s2-g1.glbimg.com/IEYAuYI8Z_vzjWt6AmE-WmjXWGg=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/C/2H74iWTe6DbynrbYbxCA/kiko-caputo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/df/70002547775.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017126880",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 47383036.129999995,
+    "receitas_total": 1235500,
+    "despesas_total": 1001717.87,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Vgbl - vida gerador de benefício livre",
+        "valor": 185768.56
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Outras aplicações e investimentos",
+        "valor": 96367.06
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Outras aplicações e investimentos",
+        "valor": 708960.92
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "valor": 60000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas ou quinhões de capital",
+        "valor": 27364.88
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa (cdb, rdb e outros)",
+        "valor": 943872.3
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 296000
+      },
+      {
+        "tipo": "Bem relacionado com o exercício da atividade autônoma",
+        "descricao": "Bem relacionado com o exercício da atividade autônoma Bem relacionado com o exercício da atividade autônoma",
+        "valor": 10558591.66
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ações (inclusive as provenientes de linha telefônica)",
+        "valor": 1738140.41
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa",
+        "valor": 2850000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "valor": 730000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "valor": 290000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Outros bens e direitos",
+        "valor": 577806.31
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "valor": 111000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 296000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "valor": 110000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Outras aplicações e investimentos",
+        "valor": 1433442.56
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no exterior",
+        "descricao": "Depósito bancário em conta corrente no exterior Depósito bancário em conta corrente no exterior",
+        "valor": 440800
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consórcio não contemplado",
+        "valor": 764511.08
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "valor": 30000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "valor": 98000
+      },
+      {
+        "tipo": "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. Jóia, quadro, objeto de arte, de coleção, antiguidade, etc.",
+        "descricao": "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. Jóia, quadro, objeto de arte, de coleção, antiguidade, etc.",
+        "valor": 180000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Outras aplicações e investimentos",
+        "valor": 4360338.43
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depósito bancário em conta corrente no país",
+        "valor": 292283.01
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Outras aplicações e investimentos",
+        "valor": 20203788.95
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Gustavo Henrique Caputo Bastos",
+        "percentual": 64.75
+      },
+      {
+        "nome": "Francisco Queiroz Caputo Neto",
+        "percentual": 35.25
+      },
+      {
+        "nome": "esplanada servicos de internet ltda",
+        "percentual": 51.91
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 15.76
+      },
+      {
+        "nome": "seven impress publicacoes e editora ltda",
+        "percentual": 5.08
+      },
+      {
+        "nome": "rezgatte confeccao e comercio de roupas e acessorios ltda",
+        "percentual": 3.74
+      },
+      {
+        "nome": "angelo almeida carvalho",
+        "percentual": 1.16
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "esplanada servicos de internet ltda",
+        "percentual": 51.91
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 15.76
+      },
+      {
+        "nome": "seven impress publicacoes e editora ltda",
+        "percentual": 5.08
+      },
+      {
+        "nome": "rezgatte confeccao e comercio de roupas e acessorios ltda",
+        "percentual": 3.74
+      },
+      {
+        "nome": "angelo almeida carvalho",
+        "percentual": 1.16
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Kiko Caputo",
+      "partido_pagina": "NOVO",
+      "numero_pagina": 30,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017126880",
+      "foto_url_original": "https://s2-g1.glbimg.com/IEYAuYI8Z_vzjWt6AmE-WmjXWGg=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/C/2H74iWTe6DbynrbYbxCA/kiko-caputo.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Vgbl - vida gerador de benefício livre R$ 185.768,56 Vgbl - vida gerador de benefício livre",
+        "Outras aplicações e investimentos R$ 96.367,06 Outras aplicações e investimentos",
+        "Outras aplicações e investimentos R$ 708.960,92 Outras aplicações e investimentos",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 60.000,00 Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "Quotas ou quinhões de capital R$ 27.364,88 Quotas ou quinhões de capital",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 943.872,30 Aplicação de renda fixa (cdb, rdb e outros)",
+        "Apartamento R$ 296.000,00 Apartamento",
+        "Bem relacionado com o exercício da atividade autônoma R$ 10.558.591,66 Bem relacionado com o exercício da atividade autônoma",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 1.738.140,41 Ações (inclusive as provenientes de linha telefônica)",
+        "Casa R$ 2.850.000,00 Casa",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 730.000,00 Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 290.000,00 Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "Outros bens e direitos R$ 577.806,31 Outros bens e direitos",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 111.000,00 Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "Apartamento R$ 296.000,00 Apartamento",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 110.000,00 Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "Outras aplicações e investimentos R$ 1.433.442,56 Outras aplicações e investimentos",
+        "Depósito bancário em conta corrente no exterior R$ 440.800,00 Depósito bancário em conta corrente no exterior",
+        "Consórcio não contemplado R$ 764.511,08 Consórcio não contemplado",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 30.000,00 Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 98.000,00 Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. R$ 180.000,00 Jóia, quadro, objeto de arte, de coleção, antiguidade, etc.",
+        "Outras aplicações e investimentos R$ 4.360.338,43 Outras aplicações e investimentos",
+        "Depósito bancário em conta corrente no país R$ 292.283,01 Depósito bancário em conta corrente no país",
+        "Outras aplicações e investimentos R$ 20.203.788,95 Outras aplicações e investimentos"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 1235500,
+      "despesas_total": 1001717.87,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Gustavo Henrique Caputo Bastos",
+          "percentual": 64.75
+        },
+        {
+          "nome": "Francisco Queiroz Caputo Neto",
+          "percentual": 35.25
+        },
+        {
+          "nome": "esplanada servicos de internet ltda",
+          "percentual": 51.91
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 15.76
+        },
+        {
+          "nome": "seven impress publicacoes e editora ltda",
+          "percentual": 5.08
+        },
+        {
+          "nome": "rezgatte confeccao e comercio de roupas e acessorios ltda",
+          "percentual": 3.74
+        },
+        {
+          "nome": "angelo almeida carvalho",
+          "percentual": 1.16
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "esplanada servicos de internet ltda",
+          "percentual": 51.91
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 15.76
+        },
+        {
+          "nome": "seven impress publicacoes e editora ltda",
+          "percentual": 5.08
+        },
+        {
+          "nome": "rezgatte confeccao e comercio de roupas e acessorios ltda",
+          "percentual": 3.74
+        },
+        {
+          "nome": "angelo almeida carvalho",
+          "percentual": 1.16
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-df-70002547775.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:57:30.527Z"
+  },
+  {
+    "slug": "70002552496",
+    "nome": "Leandro Grass",
+    "partido": "PT",
+    "numero": 13,
+    "cargo": "governador",
+    "uf": "DF",
+    "foto_arquivo": "governador-df-70002552496",
+    "foto_url_original": "https://s2-g1.glbimg.com/V0psBpKWXpO5UmqFB229rXOtx-Q=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/X7oLhjQHK6US1rTYZz5g/leandro-grass.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/df/70002552496.ghtml",
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017113505",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 285000,
+    "receitas_total": 2285370.74,
+    "despesas_total": 1487995.97,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento em copropriedade",
+        "valor": 285000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 93.41
+      },
+      {
+        "nome": "Direção Estadual/distrital - Pt - Distrito Federal",
+        "percentual": 4.96
+      },
+      {
+        "nome": "Jacy Braga Rodrigues",
+        "percentual": 1.33
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 0.21
+      },
+      {
+        "nome": "Maria Rita Miranda Rocha",
+        "percentual": 0.09
+      },
+      {
+        "nome": "plural audio visual ltda",
+        "percentual": 20.16
+      },
+      {
+        "nome": "frame comunicacao digital ltda",
+        "percentual": 16.34
+      },
+      {
+        "nome": "vera & francilia grafica e editora ltda",
+        "percentual": 13.35
+      },
+      {
+        "nome": "gerson spindola da silva",
+        "percentual": 4.7
+      },
+      {
+        "nome": "joaquim alves dias",
+        "percentual": 3.7
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "plural audio visual ltda",
+        "percentual": 20.16
+      },
+      {
+        "nome": "frame comunicacao digital ltda",
+        "percentual": 16.34
+      },
+      {
+        "nome": "vera & francilia grafica e editora ltda",
+        "percentual": 13.35
+      },
+      {
+        "nome": "gerson spindola da silva",
+        "percentual": 4.7
+      },
+      {
+        "nome": "joaquim alves dias",
+        "percentual": 3.7
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Leandro Grass",
+      "partido_pagina": "PT",
+      "numero_pagina": 13,
+      "profissao": "Professor de ensino superior",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017113505",
+      "foto_url_original": "https://s2-g1.glbimg.com/V0psBpKWXpO5UmqFB229rXOtx-Q=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/X7oLhjQHK6US1rTYZz5g/leandro-grass.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 285.000,00 Apartamento em copropriedade"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 2285370.74,
+      "despesas_total": 1487995.97,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 93.41
+        },
+        {
+          "nome": "Direção Estadual/distrital - Pt - Distrito Federal",
+          "percentual": 4.96
+        },
+        {
+          "nome": "Jacy Braga Rodrigues",
+          "percentual": 1.33
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 0.21
+        },
+        {
+          "nome": "Maria Rita Miranda Rocha",
+          "percentual": 0.09
+        },
+        {
+          "nome": "plural audio visual ltda",
+          "percentual": 20.16
+        },
+        {
+          "nome": "frame comunicacao digital ltda",
+          "percentual": 16.34
+        },
+        {
+          "nome": "vera & francilia grafica e editora ltda",
+          "percentual": 13.35
+        },
+        {
+          "nome": "gerson spindola da silva",
+          "percentual": 4.7
+        },
+        {
+          "nome": "joaquim alves dias",
+          "percentual": 3.7
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "plural audio visual ltda",
+          "percentual": 20.16
+        },
+        {
+          "nome": "frame comunicacao digital ltda",
+          "percentual": 16.34
+        },
+        {
+          "nome": "vera & francilia grafica e editora ltda",
+          "percentual": 13.35
+        },
+        {
+          "nome": "gerson spindola da silva",
+          "percentual": 4.7
+        },
+        {
+          "nome": "joaquim alves dias",
+          "percentual": 3.7
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-df-70002552496.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:57:35.261Z"
+  },
+  {
+    "slug": "70002552965",
+    "nome": "Paula Belmonte",
+    "partido": "PSDB",
+    "numero": 45,
+    "cargo": "governador",
+    "uf": "DF",
+    "foto_arquivo": "governador-df-70002552965",
+    "foto_url_original": "https://s2-g1.glbimg.com/2Lwlg1O3Z6jt7AcUPjxcpJXG1pQ=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/v/7r5hhIQ3ea4djFFJDqKA/paula-belmonte.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/df/70002552965.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017118167",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 10844220.79,
+    "receitas_total": 2991000,
+    "despesas_total": 2482705.79,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "16/09/2026 • Atualizado há 3 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculos",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculos",
+        "valor": 255000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicações financeiras",
+        "valor": 2989385.26
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Cotas de sociedade de empresas",
+        "valor": 5307200
+      },
+      {
+        "tipo": "Crédito decorrente de empréstimo",
+        "descricao": "Crédito decorrente de empréstimo Mutuo com empresas em que é sócia",
+        "valor": 2292635.53
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psdb",
+        "percentual": 72.89
+      },
+      {
+        "nome": "Luis Felipe Belmonte Dos Santos",
+        "percentual": 11.7
+      },
+      {
+        "nome": "Paula Moreno Paro Belmonte",
+        "percentual": 8.73
+      },
+      {
+        "nome": "Everardo Alves Ribeiro",
+        "percentual": 6.69
+      },
+      {
+        "nome": "qualigraff team bsb ltda",
+        "percentual": 12.1
+      },
+      {
+        "nome": "movie me filmes ltda",
+        "percentual": 11.71
+      },
+      {
+        "nome": "jrc locadora de vans, carros executivos e eventos em geral ltda",
+        "percentual": 11.57
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 4.47
+      },
+      {
+        "nome": "cittadino advogados associados",
+        "percentual": 4.03
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "qualigraff team bsb ltda",
+        "percentual": 12.1
+      },
+      {
+        "nome": "movie me filmes ltda",
+        "percentual": 11.71
+      },
+      {
+        "nome": "jrc locadora de vans, carros executivos e eventos em geral ltda",
+        "percentual": 11.57
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 4.47
+      },
+      {
+        "nome": "cittadino advogados associados",
+        "percentual": 4.03
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Paula Belmonte",
+      "partido_pagina": "PSDB",
+      "numero_pagina": 45,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017118167",
+      "foto_url_original": "https://s2-g1.glbimg.com/2Lwlg1O3Z6jt7AcUPjxcpJXG1pQ=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/v/7r5hhIQ3ea4djFFJDqKA/paula-belmonte.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 255.000,00 Veiculos",
+        "Outras aplicações e investimentos R$ 2.989.385,26 Aplicações financeiras",
+        "Outras participações societárias R$ 5.307.200,00 Cotas de sociedade de empresas",
+        "Crédito decorrente de empréstimo R$ 2.292.635,53 Mutuo com empresas em que é sócia"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 2991000,
+      "despesas_total": 2482705.79,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psdb",
+          "percentual": 72.89
+        },
+        {
+          "nome": "Luis Felipe Belmonte Dos Santos",
+          "percentual": 11.7
+        },
+        {
+          "nome": "Paula Moreno Paro Belmonte",
+          "percentual": 8.73
+        },
+        {
+          "nome": "Everardo Alves Ribeiro",
+          "percentual": 6.69
+        },
+        {
+          "nome": "qualigraff team bsb ltda",
+          "percentual": 12.1
+        },
+        {
+          "nome": "movie me filmes ltda",
+          "percentual": 11.71
+        },
+        {
+          "nome": "jrc locadora de vans, carros executivos e eventos em geral ltda",
+          "percentual": 11.57
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 4.47
+        },
+        {
+          "nome": "cittadino advogados associados",
+          "percentual": 4.03
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "qualigraff team bsb ltda",
+          "percentual": 12.1
+        },
+        {
+          "nome": "movie me filmes ltda",
+          "percentual": 11.71
+        },
+        {
+          "nome": "jrc locadora de vans, carros executivos e eventos em geral ltda",
+          "percentual": 11.57
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 4.47
+        },
+        {
+          "nome": "cittadino advogados associados",
+          "percentual": 4.03
+        }
+      ],
+      "fonte_atualizado_em": "16/09/2026 • Atualizado há 3 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-df-70002552965.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:57:41.714Z"
+  },
+  {
+    "slug": "70002535930",
+    "nome": "Professor Robson",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "governador",
+    "uf": "DF",
+    "foto_arquivo": "governador-df-70002535930",
+    "foto_url_original": "https://s2-g1.glbimg.com/CrWfZjSEda07Vi12Slv_-uWlBQ8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/w/1WXAXJTLAryl1r4Dznnw/professor-robson.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/df/70002535930.ghtml",
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70016863606",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 900000,
+    "receitas_total": 22202,
+    "despesas_total": 24700,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 1 apartamento em águas claras, brasília-df",
+        "valor": 900000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 100
+      },
+      {
+        "nome": "projeto ip grafis solucoes graficas ltda",
+        "percentual": 66.8
+      },
+      {
+        "nome": "caio augusto tadeu carvalho de almeida",
+        "percentual": 24.29
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 8.91
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "projeto ip grafis solucoes graficas ltda",
+        "percentual": 66.8
+      },
+      {
+        "nome": "caio augusto tadeu carvalho de almeida",
+        "percentual": 24.29
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 8.91
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Professor Robson",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Professor de ensino médio",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70016863606",
+      "foto_url_original": "https://s2-g1.glbimg.com/CrWfZjSEda07Vi12Slv_-uWlBQ8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/w/1WXAXJTLAryl1r4Dznnw/professor-robson.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 900.000,00 1 apartamento em águas claras, brasília-df"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 22202,
+      "despesas_total": 24700,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 100
+        },
+        {
+          "nome": "projeto ip grafis solucoes graficas ltda",
+          "percentual": 66.8
+        },
+        {
+          "nome": "caio augusto tadeu carvalho de almeida",
+          "percentual": 24.29
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 8.91
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "projeto ip grafis solucoes graficas ltda",
+          "percentual": 66.8
+        },
+        {
+          "nome": "caio augusto tadeu carvalho de almeida",
+          "percentual": 24.29
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 8.91
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-df-70002535930.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:57:47.925Z"
+  },
+  {
+    "slug": "70002537111",
+    "nome": "Professora Samara Mineiro",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "DF",
+    "foto_arquivo": "governador-df-70002537111",
+    "foto_url_original": "https://s2-g1.glbimg.com/QisrlI1_DBq1km1fhRxw3A590TI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/0/Yf5lAaSBCCEoHCyttA6A/professora-samara-mineiro.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/df/70002537111.ghtml",
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70016882213",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 69196.63,
+    "receitas_total": 0,
+    "despesas_total": 1621,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Direitos relativos à aquisição de apartamento residencial pelo programa minha casa minha vida, imóvel ainda em construção",
+        "valor": 9196.63
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Veículo automotor terrestre: hyundai hb20 adquirido por meio de financiamento (alienação fiduciária)",
+        "valor": 60000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "leonardo ribeiro ferreira",
+        "percentual": 100
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "leonardo ribeiro ferreira",
+        "percentual": 100
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Professora Samara Mineiro",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Professor de ensino médio",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70016882213",
+      "foto_url_original": "https://s2-g1.glbimg.com/QisrlI1_DBq1km1fhRxw3A590TI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/0/Yf5lAaSBCCEoHCyttA6A/professora-samara-mineiro.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens e direitos R$ 9.196,63 Direitos relativos à aquisição de apartamento residencial pelo programa minha casa minha vida, imóvel ainda em construção",
+        "Outros bens e direitos R$ 60.000,00 Veículo automotor terrestre: hyundai hb20 adquirido por meio de financiamento (alienação fiduciária)"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 1621,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "leonardo ribeiro ferreira",
+          "percentual": 100
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "leonardo ribeiro ferreira",
+          "percentual": 100
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-df-70002537111.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:57:53.906Z"
+  },
+  {
+    "slug": "70002553982",
+    "nome": "Rico Pinheiro",
+    "partido": "PRTB",
+    "numero": 28,
+    "cargo": "governador",
+    "uf": "DF",
+    "foto_arquivo": "governador-df-70002553982",
+    "foto_url_original": "https://s2-g1.glbimg.com/lcqAvTWc77Lpwv0S6eKk7a8XWn0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/D/QRKeE8TQKs3qgx3Sj9Cw/rico-pinheiro.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/df/70002553982.ghtml",
+    "profissao": "Economista",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017129744",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 4380000,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação em scp",
+        "valor": 1800000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação ltda",
+        "valor": 2500000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Nissan versa",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Nissan versa",
+        "valor": 80000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2010,
+        "cargo": "Deputado estadual",
+        "partido": "PTB",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Rico Pinheiro",
+      "partido_pagina": "PRTB",
+      "numero_pagina": 28,
+      "profissao": "Economista",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/70017129744",
+      "foto_url_original": "https://s2-g1.glbimg.com/lcqAvTWc77Lpwv0S6eKk7a8XWn0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/D/QRKeE8TQKs3qgx3Sj9Cw/rico-pinheiro.jpeg",
+      "historico": [
+        {
+          "ano": 2010,
+          "cargo": "Deputado estadual",
+          "partido": "PTB",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Outras participações societárias R$ 1.800.000,00 Participação em scp",
+        "Quotas ou quinhões de capital R$ 2.500.000,00 Participação ltda",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 80.000,00 Nissan versa"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 7115522.46,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-df-70002553982.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:58:00.402Z"
+  }
+]

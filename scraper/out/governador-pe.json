@@ -1,0 +1,1292 @@
+[
+  {
+    "slug": "170002536575",
+    "nome": "Guilherme Fonseca",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "governador",
+    "uf": "PE",
+    "foto_arquivo": "governador-pe-170002536575",
+    "foto_url_original": "https://s2-g1.glbimg.com/kLV89ccLHbjoJ7ttJ8UCiFqEvkI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/e/de3VRxTwyvgQqbiOtzBw/guilherme-fonseca.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pe/170002536575.ghtml",
+    "profissao": "Técnico de eletricidade, eletrônica e telecomunicações",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/170016868771",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 300000,
+    "receitas_total": 25502,
+    "despesas_total": 20000,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "29/08/2026 • Atualizado há 21 dias\n\nDado",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 1 apartamento",
+        "valor": 300000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 100
+      },
+      {
+        "nome": "romerito vieira pontes",
+        "percentual": 37.5
+      },
+      {
+        "nome": "anacely de jesus rodrigues",
+        "percentual": 35
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 15
+      },
+      {
+        "nome": "carlos elias andrade",
+        "percentual": 12.5
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "romerito vieira pontes",
+        "percentual": 37.5
+      },
+      {
+        "nome": "anacely de jesus rodrigues",
+        "percentual": 35
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 15
+      },
+      {
+        "nome": "carlos elias andrade",
+        "percentual": 12.5
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Guilherme Fonseca",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Técnico de eletricidade, eletrônica e telecomunicações",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/170016868771",
+      "foto_url_original": "https://s2-g1.glbimg.com/kLV89ccLHbjoJ7ttJ8UCiFqEvkI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/e/de3VRxTwyvgQqbiOtzBw/guilherme-fonseca.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 300.000,00 1 apartamento"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 25502,
+      "despesas_total": 20000,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 100
+        },
+        {
+          "nome": "romerito vieira pontes",
+          "percentual": 37.5
+        },
+        {
+          "nome": "anacely de jesus rodrigues",
+          "percentual": 35
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 15
+        },
+        {
+          "nome": "carlos elias andrade",
+          "percentual": 12.5
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "romerito vieira pontes",
+          "percentual": 37.5
+        },
+        {
+          "nome": "anacely de jesus rodrigues",
+          "percentual": 35
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 15
+        },
+        {
+          "nome": "carlos elias andrade",
+          "percentual": 12.5
+        }
+      ],
+      "fonte_atualizado_em": "29/08/2026 • Atualizado há 21 dias\n\nDado"
+    },
+    "foto_local": "/uploads/candidatos/governador-pe-170002536575.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:04:08.859Z"
+  },
+  {
+    "slug": "170002538097",
+    "nome": "Ivan Moraes",
+    "partido": "PSOL",
+    "numero": 50,
+    "cargo": "governador",
+    "uf": "PE",
+    "foto_arquivo": "governador-pe-170002538097",
+    "foto_url_original": "https://s2-g1.glbimg.com/YedhWKRLYnGppoFXDW60Zt9zTU0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/B/juxfF3S2KBccUQ3DGJZQ/ivan-moraes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pe/170002538097.ghtml",
+    "profissao": "Jornalista e redator",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/170016885922",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 81452,
+    "receitas_total": 670459,
+    "despesas_total": 453259.49,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imóvel residencial situado a rua esmeraldino bandeira, adquirido via financiamento direto junto a construtora, totalmente quitado",
+        "valor": 80000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Conta em banco. banco 341, ag: 1632, conta: 32077-4",
+        "valor": 1452
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 67.12
+      },
+      {
+        "nome": "Direção Nacional - Rede",
+        "percentual": 29.83
+      },
+      {
+        "nome": "Leonardo Carneiro Da Cunha De Souza Lima",
+        "percentual": 1.49
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 0.07
+      },
+      {
+        "nome": "Francimilson Romao De Souza",
+        "percentual": 0
+      },
+      {
+        "nome": "usina de filmes producao cinematografica ltda",
+        "percentual": 16.28
+      },
+      {
+        "nome": "bruno martins sociedade individual de advocacia",
+        "percentual": 11.03
+      },
+      {
+        "nome": "roberta cardoso morais",
+        "percentual": 8.82
+      },
+      {
+        "nome": "65.488.719 denilson pereira dos santos",
+        "percentual": 8.82
+      },
+      {
+        "nome": "mira estrategia e conteudo ltda",
+        "percentual": 6.62
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "usina de filmes producao cinematografica ltda",
+        "percentual": 16.28
+      },
+      {
+        "nome": "bruno martins sociedade individual de advocacia",
+        "percentual": 11.03
+      },
+      {
+        "nome": "roberta cardoso morais",
+        "percentual": 8.82
+      },
+      {
+        "nome": "65.488.719 denilson pereira dos santos",
+        "percentual": 8.82
+      },
+      {
+        "nome": "mira estrategia e conteudo ltda",
+        "percentual": 6.62
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Ivan Moraes",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 50,
+      "profissao": "Jornalista e redator",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/170016885922",
+      "foto_url_original": "https://s2-g1.glbimg.com/YedhWKRLYnGppoFXDW60Zt9zTU0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/B/juxfF3S2KBccUQ3DGJZQ/ivan-moraes.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 80.000,00 Imóvel residencial situado a rua esmeraldino bandeira, adquirido via financiamento direto junto a construtora, totalmente quitado",
+        "Outros bens e direitos R$ 1.452,00 Conta em banco. banco 341, ag: 1632, conta: 32077-4"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 670459,
+      "despesas_total": 453259.49,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 67.12
+        },
+        {
+          "nome": "Direção Nacional - Rede",
+          "percentual": 29.83
+        },
+        {
+          "nome": "Leonardo Carneiro Da Cunha De Souza Lima",
+          "percentual": 1.49
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 0.07
+        },
+        {
+          "nome": "Francimilson Romao De Souza",
+          "percentual": 0
+        },
+        {
+          "nome": "usina de filmes producao cinematografica ltda",
+          "percentual": 16.28
+        },
+        {
+          "nome": "bruno martins sociedade individual de advocacia",
+          "percentual": 11.03
+        },
+        {
+          "nome": "roberta cardoso morais",
+          "percentual": 8.82
+        },
+        {
+          "nome": "65.488.719 denilson pereira dos santos",
+          "percentual": 8.82
+        },
+        {
+          "nome": "mira estrategia e conteudo ltda",
+          "percentual": 6.62
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "usina de filmes producao cinematografica ltda",
+          "percentual": 16.28
+        },
+        {
+          "nome": "bruno martins sociedade individual de advocacia",
+          "percentual": 11.03
+        },
+        {
+          "nome": "roberta cardoso morais",
+          "percentual": 8.82
+        },
+        {
+          "nome": "65.488.719 denilson pereira dos santos",
+          "percentual": 8.82
+        },
+        {
+          "nome": "mira estrategia e conteudo ltda",
+          "percentual": 6.62
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pe-170002538097.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:04:13.533Z"
+  },
+  {
+    "slug": "170002537230",
+    "nome": "João Campos",
+    "partido": "PSB",
+    "numero": 40,
+    "cargo": "governador",
+    "uf": "PE",
+    "foto_arquivo": "governador-pe-170002537230",
+    "foto_url_original": "https://s2-g1.glbimg.com/ZqK1yC6TVShq0GOWy5qyv8fPbCo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/8/Op4PdfTHy9YDCJduBpWQ/joao-campos.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pe/170002537230.ghtml",
+    "profissao": "Engenheiro",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/170016883406",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 2892723.4599999995,
+    "receitas_total": 5901475.6,
+    "despesas_total": 4721289.84,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas em empresa",
+        "valor": 100000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicações e investimentos",
+        "valor": 449921.41
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicações e investimentos",
+        "valor": 2284591.73
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Outros bens e direitos",
+        "valor": 40796.8
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicações e investimentos",
+        "valor": 17413.52
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psb",
+        "percentual": 76.25
+      },
+      {
+        "nome": "Direção Nacional - Republicanos",
+        "percentual": 16.94
+      },
+      {
+        "nome": "Direção Estadual/distrital - Psb - Pernambuco",
+        "percentual": 6.8
+      },
+      {
+        "nome": "mxm grafica e embalagens ltda",
+        "percentual": 23.26
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 13.03
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 5.72
+      },
+      {
+        "nome": "mjpm producoes audiovisual ltda",
+        "percentual": 4.24
+      },
+      {
+        "nome": "robert oscar montandon",
+        "percentual": 4.24
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "mxm grafica e embalagens ltda",
+        "percentual": 23.26
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 13.03
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 5.72
+      },
+      {
+        "nome": "mjpm producoes audiovisual ltda",
+        "percentual": 4.24
+      },
+      {
+        "nome": "robert oscar montandon",
+        "percentual": 4.24
+      }
+    ],
+    "raw": {
+      "nome_pagina": "João Campos",
+      "partido_pagina": "PSB",
+      "numero_pagina": 40,
+      "profissao": "Engenheiro",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/170016883406",
+      "foto_url_original": "https://s2-g1.glbimg.com/ZqK1yC6TVShq0GOWy5qyv8fPbCo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/8/Op4PdfTHy9YDCJduBpWQ/joao-campos.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Quotas ou quinhões de capital R$ 100.000,00 Quotas em empresa",
+        "Outras aplicações e investimentos R$ 449.921,41 Aplicações e investimentos",
+        "Outras aplicações e investimentos R$ 2.284.591,73 Aplicações e investimentos",
+        "Outros bens e direitos R$ 40.796,80 Outros bens e direitos",
+        "Outras aplicações e investimentos R$ 17.413,52 Aplicações e investimentos"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 5901475.6,
+      "despesas_total": 4721289.84,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psb",
+          "percentual": 76.25
+        },
+        {
+          "nome": "Direção Nacional - Republicanos",
+          "percentual": 16.94
+        },
+        {
+          "nome": "Direção Estadual/distrital - Psb - Pernambuco",
+          "percentual": 6.8
+        },
+        {
+          "nome": "mxm grafica e embalagens ltda",
+          "percentual": 23.26
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 13.03
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 5.72
+        },
+        {
+          "nome": "mjpm producoes audiovisual ltda",
+          "percentual": 4.24
+        },
+        {
+          "nome": "robert oscar montandon",
+          "percentual": 4.24
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "mxm grafica e embalagens ltda",
+          "percentual": 23.26
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 13.03
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 5.72
+        },
+        {
+          "nome": "mjpm producoes audiovisual ltda",
+          "percentual": 4.24
+        },
+        {
+          "nome": "robert oscar montandon",
+          "percentual": 4.24
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pe-170002537230.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:04:18.647Z"
+  },
+  {
+    "slug": "170002537320",
+    "nome": "Professora Camila",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "PE",
+    "foto_arquivo": "governador-pe-170002537320",
+    "foto_url_original": "https://s2-g1.glbimg.com/I0sxVR_Qo1PLKjr8_9J8-USffE0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/R/rAAl4qRMmQ3KrFWH9hqw/professora-camila.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pe/170002537320.ghtml",
+    "profissao": "Historiador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/170016884450",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 85000,
+    "receitas_total": 6980,
+    "despesas_total": 9100,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento residencial",
+        "valor": 85000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Up - Pernambuco",
+        "percentual": 80.23
+      },
+      {
+        "nome": "Wellington Santana Lima",
+        "percentual": 7.16
+      },
+      {
+        "nome": "Hans Wolfglanc Lisboa",
+        "percentual": 3.44
+      },
+      {
+        "nome": "Joao Jorge Pinho",
+        "percentual": 2.29
+      },
+      {
+        "nome": "Fernando Antonio C Morais",
+        "percentual": 2.29
+      },
+      {
+        "nome": "8 de marco grafica e editora ltda",
+        "percentual": 73.63
+      },
+      {
+        "nome": "movie producao co-marketing ltda",
+        "percentual": 26.37
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "8 de marco grafica e editora ltda",
+        "percentual": 73.63
+      },
+      {
+        "nome": "movie producao co-marketing ltda",
+        "percentual": 26.37
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Professora Camila",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Historiador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/170016884450",
+      "foto_url_original": "https://s2-g1.glbimg.com/I0sxVR_Qo1PLKjr8_9J8-USffE0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/R/rAAl4qRMmQ3KrFWH9hqw/professora-camila.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 85.000,00 Apartamento residencial"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 6980,
+      "despesas_total": 9100,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Up - Pernambuco",
+          "percentual": 80.23
+        },
+        {
+          "nome": "Wellington Santana Lima",
+          "percentual": 7.16
+        },
+        {
+          "nome": "Hans Wolfglanc Lisboa",
+          "percentual": 3.44
+        },
+        {
+          "nome": "Joao Jorge Pinho",
+          "percentual": 2.29
+        },
+        {
+          "nome": "Fernando Antonio C Morais",
+          "percentual": 2.29
+        },
+        {
+          "nome": "8 de marco grafica e editora ltda",
+          "percentual": 73.63
+        },
+        {
+          "nome": "movie producao co-marketing ltda",
+          "percentual": 26.37
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "8 de marco grafica e editora ltda",
+          "percentual": 73.63
+        },
+        {
+          "nome": "movie producao co-marketing ltda",
+          "percentual": 26.37
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pe-170002537320.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:04:23.280Z"
+  },
+  {
+    "slug": "170002537227",
+    "nome": "Raquel Lyra",
+    "partido": "PSD",
+    "numero": 55,
+    "cargo": "governador",
+    "uf": "PE",
+    "foto_arquivo": "governador-pe-170002537227",
+    "foto_url_original": "https://s2-g1.glbimg.com/DjIsRL08dIMDU2shGNlzgPNH1oI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/6/2rKOcsQeCvhczb1F2TQQ/raquel-lyra.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pe/170002537227.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/170017115776",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 359498.33,
+    "receitas_total": 11997029.7,
+    "despesas_total": 7631639.12,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Localizado em jaboatão dos guararapes/pe",
+        "valor": 289574
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicações financeiras diversas",
+        "valor": 69923.33
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depósito em conta bancária",
+        "valor": 1
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 97.17
+      },
+      {
+        "nome": "Direção Estadual/distrital - Psd - Pernambuco",
+        "percentual": 1.58
+      },
+      {
+        "nome": "Marcelo Holanda Guerra",
+        "percentual": 0.42
+      },
+      {
+        "nome": "Jose Joaquim De Almeida Neto",
+        "percentual": 0.42
+      },
+      {
+        "nome": "Maria Helena Maroja Wolfenson",
+        "percentual": 0.25
+      },
+      {
+        "nome": "rede de negocios e producao de eventos ltda",
+        "percentual": 32.76
+      },
+      {
+        "nome": "ne eleicoes spe ltda",
+        "percentual": 26.21
+      },
+      {
+        "nome": "twobunker producoes ltda",
+        "percentual": 13.1
+      },
+      {
+        "nome": "mxm grafica e embalagens ltda",
+        "percentual": 4.24
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 3.72
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "rede de negocios e producao de eventos ltda",
+        "percentual": 32.76
+      },
+      {
+        "nome": "ne eleicoes spe ltda",
+        "percentual": 26.21
+      },
+      {
+        "nome": "twobunker producoes ltda",
+        "percentual": 13.1
+      },
+      {
+        "nome": "mxm grafica e embalagens ltda",
+        "percentual": 4.24
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 3.72
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Raquel Lyra",
+      "partido_pagina": "PSD",
+      "numero_pagina": 55,
+      "profissao": "Governador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/170017115776",
+      "foto_url_original": "https://s2-g1.glbimg.com/DjIsRL08dIMDU2shGNlzgPNH1oI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/6/2rKOcsQeCvhczb1F2TQQ/raquel-lyra.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 289.574,00 Localizado em jaboatão dos guararapes/pe",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 69.923,33 Aplicações financeiras diversas",
+        "Depósito bancário em conta corrente no país R$ 1,00 Depósito em conta bancária"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 11997029.7,
+      "despesas_total": 7631639.12,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 97.17
+        },
+        {
+          "nome": "Direção Estadual/distrital - Psd - Pernambuco",
+          "percentual": 1.58
+        },
+        {
+          "nome": "Marcelo Holanda Guerra",
+          "percentual": 0.42
+        },
+        {
+          "nome": "Jose Joaquim De Almeida Neto",
+          "percentual": 0.42
+        },
+        {
+          "nome": "Maria Helena Maroja Wolfenson",
+          "percentual": 0.25
+        },
+        {
+          "nome": "rede de negocios e producao de eventos ltda",
+          "percentual": 32.76
+        },
+        {
+          "nome": "ne eleicoes spe ltda",
+          "percentual": 26.21
+        },
+        {
+          "nome": "twobunker producoes ltda",
+          "percentual": 13.1
+        },
+        {
+          "nome": "mxm grafica e embalagens ltda",
+          "percentual": 4.24
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 3.72
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "rede de negocios e producao de eventos ltda",
+          "percentual": 32.76
+        },
+        {
+          "nome": "ne eleicoes spe ltda",
+          "percentual": 26.21
+        },
+        {
+          "nome": "twobunker producoes ltda",
+          "percentual": 13.1
+        },
+        {
+          "nome": "mxm grafica e embalagens ltda",
+          "percentual": 4.24
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 3.72
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pe-170002537227.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:04:31.564Z"
+  },
+  {
+    "slug": "170002540337",
+    "nome": "Renan",
+    "partido": "MISSÃO",
+    "numero": 14,
+    "cargo": "governador",
+    "uf": "PE",
+    "foto_arquivo": "governador-pe-170002540337",
+    "foto_url_original": "https://s2-g1.glbimg.com/y79qtzt5rMvTYcF7JjX6Sz7E9IE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/q/P0u3iFToAtboCB1SexZg/renan.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pe/170002540337.ghtml",
+    "profissao": "Contador",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/170016981541",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 345182.87,
+    "receitas_total": 103962.14,
+    "despesas_total": 97626.2,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ações americanas o (realty income corp)",
+        "valor": 4692.96
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente",
+        "valor": 1069.34
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - vrta11",
+        "valor": 8865.8
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - vrtm11",
+        "valor": 7259.94
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ações irbr3",
+        "valor": 26637.9
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Tesouro ipca+ com juros semestrais 2040/2032/2055",
+        "valor": 59855.26
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - hfof11",
+        "valor": 7875.8
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Ntn-f tesouro prefixado com juros semestrais 2033",
+        "valor": 50142.16
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Cdb nubank",
+        "valor": 4500
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - hgre11",
+        "valor": 7859.39
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - hglg11",
+        "valor": 10610.56
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - knri11",
+        "valor": 10577.7
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii sare11",
+        "valor": 1294.92
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ações banco do brasil",
+        "valor": 38362.71
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Saldo em rdb nubank",
+        "valor": 24221.66
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - mfii11",
+        "valor": 10003.84
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - nslu11",
+        "valor": 1294.92
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - hgru11",
+        "valor": 7454.16
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - irdm11",
+        "valor": 8405.41
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - hctr11",
+        "valor": 4470.12
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - trbl11",
+        "valor": 3458.28
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - ggrc11",
+        "valor": 7847.04
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - habt11",
+        "valor": 7130.28
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - visc11",
+        "valor": 9216.18
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ações americanas v (visa)",
+        "valor": 1351.47
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii - tgar11",
+        "valor": 5972.61
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ações bbse",
+        "valor": 12154.63
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ações americanas rgti (rigetti computing inc)",
+        "valor": 487.99
+      },
+      {
+        "tipo": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado",
+        "descricao": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado Fgts eletrobrás",
+        "valor": 2109.84
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Missão",
+        "percentual": 96.19
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 3.81
+      },
+      {
+        "nome": "speedmais editora grafica ltda",
+        "percentual": 33.44
+      },
+      {
+        "nome": "victor hugo faustino de oliveira silva",
+        "percentual": 20.49
+      },
+      {
+        "nome": "eduardo temporal carijo producoes cinematograficas ltda",
+        "percentual": 13.32
+      },
+      {
+        "nome": "joao gabriel falcao de moraes",
+        "percentual": 13.32
+      },
+      {
+        "nome": "pedro igor diniz miranda rocha",
+        "percentual": 9.22
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "speedmais editora grafica ltda",
+        "percentual": 33.44
+      },
+      {
+        "nome": "victor hugo faustino de oliveira silva",
+        "percentual": 20.49
+      },
+      {
+        "nome": "eduardo temporal carijo producoes cinematograficas ltda",
+        "percentual": 13.32
+      },
+      {
+        "nome": "joao gabriel falcao de moraes",
+        "percentual": 13.32
+      },
+      {
+        "nome": "pedro igor diniz miranda rocha",
+        "percentual": 9.22
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Renan",
+      "partido_pagina": "MISSÃO",
+      "numero_pagina": 14,
+      "profissao": "Contador",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/170016981541",
+      "foto_url_original": "https://s2-g1.glbimg.com/y79qtzt5rMvTYcF7JjX6Sz7E9IE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/q/P0u3iFToAtboCB1SexZg/renan.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Ações (inclusive as provenientes de linha telefônica) R$ 4.692,96 Ações americanas o (realty income corp)",
+        "Depósito bancário em conta corrente no país R$ 1.069,34 Conta corrente",
+        "Fundo de investimento imobiliário R$ 8.865,80 Fii - vrta11",
+        "Fundo de investimento imobiliário R$ 7.259,94 Fii - vrtm11",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 26.637,90 Ações irbr3",
+        "Outras aplicações e investimentos R$ 59.855,26 Tesouro ipca+ com juros semestrais 2040/2032/2055",
+        "Fundo de investimento imobiliário R$ 7.875,80 Fii - hfof11",
+        "Outras aplicações e investimentos R$ 50.142,16 Ntn-f tesouro prefixado com juros semestrais 2033",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 4.500,00 Cdb nubank",
+        "Fundo de investimento imobiliário R$ 7.859,39 Fii - hgre11",
+        "Fundo de investimento imobiliário R$ 10.610,56 Fii - hglg11",
+        "Fundo de investimento imobiliário R$ 10.577,70 Fii - knri11",
+        "Fundo de investimento imobiliário R$ 1.294,92 Fii sare11",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 38.362,71 Ações banco do brasil",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 24.221,66 Saldo em rdb nubank",
+        "Fundo de investimento imobiliário R$ 10.003,84 Fii - mfii11",
+        "Fundo de investimento imobiliário R$ 1.294,92 Fii - nslu11",
+        "Fundo de investimento imobiliário R$ 7.454,16 Fii - hgru11",
+        "Fundo de investimento imobiliário R$ 8.405,41 Fii - irdm11",
+        "Fundo de investimento imobiliário R$ 4.470,12 Fii - hctr11",
+        "Fundo de investimento imobiliário R$ 3.458,28 Fii - trbl11",
+        "Fundo de investimento imobiliário R$ 7.847,04 Fii - ggrc11",
+        "Fundo de investimento imobiliário R$ 7.130,28 Fii - habt11",
+        "Fundo de investimento imobiliário R$ 9.216,18 Fii - visc11",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 1.351,47 Ações americanas v (visa)",
+        "Fundo de investimento imobiliário R$ 5.972,61 Fii - tgar11",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 12.154,63 Ações bbse",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 487,99 Ações americanas rgti (rigetti computing inc)",
+        "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado R$ 2.109,84 Fgts eletrobrás"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 103962.14,
+      "despesas_total": 97626.2,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Missão",
+          "percentual": 96.19
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 3.81
+        },
+        {
+          "nome": "speedmais editora grafica ltda",
+          "percentual": 33.44
+        },
+        {
+          "nome": "victor hugo faustino de oliveira silva",
+          "percentual": 20.49
+        },
+        {
+          "nome": "eduardo temporal carijo producoes cinematograficas ltda",
+          "percentual": 13.32
+        },
+        {
+          "nome": "joao gabriel falcao de moraes",
+          "percentual": 13.32
+        },
+        {
+          "nome": "pedro igor diniz miranda rocha",
+          "percentual": 9.22
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "speedmais editora grafica ltda",
+          "percentual": 33.44
+        },
+        {
+          "nome": "victor hugo faustino de oliveira silva",
+          "percentual": 20.49
+        },
+        {
+          "nome": "eduardo temporal carijo producoes cinematograficas ltda",
+          "percentual": 13.32
+        },
+        {
+          "nome": "joao gabriel falcao de moraes",
+          "percentual": 13.32
+        },
+        {
+          "nome": "pedro igor diniz miranda rocha",
+          "percentual": 9.22
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pe-170002540337.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:04:36.288Z"
+  },
+  {
+    "slug": "170002552776",
+    "nome": "Victor Assis",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "PE",
+    "foto_arquivo": "governador-pe-170002552776",
+    "foto_url_original": "https://s2-g1.glbimg.com/H9ICvjGfCTNYLKN7Anq5JSG2pLI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/K/qZaD40R7m8MLMtbJqA0A/victor-assis.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/pe/170002552776.ghtml",
+    "profissao": "Jornalista e redator",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/170017115758",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 50000,
+    "despesas_total": 0,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [
+      {
+        "ano": 2024,
+        "cargo": "Prefeito",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2022,
+        "cargo": "Deputado federal",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2020,
+        "cargo": "Prefeito",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2018,
+        "cargo": "Deputado federal",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pco",
+        "percentual": 100
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Victor Assis",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Jornalista e redator",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/170017115758",
+      "foto_url_original": "https://s2-g1.glbimg.com/H9ICvjGfCTNYLKN7Anq5JSG2pLI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/K/qZaD40R7m8MLMtbJqA0A/victor-assis.jpeg",
+      "historico": [
+        {
+          "ano": 2024,
+          "cargo": "Prefeito",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2022,
+          "cargo": "Deputado federal",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2020,
+          "cargo": "Prefeito",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2018,
+          "cargo": "Deputado federal",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 50000,
+      "despesas_total": 0,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pco",
+          "percentual": 100
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-pe-170002552776.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:04:42.859Z"
+  }
+]

@@ -1,0 +1,1078 @@
+[
+  {
+    "slug": "80002541012",
+    "nome": "Breno Barcelos",
+    "partido": "MISSÃO",
+    "numero": 14,
+    "cargo": "governador",
+    "uf": "ES",
+    "foto_arquivo": "governador-es-80002541012",
+    "foto_url_original": "https://s2-g1.glbimg.com/IH88FsmVSSk2aBtOu5uG9JF01qs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/O/LJCVf7RKib3IjrSfjYgQ/breno-barcelos.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/es/80002541012.ghtml",
+    "profissao": "Engenheiro",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/80016999677",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 252501,
+    "receitas_total": 105704.28,
+    "despesas_total": 61661,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Localizado em vila velha - 50% do valor do imóvel",
+        "valor": 202500
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Banco 341",
+        "valor": 1
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Valor acumulado do ano de 2025",
+        "valor": 40000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Empresa 3f gerenciamento de projetos ltda",
+        "valor": 10000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Missão",
+        "percentual": 94.6
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 5.4
+      },
+      {
+        "nome": "53.641.003 henrique barbosa de oliveira",
+        "percentual": 25.95
+      },
+      {
+        "nome": "localiza rent a car sa",
+        "percentual": 13.44
+      },
+      {
+        "nome": "visuart sign e decor ltda",
+        "percentual": 12.29
+      },
+      {
+        "nome": "souto comunicacao cenografica ltda",
+        "percentual": 11.25
+      },
+      {
+        "nome": "bruno silva pereira",
+        "percentual": 4.05
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "53.641.003 henrique barbosa de oliveira",
+        "percentual": 25.95
+      },
+      {
+        "nome": "localiza rent a car sa",
+        "percentual": 13.44
+      },
+      {
+        "nome": "visuart sign e decor ltda",
+        "percentual": 12.29
+      },
+      {
+        "nome": "souto comunicacao cenografica ltda",
+        "percentual": 11.25
+      },
+      {
+        "nome": "bruno silva pereira",
+        "percentual": 4.05
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Breno Barcelos",
+      "partido_pagina": "MISSÃO",
+      "numero_pagina": 14,
+      "profissao": "Engenheiro",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/80016999677",
+      "foto_url_original": "https://s2-g1.glbimg.com/IH88FsmVSSk2aBtOu5uG9JF01qs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/O/LJCVf7RKib3IjrSfjYgQ/breno-barcelos.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 202.500,00 Localizado em vila velha - 50% do valor do imóvel",
+        "Depósito bancário em conta corrente no país R$ 1,00 Banco 341",
+        "Outros bens e direitos R$ 40.000,00 Valor acumulado do ano de 2025",
+        "Quotas ou quinhões de capital R$ 10.000,00 Empresa 3f gerenciamento de projetos ltda"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 105704.28,
+      "despesas_total": 61661,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Missão",
+          "percentual": 94.6
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 5.4
+        },
+        {
+          "nome": "53.641.003 henrique barbosa de oliveira",
+          "percentual": 25.95
+        },
+        {
+          "nome": "localiza rent a car sa",
+          "percentual": 13.44
+        },
+        {
+          "nome": "visuart sign e decor ltda",
+          "percentual": 12.29
+        },
+        {
+          "nome": "souto comunicacao cenografica ltda",
+          "percentual": 11.25
+        },
+        {
+          "nome": "bruno silva pereira",
+          "percentual": 4.05
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "53.641.003 henrique barbosa de oliveira",
+          "percentual": 25.95
+        },
+        {
+          "nome": "localiza rent a car sa",
+          "percentual": 13.44
+        },
+        {
+          "nome": "visuart sign e decor ltda",
+          "percentual": 12.29
+        },
+        {
+          "nome": "souto comunicacao cenografica ltda",
+          "percentual": 11.25
+        },
+        {
+          "nome": "bruno silva pereira",
+          "percentual": 4.05
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-es-80002541012.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:58:05.429Z"
+  },
+  {
+    "slug": "80002551833",
+    "nome": "Helder Salomão",
+    "partido": "PT",
+    "numero": 13,
+    "cargo": "governador",
+    "uf": "ES",
+    "foto_arquivo": "governador-es-80002551833",
+    "foto_url_original": "https://s2-g1.glbimg.com/0IyEcI2R2zGfvrfwV5RYm_jlUNU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/U/NhFAjSRWi9GmYiRPsQMQ/helder-salomao.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/es/80002551833.ghtml",
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/80017105860",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1206682.2299999997,
+    "receitas_total": 5369813.48,
+    "despesas_total": 3126303.99,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente no banestes",
+        "valor": 144.89
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Vgbl cef",
+        "valor": 631760.85
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Sala comercial em campo grande, cariacica-es",
+        "valor": 138547.87
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Deposito a vista na wise brasil",
+        "valor": 13042.57
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento em são geraldo, cariacica-es",
+        "valor": 43000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno no lot. são conrado, adquirido em 09/1991",
+        "valor": 3977.97
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em poupança na cef",
+        "valor": 5020.7
+      },
+      {
+        "tipo": "Plano pait e caderneta de pecúlio",
+        "descricao": "Plano pait e caderneta de pecúlio Peculio na caixa",
+        "valor": 1943.12
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento em campo grande, cariacica-es",
+        "valor": 352453
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em cc na cef",
+        "valor": 16791.26
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 98.13
+      },
+      {
+        "nome": "Fabiano Contarato",
+        "percentual": 1.07
+      },
+      {
+        "nome": "Johan Rodrigues Da Silva",
+        "percentual": 0.43
+      },
+      {
+        "nome": "Renato Laures",
+        "percentual": 0.28
+      },
+      {
+        "nome": "Sirlani Sa Cararetto",
+        "percentual": 0.09
+      },
+      {
+        "nome": "candela estrategia e comunicacao ltda",
+        "percentual": 35.19
+      },
+      {
+        "nome": "felipe gaburro barbosa",
+        "percentual": 12.79
+      },
+      {
+        "nome": "kayo alves ribeiro sociedade individual de advocacia",
+        "percentual": 7.28
+      },
+      {
+        "nome": "camila zorzal bernardes",
+        "percentual": 2.56
+      },
+      {
+        "nome": "vix assessoria e consultoria empresarial ltda",
+        "percentual": 1.92
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "candela estrategia e comunicacao ltda",
+        "percentual": 35.19
+      },
+      {
+        "nome": "felipe gaburro barbosa",
+        "percentual": 12.79
+      },
+      {
+        "nome": "kayo alves ribeiro sociedade individual de advocacia",
+        "percentual": 7.28
+      },
+      {
+        "nome": "camila zorzal bernardes",
+        "percentual": 2.56
+      },
+      {
+        "nome": "vix assessoria e consultoria empresarial ltda",
+        "percentual": 1.92
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Helder Salomão",
+      "partido_pagina": "PT",
+      "numero_pagina": 13,
+      "profissao": "Professor de ensino médio",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/80017105860",
+      "foto_url_original": "https://s2-g1.glbimg.com/0IyEcI2R2zGfvrfwV5RYm_jlUNU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/U/NhFAjSRWi9GmYiRPsQMQ/helder-salomao.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Depósito bancário em conta corrente no país R$ 144,89 Saldo em conta corrente no banestes",
+        "Vgbl - vida gerador de benefício livre R$ 631.760,85 Vgbl cef",
+        "Sala ou conjunto R$ 138.547,87 Sala comercial em campo grande, cariacica-es",
+        "Depósito bancário em conta corrente no país R$ 13.042,57 Deposito a vista na wise brasil",
+        "Apartamento R$ 43.000,00 Apartamento em são geraldo, cariacica-es",
+        "Terreno R$ 3.977,97 Terreno no lot. são conrado, adquirido em 09/1991",
+        "Caderneta de poupança R$ 5.020,70 Saldo em poupança na cef",
+        "Plano pait e caderneta de pecúlio R$ 1.943,12 Peculio na caixa",
+        "Apartamento R$ 352.453,00 Apartamento em campo grande, cariacica-es",
+        "Depósito bancário em conta corrente no país R$ 16.791,26 Saldo em cc na cef"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 5369813.48,
+      "despesas_total": 3126303.99,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 98.13
+        },
+        {
+          "nome": "Fabiano Contarato",
+          "percentual": 1.07
+        },
+        {
+          "nome": "Johan Rodrigues Da Silva",
+          "percentual": 0.43
+        },
+        {
+          "nome": "Renato Laures",
+          "percentual": 0.28
+        },
+        {
+          "nome": "Sirlani Sa Cararetto",
+          "percentual": 0.09
+        },
+        {
+          "nome": "candela estrategia e comunicacao ltda",
+          "percentual": 35.19
+        },
+        {
+          "nome": "felipe gaburro barbosa",
+          "percentual": 12.79
+        },
+        {
+          "nome": "kayo alves ribeiro sociedade individual de advocacia",
+          "percentual": 7.28
+        },
+        {
+          "nome": "camila zorzal bernardes",
+          "percentual": 2.56
+        },
+        {
+          "nome": "vix assessoria e consultoria empresarial ltda",
+          "percentual": 1.92
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "candela estrategia e comunicacao ltda",
+          "percentual": 35.19
+        },
+        {
+          "nome": "felipe gaburro barbosa",
+          "percentual": 12.79
+        },
+        {
+          "nome": "kayo alves ribeiro sociedade individual de advocacia",
+          "percentual": 7.28
+        },
+        {
+          "nome": "camila zorzal bernardes",
+          "percentual": 2.56
+        },
+        {
+          "nome": "vix assessoria e consultoria empresarial ltda",
+          "percentual": 1.92
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-es-80002551833.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:58:11.740Z"
+  },
+  {
+    "slug": "80002552682",
+    "nome": "Lorenzo Pazolini",
+    "partido": "REP",
+    "numero": 10,
+    "cargo": "governador",
+    "uf": "ES",
+    "foto_arquivo": "governador-es-80002552682",
+    "foto_url_original": "https://s2-g1.glbimg.com/S28ltS_y2Fqce2pRi43QRDfhS_U=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/b/7ZSeWeRQenR1APo25TEg/lorenzo-pazolini.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/es/80002552682.ghtml",
+    "profissao": "Servidor público estadual",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/80017115128",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1002342.77,
+    "receitas_total": 3480132.54,
+    "despesas_total": 4284549.6,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Vgbl bradesco",
+        "valor": 100000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente banestes",
+        "valor": 585.57
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50% de apartamento em jardim da penha",
+        "valor": 195000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50% de apartamento em barro vermelho",
+        "valor": 628514
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Cdb bradesco",
+        "valor": 286.11
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50% de apartamento em guarapari",
+        "valor": 45000
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Poupança bradesco",
+        "valor": 32957.09
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Republicanos - Espírito Santo",
+        "percentual": 53.16
+      },
+      {
+        "nome": "Direção Nacional - Republicanos",
+        "percentual": 43.1
+      },
+      {
+        "nome": "Erick Cabral Musso",
+        "percentual": 0.66
+      },
+      {
+        "nome": "Luiz Claudio Gomes Dias Junior",
+        "percentual": 0.26
+      },
+      {
+        "nome": "Leonardo Amorim Goncalves",
+        "percentual": 0.22
+      },
+      {
+        "nome": "acropole estrategia ltda",
+        "percentual": 29.77
+      },
+      {
+        "nome": "trend. criativo coletivo producoes de midia ltda.",
+        "percentual": 29.15
+      },
+      {
+        "nome": "valim contabilidade ltda",
+        "percentual": 10.5
+      },
+      {
+        "nome": "teixeira de freitas advogados",
+        "percentual": 8.17
+      },
+      {
+        "nome": "cheim jorge & abelha rodrigues advogados associados",
+        "percentual": 7
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "acropole estrategia ltda",
+        "percentual": 29.77
+      },
+      {
+        "nome": "trend. criativo coletivo producoes de midia ltda.",
+        "percentual": 29.15
+      },
+      {
+        "nome": "valim contabilidade ltda",
+        "percentual": 10.5
+      },
+      {
+        "nome": "teixeira de freitas advogados",
+        "percentual": 8.17
+      },
+      {
+        "nome": "cheim jorge & abelha rodrigues advogados associados",
+        "percentual": 7
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Lorenzo Pazolini",
+      "partido_pagina": "REP",
+      "numero_pagina": 10,
+      "profissao": "Servidor público estadual",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/80017115128",
+      "foto_url_original": "https://s2-g1.glbimg.com/S28ltS_y2Fqce2pRi43QRDfhS_U=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/b/7ZSeWeRQenR1APo25TEg/lorenzo-pazolini.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Vgbl - vida gerador de benefício livre R$ 100.000,00 Vgbl bradesco",
+        "Depósito bancário em conta corrente no país R$ 585,57 Conta corrente banestes",
+        "Apartamento R$ 195.000,00 50% de apartamento em jardim da penha",
+        "Apartamento R$ 628.514,00 50% de apartamento em barro vermelho",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 286,11 Cdb bradesco",
+        "Apartamento R$ 45.000,00 50% de apartamento em guarapari",
+        "Outros créditos e poupança vinculados R$ 32.957,09 Poupança bradesco"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 3480132.54,
+      "despesas_total": 4284549.6,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Republicanos - Espírito Santo",
+          "percentual": 53.16
+        },
+        {
+          "nome": "Direção Nacional - Republicanos",
+          "percentual": 43.1
+        },
+        {
+          "nome": "Erick Cabral Musso",
+          "percentual": 0.66
+        },
+        {
+          "nome": "Luiz Claudio Gomes Dias Junior",
+          "percentual": 0.26
+        },
+        {
+          "nome": "Leonardo Amorim Goncalves",
+          "percentual": 0.22
+        },
+        {
+          "nome": "acropole estrategia ltda",
+          "percentual": 29.77
+        },
+        {
+          "nome": "trend. criativo coletivo producoes de midia ltda.",
+          "percentual": 29.15
+        },
+        {
+          "nome": "valim contabilidade ltda",
+          "percentual": 10.5
+        },
+        {
+          "nome": "teixeira de freitas advogados",
+          "percentual": 8.17
+        },
+        {
+          "nome": "cheim jorge & abelha rodrigues advogados associados",
+          "percentual": 7
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "acropole estrategia ltda",
+          "percentual": 29.77
+        },
+        {
+          "nome": "trend. criativo coletivo producoes de midia ltda.",
+          "percentual": 29.15
+        },
+        {
+          "nome": "valim contabilidade ltda",
+          "percentual": 10.5
+        },
+        {
+          "nome": "teixeira de freitas advogados",
+          "percentual": 8.17
+        },
+        {
+          "nome": "cheim jorge & abelha rodrigues advogados associados",
+          "percentual": 7
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-es-80002552682.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:58:17.011Z"
+  },
+  {
+    "slug": "80002550832",
+    "nome": "Rafael Demuner",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "ES",
+    "foto_arquivo": "governador-es-80002550832",
+    "foto_url_original": "https://s2-g1.glbimg.com/2qNC-MNjbM_XSoLsRyI-Uv_IQjs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/a/OTCTFaRbKtf18AjXGlEw/rafael-demuner.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/es/80002550832.ghtml",
+    "profissao": "Servidor público federal",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/80017092488",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 50550,
+    "receitas_total": 1000,
+    "despesas_total": 0,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Ford ka",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Ford ka 2018",
+        "valor": 41900
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Valores em conta corrente",
+        "valor": 8650
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Up - Espírito Santo",
+        "percentual": 100
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Rafael Demuner",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Servidor público federal",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/80017092488",
+      "foto_url_original": "https://s2-g1.glbimg.com/2qNC-MNjbM_XSoLsRyI-Uv_IQjs=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/a/OTCTFaRbKtf18AjXGlEw/rafael-demuner.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 41.900,00 Ford ka 2018",
+        "Depósito bancário em conta corrente no país R$ 8.650,00 Valores em conta corrente"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 1000,
+      "despesas_total": 0,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Up - Espírito Santo",
+          "percentual": 100
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-es-80002550832.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:58:21.332Z"
+  },
+  {
+    "slug": "80002552172",
+    "nome": "Ricardo Ferraço",
+    "partido": "MDB",
+    "numero": 15,
+    "cargo": "governador",
+    "uf": "ES",
+    "foto_arquivo": "governador-es-80002552172",
+    "foto_url_original": "https://s2-g1.glbimg.com/lvgOLur583ZwNnf8_q1QBePc3l0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/H/cCuJ1GQA2bbsXIb6iMjA/ricardo-ferraco.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/es/80002552172.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/80017130403",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 27668789.549999997,
+    "receitas_total": 4497050,
+    "despesas_total": 3413014.25,
+    "limite_gastos": 7115522.46,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (doação - participação e 25%)",
+        "valor": 46265.73
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (herança - participações de 12,50 %)",
+        "valor": 10453.93
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (herança - participações de 12,50%)",
+        "valor": 16210.5
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 984964.93
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto 2 salas comerciais ( herança - participação de 12,50% sobre cada bem)",
+        "valor": 7741.28
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 2 vagas de garagem(herança - participações de 12,50% e 14,29%)",
+        "valor": 893
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Outras aplicações e investimentos (poupança, aplicação financeira , renda fixa, debêntures de infraestrutura, lca, crédito privado e fundo de investimento imobiliário)",
+        "valor": 16921087.71
+      },
+      {
+        "tipo": "Crédito decorrente de empréstimo",
+        "descricao": "Crédito decorrente de empréstimo Crédito decorrente de empréstimo",
+        "valor": 70000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (herança - participações de 12,50%)",
+        "valor": 12521.69
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depósito bancário em conta corrente no país",
+        "valor": 56367.07
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (herança - participações de 12,50%)",
+        "valor": 16210.5
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno rural (participação de 50%)",
+        "valor": 176316
+      },
+      {
+        "tipo": "Crédito decorrente de empréstimo",
+        "descricao": "Crédito decorrente de empréstimo Crédito decorrente de empréstimo",
+        "valor": 62084.16
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (herança - participações de 12,50%)",
+        "valor": 7165.12
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (herança - participações de 12,50%)",
+        "valor": 9339.63
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (herança - participações de 12,50%)",
+        "valor": 13879.46
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 3615450
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa ( herança - participação de 12,50%)",
+        "valor": 148075.29
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ações",
+        "valor": 53816
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (herança - participações de 12,50%)",
+        "valor": 20551.08
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote",
+        "valor": 1951871
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno ( herança - participação de 12,50%)",
+        "valor": 8934.97
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Outras participações societárias",
+        "valor": 3169799
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (herança - participações de 12,50%)",
+        "valor": 16210.5
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (herança - participações de 12,50%)",
+        "valor": 10453.93
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa (herança - participação 14,29%)",
+        "valor": 1143.2
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (herança - participações de 12,50%)",
+        "valor": 26023.97
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (herança - participações de 14,29%)",
+        "valor": 10677.07
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (herança - participações de 12,50%)",
+        "valor": 56072.33
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento (herança - participações de 12,50%)",
+        "valor": 16210.5
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Bens imobiliários",
+        "valor": 152000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 88.95
+      },
+      {
+        "nome": "Direção Estadual/distrital - Mdb - Espírito Santo",
+        "percentual": 2.22
+      },
+      {
+        "nome": "Mauricio Cezar Duque",
+        "percentual": 0.89
+      },
+      {
+        "nome": "Wanderson Borghardt Bueno",
+        "percentual": 0.89
+      },
+      {
+        "nome": "Jose Renato Casagrande",
+        "percentual": 0.86
+      },
+      {
+        "nome": "on content filmes ltda",
+        "percentual": 21.97
+      },
+      {
+        "nome": "renan sales - sociedade individual de advocacia",
+        "percentual": 14.65
+      },
+      {
+        "nome": "k.m estrategia ltda",
+        "percentual": 8.79
+      },
+      {
+        "nome": "essent inovacao contabil ltda",
+        "percentual": 8.53
+      },
+      {
+        "nome": "lpi eventos ltda",
+        "percentual": 7.87
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "on content filmes ltda",
+        "percentual": 21.97
+      },
+      {
+        "nome": "renan sales - sociedade individual de advocacia",
+        "percentual": 14.65
+      },
+      {
+        "nome": "k.m estrategia ltda",
+        "percentual": 8.79
+      },
+      {
+        "nome": "essent inovacao contabil ltda",
+        "percentual": 8.53
+      },
+      {
+        "nome": "lpi eventos ltda",
+        "percentual": 7.87
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Ricardo Ferraço",
+      "partido_pagina": "MDB",
+      "numero_pagina": 15,
+      "profissao": "Governador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/80017130403",
+      "foto_url_original": "https://s2-g1.glbimg.com/lvgOLur583ZwNnf8_q1QBePc3l0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/H/cCuJ1GQA2bbsXIb6iMjA/ricardo-ferraco.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 46.265,73 Apartamento (doação - participação e 25%)",
+        "Apartamento R$ 10.453,93 Apartamento (herança - participações de 12,50 %)",
+        "Apartamento R$ 16.210,50 Apartamento (herança - participações de 12,50%)",
+        "Apartamento R$ 984.964,93 Apartamento",
+        "Sala ou conjunto R$ 7.741,28 2 salas comerciais ( herança - participação de 12,50% sobre cada bem)",
+        "Outros bens imóveis R$ 893,00 2 vagas de garagem(herança - participações de 12,50% e 14,29%)",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 16.921.087,71 Outras aplicações e investimentos (poupança, aplicação financeira , renda fixa, debêntures de infraestrutura, lca, crédito privado e fundo de investimento imobiliário)",
+        "Crédito decorrente de empréstimo R$ 70.000,00 Crédito decorrente de empréstimo",
+        "Apartamento R$ 12.521,69 Apartamento (herança - participações de 12,50%)",
+        "Depósito bancário em conta corrente no país R$ 56.367,07 Depósito bancário em conta corrente no país",
+        "Apartamento R$ 16.210,50 Apartamento (herança - participações de 12,50%)",
+        "Terreno R$ 176.316,00 Terreno rural (participação de 50%)",
+        "Crédito decorrente de empréstimo R$ 62.084,16 Crédito decorrente de empréstimo",
+        "Apartamento R$ 7.165,12 Apartamento (herança - participações de 12,50%)",
+        "Apartamento R$ 9.339,63 Apartamento (herança - participações de 12,50%)",
+        "Apartamento R$ 13.879,46 Apartamento (herança - participações de 12,50%)",
+        "Apartamento R$ 3.615.450,00 Apartamento",
+        "Casa R$ 148.075,29 Casa ( herança - participação de 12,50%)",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 53.816,00 Ações",
+        "Apartamento R$ 20.551,08 Apartamento (herança - participações de 12,50%)",
+        "Terreno R$ 1.951.871,00 Lote",
+        "Terreno R$ 8.934,97 Terreno ( herança - participação de 12,50%)",
+        "Outras participações societárias R$ 3.169.799,00 Outras participações societárias",
+        "Apartamento R$ 16.210,50 Apartamento (herança - participações de 12,50%)",
+        "Apartamento R$ 10.453,93 Apartamento (herança - participações de 12,50%)",
+        "Casa R$ 1.143,20 Casa (herança - participação 14,29%)",
+        "Apartamento R$ 26.023,97 Apartamento (herança - participações de 12,50%)",
+        "Apartamento R$ 10.677,07 Apartamento (herança - participações de 14,29%)",
+        "Apartamento R$ 56.072,33 Apartamento (herança - participações de 12,50%)",
+        "Apartamento R$ 16.210,50 Apartamento (herança - participações de 12,50%)",
+        "Outros bens e direitos R$ 152.000,00 Bens imobiliários"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 4497050,
+      "despesas_total": 3413014.25,
+      "limite_gastos": 7115522.46,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 88.95
+        },
+        {
+          "nome": "Direção Estadual/distrital - Mdb - Espírito Santo",
+          "percentual": 2.22
+        },
+        {
+          "nome": "Mauricio Cezar Duque",
+          "percentual": 0.89
+        },
+        {
+          "nome": "Wanderson Borghardt Bueno",
+          "percentual": 0.89
+        },
+        {
+          "nome": "Jose Renato Casagrande",
+          "percentual": 0.86
+        },
+        {
+          "nome": "on content filmes ltda",
+          "percentual": 21.97
+        },
+        {
+          "nome": "renan sales - sociedade individual de advocacia",
+          "percentual": 14.65
+        },
+        {
+          "nome": "k.m estrategia ltda",
+          "percentual": 8.79
+        },
+        {
+          "nome": "essent inovacao contabil ltda",
+          "percentual": 8.53
+        },
+        {
+          "nome": "lpi eventos ltda",
+          "percentual": 7.87
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "on content filmes ltda",
+          "percentual": 21.97
+        },
+        {
+          "nome": "renan sales - sociedade individual de advocacia",
+          "percentual": 14.65
+        },
+        {
+          "nome": "k.m estrategia ltda",
+          "percentual": 8.79
+        },
+        {
+          "nome": "essent inovacao contabil ltda",
+          "percentual": 8.53
+        },
+        {
+          "nome": "lpi eventos ltda",
+          "percentual": 7.87
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-es-80002552172.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:58:27.638Z"
+  }
+]

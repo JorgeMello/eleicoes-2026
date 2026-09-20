@@ -1,0 +1,1216 @@
+[
+  {
+    "slug": "90002540993",
+    "nome": "Daniel Vilela",
+    "partido": "MDB",
+    "numero": 15,
+    "cargo": "governador",
+    "uf": "GO",
+    "foto_arquivo": "governador-go-90002540993",
+    "foto_url_original": "https://s2-g1.glbimg.com/Qnv_gDhyjInNncLpe2Xv6daSles=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/y/NZRsupTR6E98Rjqor69w/daniel-vilela.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/go/90002540993.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/90016999476",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 5627385.99,
+    "receitas_total": 7342500,
+    "despesas_total": 4986391.84,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "16/09/2026 • Atualizado há 3 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua 29,40% de uma gleba de terras",
+        "valor": 34627.32
+      },
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua 25% de uma gleba de terras",
+        "valor": 40380
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas ou quinhão de capital",
+        "valor": 9800
+      },
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua 25% de uma gleba de terras",
+        "valor": 2250
+      },
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua 25,98% de 50% de uma gleba de terras",
+        "valor": 19508.25
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas ou quinhão de capital",
+        "valor": 25000
+      },
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua 50% de 50% de uma gleba de terras",
+        "valor": 25000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 50% (cinquenta por cento) de um terreno",
+        "valor": 1250000
+      },
+      {
+        "tipo": "Crédito decorrente de empréstimo",
+        "descricao": "Crédito decorrente de empréstimo Crédito decorrente de empréstimo",
+        "valor": 2457495.36
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos 301 bovinos",
+        "valor": 903000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas ou quinhão de capital",
+        "valor": 96110.76
+      },
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua 25% de 50% uma gleba de terras",
+        "valor": 60000
+      },
+      {
+        "tipo": "Crédito decorrente de empréstimo",
+        "descricao": "Crédito decorrente de empréstimo Crédito decorrente de empréstimo",
+        "valor": 150087.24
+      },
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua 50% de uma gleba de terras",
+        "valor": 7500
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas ou quinhão de capital",
+        "valor": 546627.06
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 96.25
+      },
+      {
+        "nome": "Cesar Helou",
+        "percentual": 2.72
+      },
+      {
+        "nome": "Direção Estadual/distrital - Mdb - Goiás",
+        "percentual": 0.41
+      },
+      {
+        "nome": "Danilo Resende Ferreira",
+        "percentual": 0.34
+      },
+      {
+        "nome": "Fabio Porto Rodrigues Da Cunha",
+        "percentual": 0.23
+      },
+      {
+        "nome": "f7 comunicacao ltda",
+        "percentual": 35.1
+      },
+      {
+        "nome": "black dog estudios e produtora ltda",
+        "percentual": 20.05
+      },
+      {
+        "nome": "braspetro distribuidora de petroleo ltda",
+        "percentual": 5.21
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 3.69
+      },
+      {
+        "nome": "ws servicos de locacao ltda",
+        "percentual": 2.3
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "f7 comunicacao ltda",
+        "percentual": 35.1
+      },
+      {
+        "nome": "black dog estudios e produtora ltda",
+        "percentual": 20.05
+      },
+      {
+        "nome": "braspetro distribuidora de petroleo ltda",
+        "percentual": 5.21
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 3.69
+      },
+      {
+        "nome": "ws servicos de locacao ltda",
+        "percentual": 2.3
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Daniel Vilela",
+      "partido_pagina": "MDB",
+      "numero_pagina": 15,
+      "profissao": "Governador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/90016999476",
+      "foto_url_original": "https://s2-g1.glbimg.com/Qnv_gDhyjInNncLpe2Xv6daSles=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/y/NZRsupTR6E98Rjqor69w/daniel-vilela.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terra nua R$ 34.627,32 29,40% de uma gleba de terras",
+        "Terra nua R$ 40.380,00 25% de uma gleba de terras",
+        "Quotas ou quinhões de capital R$ 9.800,00 Quotas ou quinhão de capital",
+        "Terra nua R$ 2.250,00 25% de uma gleba de terras",
+        "Terra nua R$ 19.508,25 25,98% de 50% de uma gleba de terras",
+        "Quotas ou quinhões de capital R$ 25.000,00 Quotas ou quinhão de capital",
+        "Terra nua R$ 25.000,00 50% de 50% de uma gleba de terras",
+        "Terreno R$ 1.250.000,00 50% (cinquenta por cento) de um terreno",
+        "Crédito decorrente de empréstimo R$ 2.457.495,36 Crédito decorrente de empréstimo",
+        "Outros bens e direitos R$ 903.000,00 301 bovinos",
+        "Quotas ou quinhões de capital R$ 96.110,76 Quotas ou quinhão de capital",
+        "Terra nua R$ 60.000,00 25% de 50% uma gleba de terras",
+        "Crédito decorrente de empréstimo R$ 150.087,24 Crédito decorrente de empréstimo",
+        "Terra nua R$ 7.500,00 50% de uma gleba de terras",
+        "Quotas ou quinhões de capital R$ 546.627,06 Quotas ou quinhão de capital"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 7342500,
+      "despesas_total": 4986391.84,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 96.25
+        },
+        {
+          "nome": "Cesar Helou",
+          "percentual": 2.72
+        },
+        {
+          "nome": "Direção Estadual/distrital - Mdb - Goiás",
+          "percentual": 0.41
+        },
+        {
+          "nome": "Danilo Resende Ferreira",
+          "percentual": 0.34
+        },
+        {
+          "nome": "Fabio Porto Rodrigues Da Cunha",
+          "percentual": 0.23
+        },
+        {
+          "nome": "f7 comunicacao ltda",
+          "percentual": 35.1
+        },
+        {
+          "nome": "black dog estudios e produtora ltda",
+          "percentual": 20.05
+        },
+        {
+          "nome": "braspetro distribuidora de petroleo ltda",
+          "percentual": 5.21
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 3.69
+        },
+        {
+          "nome": "ws servicos de locacao ltda",
+          "percentual": 2.3
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "f7 comunicacao ltda",
+          "percentual": 35.1
+        },
+        {
+          "nome": "black dog estudios e produtora ltda",
+          "percentual": 20.05
+        },
+        {
+          "nome": "braspetro distribuidora de petroleo ltda",
+          "percentual": 5.21
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 3.69
+        },
+        {
+          "nome": "ws servicos de locacao ltda",
+          "percentual": 2.3
+        }
+      ],
+      "fonte_atualizado_em": "16/09/2026 • Atualizado há 3 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-go-90002540993.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:58:33.293Z"
+  },
+  {
+    "slug": "90002553733",
+    "nome": "Danilo Da Silva",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "GO",
+    "foto_arquivo": "governador-go-90002553733",
+    "foto_url_original": "https://s2-g1.glbimg.com/bYSo0w3IxsNEo7J4eOErt8HrY48=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/E/euiDqdQiORcpimu2mmjw/danilo-da-silva.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/go/90002553733.ghtml",
+    "profissao": "Técnico de eletricidade, eletrônica e telecomunicações",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/90017123767",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 215000,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imóvel",
+        "valor": 200000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Sandero",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Sandero",
+        "valor": 15000
+      }
+    ],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Danilo Da Silva",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Técnico de eletricidade, eletrônica e telecomunicações",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/90017123767",
+      "foto_url_original": "https://s2-g1.glbimg.com/bYSo0w3IxsNEo7J4eOErt8HrY48=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/E/euiDqdQiORcpimu2mmjw/danilo-da-silva.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 200.000,00 Imóvel",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 15.000,00 Sandero"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 11562724,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-go-90002553733.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:58:38.747Z"
+  },
+  {
+    "slug": "90002550707",
+    "nome": "Luciana Amorim",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "governador",
+    "uf": "GO",
+    "foto_arquivo": "governador-go-90002550707",
+    "foto_url_original": "https://s2-g1.glbimg.com/GcMvQxKLiAvtxp32SONyovG95Dc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/m/FzAptBSVKwbCIbE7mPHQ/luciana-amorim.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/go/90002550707.ghtml",
+    "profissao": "Servidor público federal",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/90017091823",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1867106.94,
+    "receitas_total": 13500,
+    "despesas_total": 3600,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas do capital social da empresa aurea ltda",
+        "valor": 30000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento localizado em cuiabá/mt",
+        "valor": 340000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imóvel residencial localizado em goiânia/go - financiado pela caixa",
+        "valor": 366760.46
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento localizado em palmas/to",
+        "valor": 200000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Poupança, fundos, renda variável e previdência privada",
+        "valor": 872651.48
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo hyundai hb20-2015",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo hyundai hb20-2015",
+        "valor": 57695
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Up",
+        "percentual": 100
+      },
+      {
+        "nome": "gabriela rohem de souza santos",
+        "percentual": 100
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "gabriela rohem de souza santos",
+        "percentual": 100
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Luciana Amorim",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Servidor público federal",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/90017091823",
+      "foto_url_original": "https://s2-g1.glbimg.com/GcMvQxKLiAvtxp32SONyovG95Dc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/m/FzAptBSVKwbCIbE7mPHQ/luciana-amorim.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Quotas ou quinhões de capital R$ 30.000,00 Quotas do capital social da empresa aurea ltda",
+        "Apartamento R$ 340.000,00 Apartamento localizado em cuiabá/mt",
+        "Casa R$ 366.760,46 Imóvel residencial localizado em goiânia/go - financiado pela caixa",
+        "Apartamento R$ 200.000,00 Apartamento localizado em palmas/to",
+        "Outras aplicações e investimentos R$ 872.651,48 Poupança, fundos, renda variável e previdência privada",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 57.695,00 Veículo hyundai hb20-2015"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 13500,
+      "despesas_total": 3600,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Up",
+          "percentual": 100
+        },
+        {
+          "nome": "gabriela rohem de souza santos",
+          "percentual": 100
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "gabriela rohem de souza santos",
+          "percentual": 100
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-go-90002550707.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:58:44.938Z"
+  },
+  {
+    "slug": "90002545476",
+    "nome": "Luis Cesar Bueno",
+    "partido": "PT",
+    "numero": 13,
+    "cargo": "governador",
+    "uf": "GO",
+    "foto_arquivo": "governador-go-90002545476",
+    "foto_url_original": "https://s2-g1.glbimg.com/ZOLKeezE5m5CfR7WF6CM_EbOySM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/4/EXQwOYTz6XUY9mICHjNw/luis-cesar-bueno.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/go/90002545476.ghtml",
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/90017043644",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 884607.3200000001,
+    "receitas_total": 3505817.2,
+    "despesas_total": 2425399.12,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Residencial - sito rua dos babacus",
+        "valor": 516662.97
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 20% de imovel setor rodoviario",
+        "valor": 49793.37
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 30% lote 11 situado na rua dos babaçus",
+        "valor": 80000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bb rende facil",
+        "valor": 207.17
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Jeep/compass longitude",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Jeep/compass longitude 2023",
+        "valor": 176900
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança itaú",
+        "valor": 3390.99
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Cpmta corrente caixa economica",
+        "valor": 1995.97
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Conta corrente itau",
+        "valor": 10
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Santander",
+        "valor": 34.74
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança caixa economica",
+        "valor": 246.93
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Banco do brasil - poupança ouro",
+        "valor": 0.3
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Edificio canada - financiado",
+        "valor": 55364.88
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 98.94
+      },
+      {
+        "nome": "Direção Estadual/distrital - Pt - Goiás",
+        "percentual": 0.71
+      },
+      {
+        "nome": "Direção Estadual/distrital - Pdt - Goiás",
+        "percentual": 0.29
+      },
+      {
+        "nome": "Luis Cesar Bueno E Freitas",
+        "percentual": 0.06
+      },
+      {
+        "nome": "escreve pra mim digital ltda",
+        "percentual": 27.42
+      },
+      {
+        "nome": "nexus consulendi consultoria, gestao e planejamento ltda",
+        "percentual": 14.43
+      },
+      {
+        "nome": "direta comunicacao ltda",
+        "percentual": 8.25
+      },
+      {
+        "nome": "iani cristina de lima",
+        "percentual": 4.95
+      },
+      {
+        "nome": "daniele barbosa maia sociedade individual de advocacia",
+        "percentual": 4.12
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "escreve pra mim digital ltda",
+        "percentual": 27.42
+      },
+      {
+        "nome": "nexus consulendi consultoria, gestao e planejamento ltda",
+        "percentual": 14.43
+      },
+      {
+        "nome": "direta comunicacao ltda",
+        "percentual": 8.25
+      },
+      {
+        "nome": "iani cristina de lima",
+        "percentual": 4.95
+      },
+      {
+        "nome": "daniele barbosa maia sociedade individual de advocacia",
+        "percentual": 4.12
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Luis Cesar Bueno",
+      "partido_pagina": "PT",
+      "numero_pagina": 13,
+      "profissao": "Professor de ensino superior",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/90017043644",
+      "foto_url_original": "https://s2-g1.glbimg.com/ZOLKeezE5m5CfR7WF6CM_EbOySM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/4/EXQwOYTz6XUY9mICHjNw/luis-cesar-bueno.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 516.662,97 Residencial - sito rua dos babacus",
+        "Outros bens imóveis R$ 49.793,37 20% de imovel setor rodoviario",
+        "Terreno R$ 80.000,00 30% lote 11 situado na rua dos babaçus",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 207,17 Bb rende facil",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 176.900,00 Jeep/compass longitude 2023",
+        "Caderneta de poupança R$ 3.390,99 Poupança itaú",
+        "Outros bens e direitos R$ 1.995,97 Cpmta corrente caixa economica",
+        "Outros bens e direitos R$ 10,00 Conta corrente itau",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 34,74 Santander",
+        "Caderneta de poupança R$ 246,93 Poupança caixa economica",
+        "Caderneta de poupança R$ 0,30 Banco do brasil - poupança ouro",
+        "Apartamento R$ 55.364,88 Edificio canada - financiado"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 3505817.2,
+      "despesas_total": 2425399.12,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 98.94
+        },
+        {
+          "nome": "Direção Estadual/distrital - Pt - Goiás",
+          "percentual": 0.71
+        },
+        {
+          "nome": "Direção Estadual/distrital - Pdt - Goiás",
+          "percentual": 0.29
+        },
+        {
+          "nome": "Luis Cesar Bueno E Freitas",
+          "percentual": 0.06
+        },
+        {
+          "nome": "escreve pra mim digital ltda",
+          "percentual": 27.42
+        },
+        {
+          "nome": "nexus consulendi consultoria, gestao e planejamento ltda",
+          "percentual": 14.43
+        },
+        {
+          "nome": "direta comunicacao ltda",
+          "percentual": 8.25
+        },
+        {
+          "nome": "iani cristina de lima",
+          "percentual": 4.95
+        },
+        {
+          "nome": "daniele barbosa maia sociedade individual de advocacia",
+          "percentual": 4.12
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "escreve pra mim digital ltda",
+          "percentual": 27.42
+        },
+        {
+          "nome": "nexus consulendi consultoria, gestao e planejamento ltda",
+          "percentual": 14.43
+        },
+        {
+          "nome": "direta comunicacao ltda",
+          "percentual": 8.25
+        },
+        {
+          "nome": "iani cristina de lima",
+          "percentual": 4.95
+        },
+        {
+          "nome": "daniele barbosa maia sociedade individual de advocacia",
+          "percentual": 4.12
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-go-90002545476.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:58:48.920Z"
+  },
+  {
+    "slug": "90002543463",
+    "nome": "Marconi Perillo",
+    "partido": "PSDB",
+    "numero": 45,
+    "cargo": "governador",
+    "uf": "GO",
+    "foto_arquivo": "governador-go-90002543463",
+    "foto_url_original": "https://s2-g1.glbimg.com/M9coMWnbzX9PBQQn-hZU6bjCSjg=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/y/i6SBy1RXaI2BtR0u1qcg/marconi-perillo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/go/90002543463.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/90017126824",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 11876815.709999999,
+    "receitas_total": 10010090.38,
+    "despesas_total": 10207822.57,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "16/09/2026 • Atualizado há 3 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Investimento na fazenda mateus machado",
+        "valor": 185000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Participaçao capital social empresa meia lua",
+        "valor": 20000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Investimento fazenda mateus",
+        "valor": 467800
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Participação capital social empresa mfpj participaçoes e investimentos ltda",
+        "valor": 50000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento residencial",
+        "valor": 3121312.78
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Investimento em construção fazenda mateus machado",
+        "valor": 900000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social empresa scp boa esperança",
+        "valor": 800000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Pagamento 13 alqueires, espólio, fazenda",
+        "valor": 40000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Valores emprestado a mv projetos e consultoria ltda",
+        "valor": 700000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação 25% das quotas de capital empresa itumbiara empreendimentos imobiliario spe",
+        "valor": 875000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Gleba de terras fazenda matheus machado",
+        "valor": 29964.3
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Gleba de terras tres ranchos",
+        "valor": 10000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos 50% gleba de terras tres ranchos",
+        "valor": 14000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participaçao capital social empresa mv participaçoes ltda.",
+        "valor": 406724
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Valores emprestado",
+        "valor": 240000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa residencial",
+        "valor": 2500000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Investimento fazenda",
+        "valor": 219902
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Linha telefonica adquirida",
+        "valor": 1347.06
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quota de capital cooperativa cred livr admissão",
+        "valor": 2369.14
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quota de capital empresa sneqn hubde negocio ltda",
+        "valor": 50000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Quota de acoes empresa goiás alimentos s.a",
+        "valor": 50000.4
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Emprestimo concedido",
+        "valor": 500000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Credito decorrente de alienação de imovel em palmeiras de goiás",
+        "valor": 375000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Emprestimo concedido",
+        "valor": 318396.03
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psdb",
+        "percentual": 99.9
+      },
+      {
+        "nome": "Helio Umeno Junior",
+        "percentual": 0.1
+      },
+      {
+        "nome": "Queroapoiar.com.br Ltda",
+        "percentual": 0
+      },
+      {
+        "nome": "janela comunicacao ltda",
+        "percentual": 29.39
+      },
+      {
+        "nome": "gmt7 air taxi aereo ltda",
+        "percentual": 5.68
+      },
+      {
+        "nome": "alckmin sociedade individual de advocacia",
+        "percentual": 4.9
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 3.92
+      },
+      {
+        "nome": "gabinete observatorio, pesquisa e comportamento ltda.",
+        "percentual": 2.94
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "janela comunicacao ltda",
+        "percentual": 29.39
+      },
+      {
+        "nome": "gmt7 air taxi aereo ltda",
+        "percentual": 5.68
+      },
+      {
+        "nome": "alckmin sociedade individual de advocacia",
+        "percentual": 4.9
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 3.92
+      },
+      {
+        "nome": "gabinete observatorio, pesquisa e comportamento ltda.",
+        "percentual": 2.94
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Marconi Perillo",
+      "partido_pagina": "PSDB",
+      "numero_pagina": 45,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/90017126824",
+      "foto_url_original": "https://s2-g1.glbimg.com/M9coMWnbzX9PBQQn-hZU6bjCSjg=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/y/i6SBy1RXaI2BtR0u1qcg/marconi-perillo.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens e direitos R$ 185.000,00 Investimento na fazenda mateus machado",
+        "Outros bens e direitos R$ 20.000,00 Participaçao capital social empresa meia lua",
+        "Outros bens e direitos R$ 467.800,00 Investimento fazenda mateus",
+        "Outros bens e direitos R$ 50.000,00 Participação capital social empresa mfpj participaçoes e investimentos ltda",
+        "Apartamento R$ 3.121.312,78 Apartamento residencial",
+        "Outros bens e direitos R$ 900.000,00 Investimento em construção fazenda mateus machado",
+        "Quotas ou quinhões de capital R$ 800.000,00 Capital social empresa scp boa esperança",
+        "Outros bens e direitos R$ 40.000,00 Pagamento 13 alqueires, espólio, fazenda",
+        "Outros bens e direitos R$ 700.000,00 Valores emprestado a mv projetos e consultoria ltda",
+        "Quotas ou quinhões de capital R$ 875.000,00 Participação 25% das quotas de capital empresa itumbiara empreendimentos imobiliario spe",
+        "Outros bens e direitos R$ 29.964,30 Gleba de terras fazenda matheus machado",
+        "Outros bens e direitos R$ 10.000,00 Gleba de terras tres ranchos",
+        "Outros bens e direitos R$ 14.000,00 50% gleba de terras tres ranchos",
+        "Quotas ou quinhões de capital R$ 406.724,00 Participaçao capital social empresa mv participaçoes ltda.",
+        "Outros bens e direitos R$ 240.000,00 Valores emprestado",
+        "Casa R$ 2.500.000,00 Casa residencial",
+        "Outras aplicações e investimentos R$ 219.902,00 Investimento fazenda",
+        "Outros bens e direitos R$ 1.347,06 Linha telefonica adquirida",
+        "Quotas ou quinhões de capital R$ 2.369,14 Quota de capital cooperativa cred livr admissão",
+        "Quotas ou quinhões de capital R$ 50.000,00 Quota de capital empresa sneqn hubde negocio ltda",
+        "Outros bens e direitos R$ 50.000,40 Quota de acoes empresa goiás alimentos s.a",
+        "Outros bens e direitos R$ 500.000,00 Emprestimo concedido",
+        "Outros bens e direitos R$ 375.000,00 Credito decorrente de alienação de imovel em palmeiras de goiás",
+        "Outros bens e direitos R$ 318.396,03 Emprestimo concedido"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 10010090.38,
+      "despesas_total": 10207822.57,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psdb",
+          "percentual": 99.9
+        },
+        {
+          "nome": "Helio Umeno Junior",
+          "percentual": 0.1
+        },
+        {
+          "nome": "Queroapoiar.com.br Ltda",
+          "percentual": 0
+        },
+        {
+          "nome": "janela comunicacao ltda",
+          "percentual": 29.39
+        },
+        {
+          "nome": "gmt7 air taxi aereo ltda",
+          "percentual": 5.68
+        },
+        {
+          "nome": "alckmin sociedade individual de advocacia",
+          "percentual": 4.9
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 3.92
+        },
+        {
+          "nome": "gabinete observatorio, pesquisa e comportamento ltda.",
+          "percentual": 2.94
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "janela comunicacao ltda",
+          "percentual": 29.39
+        },
+        {
+          "nome": "gmt7 air taxi aereo ltda",
+          "percentual": 5.68
+        },
+        {
+          "nome": "alckmin sociedade individual de advocacia",
+          "percentual": 4.9
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 3.92
+        },
+        {
+          "nome": "gabinete observatorio, pesquisa e comportamento ltda.",
+          "percentual": 2.94
+        }
+      ],
+      "fonte_atualizado_em": "16/09/2026 • Atualizado há 3 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-go-90002543463.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:58:55.176Z"
+  },
+  {
+    "slug": "90002551791",
+    "nome": "Wilder Morais",
+    "partido": "PL",
+    "numero": 22,
+    "cargo": "governador",
+    "uf": "GO",
+    "foto_arquivo": "governador-go-90002551791",
+    "foto_url_original": "https://s2-g1.glbimg.com/TaUWEE29kb2oD608QcFN9LGnv5I=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/q/PXeIGFSSSrfs03vxZA1Q/wilder-morais.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/go/90002551791.ghtml",
+    "profissao": "Engenheiro",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/90017105478",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 65160903.35,
+    "receitas_total": 11050000,
+    "despesas_total": 2095735.89,
+    "limite_gastos": 11562724,
+    "fonte_atualizado_em": "14/09/2026 • Atualizado há 5 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Depósito bancário ¿ cnpj 00.000.000/0001-91 (conta nº 5060-1) depósito bancário ¿ cnpj 00.000.000/0001-91 (conta nº 5059-8) depósito bancário ¿ cef, ag. 3438 (conta nº 0005831784939)",
+        "valor": 198382.8
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos 48% das quotas da petrus participações e investimentos ltda. 48% das quotas da orca construtora e concretos ltda. 48% das quotas da orca incorporadora ltda. 49% das quotas da orca construções e empree",
+        "valor": 5332650
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos 0,99% das quotas da 3ws empreendimentos e participações ltda. 100% das quotas da wpm empreendimentos e participações ltda. 30% das quotas da mineradora colinas do sul ltda.",
+        "valor": 6020112
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Depósito bancário ¿ banco santander depósito bancário ¿ cnpj 00.360.305/0001-04 (conta nº 000583942715-9) depósito bancário ¿ cnpj 00.360.305/0001-04 (conta nº 000583942657-8) depósito bancário ¿ cnpj",
+        "valor": 765637.21
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos 50% de aeronave raytheon aircraft, modelo bae125-800a, pr-wsw helicóptero eurocopter esquilo as350, prefixo pr-ysw embarcação \"meu jovem\" lancha de recreio com propulsão, casco 911-appee",
+        "valor": 9518472.15
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos 48% das quotas da pedreira caldas ltda. 48% das quotas da aurora participações e investimentos ltda. 48% das quotas da centralmix concretos e artefatos ltda.",
+        "valor": 74400
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Sobrado residencial ¿ rua 1131, lt. 03, qd. 235-a, setor marista, goiânia/go 84% de lote de terra com 225 m² e casa residencial ¿ taquaral de goiás/go veículo mmc pajero sport lgnd diesel, ano 2023/20",
+        "valor": 15122630
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos 49% das quotas da orca engenharia ltda. 68,57% das quotas da orca construtora ltda. capital social ¿ sicoob 20% de participação na brasnorte mineração ltda. depósito bancário ¿ caixa econômica federal",
+        "valor": 17533412.04
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Fundo de investimento ¿ caixa fácil fic renda fixa simples fundo de investimento ¿ fi cef 6800 fundo de investimento ¿ caixa giro imediato fic renda fixa a.f.a.c. ¿ wpm empreendimentos e participações",
+        "valor": 10266944.9
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Depósito bancário ¿ cef (conta nº 000100001228-7) depósito bancário ¿ sicoob, c/c 26426-1 fundo de investimento ¿ bb renda fixa referenciado di plus ágil",
+        "valor": 328262.25
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 99.55
+      },
+      {
+        "nome": "Direção Estadual/distrital - Pl - Goiás",
+        "percentual": 0.45
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 16.89
+      },
+      {
+        "nome": "cobra servicos serigraficos ltda",
+        "percentual": 14.05
+      },
+      {
+        "nome": "leandro lima lopes servicos",
+        "percentual": 11.76
+      },
+      {
+        "nome": "traice auditoria e consultoria s/s ltda",
+        "percentual": 7.4
+      },
+      {
+        "nome": "piloto ltda",
+        "percentual": 7.35
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 16.89
+      },
+      {
+        "nome": "cobra servicos serigraficos ltda",
+        "percentual": 14.05
+      },
+      {
+        "nome": "leandro lima lopes servicos",
+        "percentual": 11.76
+      },
+      {
+        "nome": "traice auditoria e consultoria s/s ltda",
+        "percentual": 7.4
+      },
+      {
+        "nome": "piloto ltda",
+        "percentual": 7.35
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Wilder Morais",
+      "partido_pagina": "PL",
+      "numero_pagina": 22,
+      "profissao": "Engenheiro",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/90017105478",
+      "foto_url_original": "https://s2-g1.glbimg.com/TaUWEE29kb2oD608QcFN9LGnv5I=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/q/PXeIGFSSSrfs03vxZA1Q/wilder-morais.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens e direitos R$ 198.382,80 Depósito bancário ¿ cnpj 00.000.000/0001-91 (conta nº 5060-1) depósito bancário ¿ cnpj 00.000.000/0001-91 (conta nº 5059-8) depósito bancário ¿ cef, ag. 3438 (conta nº 0005831784939)",
+        "Outros bens e direitos R$ 5.332.650,00 48% das quotas da petrus participações e investimentos ltda. 48% das quotas da orca construtora e concretos ltda. 48% das quotas da orca incorporadora ltda. 49% das quotas da orca construções e empree",
+        "Outros bens e direitos R$ 6.020.112,00 0,99% das quotas da 3ws empreendimentos e participações ltda. 100% das quotas da wpm empreendimentos e participações ltda. 30% das quotas da mineradora colinas do sul ltda.",
+        "Outros bens e direitos R$ 765.637,21 Depósito bancário ¿ banco santander depósito bancário ¿ cnpj 00.360.305/0001-04 (conta nº 000583942715-9) depósito bancário ¿ cnpj 00.360.305/0001-04 (conta nº 000583942657-8) depósito bancário ¿ cnpj",
+        "Outros bens e direitos R$ 9.518.472,15 50% de aeronave raytheon aircraft, modelo bae125-800a, pr-wsw helicóptero eurocopter esquilo as350, prefixo pr-ysw embarcação \"meu jovem\" lancha de recreio com propulsão, casco 911-appee",
+        "Outros bens e direitos R$ 74.400,00 48% das quotas da pedreira caldas ltda. 48% das quotas da aurora participações e investimentos ltda. 48% das quotas da centralmix concretos e artefatos ltda.",
+        "Outros bens e direitos R$ 15.122.630,00 Sobrado residencial ¿ rua 1131, lt. 03, qd. 235-a, setor marista, goiânia/go 84% de lote de terra com 225 m² e casa residencial ¿ taquaral de goiás/go veículo mmc pajero sport lgnd diesel, ano 2023/20",
+        "Outros bens e direitos R$ 17.533.412,04 49% das quotas da orca engenharia ltda. 68,57% das quotas da orca construtora ltda. capital social ¿ sicoob 20% de participação na brasnorte mineração ltda. depósito bancário ¿ caixa econômica federal",
+        "Outros bens e direitos R$ 10.266.944,90 Fundo de investimento ¿ caixa fácil fic renda fixa simples fundo de investimento ¿ fi cef 6800 fundo de investimento ¿ caixa giro imediato fic renda fixa a.f.a.c. ¿ wpm empreendimentos e participações",
+        "Outros bens e direitos R$ 328.262,25 Depósito bancário ¿ cef (conta nº 000100001228-7) depósito bancário ¿ sicoob, c/c 26426-1 fundo de investimento ¿ bb renda fixa referenciado di plus ágil"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 11050000,
+      "despesas_total": 2095735.89,
+      "limite_gastos": 11562724,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 99.55
+        },
+        {
+          "nome": "Direção Estadual/distrital - Pl - Goiás",
+          "percentual": 0.45
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 16.89
+        },
+        {
+          "nome": "cobra servicos serigraficos ltda",
+          "percentual": 14.05
+        },
+        {
+          "nome": "leandro lima lopes servicos",
+          "percentual": 11.76
+        },
+        {
+          "nome": "traice auditoria e consultoria s/s ltda",
+          "percentual": 7.4
+        },
+        {
+          "nome": "piloto ltda",
+          "percentual": 7.35
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 16.89
+        },
+        {
+          "nome": "cobra servicos serigraficos ltda",
+          "percentual": 14.05
+        },
+        {
+          "nome": "leandro lima lopes servicos",
+          "percentual": 11.76
+        },
+        {
+          "nome": "traice auditoria e consultoria s/s ltda",
+          "percentual": 7.4
+        },
+        {
+          "nome": "piloto ltda",
+          "percentual": 7.35
+        }
+      ],
+      "fonte_atualizado_em": "14/09/2026 • Atualizado há 5 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-go-90002551791.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T01:59:02.088Z"
+  }
+]

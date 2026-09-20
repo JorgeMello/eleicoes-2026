@@ -1,0 +1,1346 @@
+[
+  {
+    "slug": "120002552201",
+    "nome": "Daniel Lemes",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "governador",
+    "uf": "MS",
+    "foto_arquivo": "governador-ms-120002552201",
+    "foto_url_original": "https://s2-g1.glbimg.com/7hmMzQcIADTdiD2V38Xa1Albq8E=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/5/EaJYnIRSGhqA5oHpQAGA/daniel-lemes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ms/120002552201.ghtml",
+    "profissao": "Professor de ensino fundamental",
+    "cor_etnia": "Indígena",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120017115404",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Daniel Lemes",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Professor de ensino fundamental",
+      "cor_etnia": "Indígena",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120017115404",
+      "foto_url_original": "https://s2-g1.glbimg.com/7hmMzQcIADTdiD2V38Xa1Albq8E=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/5/EaJYnIRSGhqA5oHpQAGA/daniel-lemes.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 6226082.16,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ms-120002552201.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:00:33.770Z"
+  },
+  {
+    "slug": "120002552155",
+    "nome": "Delcidio Amaral",
+    "partido": "PRD",
+    "numero": 25,
+    "cargo": "governador",
+    "uf": "MS",
+    "foto_arquivo": "governador-ms-120002552155",
+    "foto_url_original": "https://s2-g1.glbimg.com/GTmcCWrdNa3K0Trjw7wGg-JNtXY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/d/sbHSduS2yMcFc2J4UgFA/delcidio-amaral.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ms/120002552155.ghtml",
+    "profissao": "Engenheiro",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120017126668",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1596431.0700000003,
+    "receitas_total": 101150,
+    "despesas_total": 171153,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Situado na av trompowski - florianópolis sc",
+        "valor": 106095.27
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Mini cooper ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Mini cooper ano 2011 modelo 2012",
+        "valor": 124412
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 1/3 da fazenda rancho do vale ii",
+        "valor": 596666.67
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 4 lotes loteamento monções aguas quentes - caldas novas go",
+        "valor": 7773.01
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Glebas de terras pastaveis na região de jacadigo, emcorumba- ms",
+        "valor": 165861.75
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Investimento em infraestrutura e gado na fazendasanta rosa",
+        "valor": 217000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Plano",
+        "valor": 131621.94
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 1/3 fazenda marília estância localizada em corumba/ms",
+        "valor": 244458.33
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quota capital unicred fpolis",
+        "valor": 2542.1
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2018,
+        "cargo": "Senador",
+        "partido": "PTC",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Prd - Mato Grosso Do Sul",
+        "percentual": 89.97
+      },
+      {
+        "nome": "Ozair Dos Santos Barbosa",
+        "percentual": 10.03
+      },
+      {
+        "nome": "carlos fernando alves de souza",
+        "percentual": 23.37
+      },
+      {
+        "nome": "aureo garcia ribeiro filho",
+        "percentual": 17.53
+      },
+      {
+        "nome": "nassif sociedade individual de advocacia",
+        "percentual": 17.53
+      },
+      {
+        "nome": "ailton da silva lemos",
+        "percentual": 11.69
+      },
+      {
+        "nome": "61.087.291 pedro vinicius alcova argirin",
+        "percentual": 8.76
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "carlos fernando alves de souza",
+        "percentual": 23.37
+      },
+      {
+        "nome": "aureo garcia ribeiro filho",
+        "percentual": 17.53
+      },
+      {
+        "nome": "nassif sociedade individual de advocacia",
+        "percentual": 17.53
+      },
+      {
+        "nome": "ailton da silva lemos",
+        "percentual": 11.69
+      },
+      {
+        "nome": "61.087.291 pedro vinicius alcova argirin",
+        "percentual": 8.76
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Delcidio Amaral",
+      "partido_pagina": "PRD",
+      "numero_pagina": 25,
+      "profissao": "Engenheiro",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120017126668",
+      "foto_url_original": "https://s2-g1.glbimg.com/GTmcCWrdNa3K0Trjw7wGg-JNtXY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/d/sbHSduS2yMcFc2J4UgFA/delcidio-amaral.jpeg",
+      "historico": [
+        {
+          "ano": 2018,
+          "cargo": "Senador",
+          "partido": "PTC",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Apartamento R$ 106.095,27 Situado na av trompowski - florianópolis sc",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 124.412,00 Mini cooper ano 2011 modelo 2012",
+        "Outros bens imóveis R$ 596.666,67 1/3 da fazenda rancho do vale ii",
+        "Outros bens imóveis R$ 7.773,01 4 lotes loteamento monções aguas quentes - caldas novas go",
+        "Outros bens imóveis R$ 165.861,75 Glebas de terras pastaveis na região de jacadigo, emcorumba- ms",
+        "Outras aplicações e investimentos R$ 217.000,00 Investimento em infraestrutura e gado na fazendasanta rosa",
+        "Apartamento R$ 131.621,94 Plano",
+        "Outros bens imóveis R$ 244.458,33 1/3 fazenda marília estância localizada em corumba/ms",
+        "Quotas ou quinhões de capital R$ 2.542,10 Quota capital unicred fpolis"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 101150,
+      "despesas_total": 171153,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Prd - Mato Grosso Do Sul",
+          "percentual": 89.97
+        },
+        {
+          "nome": "Ozair Dos Santos Barbosa",
+          "percentual": 10.03
+        },
+        {
+          "nome": "carlos fernando alves de souza",
+          "percentual": 23.37
+        },
+        {
+          "nome": "aureo garcia ribeiro filho",
+          "percentual": 17.53
+        },
+        {
+          "nome": "nassif sociedade individual de advocacia",
+          "percentual": 17.53
+        },
+        {
+          "nome": "ailton da silva lemos",
+          "percentual": 11.69
+        },
+        {
+          "nome": "61.087.291 pedro vinicius alcova argirin",
+          "percentual": 8.76
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "carlos fernando alves de souza",
+          "percentual": 23.37
+        },
+        {
+          "nome": "aureo garcia ribeiro filho",
+          "percentual": 17.53
+        },
+        {
+          "nome": "nassif sociedade individual de advocacia",
+          "percentual": 17.53
+        },
+        {
+          "nome": "ailton da silva lemos",
+          "percentual": 11.69
+        },
+        {
+          "nome": "61.087.291 pedro vinicius alcova argirin",
+          "percentual": 8.76
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ms-120002552155.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:00:38.568Z"
+  },
+  {
+    "slug": "120002549681",
+    "nome": "Economista Renato Gomes",
+    "partido": "DC",
+    "numero": 27,
+    "cargo": "governador",
+    "uf": "MS",
+    "foto_arquivo": "governador-ms-120002549681",
+    "foto_url_original": "https://s2-g1.glbimg.com/lY1MOoC_PZwXho5ZD1wpmD8svzg=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/V/JcAglhSFu1MvBIPXGdcg/economista-renato-gomes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ms/120002549681.ghtml",
+    "profissao": "Capitalista de ativos financeiros",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120017089795",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 922938.3600000001,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento 13, edificio ana claudia, rua barao do rio branco, 2300, centro, campo grande ms",
+        "valor": 250000
+      },
+      {
+        "tipo": "Prédio residencial",
+        "descricao": "Prédio residencial Edificio green park. compra em conjunto com eduardo e leandro, meus irmaos. valor total: r$ 1.300.000/3. matriculas n. 92630 (1 vaga - r$ 100.000), n. 92.639 (2 vagas - r$ 200.000) e n. 92.603 (aparta",
+        "valor": 433333.33
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Banco inter",
+        "valor": 92105.03
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hrv honda, automovel usado, marca: honda/hr-v touring chass",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hrv honda, automovel usado, marca: honda/hr-v touring chassi: 93hrv2890jz229812, cor: vermelho, placa: qaj-8739 ano-fab.: 2018 ano mod.: 2018, combustivel: flex, motor: 1.8, numero motor: r18zc- 82298",
+        "valor": 85500
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota etios",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota etios 2019 2019",
+        "valor": 62000
+      }
+    ],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Economista Renato Gomes",
+      "partido_pagina": "DC",
+      "numero_pagina": 27,
+      "profissao": "Capitalista de ativos financeiros",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120017089795",
+      "foto_url_original": "https://s2-g1.glbimg.com/lY1MOoC_PZwXho5ZD1wpmD8svzg=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/V/JcAglhSFu1MvBIPXGdcg/economista-renato-gomes.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 250.000,00 Apartamento 13, edificio ana claudia, rua barao do rio branco, 2300, centro, campo grande ms",
+        "Prédio residencial R$ 433.333,33 Edificio green park. compra em conjunto com eduardo e leandro, meus irmaos. valor total: r$ 1.300.000/3. matriculas n. 92630 (1 vaga - r$ 100.000), n. 92.639 (2 vagas - r$ 200.000) e n. 92.603 (aparta",
+        "Outros bens e direitos R$ 92.105,03 Banco inter",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 85.500,00 Hrv honda, automovel usado, marca: honda/hr-v touring chassi: 93hrv2890jz229812, cor: vermelho, placa: qaj-8739 ano-fab.: 2018 ano mod.: 2018, combustivel: flex, motor: 1.8, numero motor: r18zc- 82298",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 62.000,00 Toyota etios 2019 2019"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 6226082.16,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ms-120002549681.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:00:45.230Z"
+  },
+  {
+    "slug": "120002536582",
+    "nome": "Eduardo Riedel",
+    "partido": "PP",
+    "numero": 11,
+    "cargo": "governador",
+    "uf": "MS",
+    "foto_arquivo": "governador-ms-120002536582",
+    "foto_url_original": "https://s2-g1.glbimg.com/1T5Ao9nYY_zh-DHDCwWjmh-nVtc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/5/F5BZOjRoiZncLKQQg37g/eduardo-riedel.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ms/120002536582.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120016868872",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 16147849.34,
+    "receitas_total": 2158250,
+    "despesas_total": 4337730.97,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta bmw ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta bmw ano 2026",
+        "valor": 113900
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas cooperativa agrícola mista serra de maracaju",
+        "valor": 3500
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quota capital cooperativa plantadores de cana são paulo",
+        "valor": 60793.92
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Crédito a receber",
+        "valor": 624344.36
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor ford edge ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor ford edge ano 2011",
+        "valor": 96000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quota capital sicredi união ms/to",
+        "valor": 2937.56
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quota capital sicredi centro sul ms/ba",
+        "valor": 95545.04
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quota capital coamo",
+        "valor": 6534.69
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quota capital ape participações",
+        "valor": 3000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quota capital cooperativa agrícola sulmatogrossense",
+        "valor": 3276.79
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta honda ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta honda ano 2019",
+        "valor": 15800
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor ford ranger ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor ford ranger ano 2024",
+        "valor": 321890
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta yamaha ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta yamaha ano 2017",
+        "valor": 18000
+      },
+      {
+        "tipo": "Bem relacionado com o exercício da atividade autônoma",
+        "descricao": "Bem relacionado com o exercício da atividade autônoma Bens relacionados ao exercício da atividade rural",
+        "valor": 12250222.42
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quota capital cooperativa agrícola mista de adamantina",
+        "valor": 8379.88
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depósitos em conta corrente, poupança e investimentos bancários - saldo em 31/12/2025",
+        "valor": 439724.68
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Semov.bovinos - 521 cabeças - valor médio de r$ 4000,00 - quantidade em 31/12/2025",
+        "valor": 2084000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pp",
+        "percentual": 63.48
+      },
+      {
+        "nome": "Direção Nacional - Cidadania",
+        "percentual": 23.17
+      },
+      {
+        "nome": "Luiz Roberto Dos Santos Zanchetta",
+        "percentual": 4.63
+      },
+      {
+        "nome": "Manoel Leonardo De Lima",
+        "percentual": 1.85
+      },
+      {
+        "nome": "Juliano Schmaedecke",
+        "percentual": 1.39
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 24.07
+      },
+      {
+        "nome": "estudio 66 ltda",
+        "percentual": 11.53
+      },
+      {
+        "nome": "raghiant torres advogados associados",
+        "percentual": 8.07
+      },
+      {
+        "nome": "alessandre vieira",
+        "percentual": 8.07
+      },
+      {
+        "nome": "castro e grillo advogados associados ss",
+        "percentual": 6.92
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 24.07
+      },
+      {
+        "nome": "estudio 66 ltda",
+        "percentual": 11.53
+      },
+      {
+        "nome": "raghiant torres advogados associados",
+        "percentual": 8.07
+      },
+      {
+        "nome": "alessandre vieira",
+        "percentual": 8.07
+      },
+      {
+        "nome": "castro e grillo advogados associados ss",
+        "percentual": 6.92
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Eduardo Riedel",
+      "partido_pagina": "PP",
+      "numero_pagina": 11,
+      "profissao": "Governador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120016868872",
+      "foto_url_original": "https://s2-g1.glbimg.com/1T5Ao9nYY_zh-DHDCwWjmh-nVtc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/5/F5BZOjRoiZncLKQQg37g/eduardo-riedel.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 113.900,00 Motocicleta bmw ano 2026",
+        "Quotas ou quinhões de capital R$ 3.500,00 Quotas cooperativa agrícola mista serra de maracaju",
+        "Quotas ou quinhões de capital R$ 60.793,92 Quota capital cooperativa plantadores de cana são paulo",
+        "Outros créditos e poupança vinculados R$ 624.344,36 Crédito a receber",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 96.000,00 Veículo automotor ford edge ano 2011",
+        "Quotas ou quinhões de capital R$ 2.937,56 Quota capital sicredi união ms/to",
+        "Quotas ou quinhões de capital R$ 95.545,04 Quota capital sicredi centro sul ms/ba",
+        "Quotas ou quinhões de capital R$ 6.534,69 Quota capital coamo",
+        "Quotas ou quinhões de capital R$ 3.000,00 Quota capital ape participações",
+        "Quotas ou quinhões de capital R$ 3.276,79 Quota capital cooperativa agrícola sulmatogrossense",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 15.800,00 Motocicleta honda ano 2019",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 321.890,00 Veículo automotor ford ranger ano 2024",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 18.000,00 Motocicleta yamaha ano 2017",
+        "Bem relacionado com o exercício da atividade autônoma R$ 12.250.222,42 Bens relacionados ao exercício da atividade rural",
+        "Quotas ou quinhões de capital R$ 8.379,88 Quota capital cooperativa agrícola mista de adamantina",
+        "Depósito bancário em conta corrente no país R$ 439.724,68 Depósitos em conta corrente, poupança e investimentos bancários - saldo em 31/12/2025",
+        "Outros bens móveis R$ 2.084.000,00 Semov.bovinos - 521 cabeças - valor médio de r$ 4000,00 - quantidade em 31/12/2025"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 2158250,
+      "despesas_total": 4337730.97,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pp",
+          "percentual": 63.48
+        },
+        {
+          "nome": "Direção Nacional - Cidadania",
+          "percentual": 23.17
+        },
+        {
+          "nome": "Luiz Roberto Dos Santos Zanchetta",
+          "percentual": 4.63
+        },
+        {
+          "nome": "Manoel Leonardo De Lima",
+          "percentual": 1.85
+        },
+        {
+          "nome": "Juliano Schmaedecke",
+          "percentual": 1.39
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 24.07
+        },
+        {
+          "nome": "estudio 66 ltda",
+          "percentual": 11.53
+        },
+        {
+          "nome": "raghiant torres advogados associados",
+          "percentual": 8.07
+        },
+        {
+          "nome": "alessandre vieira",
+          "percentual": 8.07
+        },
+        {
+          "nome": "castro e grillo advogados associados ss",
+          "percentual": 6.92
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 24.07
+        },
+        {
+          "nome": "estudio 66 ltda",
+          "percentual": 11.53
+        },
+        {
+          "nome": "raghiant torres advogados associados",
+          "percentual": 8.07
+        },
+        {
+          "nome": "alessandre vieira",
+          "percentual": 8.07
+        },
+        {
+          "nome": "castro e grillo advogados associados ss",
+          "percentual": 6.92
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ms-120002536582.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:00:51.272Z"
+  },
+  {
+    "slug": "120002539834",
+    "nome": "Fábio Trad",
+    "partido": "PT",
+    "numero": 13,
+    "cargo": "governador",
+    "uf": "MS",
+    "foto_arquivo": "governador-ms-120002539834",
+    "foto_url_original": "https://s2-g1.glbimg.com/PVBTQGV_hOqPmCJL_aDjL67F1B0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/A/nocbHAQ8uBzeybZjBJFA/fabio-trad.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ms/120002539834.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120016993257",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 3670880.4499999997,
+    "receitas_total": 3748749.3,
+    "despesas_total": 3149014.34,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Petrobras",
+        "valor": 1703.38
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Saf capmkt",
+        "valor": 41096.58
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Investimento",
+        "valor": 3814.69
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Localizado em são gabriel do oeste-ms",
+        "valor": 31343.9
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Localizado em são gabriel do oeste-ms",
+        "valor": 31343.9
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Ações na axia 7",
+        "valor": 14040.96
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Ações na axia/adm banco safra",
+        "valor": 4866.12
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Título de captalização",
+        "valor": 2834.19
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Ações - it now ibov",
+        "valor": 19861.87
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa residencial localizada em campo grande-ms",
+        "valor": 220000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hyundai creta",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hyundai creta",
+        "valor": 122590
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Quinhão de sítio localizado em são gabriel do oeste-ms",
+        "valor": 249975
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Operações estruturadas",
+        "valor": 323000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação bancária man a 2",
+        "valor": 20745.11
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hyundai hb20",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hyundai hb20",
+        "valor": 80490
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação bancária",
+        "valor": 47757.15
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Ações - it now ibov",
+        "valor": 2624.4
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital fabio trad advogados e associados",
+        "valor": 18000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Ações - it now ibov",
+        "valor": 1950.52
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Vale",
+        "valor": 1464.66
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Petrobras",
+        "valor": 1896
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Valore recebido (espólio)",
+        "valor": 174374.26
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Outras ações",
+        "valor": 131363.35
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação bancária",
+        "valor": 150000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Previdência - safra vida e previdência",
+        "valor": 751050.26
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Saf sob max",
+        "valor": 39135.68
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento com alienação fiduciária localizado em campo grande-ms",
+        "valor": 1000000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Ações na axia 3",
+        "valor": 47505.92
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Svn fundo de investimento renda fixa",
+        "valor": 134592.55
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Vale",
+        "valor": 1460
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 99.65
+      },
+      {
+        "nome": "Fabio Ricardo Trad",
+        "percentual": 0.13
+      },
+      {
+        "nome": "Hamilton Bonfim Junior",
+        "percentual": 0.07
+      },
+      {
+        "nome": "Terezinha Da Silva Vieira",
+        "percentual": 0.07
+      },
+      {
+        "nome": "Divino Jose Martins",
+        "percentual": 0.07
+      },
+      {
+        "nome": "santier consultoria e estrategia ltda",
+        "percentual": 47.63
+      },
+      {
+        "nome": "hub comunica ideias ltda",
+        "percentual": 22.71
+      },
+      {
+        "nome": "chagas advogados s/s",
+        "percentual": 7.15
+      },
+      {
+        "nome": "waltercyr escobar benites",
+        "percentual": 3.97
+      },
+      {
+        "nome": "51.595.230 ltda",
+        "percentual": 3.14
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "santier consultoria e estrategia ltda",
+        "percentual": 47.63
+      },
+      {
+        "nome": "hub comunica ideias ltda",
+        "percentual": 22.71
+      },
+      {
+        "nome": "chagas advogados s/s",
+        "percentual": 7.15
+      },
+      {
+        "nome": "waltercyr escobar benites",
+        "percentual": 3.97
+      },
+      {
+        "nome": "51.595.230 ltda",
+        "percentual": 3.14
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Fábio Trad",
+      "partido_pagina": "PT",
+      "numero_pagina": 13,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120016993257",
+      "foto_url_original": "https://s2-g1.glbimg.com/PVBTQGV_hOqPmCJL_aDjL67F1B0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/A/nocbHAQ8uBzeybZjBJFA/fabio-trad.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Ações (inclusive as provenientes de linha telefônica) R$ 1.703,38 Petrobras",
+        "Outras aplicações e investimentos R$ 41.096,58 Saf capmkt",
+        "Vgbl - vida gerador de benefício livre R$ 3.814,69 Investimento",
+        "Terreno R$ 31.343,90 Localizado em são gabriel do oeste-ms",
+        "Terreno R$ 31.343,90 Localizado em são gabriel do oeste-ms",
+        "Outras aplicações e investimentos R$ 14.040,96 Ações na axia 7",
+        "Outras aplicações e investimentos R$ 4.866,12 Ações na axia/adm banco safra",
+        "Outras aplicações e investimentos R$ 2.834,19 Título de captalização",
+        "Outras aplicações e investimentos R$ 19.861,87 Ações - it now ibov",
+        "Casa R$ 220.000,00 Casa residencial localizada em campo grande-ms",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 122.590,00 Hyundai creta",
+        "Outros bens imóveis R$ 249.975,00 Quinhão de sítio localizado em são gabriel do oeste-ms",
+        "Outras aplicações e investimentos R$ 323.000,00 Operações estruturadas",
+        "Outras aplicações e investimentos R$ 20.745,11 Aplicação bancária man a 2",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 80.490,00 Hyundai hb20",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 47.757,15 Aplicação bancária",
+        "Outras aplicações e investimentos R$ 2.624,40 Ações - it now ibov",
+        "Quotas ou quinhões de capital R$ 18.000,00 Quotas de capital fabio trad advogados e associados",
+        "Outras aplicações e investimentos R$ 1.950,52 Ações - it now ibov",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 1.464,66 Vale",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 1.896,00 Petrobras",
+        "Outros bens e direitos R$ 174.374,26 Valore recebido (espólio)",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 131.363,35 Outras ações",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 150.000,00 Aplicação bancária",
+        "Outras aplicações e investimentos R$ 751.050,26 Previdência - safra vida e previdência",
+        "Outras aplicações e investimentos R$ 39.135,68 Saf sob max",
+        "Apartamento R$ 1.000.000,00 Apartamento com alienação fiduciária localizado em campo grande-ms",
+        "Outras aplicações e investimentos R$ 47.505,92 Ações na axia 3",
+        "Outras aplicações e investimentos R$ 134.592,55 Svn fundo de investimento renda fixa",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 1.460,00 Vale"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 3748749.3,
+      "despesas_total": 3149014.34,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 99.65
+        },
+        {
+          "nome": "Fabio Ricardo Trad",
+          "percentual": 0.13
+        },
+        {
+          "nome": "Hamilton Bonfim Junior",
+          "percentual": 0.07
+        },
+        {
+          "nome": "Terezinha Da Silva Vieira",
+          "percentual": 0.07
+        },
+        {
+          "nome": "Divino Jose Martins",
+          "percentual": 0.07
+        },
+        {
+          "nome": "santier consultoria e estrategia ltda",
+          "percentual": 47.63
+        },
+        {
+          "nome": "hub comunica ideias ltda",
+          "percentual": 22.71
+        },
+        {
+          "nome": "chagas advogados s/s",
+          "percentual": 7.15
+        },
+        {
+          "nome": "waltercyr escobar benites",
+          "percentual": 3.97
+        },
+        {
+          "nome": "51.595.230 ltda",
+          "percentual": 3.14
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "santier consultoria e estrategia ltda",
+          "percentual": 47.63
+        },
+        {
+          "nome": "hub comunica ideias ltda",
+          "percentual": 22.71
+        },
+        {
+          "nome": "chagas advogados s/s",
+          "percentual": 7.15
+        },
+        {
+          "nome": "waltercyr escobar benites",
+          "percentual": 3.97
+        },
+        {
+          "nome": "51.595.230 ltda",
+          "percentual": 3.14
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ms-120002539834.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:00:56.746Z"
+  },
+  {
+    "slug": "120002550198",
+    "nome": "Jeferson Bezerra",
+    "partido": "AGIR",
+    "numero": 36,
+    "cargo": "governador",
+    "uf": "MS",
+    "foto_arquivo": "governador-ms-120002550198",
+    "foto_url_original": "https://s2-g1.glbimg.com/Yjv0sqUIrgagLeanJMOWyj3utOY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/x/woTjjARIec4UkcsE6r1Q/jeferson-bezerra.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ms/120002550198.ghtml",
+    "profissao": "Jornalista e redator",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120017089427",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Jeferson Bezerra",
+      "partido_pagina": "AGIR",
+      "numero_pagina": 36,
+      "profissao": "Jornalista e redator",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120017089427",
+      "foto_url_original": "https://s2-g1.glbimg.com/Yjv0sqUIrgagLeanJMOWyj3utOY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/x/woTjjARIec4UkcsE6r1Q/jeferson-bezerra.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 6226082.16,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ms-120002550198.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:01:01.670Z"
+  },
+  {
+    "slug": "120002552191",
+    "nome": "João Henrique Catan",
+    "partido": "NOVO",
+    "numero": 30,
+    "cargo": "governador",
+    "uf": "MS",
+    "foto_arquivo": "governador-ms-120002552191",
+    "foto_url_original": "https://s2-g1.glbimg.com/jc1IXAutKqFeF7vGHdTIqbD02Nk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/o/UW5UpaTa2vtMSHLzQkbw/joao-henrique-catan.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ms/120002552191.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120017115315",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 588097.38,
+    "receitas_total": 71468.01,
+    "despesas_total": 195146.49,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Bradesco - título de capitalização",
+        "valor": 4189.2
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Caderneta de poupança",
+        "valor": 136.23
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participacao com 30% no capital da empresa novas solucoes em participacoes societarias ltda",
+        "valor": 90000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depósito bancário em conta corrente no país",
+        "valor": 111270.95
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Disponibilidade para novos investimentos",
+        "valor": 382000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participacao com 33,33% np capital da empresa almeidinha, miranda soares & catan advogados associados s/s",
+        "valor": 500
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depósito bancário em conta corrente no país",
+        "valor": 1
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Novo",
+        "percentual": 46.31
+      },
+      {
+        "nome": "Antonio Joao Coimbra Jacintho",
+        "percentual": 27.98
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 22.51
+      },
+      {
+        "nome": "Joao Henrique Miranda Soares Catan",
+        "percentual": 2.8
+      },
+      {
+        "nome": "Fabiana Cristine Lopes Dos Santos",
+        "percentual": 0.28
+      },
+      {
+        "nome": "carlos fernando alves de souza",
+        "percentual": 28.18
+      },
+      {
+        "nome": "sociedade de advogados arthur guerra e advogados associados",
+        "percentual": 28.18
+      },
+      {
+        "nome": "jco servicos graficos ltda",
+        "percentual": 19.29
+      },
+      {
+        "nome": "carlos razuk",
+        "percentual": 6.53
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 4.77
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "carlos fernando alves de souza",
+        "percentual": 28.18
+      },
+      {
+        "nome": "sociedade de advogados arthur guerra e advogados associados",
+        "percentual": 28.18
+      },
+      {
+        "nome": "jco servicos graficos ltda",
+        "percentual": 19.29
+      },
+      {
+        "nome": "carlos razuk",
+        "percentual": 6.53
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 4.77
+      }
+    ],
+    "raw": {
+      "nome_pagina": "João Henrique Catan",
+      "partido_pagina": "NOVO",
+      "numero_pagina": 30,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120017115315",
+      "foto_url_original": "https://s2-g1.glbimg.com/jc1IXAutKqFeF7vGHdTIqbD02Nk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/o/UW5UpaTa2vtMSHLzQkbw/joao-henrique-catan.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outras aplicações e investimentos R$ 4.189,20 Bradesco - título de capitalização",
+        "Caderneta de poupança R$ 136,23 Caderneta de poupança",
+        "Quotas ou quinhões de capital R$ 90.000,00 Participacao com 30% no capital da empresa novas solucoes em participacoes societarias ltda",
+        "Depósito bancário em conta corrente no país R$ 111.270,95 Depósito bancário em conta corrente no país",
+        "Outros bens e direitos R$ 382.000,00 Disponibilidade para novos investimentos",
+        "Quotas ou quinhões de capital R$ 500,00 Participacao com 33,33% np capital da empresa almeidinha, miranda soares & catan advogados associados s/s",
+        "Depósito bancário em conta corrente no país R$ 1,00 Depósito bancário em conta corrente no país"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 71468.01,
+      "despesas_total": 195146.49,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Novo",
+          "percentual": 46.31
+        },
+        {
+          "nome": "Antonio Joao Coimbra Jacintho",
+          "percentual": 27.98
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 22.51
+        },
+        {
+          "nome": "Joao Henrique Miranda Soares Catan",
+          "percentual": 2.8
+        },
+        {
+          "nome": "Fabiana Cristine Lopes Dos Santos",
+          "percentual": 0.28
+        },
+        {
+          "nome": "carlos fernando alves de souza",
+          "percentual": 28.18
+        },
+        {
+          "nome": "sociedade de advogados arthur guerra e advogados associados",
+          "percentual": 28.18
+        },
+        {
+          "nome": "jco servicos graficos ltda",
+          "percentual": 19.29
+        },
+        {
+          "nome": "carlos razuk",
+          "percentual": 6.53
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 4.77
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "carlos fernando alves de souza",
+          "percentual": 28.18
+        },
+        {
+          "nome": "sociedade de advogados arthur guerra e advogados associados",
+          "percentual": 28.18
+        },
+        {
+          "nome": "jco servicos graficos ltda",
+          "percentual": 19.29
+        },
+        {
+          "nome": "carlos razuk",
+          "percentual": 6.53
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 4.77
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ms-120002552191.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:01:06.646Z"
+  },
+  {
+    "slug": "120002532257",
+    "nome": "Lucien Rezende",
+    "partido": "PSOL",
+    "numero": 50,
+    "cargo": "governador",
+    "uf": "MS",
+    "foto_arquivo": "governador-ms-120002532257",
+    "foto_url_original": "https://s2-g1.glbimg.com/8sBjn4iShI0bZhqs1zJCew7887U=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/S/YyrGPuTo2ACy0UArhrPg/lucien-rezende.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/ms/120002532257.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino fundamental completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120016837601",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 500000,
+    "receitas_total": 90000,
+    "despesas_total": 0,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa de alvenaria residencial localizada em campo grande ms",
+        "valor": 250000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa de alvenaria residencial",
+        "valor": 250000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 100
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Lucien Rezende",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 50,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino fundamental completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/120016837601",
+      "foto_url_original": "https://s2-g1.glbimg.com/8sBjn4iShI0bZhqs1zJCew7887U=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/S/YyrGPuTo2ACy0UArhrPg/lucien-rezende.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 250.000,00 Casa de alvenaria residencial localizada em campo grande ms",
+        "Casa R$ 250.000,00 Casa de alvenaria residencial"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 90000,
+      "despesas_total": 0,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 100
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-ms-120002532257.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:01:11.565Z"
+  }
+]

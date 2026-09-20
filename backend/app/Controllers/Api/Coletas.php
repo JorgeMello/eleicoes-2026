@@ -53,7 +53,11 @@ class Coletas extends BaseController
                 continue;
             }
 
-            $existente = $candidatoModel->where('slug', $item['slug'])->first();
+            $existente = $candidatoModel
+                ->where('slug', $item['slug'])
+                ->where('cargo', $item['cargo'] ?? 'presidente')
+                ->where('uf', $item['uf'] ?? 'BR')
+                ->first();
 
             $dados = [
                 'slug'                => $item['slug'],
