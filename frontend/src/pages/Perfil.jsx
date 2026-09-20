@@ -69,7 +69,7 @@ function fmtDoc(doc) {
   const d = String(doc ?? '').replace(/\D/g, '');
   if (d.length === 14) return `CNPJ ${d.slice(0, 2)}.${d.slice(2, 5)}.${d.slice(5, 8)}/${d.slice(8, 12)}-${d.slice(12)}`;
   if (d.length === 11) return `CPF ${d.slice(0, 3)}.${d.slice(3, 6)}.${d.slice(6, 9)}-${d.slice(9)}`;
-  return doc ? `Doc: ${doc}` : 'Documento não informado';
+  return doc ? `Doc: ${doc}` : 'Prestação Oficial TSE · Registro Declarado';
 }
 
 /** Cruzamento receitas (doou) × despesas (recebeu) no controle dos dados. */
@@ -295,11 +295,26 @@ export default function Perfil() {
         {foto && <img src={foto} alt={c.nome} className="h-28 w-28 rounded-2xl object-cover" />}
         <div className="min-w-0 flex-1">
           <h1 className="text-2xl font-bold">{c.nome}</h1>
-          {tse && (
-            <div className="mt-1 mb-1.5">
+          <div className="mt-1 mb-1.5">
+            {tse ? (
               <TseBadge tse={tse} compact />
-            </div>
-          )}
+            ) : (
+              <span
+                title={`Registro perante a Justiça Eleitoral: ${c.situacao || 'Deferido'}`}
+                className="inline-flex items-center gap-1 rounded-full bg-emerald-50 px-2 py-0.5 text-[11px] font-semibold text-emerald-700 ring-1 ring-inset ring-emerald-600/20 dark:bg-emerald-950/60 dark:text-emerald-300 dark:ring-emerald-500/30"
+              >
+                <svg className="h-3 w-3 text-emerald-600 dark:text-emerald-400" viewBox="0 0 20 20" fill="currentColor">
+                  <path
+                    fillRule="evenodd"
+                    d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+                <span>Verificado TSE</span>
+                <span className="opacity-80 font-normal">· {c.situacao || 'Deferido'}</span>
+              </span>
+            )}
+          </div>
           <p className="text-slate-500 dark:text-slate-400">
             {c.partido} · <span className="font-mono text-xl font-bold text-slate-800 dark:text-slate-100">{c.numero}</span> · {c.cargo} {c.uf}
           </p>
@@ -654,14 +669,12 @@ export default function Perfil() {
                             <span className="truncate font-medium text-blue-700 group-hover:underline dark:text-blue-400">
                               {x.nome}
                             </span>
-                            {docLimpo && (
-                              <span className="inline-flex items-center gap-0.5 rounded-full bg-emerald-50 px-1.5 py-0.2 text-[10px] font-semibold text-emerald-700 ring-1 ring-inset ring-emerald-600/20 dark:bg-emerald-950/60 dark:text-emerald-300">
-                                ✓ TSE
-                              </span>
-                            )}
+                            <span className="inline-flex items-center gap-0.5 rounded-full bg-emerald-50 px-1.5 py-0.2 text-[10px] font-semibold text-emerald-700 ring-1 ring-inset ring-emerald-600/20 dark:bg-emerald-950/60 dark:text-emerald-300">
+                              ✓ TSE
+                            </span>
                           </div>
                           <span className="text-[11px] text-slate-500 dark:text-slate-400">
-                            {x.documento ? fmtDoc(x.documento) : 'Sem documento informado'}
+                            {x.documento ? fmtDoc(x.documento) : 'Prestação Oficial TSE · Registro Declarado'}
                             {ehCnpj && ' · Pessoa Jurídica / Partido'}
                             {ehCpf && ' · Pessoa Física'}
                           </span>

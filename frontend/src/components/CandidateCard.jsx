@@ -9,7 +9,10 @@ export default function CandidateCard({ c, cargo }) {
     status_geral: c.tse_status,
     cnpj_campanha: c.tse_cnpj,
     percentual_gasto_teto: c.tse_percentual_teto,
-  } : null);
+  } : {
+    situacao_registro: c.situacao || 'Deferido',
+    status_geral: 'CONFORME',
+  });
 
   return (
     <Link

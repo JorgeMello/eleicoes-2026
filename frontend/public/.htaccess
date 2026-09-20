@@ -89,3 +89,25 @@ Options -Indexes
   # HTML da aplicação (0 segundos para recarregar deploys instantaneamente)
   ExpiresByType text/html "access plus 0 seconds"
 </IfModule>
+
+# ------------------------------------------------------------------------------
+# 6. ENCODING E CONJUNTO DE CARACTERES UTF-8 (Prevenção de Mojibake no llms.txt)
+# ------------------------------------------------------------------------------
+# Define UTF-8 como padrão de saída textual em todo o servidor
+AddDefaultCharset UTF-8
+AddCharset UTF-8 .txt .md .json .html .css .js
+
+# Força Content-Type explícito com charset=utf-8 para arquivos de texto e documentação de IA
+<FilesMatch "\.(txt|md)$">
+  <IfModule mod_headers.c>
+    Header set Content-Type "text/plain; charset=utf-8"
+  </IfModule>
+</FilesMatch>
+
+# Garante charset UTF-8 estrito para arquivos JSON
+<FilesMatch "\.json$">
+  <IfModule mod_headers.c>
+    Header set Content-Type "application/json; charset=utf-8"
+  </IfModule>
+</FilesMatch>
+
