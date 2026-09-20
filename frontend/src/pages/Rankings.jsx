@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { Bar, BarChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
-import { api, brl } from '../lib/api.js';
+import { api, brl, UFS } from '../lib/api.js';
 
 /** Gera frases interpretativas a partir das linhas do ranking. */
 function interpreta(rows, chave) {
@@ -50,15 +50,22 @@ export default function Rankings() {
   const [rec, setRec] = useState([]);
   const [erro, setErro] = useState(null);
   const [ajudaRank, setAjudaRank] = useState(null); // 'patrimonio' | 'receitas' | null
+  const [uf, setUf] = useState('');
+  const precisaUf = cargo !== 'presidente';
 
   useEffect(() => {
-    Promise.all([api.rankingPatrimonio(cargo), api.rankingReceitas(cargo)])
+    setUf('');
+  }, [cargo]);
+
+  useEffect(() => {
+    const params = uf ? { uf } : {};
+    Promise.all([api.rankingPatrimonio(cargo, params), api.rankingReceitas(cargo, params)])
       .then(([p, r]) => {
         setPat(p);
         setRec(r);
       })
       .catch((e) => setErro(e.message));
-  }, [cargo]);
+  }, [cargo, uf]);
 
   // Fecha o modal com ESC e trava o scroll do body enquanto aberto
   useEffect(() => {
@@ -114,6 +121,19 @@ export default function Rankings() {
   return (
     <div className="space-y-4">
       <h1 className="text-2xl font-bold">Rankings · <span className="uppercase">{cargo}</span></h1>
+      {precisaUf && (
+        <select
+          value={uf}
+          onChange={(e) => setUf(e.target.value)}
+          className="rounded-lg border bg-white px-2 py-1.5 text-sm font-semibold dark:border-slate-700 dark:bg-slate-900"
+          title="UF do ranking"
+        >
+          <option value="">Todas UFs</option>
+          {UFS.map((u) => (
+            <option key={u} value={u}>{u}</option>
+          ))}
+        </select>
+      )}
       <div className="grid gap-3 lg:grid-cols-2">
         {barra('Maior patrimônio', pat, 'patrimonio_total', 'patrimonio')}
         {barra('Maiores receitas', rec, 'receitas_total', 'receitas')}

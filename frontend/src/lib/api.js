@@ -15,6 +15,8 @@ export const CARGOS = [
   { id: 'dep-estadual', rotulo: 'Dep. Estadual' },
 ];
 
+export const UFS = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO'];
+
 async function get(path) {
   const r = await fetch(`${API_URL}${path}`);
   if (!r.ok) throw new Error(`API ${r.status} em ${path}`);
@@ -28,8 +30,14 @@ export const api = {
   },
   candidato: (slug) => get(`/candidatos/${slug}`),
   bens: (slug) => get(`/candidatos/${slug}/bens`),
-  rankingPatrimonio: (cargo) => get(`/rankings/patrimonio?cargo=${cargo}`),
-  rankingReceitas: (cargo) => get(`/rankings/receitas?cargo=${cargo}`),
+  rankingPatrimonio: (cargo, params = {}) => {
+    const q = new URLSearchParams({ cargo, ...params });
+    return get(`/rankings/patrimonio?${q}`);
+  },
+  rankingReceitas: (cargo, params = {}) => {
+    const q = new URLSearchParams({ cargo, ...params });
+    return get(`/rankings/receitas?${q}`);
+  },
   estatisticas: (cargo) => get(`/estatisticas?cargo=${cargo}`),
   pesquisas: (params = {}) => {
     const q = new URLSearchParams({ cargo: 'presidente', ...params });

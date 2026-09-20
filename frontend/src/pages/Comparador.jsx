@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useParams, useSearchParams } from 'react-router-dom';
 import { Bar, BarChart, LabelList, Legend, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
-import { api, brl } from '../lib/api.js';
+import { api, brl, UFS } from '../lib/api.js';
 
 const LINHAS = [
   { label: 'Partido', get: (c) => c.partido, ajuda: 'Legenda pela qual o candidato concorre em 2026 (fonte: TSE via G1).' },
@@ -65,12 +65,14 @@ export default function Comparador() {
   const [dados, setDados] = useState([]);
   const [ajudaSel, setAjudaSel] = useState(null); // label do critério com ajuda aberta
   const [showGraficos, setShowGraficos] = useState(false);
+  const precisaUf = cargo !== 'presidente';
+  const uf = precisaUf ? sp.get('uf') ?? '' : '';
 
   const sel = [sp.get('a'), sp.get('b'), sp.get('c')].filter(Boolean).slice(0, 3);
 
   useEffect(() => {
-    api.candidatos(cargo).then(setLista).catch(() => setLista([]));
-  }, [cargo]);
+    api.candidatos(cargo, uf ? { uf } : {}).then(setLista).catch(() => setLista([]));
+  }, [cargo, uf]);
 
   useEffect(() => {
     Promise.all(sel.map((s) => api.candidato(s).catch(() => null))).then(setDados);
@@ -82,6 +84,14 @@ export default function Comparador() {
     if (slug) n.set(slot, slug);
     else n.delete(slot);
     setSp(n);
+  };
+
+  // Trocar de UF limpa a seleção (comparação travada na UF)
+  const setUf = (v) => {
+    const n = new URLSearchParams();
+    if (v) n.set('uf', v);
+    setSp(n);
+    setShowGraficos(false);
   };
 
   const validos = dados.filter(Boolean);
@@ -121,6 +131,19 @@ export default function Comparador() {
         </button>
       </div>
       <div className="grid gap-2 sm:grid-cols-3">
+        {precisaUf && (
+          <select
+            value={uf}
+            onChange={(e) => setUf(e.target.value)}
+            className="rounded-lg border bg-white px-2 py-2 text-sm font-semibold dark:border-slate-700 dark:bg-slate-900 sm:col-span-3"
+            title="UF da comparação (travada: candidatos de UFs diferentes não se comparam)"
+          >
+            <option value="">Escolha a UF para comparar…</option>
+            {UFS.map((u) => (
+              <option key={u} value={u}>{u}</option>
+            ))}
+          </select>
+        )}
         {['a', 'b', 'c'].map((slot, i) => (
           <select
             key={slot}

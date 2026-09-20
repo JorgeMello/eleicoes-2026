@@ -32,6 +32,19 @@
 - Mudança de lista até 15/08 (prazo de registro) — re-coletar após o fechamento do TSE.
 
 ## Critérios de aceite
-- [ ] 27/27 listas de UF coletadas (mesmo que alguma UF tenha 0 — improvável)
-- [ ] Todos com `vice_*` preenchido; fotos locais 100%
-- [ ] Frontend filtra por UF e comparador travado na UF selecionada
+- [x] 27/27 listas de UF coletadas — **192 candidaturas** (AC 6 … SP 7 … TO 7)
+- [x] Fotos locais 100% (`governador-{uf}-{id}.jpeg`); 0 falhas na coleta
+- [x] Frontend filtra por UF e comparador travado na UF selecionada (trocar UF limpa a seleção)
+- [ ] Todos com `vice_*` preenchido — **parcial**: vários sem vice no G1 (registro posterior a 15/08?); re-coletar perto do 1º turno
+
+## Implementação (20/09/2026, validada)
+- **Descoberta:** perfis de governador usam **ID numérico** (`/governador/sp/250002550913.ghtml`),
+  não slug — `lista.js` parametrizado `(cargo, uf)` com regex genérica; `perfil.js` com cargo/UF
+  do item; parser reaproveitado sem mudanças (nome, bens com valor, doadores, gastos OK).
+- Backend: migration unicidade `(cargo, uf, slug)`; filtro `uf` em `candidatos` e `rankings`;
+  upsert por (slug, cargo, uf) no `POST /coletas` e no `spark eleicoes:importar`.
+- Scraper: `src/coletar-governador.js` (piloto SP 7/7 → nacional 185/185, 0 falhas) com
+  `out/governador-{uf}.json` + consolidado; fotos `governador-{uf}-{id}.jpeg`.
+- Frontend: seletor de UF na Home (só p/ cargos não-presidente), comparador com UF obrigatória
+  e rankings por UF; `UFS` centralizado em `lib/api.js`.
+- Validação: perfil Carlos Machado (SP) com foto local; comparador RJ com 9 opções; ranking MG.

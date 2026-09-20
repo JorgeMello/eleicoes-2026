@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { Link, useParams, useSearchParams } from 'react-router-dom';
 import { Cell, Legend, Pie, PieChart, ResponsiveContainer, Tooltip } from 'recharts';
 import CandidateCard from '../components/CandidateCard.jsx';
-import { api } from '../lib/api.js';
+import { UFS, api } from '../lib/api.js';
 
 const CORES = ['#10b981', '#3b82f6', '#f59e0b', '#ef4444', '#8b5cf6', '#06b6d4', '#84cc16'];
 
@@ -23,12 +23,14 @@ export default function Home() {
   const busca = sp.get('busca') ?? '';
   const partido = sp.get('partido') ?? '';
   const ordenar = sp.get('ordenar') ?? 'nome';
+  const uf = cargo === 'presidente' ? '' : sp.get('uf') ?? '';
+  const precisaUf = cargo !== 'presidente';
 
   useEffect(() => {
     setLoading(true);
     setErro(null);
     Promise.all([
-      api.candidatos(cargo, { busca, partido, ordenar }),
+      api.candidatos(cargo, { busca, partido, ordenar, ...(uf ? { uf } : {}) }),
       api.estatisticas(cargo),
     ])
       .then(([l, s]) => {
@@ -37,7 +39,7 @@ export default function Home() {
       })
       .catch((e) => setErro(e.message))
       .finally(() => setLoading(false));
-  }, [cargo, busca, partido, ordenar]);
+  }, [cargo, busca, partido, ordenar, uf]);
 
   const upd = (k, v) => {
     const n = new URLSearchParams(sp);
@@ -58,6 +60,14 @@ export default function Home() {
           </p>
         </div>
         <div className="ml-auto flex flex-wrap gap-2">
+          {precisaUf && (
+            <select value={uf} onChange={(e) => upd('uf', e.target.value)} className="rounded-lg border bg-white px-2 py-1.5 text-sm font-semibold dark:border-slate-700 dark:bg-slate-900" title="Filtrar por UF">
+              <option value="">Todas UFs</option>
+              {UFS.map((u) => (
+                <option key={u} value={u}>{u}</option>
+              ))}
+            </select>
+          )}
           <input
             value={busca}
             onChange={(e) => upd('busca', e.target.value)}

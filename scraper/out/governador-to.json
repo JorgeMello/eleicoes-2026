@@ -1,0 +1,1316 @@
+[
+  {
+    "slug": "270002548412",
+    "nome": "Ataides De Oliveira",
+    "partido": "NOVO",
+    "numero": 30,
+    "cargo": "governador",
+    "uf": "TO",
+    "foto_arquivo": "governador-to-270002548412",
+    "foto_url_original": "https://s2-g1.glbimg.com/1FumbRckU6nRxwFVNiEzBhuIja0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/Z/bvwBDNRrqq922X30hzsQ/ataides-de-oliveira.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/to/270002548412.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/270017072174",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 57458902,
+    "receitas_total": 234000,
+    "despesas_total": 262905,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro em espécie - moeda nacional",
+        "valor": 780000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 90% do capital social da empresa shopping center araguaia ltda",
+        "valor": 27000000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Trailblazer",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Trailblazer 2.8 l 4x4 ltz diesel 2019-2018 branco placa qkl 4108",
+        "valor": 218902
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 100% das quotas da empresa araguaia comercial de motos de uruacu ltda cnpj 02.391.971/0001- 35",
+        "valor": 20000000
+      },
+      {
+        "tipo": "Embarcação",
+        "descricao": "Embarcação Lancha de fibra de vidro ano 2003 com motores",
+        "valor": 85000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 100% do capital social da empresa condominio park reseda spe ltda",
+        "valor": 9375000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Ataides De Oliveira",
+        "percentual": 91.45
+      },
+      {
+        "nome": "Nathalia De Souza Povoa",
+        "percentual": 8.55
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 65.8
+      },
+      {
+        "nome": "lemes e antunys ltda",
+        "percentual": 13.28
+      },
+      {
+        "nome": "expertise contabilidade s/s ltda",
+        "percentual": 10.46
+      },
+      {
+        "nome": "leandro gomes de melo - sociedade individual de advocacia",
+        "percentual": 10.46
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 65.8
+      },
+      {
+        "nome": "lemes e antunys ltda",
+        "percentual": 13.28
+      },
+      {
+        "nome": "expertise contabilidade s/s ltda",
+        "percentual": 10.46
+      },
+      {
+        "nome": "leandro gomes de melo - sociedade individual de advocacia",
+        "percentual": 10.46
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Ataides De Oliveira",
+      "partido_pagina": "NOVO",
+      "numero_pagina": 30,
+      "profissao": "Empresário",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/270017072174",
+      "foto_url_original": "https://s2-g1.glbimg.com/1FumbRckU6nRxwFVNiEzBhuIja0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/Z/bvwBDNRrqq922X30hzsQ/ataides-de-oliveira.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Dinheiro em espécie - moeda nacional R$ 780.000,00 Dinheiro em espécie - moeda nacional",
+        "Quotas ou quinhões de capital R$ 27.000.000,00 90% do capital social da empresa shopping center araguaia ltda",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 218.902,00 Trailblazer 2.8 l 4x4 ltz diesel 2019-2018 branco placa qkl 4108",
+        "Quotas ou quinhões de capital R$ 20.000.000,00 100% das quotas da empresa araguaia comercial de motos de uruacu ltda cnpj 02.391.971/0001- 35",
+        "Embarcação R$ 85.000,00 Lancha de fibra de vidro ano 2003 com motores",
+        "Quotas ou quinhões de capital R$ 9.375.000,00 100% do capital social da empresa condominio park reseda spe ltda"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 234000,
+      "despesas_total": 262905,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Ataides De Oliveira",
+          "percentual": 91.45
+        },
+        {
+          "nome": "Nathalia De Souza Povoa",
+          "percentual": 8.55
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 65.8
+        },
+        {
+          "nome": "lemes e antunys ltda",
+          "percentual": 13.28
+        },
+        {
+          "nome": "expertise contabilidade s/s ltda",
+          "percentual": 10.46
+        },
+        {
+          "nome": "leandro gomes de melo - sociedade individual de advocacia",
+          "percentual": 10.46
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 65.8
+        },
+        {
+          "nome": "lemes e antunys ltda",
+          "percentual": 13.28
+        },
+        {
+          "nome": "expertise contabilidade s/s ltda",
+          "percentual": 10.46
+        },
+        {
+          "nome": "leandro gomes de melo - sociedade individual de advocacia",
+          "percentual": 10.46
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-to-270002548412.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:10:31.537Z"
+  },
+  {
+    "slug": "270002550458",
+    "nome": "Du Pereira",
+    "partido": "DC",
+    "numero": 27,
+    "cargo": "governador",
+    "uf": "TO",
+    "foto_arquivo": "governador-to-270002550458",
+    "foto_url_original": "https://s2-g1.glbimg.com/7A6w1XWW0aXQn9LygjFCFdw5dLQ=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/U/kspVrhQm2RLpuoXHBM0g/du-pereira.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/to/270002550458.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/270017126694",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1267700,
+    "receitas_total": 500,
+    "despesas_total": 60071.33,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux",
+        "valor": 240000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote residencial",
+        "valor": 90000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa",
+        "valor": 550000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta bancária",
+        "valor": 50000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux sw4",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hilux sw4",
+        "valor": 237700
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Empresa",
+        "valor": 100000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Ivaildo Pereira Da Cruz",
+        "percentual": 100
+      },
+      {
+        "nome": "pedro henrique holanda aguiar filho",
+        "percentual": 58.26
+      },
+      {
+        "nome": "66.180.693 jacksomyller borges paiva reis",
+        "percentual": 19.71
+      },
+      {
+        "nome": "grafica e editora santo expedito ltda",
+        "percentual": 11.65
+      },
+      {
+        "nome": "mayza dos santos camargo",
+        "percentual": 9.99
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 0.38
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "pedro henrique holanda aguiar filho",
+        "percentual": 58.26
+      },
+      {
+        "nome": "66.180.693 jacksomyller borges paiva reis",
+        "percentual": 19.71
+      },
+      {
+        "nome": "grafica e editora santo expedito ltda",
+        "percentual": 11.65
+      },
+      {
+        "nome": "mayza dos santos camargo",
+        "percentual": 9.99
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 0.38
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Du Pereira",
+      "partido_pagina": "DC",
+      "numero_pagina": 27,
+      "profissao": "Empresário",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/270017126694",
+      "foto_url_original": "https://s2-g1.glbimg.com/7A6w1XWW0aXQn9LygjFCFdw5dLQ=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/U/kspVrhQm2RLpuoXHBM0g/du-pereira.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 240.000,00 Hilux",
+        "Terreno R$ 90.000,00 Lote residencial",
+        "Casa R$ 550.000,00 Casa",
+        "Depósito bancário em conta corrente no país R$ 50.000,00 Saldo em conta bancária",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 237.700,00 Hilux sw4",
+        "Quotas ou quinhões de capital R$ 100.000,00 Empresa"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 500,
+      "despesas_total": 60071.33,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Ivaildo Pereira Da Cruz",
+          "percentual": 100
+        },
+        {
+          "nome": "pedro henrique holanda aguiar filho",
+          "percentual": 58.26
+        },
+        {
+          "nome": "66.180.693 jacksomyller borges paiva reis",
+          "percentual": 19.71
+        },
+        {
+          "nome": "grafica e editora santo expedito ltda",
+          "percentual": 11.65
+        },
+        {
+          "nome": "mayza dos santos camargo",
+          "percentual": 9.99
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 0.38
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "pedro henrique holanda aguiar filho",
+          "percentual": 58.26
+        },
+        {
+          "nome": "66.180.693 jacksomyller borges paiva reis",
+          "percentual": 19.71
+        },
+        {
+          "nome": "grafica e editora santo expedito ltda",
+          "percentual": 11.65
+        },
+        {
+          "nome": "mayza dos santos camargo",
+          "percentual": 9.99
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 0.38
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-to-270002550458.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:10:36.697Z"
+  },
+  {
+    "slug": "270002544494",
+    "nome": "Laurez Moreira",
+    "partido": "PSD",
+    "numero": 55,
+    "cargo": "governador",
+    "uf": "TO",
+    "foto_arquivo": "governador-to-270002544494",
+    "foto_url_original": "https://s2-g1.glbimg.com/IpMvEX5hPRh55H-WQKnfG5_sxsQ=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/A/a16dnbTuCpa0iSITLPWw/laurez-moreira.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/to/270002544494.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/270017033157",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 9935406.230000002,
+    "receitas_total": 4706000,
+    "despesas_total": 4861608.6,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Prédio residencial",
+        "descricao": "Prédio residencial Imovel residencial em gurupi",
+        "valor": 150000
+      },
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua Imovel rural em duere",
+        "valor": 475228.13
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas empresa produtos vale da serra comercial",
+        "valor": 270000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Animais bovinos",
+        "valor": 5201300
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 11,11% imovel urbano em gurupi",
+        "valor": 2333.34
+      },
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua Imovel rural em duere",
+        "valor": 112425.54
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio de bem",
+        "valor": 11343.6
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta bancaria",
+        "valor": 2488.23
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhao carga vw",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhao carga vw 1180",
+        "valor": 293000
+      },
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua Imovel rural em duere",
+        "valor": 696619.66
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio de veiculo",
+        "valor": 74687.11
+      },
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua Parte de fazenda goias",
+        "valor": 533333.34
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote em palmas",
+        "valor": 5000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. I/toyota hilux swsrxa4rd, cor preta, ano fabricação/modelo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. I/toyota hilux swsrxa4rd, cor preta, ano fabricação/modelo 2025/2026",
+        "valor": 320000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital junto a cooperativa de credito livre de admissao de paraiso",
+        "valor": 451875.95
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo fiat strada",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo fiat strada",
+        "valor": 66340.57
+      },
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua Imovel rural em duere",
+        "valor": 425691.73
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Titulo de capitalizacao",
+        "valor": 122298.4
+      },
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua Imovel rural em duere",
+        "valor": 359112.2
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Cota consorcio veiculo",
+        "valor": 22900.71
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio tratores",
+        "valor": 97157.72
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiuclo toyota hilux",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiuclo toyota hilux",
+        "valor": 242270
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 95.62
+      },
+      {
+        "nome": "Laurez Da Rocha Moreira",
+        "percentual": 0.7
+      },
+      {
+        "nome": "Herbert Brito Barros",
+        "percentual": 0.64
+      },
+      {
+        "nome": "Juarez Salim Moreira",
+        "percentual": 0.64
+      },
+      {
+        "nome": "Kildo Campos Machado",
+        "percentual": 0.34
+      },
+      {
+        "nome": "art music studio produtora de audio & video ltda",
+        "percentual": 41.53
+      },
+      {
+        "nome": "juvenal klayber & guinzelli sociedade de advogados s/s",
+        "percentual": 12.34
+      },
+      {
+        "nome": "paiva e biangulo contadores associados ltda",
+        "percentual": 6.17
+      },
+      {
+        "nome": "tecno work ltda",
+        "percentual": 4.11
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 2.06
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "art music studio produtora de audio & video ltda",
+        "percentual": 41.53
+      },
+      {
+        "nome": "juvenal klayber & guinzelli sociedade de advogados s/s",
+        "percentual": 12.34
+      },
+      {
+        "nome": "paiva e biangulo contadores associados ltda",
+        "percentual": 6.17
+      },
+      {
+        "nome": "tecno work ltda",
+        "percentual": 4.11
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 2.06
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Laurez Moreira",
+      "partido_pagina": "PSD",
+      "numero_pagina": 55,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/270017033157",
+      "foto_url_original": "https://s2-g1.glbimg.com/IpMvEX5hPRh55H-WQKnfG5_sxsQ=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/A/a16dnbTuCpa0iSITLPWw/laurez-moreira.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Prédio residencial R$ 150.000,00 Imovel residencial em gurupi",
+        "Terra nua R$ 475.228,13 Imovel rural em duere",
+        "Quotas ou quinhões de capital R$ 270.000,00 Quotas empresa produtos vale da serra comercial",
+        "Outros bens e direitos R$ 5.201.300,00 Animais bovinos",
+        "Terreno R$ 2.333,34 11,11% imovel urbano em gurupi",
+        "Terra nua R$ 112.425,54 Imovel rural em duere",
+        "Consórcio não contemplado R$ 11.343,60 Consorcio de bem",
+        "Depósito bancário em conta corrente no país R$ 2.488,23 Saldo em conta bancaria",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 293.000,00 Caminhao carga vw 1180",
+        "Terra nua R$ 696.619,66 Imovel rural em duere",
+        "Consórcio não contemplado R$ 74.687,11 Consorcio de veiculo",
+        "Terra nua R$ 533.333,34 Parte de fazenda goias",
+        "Terreno R$ 5.000,00 Lote em palmas",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 320.000,00 I/toyota hilux swsrxa4rd, cor preta, ano fabricação/modelo 2025/2026",
+        "Quotas ou quinhões de capital R$ 451.875,95 Capital junto a cooperativa de credito livre de admissao de paraiso",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 66.340,57 Veiculo fiat strada",
+        "Terra nua R$ 425.691,73 Imovel rural em duere",
+        "Outros fundos R$ 122.298,40 Titulo de capitalizacao",
+        "Terra nua R$ 359.112,20 Imovel rural em duere",
+        "Consórcio não contemplado R$ 22.900,71 Cota consorcio veiculo",
+        "Consórcio não contemplado R$ 97.157,72 Consorcio tratores",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 242.270,00 Veiuclo toyota hilux"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 4706000,
+      "despesas_total": 4861608.6,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 95.62
+        },
+        {
+          "nome": "Laurez Da Rocha Moreira",
+          "percentual": 0.7
+        },
+        {
+          "nome": "Herbert Brito Barros",
+          "percentual": 0.64
+        },
+        {
+          "nome": "Juarez Salim Moreira",
+          "percentual": 0.64
+        },
+        {
+          "nome": "Kildo Campos Machado",
+          "percentual": 0.34
+        },
+        {
+          "nome": "art music studio produtora de audio & video ltda",
+          "percentual": 41.53
+        },
+        {
+          "nome": "juvenal klayber & guinzelli sociedade de advogados s/s",
+          "percentual": 12.34
+        },
+        {
+          "nome": "paiva e biangulo contadores associados ltda",
+          "percentual": 6.17
+        },
+        {
+          "nome": "tecno work ltda",
+          "percentual": 4.11
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 2.06
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "art music studio produtora de audio & video ltda",
+          "percentual": 41.53
+        },
+        {
+          "nome": "juvenal klayber & guinzelli sociedade de advogados s/s",
+          "percentual": 12.34
+        },
+        {
+          "nome": "paiva e biangulo contadores associados ltda",
+          "percentual": 6.17
+        },
+        {
+          "nome": "tecno work ltda",
+          "percentual": 4.11
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 2.06
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-to-270002544494.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:10:42.720Z"
+  },
+  {
+    "slug": "270002539187",
+    "nome": "Prof Witer Naves",
+    "partido": "PSOL",
+    "numero": 50,
+    "cargo": "governador",
+    "uf": "TO",
+    "foto_arquivo": "governador-to-270002539187",
+    "foto_url_original": "https://s2-g1.glbimg.com/qEZoKQ45COwcrkZF8P32FGxIHlE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/u/gBPt9ETZKjYTmWljuQjQ/prof-witer-naves.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/to/270002539187.ghtml",
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/270016900853",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 100000,
+    "despesas_total": 71105.2,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 100
+      },
+      {
+        "nome": "distak-se web service ltda",
+        "percentual": 49.22
+      },
+      {
+        "nome": "rogério martins dos santos silva",
+        "percentual": 21.1
+      },
+      {
+        "nome": "jose osorio sales veiga",
+        "percentual": 14.06
+      },
+      {
+        "nome": "zulmirane soares lima",
+        "percentual": 14.06
+      },
+      {
+        "nome": "grafica e editora santo expedito ltda",
+        "percentual": 1.39
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "distak-se web service ltda",
+        "percentual": 49.22
+      },
+      {
+        "nome": "rogério martins dos santos silva",
+        "percentual": 21.1
+      },
+      {
+        "nome": "jose osorio sales veiga",
+        "percentual": 14.06
+      },
+      {
+        "nome": "zulmirane soares lima",
+        "percentual": 14.06
+      },
+      {
+        "nome": "grafica e editora santo expedito ltda",
+        "percentual": 1.39
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Prof Witer Naves",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 50,
+      "profissao": "Professor de ensino médio",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/270016900853",
+      "foto_url_original": "https://s2-g1.glbimg.com/qEZoKQ45COwcrkZF8P32FGxIHlE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/u/gBPt9ETZKjYTmWljuQjQ/prof-witer-naves.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 100000,
+      "despesas_total": 71105.2,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 100
+        },
+        {
+          "nome": "distak-se web service ltda",
+          "percentual": 49.22
+        },
+        {
+          "nome": "rogério martins dos santos silva",
+          "percentual": 21.1
+        },
+        {
+          "nome": "jose osorio sales veiga",
+          "percentual": 14.06
+        },
+        {
+          "nome": "zulmirane soares lima",
+          "percentual": 14.06
+        },
+        {
+          "nome": "grafica e editora santo expedito ltda",
+          "percentual": 1.39
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "distak-se web service ltda",
+          "percentual": 49.22
+        },
+        {
+          "nome": "rogério martins dos santos silva",
+          "percentual": 21.1
+        },
+        {
+          "nome": "jose osorio sales veiga",
+          "percentual": 14.06
+        },
+        {
+          "nome": "zulmirane soares lima",
+          "percentual": 14.06
+        },
+        {
+          "nome": "grafica e editora santo expedito ltda",
+          "percentual": 1.39
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-to-270002539187.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:10:48.275Z"
+  },
+  {
+    "slug": "270002544599",
+    "nome": "Professora Dorinha",
+    "partido": "UNIÃO",
+    "numero": 44,
+    "cargo": "governador",
+    "uf": "TO",
+    "foto_arquivo": "governador-to-270002544599",
+    "foto_url_original": "https://s2-g1.glbimg.com/I6Mmh-7T63b4BW6oyxq6vTqRUgI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/1/n7YyytQOSwGV8hUAIE6g/professora-dorinha.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/to/270002544599.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/270017035491",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 2352740.2800000003,
+    "receitas_total": 6821666.66,
+    "despesas_total": 4934490.19,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Saldo em conta corrente/cdb di",
+        "valor": 475880.59
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 50% de imóvel residencial",
+        "valor": 1555513.69
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Camionete",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Camionete",
+        "valor": 321346
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - União",
+        "percentual": 87.96
+      },
+      {
+        "nome": "Direção Estadual/distrital - União - Tocantins",
+        "percentual": 8.43
+      },
+      {
+        "nome": "Direção Estadual/distrital - Republicanos - Tocantins",
+        "percentual": 1.51
+      },
+      {
+        "nome": "Guilherme Borges De Freitas",
+        "percentual": 0.59
+      },
+      {
+        "nome": "Maria Auxiliadora Seabra Rezende",
+        "percentual": 0.49
+      },
+      {
+        "nome": "ginga propaganda ltda",
+        "percentual": 18.24
+      },
+      {
+        "nome": "jaw studios ltda",
+        "percentual": 10.13
+      },
+      {
+        "nome": "monique aparecida da silva belem ltda",
+        "percentual": 8.25
+      },
+      {
+        "nome": "paiva e biangulo contadores associados ltda",
+        "percentual": 7.09
+      },
+      {
+        "nome": "cores em papel industria grafica ltda",
+        "percentual": 6.17
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "ginga propaganda ltda",
+        "percentual": 18.24
+      },
+      {
+        "nome": "jaw studios ltda",
+        "percentual": 10.13
+      },
+      {
+        "nome": "monique aparecida da silva belem ltda",
+        "percentual": 8.25
+      },
+      {
+        "nome": "paiva e biangulo contadores associados ltda",
+        "percentual": 7.09
+      },
+      {
+        "nome": "cores em papel industria grafica ltda",
+        "percentual": 6.17
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Professora Dorinha",
+      "partido_pagina": "UNIÃO",
+      "numero_pagina": 44,
+      "profissao": "Senador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/270017035491",
+      "foto_url_original": "https://s2-g1.glbimg.com/I6Mmh-7T63b4BW6oyxq6vTqRUgI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/1/n7YyytQOSwGV8hUAIE6g/professora-dorinha.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 475.880,59 Saldo em conta corrente/cdb di",
+        "Outros bens imóveis R$ 1.555.513,69 50% de imóvel residencial",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 321.346,00 Camionete"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 6821666.66,
+      "despesas_total": 4934490.19,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - União",
+          "percentual": 87.96
+        },
+        {
+          "nome": "Direção Estadual/distrital - União - Tocantins",
+          "percentual": 8.43
+        },
+        {
+          "nome": "Direção Estadual/distrital - Republicanos - Tocantins",
+          "percentual": 1.51
+        },
+        {
+          "nome": "Guilherme Borges De Freitas",
+          "percentual": 0.59
+        },
+        {
+          "nome": "Maria Auxiliadora Seabra Rezende",
+          "percentual": 0.49
+        },
+        {
+          "nome": "ginga propaganda ltda",
+          "percentual": 18.24
+        },
+        {
+          "nome": "jaw studios ltda",
+          "percentual": 10.13
+        },
+        {
+          "nome": "monique aparecida da silva belem ltda",
+          "percentual": 8.25
+        },
+        {
+          "nome": "paiva e biangulo contadores associados ltda",
+          "percentual": 7.09
+        },
+        {
+          "nome": "cores em papel industria grafica ltda",
+          "percentual": 6.17
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "ginga propaganda ltda",
+          "percentual": 18.24
+        },
+        {
+          "nome": "jaw studios ltda",
+          "percentual": 10.13
+        },
+        {
+          "nome": "monique aparecida da silva belem ltda",
+          "percentual": 8.25
+        },
+        {
+          "nome": "paiva e biangulo contadores associados ltda",
+          "percentual": 7.09
+        },
+        {
+          "nome": "cores em papel industria grafica ltda",
+          "percentual": 6.17
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-to-270002544599.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:10:55.344Z"
+  },
+  {
+    "slug": "270002554375",
+    "nome": "Siqueira Campos Jr",
+    "partido": "DEMOCRATA",
+    "numero": 35,
+    "cargo": "governador",
+    "uf": "TO",
+    "foto_arquivo": "governador-to-270002554375",
+    "foto_url_original": "https://s2-g1.glbimg.com/VYF0s9-bREStBgGmohNrkCX2BMo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/I/ZcovkrQnu0Ut0BdsXg7w/siqueira-campos-jr.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/to/270002554375.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/270017140501",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 101,
+    "despesas_total": 0,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Nildo Pereira De Castro",
+        "percentual": 99.01
+      },
+      {
+        "nome": "Luís Eduardo Pereira De Castro",
+        "percentual": 0.99
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Siqueira Campos Jr",
+      "partido_pagina": "DEMOCRATA",
+      "numero_pagina": 35,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/270017140501",
+      "foto_url_original": "https://s2-g1.glbimg.com/VYF0s9-bREStBgGmohNrkCX2BMo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/I/ZcovkrQnu0Ut0BdsXg7w/siqueira-campos-jr.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 101,
+      "despesas_total": 0,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Nildo Pereira De Castro",
+          "percentual": 99.01
+        },
+        {
+          "nome": "Luís Eduardo Pereira De Castro",
+          "percentual": 0.99
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-to-270002554375.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:11:01.707Z"
+  },
+  {
+    "slug": "270002544544",
+    "nome": "Vicentinho Júnior",
+    "partido": "PSDB",
+    "numero": 45,
+    "cargo": "governador",
+    "uf": "TO",
+    "foto_arquivo": "governador-to-270002544544",
+    "foto_url_original": "https://s2-g1.glbimg.com/8zPK5-MzUuWjdD0Uu0aDTK3MUZ0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/q/foZu5pRSiEW3ANjHes7A/vicentinho-junior.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/to/270002544544.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/270017033657",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 3983398,
+    "receitas_total": 5156408,
+    "despesas_total": 3202611.18,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo toyota sw4, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo toyota sw4, ano 2025/2025",
+        "valor": 383000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo ford maverick ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo ford maverick ano 1976/1976",
+        "valor": 30000
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Sala comercial",
+        "valor": 100000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo hilux srx, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo hilux srx, ano 2023/2024",
+        "valor": 300000
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Numerário em espécie",
+        "valor": 100000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Saldo de investimetos em detras de renda fixa ¿ cef",
+        "valor": 493905
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente da caixa econômica federal",
+        "valor": 49767
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente do banco sicredi s/a",
+        "valor": 2726
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote de terras rurais (chácara) no município de mateiros-to",
+        "valor": 144000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 100% das quotas de capital da empresa agropecuária são bento ltda",
+        "valor": 2380000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psdb",
+        "percentual": 81.26
+      },
+      {
+        "nome": "Vicente Alves De Oliveira Junior",
+        "percentual": 8.15
+      },
+      {
+        "nome": "Direção Estadual/distrital - Psdb - Tocantins",
+        "percentual": 4.73
+      },
+      {
+        "nome": "Amelio Cayres De Almeida",
+        "percentual": 4.32
+      },
+      {
+        "nome": "Marcones Ribeiro De Castro",
+        "percentual": 0.48
+      },
+      {
+        "nome": "solano donato advogados associados",
+        "percentual": 12.49
+      },
+      {
+        "nome": "lemes e antunys ltda",
+        "percentual": 11.22
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 10.93
+      },
+      {
+        "nome": "lets go produtora ltda",
+        "percentual": 8.74
+      },
+      {
+        "nome": "tecno work ltda",
+        "percentual": 8.39
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "solano donato advogados associados",
+        "percentual": 12.49
+      },
+      {
+        "nome": "lemes e antunys ltda",
+        "percentual": 11.22
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 10.93
+      },
+      {
+        "nome": "lets go produtora ltda",
+        "percentual": 8.74
+      },
+      {
+        "nome": "tecno work ltda",
+        "percentual": 8.39
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Vicentinho Júnior",
+      "partido_pagina": "PSDB",
+      "numero_pagina": 45,
+      "profissao": "Deputado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/270017033657",
+      "foto_url_original": "https://s2-g1.glbimg.com/8zPK5-MzUuWjdD0Uu0aDTK3MUZ0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/q/foZu5pRSiEW3ANjHes7A/vicentinho-junior.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 383.000,00 Veículo toyota sw4, ano 2025/2025",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 30.000,00 Veículo ford maverick ano 1976/1976",
+        "Sala ou conjunto R$ 100.000,00 Sala comercial",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 300.000,00 Veículo hilux srx, ano 2023/2024",
+        "Dinheiro em espécie - moeda nacional R$ 100.000,00 Numerário em espécie",
+        "Outras aplicações e investimentos R$ 493.905,00 Saldo de investimetos em detras de renda fixa ¿ cef",
+        "Depósito bancário em conta corrente no país R$ 49.767,00 Saldo em conta corrente da caixa econômica federal",
+        "Depósito bancário em conta corrente no país R$ 2.726,00 Saldo em conta corrente do banco sicredi s/a",
+        "Terreno R$ 144.000,00 Lote de terras rurais (chácara) no município de mateiros-to",
+        "Quotas ou quinhões de capital R$ 2.380.000,00 100% das quotas de capital da empresa agropecuária são bento ltda"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 5156408,
+      "despesas_total": 3202611.18,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psdb",
+          "percentual": 81.26
+        },
+        {
+          "nome": "Vicente Alves De Oliveira Junior",
+          "percentual": 8.15
+        },
+        {
+          "nome": "Direção Estadual/distrital - Psdb - Tocantins",
+          "percentual": 4.73
+        },
+        {
+          "nome": "Amelio Cayres De Almeida",
+          "percentual": 4.32
+        },
+        {
+          "nome": "Marcones Ribeiro De Castro",
+          "percentual": 0.48
+        },
+        {
+          "nome": "solano donato advogados associados",
+          "percentual": 12.49
+        },
+        {
+          "nome": "lemes e antunys ltda",
+          "percentual": 11.22
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 10.93
+        },
+        {
+          "nome": "lets go produtora ltda",
+          "percentual": 8.74
+        },
+        {
+          "nome": "tecno work ltda",
+          "percentual": 8.39
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "solano donato advogados associados",
+          "percentual": 12.49
+        },
+        {
+          "nome": "lemes e antunys ltda",
+          "percentual": 11.22
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 10.93
+        },
+        {
+          "nome": "lets go produtora ltda",
+          "percentual": 8.74
+        },
+        {
+          "nome": "tecno work ltda",
+          "percentual": 8.39
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-to-270002544544.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:11:08.856Z"
+  }
+]

@@ -1,0 +1,1104 @@
+[
+  {
+    "slug": "260002547415",
+    "nome": "Dr. Helton",
+    "partido": "PSOL",
+    "numero": 50,
+    "cargo": "governador",
+    "uf": "SE",
+    "foto_arquivo": "governador-se-260002547415",
+    "foto_url_original": "https://s2-g1.glbimg.com/vhi_cXhWBDFAeep0xPTroa8VWv0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/y/HeBhRySIyeXEB9xrhxgg/dr.-helton.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/se/260002547415.ghtml",
+    "profissao": "Médico",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/260017062019",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 47000,
+    "receitas_total": 95800,
+    "despesas_total": 55583.5,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. I/fiat freemont precisio, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. I/fiat freemont precisio, ano 2012",
+        "valor": 47000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 98.12
+      },
+      {
+        "nome": "Hildon Oliveira Rodrigues",
+        "percentual": 1.04
+      },
+      {
+        "nome": "Fernando Luiz De Mendonca",
+        "percentual": 0.42
+      },
+      {
+        "nome": "Ana Carolina Araujo Oliveira Tabosa",
+        "percentual": 0.31
+      },
+      {
+        "nome": "Waldir Araujo Cardoso",
+        "percentual": 0.1
+      },
+      {
+        "nome": "luiz barroso neto",
+        "percentual": 25.19
+      },
+      {
+        "nome": "carla cristiny teixeira silveira",
+        "percentual": 12.59
+      },
+      {
+        "nome": "disloc locacao de veiculos ltda",
+        "percentual": 11.01
+      },
+      {
+        "nome": "ubirajara andrade alcantara",
+        "percentual": 10.25
+      },
+      {
+        "nome": "thiago jose de carvalho oliveira",
+        "percentual": 9
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "luiz barroso neto",
+        "percentual": 25.19
+      },
+      {
+        "nome": "carla cristiny teixeira silveira",
+        "percentual": 12.59
+      },
+      {
+        "nome": "disloc locacao de veiculos ltda",
+        "percentual": 11.01
+      },
+      {
+        "nome": "ubirajara andrade alcantara",
+        "percentual": 10.25
+      },
+      {
+        "nome": "thiago jose de carvalho oliveira",
+        "percentual": 9
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Dr. Helton",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 50,
+      "profissao": "Médico",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/260017062019",
+      "foto_url_original": "https://s2-g1.glbimg.com/vhi_cXhWBDFAeep0xPTroa8VWv0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/y/HeBhRySIyeXEB9xrhxgg/dr.-helton.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 47.000,00 I/fiat freemont precisio, ano 2012"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 95800,
+      "despesas_total": 55583.5,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 98.12
+        },
+        {
+          "nome": "Hildon Oliveira Rodrigues",
+          "percentual": 1.04
+        },
+        {
+          "nome": "Fernando Luiz De Mendonca",
+          "percentual": 0.42
+        },
+        {
+          "nome": "Ana Carolina Araujo Oliveira Tabosa",
+          "percentual": 0.31
+        },
+        {
+          "nome": "Waldir Araujo Cardoso",
+          "percentual": 0.1
+        },
+        {
+          "nome": "luiz barroso neto",
+          "percentual": 25.19
+        },
+        {
+          "nome": "carla cristiny teixeira silveira",
+          "percentual": 12.59
+        },
+        {
+          "nome": "disloc locacao de veiculos ltda",
+          "percentual": 11.01
+        },
+        {
+          "nome": "ubirajara andrade alcantara",
+          "percentual": 10.25
+        },
+        {
+          "nome": "thiago jose de carvalho oliveira",
+          "percentual": 9
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "luiz barroso neto",
+          "percentual": 25.19
+        },
+        {
+          "nome": "carla cristiny teixeira silveira",
+          "percentual": 12.59
+        },
+        {
+          "nome": "disloc locacao de veiculos ltda",
+          "percentual": 11.01
+        },
+        {
+          "nome": "ubirajara andrade alcantara",
+          "percentual": 10.25
+        },
+        {
+          "nome": "thiago jose de carvalho oliveira",
+          "percentual": 9
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-se-260002547415.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:09:55.088Z"
+  },
+  {
+    "slug": "260002551712",
+    "nome": "Emanuel Cacho",
+    "partido": "PSDB",
+    "numero": 45,
+    "cargo": "governador",
+    "uf": "SE",
+    "foto_arquivo": "governador-se-260002551712",
+    "foto_url_original": "https://s2-g1.glbimg.com/4GW1lhDfpjwYIgN5hzSNxD8T3eY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/Y/hcRThaTuiEdfYwNhDosw/emanuel-cacho.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/se/260002551712.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/260017109870",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 600000,
+    "receitas_total": 165000,
+    "despesas_total": 145000,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa",
+        "valor": 500000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Carro",
+        "valor": 100000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2014,
+        "cargo": "Deputado estadual",
+        "partido": "PEN",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psdb",
+        "percentual": 100
+      },
+      {
+        "nome": "58.905.129 jurandir augusto mota de araujo",
+        "percentual": 34.48
+      },
+      {
+        "nome": "fm40 agenciamentos e producoes ltda",
+        "percentual": 25.52
+      },
+      {
+        "nome": "automove locadora de veiculos ltda",
+        "percentual": 11.03
+      },
+      {
+        "nome": "genisson soares dos santos",
+        "percentual": 8.28
+      },
+      {
+        "nome": "eureka producoes e eventos ltda",
+        "percentual": 6.9
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "58.905.129 jurandir augusto mota de araujo",
+        "percentual": 34.48
+      },
+      {
+        "nome": "fm40 agenciamentos e producoes ltda",
+        "percentual": 25.52
+      },
+      {
+        "nome": "automove locadora de veiculos ltda",
+        "percentual": 11.03
+      },
+      {
+        "nome": "genisson soares dos santos",
+        "percentual": 8.28
+      },
+      {
+        "nome": "eureka producoes e eventos ltda",
+        "percentual": 6.9
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Emanuel Cacho",
+      "partido_pagina": "PSDB",
+      "numero_pagina": 45,
+      "profissao": "Advogado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/260017109870",
+      "foto_url_original": "https://s2-g1.glbimg.com/4GW1lhDfpjwYIgN5hzSNxD8T3eY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/Y/hcRThaTuiEdfYwNhDosw/emanuel-cacho.jpeg",
+      "historico": [
+        {
+          "ano": 2014,
+          "cargo": "Deputado estadual",
+          "partido": "PEN",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Casa R$ 500.000,00 Casa",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 100.000,00 Carro"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 165000,
+      "despesas_total": 145000,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psdb",
+          "percentual": 100
+        },
+        {
+          "nome": "58.905.129 jurandir augusto mota de araujo",
+          "percentual": 34.48
+        },
+        {
+          "nome": "fm40 agenciamentos e producoes ltda",
+          "percentual": 25.52
+        },
+        {
+          "nome": "automove locadora de veiculos ltda",
+          "percentual": 11.03
+        },
+        {
+          "nome": "genisson soares dos santos",
+          "percentual": 8.28
+        },
+        {
+          "nome": "eureka producoes e eventos ltda",
+          "percentual": 6.9
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "58.905.129 jurandir augusto mota de araujo",
+          "percentual": 34.48
+        },
+        {
+          "nome": "fm40 agenciamentos e producoes ltda",
+          "percentual": 25.52
+        },
+        {
+          "nome": "automove locadora de veiculos ltda",
+          "percentual": 11.03
+        },
+        {
+          "nome": "genisson soares dos santos",
+          "percentual": 8.28
+        },
+        {
+          "nome": "eureka producoes e eventos ltda",
+          "percentual": 6.9
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-se-260002551712.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:10:01.468Z"
+  },
+  {
+    "slug": "260002542491",
+    "nome": "Fábio",
+    "partido": "PSD",
+    "numero": 55,
+    "cargo": "governador",
+    "uf": "SE",
+    "foto_arquivo": "governador-se-260002542491",
+    "foto_url_original": "https://s2-g1.glbimg.com/eoiCWAmsFsV1jXRoFzSFM0rG5HU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/1/vNKNmJRymW4qUO78PALQ/fabio.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/se/260002542491.ghtml",
+    "profissao": "Governador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/260017015349",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 1698945.66,
+    "receitas_total": 6201449.4,
+    "despesas_total": 6358775.96,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "valor": 30000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "valor": 209990
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Lote",
+        "valor": 82123.49
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Quadriciclo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Quadriciclo",
+        "valor": 57500
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de empresa",
+        "valor": 49400
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 519456.69
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de empresa",
+        "valor": 721.7
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Moto aquática",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Moto aquática",
+        "valor": 115000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Quadriciclo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Quadriciclo",
+        "valor": 57500
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 491706.99
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Reboque",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Reboque",
+        "valor": 11000
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Conta corrente",
+        "valor": 74546.79
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2010,
+        "cargo": "Deputado estadual",
+        "partido": "PDT",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 96.75
+      },
+      {
+        "nome": "Andre Luis Dantas Ferreira",
+        "percentual": 1.31
+      },
+      {
+        "nome": "Sergio Gama Da Silva",
+        "percentual": 0.48
+      },
+      {
+        "nome": "Maisa Cruz Mitidieri",
+        "percentual": 0.37
+      },
+      {
+        "nome": "Ulisses De Andrade Filho",
+        "percentual": 0.29
+      },
+      {
+        "nome": "w. g. producoes e publicidade ltda",
+        "percentual": 20.24
+      },
+      {
+        "nome": "camisa dez sublimacao & serigrafia ltda",
+        "percentual": 8.35
+      },
+      {
+        "nome": "mayara pedrosa sociedade individual de advocacia",
+        "percentual": 7.86
+      },
+      {
+        "nome": "sv comunicacao visual ltda",
+        "percentual": 4.86
+      },
+      {
+        "nome": "pam ltda",
+        "percentual": 4.01
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "w. g. producoes e publicidade ltda",
+        "percentual": 20.24
+      },
+      {
+        "nome": "camisa dez sublimacao & serigrafia ltda",
+        "percentual": 8.35
+      },
+      {
+        "nome": "mayara pedrosa sociedade individual de advocacia",
+        "percentual": 7.86
+      },
+      {
+        "nome": "sv comunicacao visual ltda",
+        "percentual": 4.86
+      },
+      {
+        "nome": "pam ltda",
+        "percentual": 4.01
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Fábio",
+      "partido_pagina": "PSD",
+      "numero_pagina": 55,
+      "profissao": "Governador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/260017015349",
+      "foto_url_original": "https://s2-g1.glbimg.com/eoiCWAmsFsV1jXRoFzSFM0rG5HU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/1/vNKNmJRymW4qUO78PALQ/fabio.jpeg",
+      "historico": [
+        {
+          "ano": 2010,
+          "cargo": "Deputado estadual",
+          "partido": "PDT",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 30.000,00 Automóvel",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 209.990,00 Automóvel",
+        "Outros bens imóveis R$ 82.123,49 Lote",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 57.500,00 Quadriciclo",
+        "Quotas ou quinhões de capital R$ 49.400,00 Quotas de empresa",
+        "Apartamento R$ 519.456,69 Apartamento",
+        "Quotas ou quinhões de capital R$ 721,70 Quotas de empresa",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 115.000,00 Moto aquática",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 57.500,00 Quadriciclo",
+        "Apartamento R$ 491.706,99 Apartamento",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 11.000,00 Reboque",
+        "Outros fundos R$ 74.546,79 Conta corrente"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 6201449.4,
+      "despesas_total": 6358775.96,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 96.75
+        },
+        {
+          "nome": "Andre Luis Dantas Ferreira",
+          "percentual": 1.31
+        },
+        {
+          "nome": "Sergio Gama Da Silva",
+          "percentual": 0.48
+        },
+        {
+          "nome": "Maisa Cruz Mitidieri",
+          "percentual": 0.37
+        },
+        {
+          "nome": "Ulisses De Andrade Filho",
+          "percentual": 0.29
+        },
+        {
+          "nome": "w. g. producoes e publicidade ltda",
+          "percentual": 20.24
+        },
+        {
+          "nome": "camisa dez sublimacao & serigrafia ltda",
+          "percentual": 8.35
+        },
+        {
+          "nome": "mayara pedrosa sociedade individual de advocacia",
+          "percentual": 7.86
+        },
+        {
+          "nome": "sv comunicacao visual ltda",
+          "percentual": 4.86
+        },
+        {
+          "nome": "pam ltda",
+          "percentual": 4.01
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "w. g. producoes e publicidade ltda",
+          "percentual": 20.24
+        },
+        {
+          "nome": "camisa dez sublimacao & serigrafia ltda",
+          "percentual": 8.35
+        },
+        {
+          "nome": "mayara pedrosa sociedade individual de advocacia",
+          "percentual": 7.86
+        },
+        {
+          "nome": "sv comunicacao visual ltda",
+          "percentual": 4.86
+        },
+        {
+          "nome": "pam ltda",
+          "percentual": 4.01
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-se-260002542491.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:10:07.532Z"
+  },
+  {
+    "slug": "260002549466",
+    "nome": "Ricardo Marques",
+    "partido": "PL",
+    "numero": 22,
+    "cargo": "governador",
+    "uf": "SE",
+    "foto_arquivo": "governador-se-260002549466",
+    "foto_url_original": "https://s2-g1.glbimg.com/uaHvtECKTFj01Q8IdueFvbcciEc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/I/GKPcggQ0mEnQoAwx1Wjg/ricardo-marques.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/se/260002549466.ghtml",
+    "profissao": "Jornalista e redator",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/260017083488",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": null,
+    "receitas_total": 311548,
+    "despesas_total": 300209,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Pl - Sergipe",
+        "percentual": 96.29
+      },
+      {
+        "nome": "Cecilia Machado De Jesus Marques",
+        "percentual": 3.21
+      },
+      {
+        "nome": "Gmt Tecnologia",
+        "percentual": 0.48
+      },
+      {
+        "nome": "Queila Raiane Dos Santos Rocha",
+        "percentual": 0.01
+      },
+      {
+        "nome": "Josefa Rodrigues Dos Santos",
+        "percentual": 0.01
+      },
+      {
+        "nome": "ovni digital ltda",
+        "percentual": 99.93
+      },
+      {
+        "nome": "gmt tecnologia ltda",
+        "percentual": 0.07
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "ovni digital ltda",
+        "percentual": 99.93
+      },
+      {
+        "nome": "gmt tecnologia ltda",
+        "percentual": 0.07
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Ricardo Marques",
+      "partido_pagina": "PL",
+      "numero_pagina": 22,
+      "profissao": "Jornalista e redator",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/260017083488",
+      "foto_url_original": "https://s2-g1.glbimg.com/uaHvtECKTFj01Q8IdueFvbcciEc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/I/GKPcggQ0mEnQoAwx1Wjg/ricardo-marques.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 311548,
+      "despesas_total": 300209,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Pl - Sergipe",
+          "percentual": 96.29
+        },
+        {
+          "nome": "Cecilia Machado De Jesus Marques",
+          "percentual": 3.21
+        },
+        {
+          "nome": "Gmt Tecnologia",
+          "percentual": 0.48
+        },
+        {
+          "nome": "Queila Raiane Dos Santos Rocha",
+          "percentual": 0.01
+        },
+        {
+          "nome": "Josefa Rodrigues Dos Santos",
+          "percentual": 0.01
+        },
+        {
+          "nome": "ovni digital ltda",
+          "percentual": 99.93
+        },
+        {
+          "nome": "gmt tecnologia ltda",
+          "percentual": 0.07
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "ovni digital ltda",
+          "percentual": 99.93
+        },
+        {
+          "nome": "gmt tecnologia ltda",
+          "percentual": 0.07
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-se-260002549466.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:10:13.808Z"
+  },
+  {
+    "slug": "260002550683",
+    "nome": "Taty Cristina De Jesus",
+    "partido": "DC",
+    "numero": 27,
+    "cargo": "governador",
+    "uf": "SE",
+    "foto_arquivo": "governador-se-260002550683",
+    "foto_url_original": "https://s2-g1.glbimg.com/usQ5tXnOPFcD5sAD_cm37ajRRuI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/T/esAzyGSH2O4q0EJT1ibw/taty-cristina-de-jesus.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/se/260002550683.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/260017095077",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 108000,
+    "receitas_total": 2526,
+    "despesas_total": 9326,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro",
+        "valor": 10000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhonete hilux ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhonete hilux ano 2018 financiada",
+        "valor": 98000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Gilvan Batista Pereira",
+        "percentual": 72.29
+      },
+      {
+        "nome": "Barbara Cristina Nascimento Costa",
+        "percentual": 27.71
+      },
+      {
+        "nome": "51.637.228 irani oliveira barbosa",
+        "percentual": 30.02
+      },
+      {
+        "nome": "franciellem almeida santos santana",
+        "percentual": 21.45
+      },
+      {
+        "nome": "65.047.728 walter machado viana",
+        "percentual": 21.45
+      },
+      {
+        "nome": "67.697.074 joao rodrigo leal vitorio",
+        "percentual": 19.58
+      },
+      {
+        "nome": "57.252.649 fabiana santos de santana",
+        "percentual": 7.51
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "51.637.228 irani oliveira barbosa",
+        "percentual": 30.02
+      },
+      {
+        "nome": "franciellem almeida santos santana",
+        "percentual": 21.45
+      },
+      {
+        "nome": "65.047.728 walter machado viana",
+        "percentual": 21.45
+      },
+      {
+        "nome": "67.697.074 joao rodrigo leal vitorio",
+        "percentual": 19.58
+      },
+      {
+        "nome": "57.252.649 fabiana santos de santana",
+        "percentual": 7.51
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Taty Cristina De Jesus",
+      "partido_pagina": "DC",
+      "numero_pagina": 27,
+      "profissao": "Empresário",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/260017095077",
+      "foto_url_original": "https://s2-g1.glbimg.com/usQ5tXnOPFcD5sAD_cm37ajRRuI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/T/esAzyGSH2O4q0EJT1ibw/taty-cristina-de-jesus.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Dinheiro em espécie - moeda nacional R$ 10.000,00 Dinheiro",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 98.000,00 Caminhonete hilux ano 2018 financiada"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 2526,
+      "despesas_total": 9326,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Gilvan Batista Pereira",
+          "percentual": 72.29
+        },
+        {
+          "nome": "Barbara Cristina Nascimento Costa",
+          "percentual": 27.71
+        },
+        {
+          "nome": "51.637.228 irani oliveira barbosa",
+          "percentual": 30.02
+        },
+        {
+          "nome": "franciellem almeida santos santana",
+          "percentual": 21.45
+        },
+        {
+          "nome": "65.047.728 walter machado viana",
+          "percentual": 21.45
+        },
+        {
+          "nome": "67.697.074 joao rodrigo leal vitorio",
+          "percentual": 19.58
+        },
+        {
+          "nome": "57.252.649 fabiana santos de santana",
+          "percentual": 7.51
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "51.637.228 irani oliveira barbosa",
+          "percentual": 30.02
+        },
+        {
+          "nome": "franciellem almeida santos santana",
+          "percentual": 21.45
+        },
+        {
+          "nome": "65.047.728 walter machado viana",
+          "percentual": 21.45
+        },
+        {
+          "nome": "67.697.074 joao rodrigo leal vitorio",
+          "percentual": 19.58
+        },
+        {
+          "nome": "57.252.649 fabiana santos de santana",
+          "percentual": 7.51
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-se-260002550683.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:10:19.643Z"
+  },
+  {
+    "slug": "260002532010",
+    "nome": "Valmir De Francisquinho",
+    "partido": "REP",
+    "numero": 10,
+    "cargo": "governador",
+    "uf": "SE",
+    "foto_arquivo": "governador-se-260002532010",
+    "foto_url_original": "https://s2-g1.glbimg.com/HpEj_hk4Q0-Nm2UtTeZ32WXsGzY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/P/zBkDWTS3imWwgaehWMSw/valmir-de-francisquinho.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/governador/se/260002532010.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/260017138874",
+    "vice_nome": null,
+    "vice_partido": null,
+    "patrimonio_total": 258000,
+    "receitas_total": 4404274.6,
+    "despesas_total": 5835420.27,
+    "limite_gastos": 6226082.16,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota sw4",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota sw4",
+        "valor": 233000
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda estrangeira Em espécie",
+        "valor": 25000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2022,
+        "cargo": "Governador",
+        "partido": "PL",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Republicanos",
+        "percentual": 53.18
+      },
+      {
+        "nome": "Direção Estadual/distrital - Republicanos - Sergipe",
+        "percentual": 46.32
+      },
+      {
+        "nome": "Eduardo Alves Do Amorim",
+        "percentual": 0.51
+      },
+      {
+        "nome": "action - publicidade e eventos ltda",
+        "percentual": 8.91
+      },
+      {
+        "nome": "grafica editora j andrade ltda",
+        "percentual": 5.68
+      },
+      {
+        "nome": "gs contadores associados ltda",
+        "percentual": 3.77
+      },
+      {
+        "nome": "zone producoes publicidade e eventos ltda",
+        "percentual": 3.43
+      },
+      {
+        "nome": "instituto vozes inteligencia em politica e mercado ltda",
+        "percentual": 3.43
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "action - publicidade e eventos ltda",
+        "percentual": 8.91
+      },
+      {
+        "nome": "grafica editora j andrade ltda",
+        "percentual": 5.68
+      },
+      {
+        "nome": "gs contadores associados ltda",
+        "percentual": 3.77
+      },
+      {
+        "nome": "zone producoes publicidade e eventos ltda",
+        "percentual": 3.43
+      },
+      {
+        "nome": "instituto vozes inteligencia em politica e mercado ltda",
+        "percentual": 3.43
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Valmir De Francisquinho",
+      "partido_pagina": "REP",
+      "numero_pagina": 10,
+      "profissao": "Empresário",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/260017138874",
+      "foto_url_original": "https://s2-g1.glbimg.com/HpEj_hk4Q0-Nm2UtTeZ32WXsGzY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/P/zBkDWTS3imWwgaehWMSw/valmir-de-francisquinho.jpeg",
+      "historico": [
+        {
+          "ano": 2022,
+          "cargo": "Governador",
+          "partido": "PL",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 233.000,00 Toyota sw4",
+        "Dinheiro em espécie - moeda estrangeira R$ 25.000,00 Em espécie"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "receitas_total": 4404274.6,
+      "despesas_total": 5835420.27,
+      "limite_gastos": 6226082.16,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Republicanos",
+          "percentual": 53.18
+        },
+        {
+          "nome": "Direção Estadual/distrital - Republicanos - Sergipe",
+          "percentual": 46.32
+        },
+        {
+          "nome": "Eduardo Alves Do Amorim",
+          "percentual": 0.51
+        },
+        {
+          "nome": "action - publicidade e eventos ltda",
+          "percentual": 8.91
+        },
+        {
+          "nome": "grafica editora j andrade ltda",
+          "percentual": 5.68
+        },
+        {
+          "nome": "gs contadores associados ltda",
+          "percentual": 3.77
+        },
+        {
+          "nome": "zone producoes publicidade e eventos ltda",
+          "percentual": 3.43
+        },
+        {
+          "nome": "instituto vozes inteligencia em politica e mercado ltda",
+          "percentual": 3.43
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "action - publicidade e eventos ltda",
+          "percentual": 8.91
+        },
+        {
+          "nome": "grafica editora j andrade ltda",
+          "percentual": 5.68
+        },
+        {
+          "nome": "gs contadores associados ltda",
+          "percentual": 3.77
+        },
+        {
+          "nome": "zone producoes publicidade e eventos ltda",
+          "percentual": 3.43
+        },
+        {
+          "nome": "instituto vozes inteligencia em politica e mercado ltda",
+          "percentual": 3.43
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/governador-se-260002532010.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T02:10:26.045Z"
+  }
+]
