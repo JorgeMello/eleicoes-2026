@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useParams, useSearchParams } from 'react-router-dom';
+import { Bar, BarChart, LabelList, Legend, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import { api, brl } from '../lib/api.js';
 
 const LINHAS = [
@@ -16,12 +17,54 @@ const LINHAS = [
   { label: 'Eleições disputadas', get: (c, extra) => extra?.historico?.length ?? '—', ajuda: 'Candidaturas anteriores encontradas no histórico do candidato.' },
 ];
 
+const CORES = ['#10b981', '#3b82f6', '#f59e0b'];
+
+/** Rótulo por extenso p/ ponta da barra: "R$ 41,3 milhões" / "R$ 850 mil" / valor cheio. */
+function fmtMi(v) {
+  const n = Number(v);
+  if (!Number.isFinite(n)) return '—';
+  if (Math.abs(n) >= 1_000_000) {
+    const m = n / 1_000_000;
+    const txt = m.toLocaleString('pt-BR', { maximumFractionDigits: 1 });
+    return `R$ ${txt} ${Math.abs(m) === 1 ? 'milhão' : 'milhões'}`;
+  }
+  if (Math.abs(n) >= 1_000) return `R$ ${(n / 1_000).toLocaleString('pt-BR', { maximumFractionDigits: 0 })} mil`;
+  return brl(n);
+}
+
+const num = (v) => {
+  const n = Number(v);
+  return Number.isFinite(n) ? n : 0;
+};
+
+function GraficoComparativo({ titulo, rows, nomes, monetario = false }) {
+  return (
+    <div className="rounded-xl border bg-white p-4 dark:border-slate-700 dark:bg-slate-900">
+      <h2 className="mb-2 text-sm font-semibold">{titulo}</h2>
+      <ResponsiveContainer width="100%" height={Math.max(200, rows.length * 70)}>
+        <BarChart data={rows} layout="vertical" barCategoryGap="25%" margin={{ top: 4, right: 110, bottom: 0, left: 0 }}>
+          <XAxis type="number" hide />
+          <YAxis type="category" dataKey="criterio" width={130} tick={{ fontSize: 13 }} />
+          <Tooltip formatter={(v) => (monetario ? brl(v) : v)} />
+          <Legend verticalAlign="top" wrapperStyle={{ fontSize: 12, paddingBottom: 8 }} />
+          {nomes.map((n, i) => (
+            <Bar key={n} dataKey={n} fill={CORES[i % CORES.length]}>
+              <LabelList dataKey={n} position="right" fontSize={12} formatter={(v) => (monetario ? fmtMi(v) : v)} />
+            </Bar>
+          ))}
+        </BarChart>
+      </ResponsiveContainer>
+    </div>
+  );
+}
+
 export default function Comparador() {
   const { cargo = 'presidente' } = useParams();
   const [sp, setSp] = useSearchParams();
   const [lista, setLista] = useState([]);
   const [dados, setDados] = useState([]);
   const [ajudaSel, setAjudaSel] = useState(null); // label do critério com ajuda aberta
+  const [showGraficos, setShowGraficos] = useState(false);
 
   const sel = [sp.get('a'), sp.get('b'), sp.get('c')].filter(Boolean).slice(0, 3);
 
@@ -41,9 +84,42 @@ export default function Comparador() {
     setSp(n);
   };
 
+  const validos = dados.filter(Boolean);
+  const nomes = validos.map((d) => d.candidato.nome);
+  const linhaNum = (rotulo, fn) => ({
+    criterio: rotulo,
+    ...Object.fromEntries(validos.map((d) => [d.candidato.nome, fn(d)])),
+  });
+  const dinheiro = [
+    linhaNum('Patrimônio', (d) => num(d.candidato.patrimonio_total)),
+    linhaNum('Receitas', (d) => num(d.candidato.receitas_total)),
+    linhaNum('Despesas', (d) => num(d.candidato.despesas_total)),
+  ];
+  const contagens = [
+    linhaNum('Nº bens', (d) => d.bens?.length ?? 0),
+    linhaNum('Eleições disputadas', (d) => d.historico?.length ?? 0),
+  ];
+
   return (
     <div className="space-y-4">
-      <h1 className="text-2xl font-bold">Comparar até 3 candidatos · {cargo}</h1>
+      <div className="flex flex-wrap items-center gap-3">
+        <h1 className="text-2xl font-bold">Comparar até 3 candidatos · {cargo}</h1>
+        <button
+          type="button"
+          onClick={() => setShowGraficos((v) => !v)}
+          disabled={!dados.some(Boolean)}
+          aria-expanded={showGraficos}
+          title={showGraficos ? 'Ocultar os gráficos' : 'Mostrar gráficos comparativos abaixo da tabela'}
+          className="inline-flex items-center gap-1.5 rounded-lg border bg-white px-3 py-1.5 text-sm font-medium hover:bg-slate-50 disabled:opacity-50 dark:border-slate-700 dark:bg-slate-900 dark:hover:bg-slate-800"
+        >
+          <svg viewBox="0 0 16 16" className="h-4 w-4" fill="currentColor" aria-hidden="true">
+            <rect x="1.5" y="8" width="3" height="6.5" rx="0.8" />
+            <rect x="6.5" y="4.5" width="3" height="10" rx="0.8" />
+            <rect x="11.5" y="1.5" width="3" height="13" rx="0.8" />
+          </svg>
+          {showGraficos ? 'Ocultar gráficos' : 'Gráficos'}
+        </button>
+      </div>
       <div className="grid gap-2 sm:grid-cols-3">
         {['a', 'b', 'c'].map((slot, i) => (
           <select
@@ -117,6 +193,12 @@ export default function Comparador() {
             </tbody>
           </table>
         </div>
+          {showGraficos && (
+            <div className="grid gap-3 lg:grid-cols-2">
+              <GraficoComparativo titulo="Dinheiro (R$)" rows={dinheiro} nomes={nomes} monetario />
+              <GraficoComparativo titulo="Contagens" rows={contagens} nomes={nomes} />
+            </div>
+          )}
         </>
       ) : (
         <p className="text-sm text-slate-500 dark:text-slate-400">Selecione até 3 candidatos acima para comparar lado a lado.</p>
