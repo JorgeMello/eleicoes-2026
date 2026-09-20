@@ -36,7 +36,7 @@ class TseAuditar extends BaseCommand
             if ($p === '--reconciliar') $reconciliarOpt = true;
             if ($p === '--dry-run')     $dryRunOpt = true;
             if ($p === '--verbose')     $verboseOpt = true;
-            if (str_starts_with($p, '--slug=')) {
+            if (is_string($p) && str_starts_with($p, '--slug=')) {
                 $slugFiltro = trim(substr($p, 7), " '\"");
             }
         }
@@ -44,7 +44,7 @@ class TseAuditar extends BaseCommand
         // Localiza argumento posicional do arquivo (ignorando flags)
         $relatorioNome = null;
         foreach ($params as $p) {
-            if (! str_starts_with($p, '--')) {
+            if (is_string($p) && ! str_starts_with($p, '--')) {
                 $relatorioNome = $p;
                 break;
             }
