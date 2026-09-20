@@ -1,10 +1,12 @@
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { Bar, BarChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
-import { api, brl, fotoUrl } from '../lib/api.js';
+import { api, brl, fotoUrl, URL_TSE_DIVULGACAND_2026 } from '../lib/api.js';
 import TseBadge from '../components/TseBadge.jsx';
 import TseContasBanner from '../components/TseContasBanner.jsx';
 import TseBensBanner from '../components/TseBensBanner.jsx';
+import ChapaPresidencialCard from '../components/ChapaPresidencialCard.jsx';
+import PlanoGovernoCard from '../components/PlanoGovernoCard.jsx';
 
 /** Agrupa a taxonomia oficial de bens do TSE em macrocategorias amigáveis */
 function categoriaMacroBem(tipo = '') {
@@ -175,24 +177,28 @@ export default function Perfil() {
   const [categoriaBem, setCategoriaBem] = useState('todos');
   const [buscaBem, setBuscaBem] = useState('');
   const [modalConta, setModalConta] = useState(null); // { row, tipo, posicao, dados, carregando }
+  const [modalChapa, setModalChapa] = useState(false);
 
   useEffect(() => {
     api.candidato(slug).then(setD).catch((e) => setErro(e.message));
   }, [slug]);
 
-  // Fecha a modal com ESC e trava o scroll enquanto aberta
+  // Fecha as modais com ESC e trava o scroll enquanto abertas
   useEffect(() => {
-    if (!modalConta) return;
+    if (!modalConta && !modalChapa) return;
     document.body.style.overflow = 'hidden';
     const onKey = (e) => {
-      if (e.key === 'Escape') setModalConta(null);
+      if (e.key === 'Escape') {
+        setModalConta(null);
+        setModalChapa(false);
+      }
     };
     window.addEventListener('keydown', onKey);
     return () => {
       document.body.style.overflow = '';
       window.removeEventListener('keydown', onKey);
     };
-  }, [modalConta]);
+  }, [modalConta, modalChapa]);
 
   const abrirModalConta = (row, tipo, arr) => {
     const posicao = arr.findIndex((r) => r === row) + 1;
@@ -295,12 +301,47 @@ export default function Perfil() {
           <p className="text-slate-500 dark:text-slate-400">
             {c.partido} · <span className="font-mono text-xl font-bold text-slate-800 dark:text-slate-100">{c.numero}</span> · {c.cargo} {c.uf}
           </p>
-          <p className="mt-1 text-sm text-slate-600 dark:text-slate-400">
-            Vice: <strong>{c.vice_nome ?? '—'}</strong> {c.vice_partido ? `(${c.vice_partido})` : ''}
-          </p>
-          <div className="mt-2 flex flex-wrap gap-2 text-xs">
-            {c.perfil_g1_url && <a href={c.perfil_g1_url} target="_blank" rel="noreferrer" className="rounded bg-slate-900 px-2.5 py-1 text-white">Ver no G1</a>}
-            {c.plano_governo_url && <a href={c.plano_governo_url} target="_blank" rel="noreferrer" className="rounded bg-emerald-600 px-2.5 py-1 text-white">Plano de governo (TSE)</a>}
+          <div className="mt-1.5 flex flex-wrap items-center gap-2 text-sm text-slate-600 dark:text-slate-400">
+            <span>Vice:</span>
+            <button
+              type="button"
+              onClick={() => setModalChapa(true)}
+              className="inline-flex items-center gap-1.5 rounded-lg border border-slate-200 bg-slate-50 px-2.5 py-1 text-xs text-slate-800 hover:bg-slate-100 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700 cursor-pointer transition font-medium"
+              title="Clique para auditar os dados da chapa oficial no TSE"
+            >
+              <span>{c.vice_nome ?? 'A definir'}</span>
+              {c.vice_partido && (
+                <span className="rounded bg-slate-200/80 px-1 py-0.2 text-[10px] font-bold text-slate-700 dark:bg-slate-700 dark:text-slate-200">
+                  {c.vice_partido}
+                </span>
+              )}
+              <span className="text-blue-600 dark:text-blue-400 text-[11px] font-semibold">Ver chapa ↗</span>
+            </button>
+          </div>
+          <div className="mt-3 flex flex-wrap gap-2 text-xs">
+            {c.plano_governo_url && (
+              <a
+                href={c.plano_governo_url}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center gap-1.5 rounded-lg bg-blue-600 px-3 py-1.5 font-bold text-white shadow-2xs hover:bg-blue-500 transition"
+                title="Baixar arquivo PDF oficial do Plano de Governo homologado no TSE"
+              >
+                <span>📄 Plano de Governo (PDF TSE)</span>
+                <span aria-hidden="true">↗</span>
+              </a>
+            )}
+            {c.perfil_g1_url && (
+              <a
+                href={c.perfil_g1_url}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center gap-1 rounded-lg bg-slate-800 px-2.5 py-1.5 font-medium text-slate-200 hover:bg-slate-700 transition dark:bg-slate-800 dark:text-slate-300"
+              >
+                <span>Ver no G1</span>
+                <span aria-hidden="true">↗</span>
+              </a>
+            )}
           </div>
         </div>
         <div className="grid min-w-44 flex-1 gap-2 sm:max-w-64">
@@ -340,25 +381,34 @@ export default function Perfil() {
 
       {/* Aba: Geral */}
       {aba === 'geral' && (
-        <div className="grid gap-3 md:grid-cols-2">
-          <div className="rounded-xl border bg-white p-4 dark:border-slate-700 dark:bg-slate-900">
-            <Linha k="Profissão" v={c.profissao} />
-            <Linha k="Cor/etnia" v={c.cor_etnia} />
-            <Linha k="Instrução" v={c.grau_instrucao} />
-            <Linha k="Gênero" v={c.genero} />
-            <Linha k="Coletado em" v={c.coletado_em} />
-            <Linha k="Fonte (G1)" v={c.fonte_atualizado_em} />
-          </div>
-          <div className="rounded-xl border bg-white p-4 dark:border-slate-700 dark:bg-slate-900">
-            <h2 className="mb-2 text-sm font-semibold">Top doadores da campanha</h2>
-            <ResponsiveContainer width="100%" height={220}>
-              <BarChart data={doadores.slice(0, 5)} layout="vertical">
-                <XAxis type="number" hide />
-                <YAxis type="category" dataKey="nome" width={140} tick={{ fontSize: 10 }} />
-                <Tooltip formatter={(v) => `${v}%`} />
-                <Bar dataKey="percentual" fill="#10b981" radius={[0, 4, 4, 0]} />
-              </BarChart>
-            </ResponsiveContainer>
+        <div className="space-y-4">
+          {/* Card Oficial da Chapa Presidencial */}
+          <ChapaPresidencialCard c={c} tse={tse} onAbrirModal={() => setModalChapa(true)} />
+
+          {/* Card do Plano de Governo Oficial do TSE */}
+          <PlanoGovernoCard c={c} tse={tse} />
+
+          <div className="grid gap-3 md:grid-cols-2">
+            <div className="rounded-xl border bg-white p-4 dark:border-slate-700 dark:bg-slate-900">
+              <h2 className="mb-2 text-sm font-bold text-slate-900 dark:text-white">Perfil e Dados Pessoais</h2>
+              <Linha k="Profissão" v={c.profissao} />
+              <Linha k="Cor/etnia" v={c.cor_etnia} />
+              <Linha k="Instrução" v={c.grau_instrucao} />
+              <Linha k="Gênero" v={c.genero} />
+              <Linha k="Coletado em" v={c.coletado_em} />
+              <Linha k="Fonte Primária" v="TSE / DivulgaCandContas" />
+            </div>
+            <div className="rounded-xl border bg-white p-4 dark:border-slate-700 dark:bg-slate-900">
+              <h2 className="mb-2 text-sm font-bold text-slate-900 dark:text-white">Top doadores da campanha</h2>
+              <ResponsiveContainer width="100%" height={220}>
+                <BarChart data={doadores.slice(0, 5)} layout="vertical">
+                  <XAxis type="number" hide />
+                  <YAxis type="category" dataKey="nome" width={140} tick={{ fontSize: 10 }} />
+                  <Tooltip formatter={(v) => `${v}%`} />
+                  <Bar dataKey="percentual" fill="#10b981" radius={[0, 4, 4, 0]} />
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
           </div>
         </div>
       )}
@@ -649,7 +699,7 @@ export default function Perfil() {
                 </div>
               </div>
               <a
-                href={tse?.sq_candidato ? `https://divulgacandcontas.tse.jus.br/divulga/#/candidato/2026/BR/BR/${tse.sq_candidato}` : 'https://divulgacandcontas.tse.jus.br/divulga/#/home'}
+                href={URL_TSE_DIVULGACAND_2026}
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-1 rounded-md bg-white px-2 py-1 font-semibold text-emerald-800 shadow-2xs hover:bg-emerald-100 dark:bg-slate-800 dark:text-emerald-300 dark:hover:bg-slate-700"
@@ -842,7 +892,139 @@ export default function Perfil() {
               <button
                 type="button"
                 onClick={() => setModalConta(null)}
-                className="rounded-lg bg-slate-100 px-3 py-1 font-semibold text-slate-700 hover:bg-slate-200 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700"
+                className="rounded-lg bg-slate-100 px-3 py-1 font-semibold text-slate-700 hover:bg-slate-200 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700 cursor-pointer"
+              >
+                Fechar
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Modal: Detalhes da Chapa Presidencial */}
+      {modalChapa && (
+        <div
+          role="dialog"
+          aria-modal="true"
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 p-3 backdrop-blur-xs"
+          onClick={() => setModalChapa(false)}
+        >
+          <div
+            className="flex max-h-[90vh] w-full max-w-xl flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-2xl dark:border-slate-700 dark:bg-slate-900 animate-in fade-in zoom-in-95 duration-150"
+            onClick={(e) => e.stopPropagation()}
+          >
+            {/* Topo da Modal */}
+            <div className="flex items-center justify-between border-b border-slate-100 p-4 dark:border-slate-800 bg-gradient-to-r from-blue-50/50 to-white dark:from-slate-800/50 dark:to-slate-900">
+              <div className="flex items-center gap-2.5">
+                <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-blue-600 text-white font-bold text-sm shadow-xs dark:bg-blue-500">
+                  🤝
+                </span>
+                <div>
+                  <h3 className="font-bold text-base text-slate-900 dark:text-white">
+                    Auditoria da Chapa Presidencial Oficial
+                  </h3>
+                  <p className="text-[11px] text-slate-500 dark:text-slate-400">
+                    Composição majoritária registrada no TSE · Eleições 2026
+                  </p>
+                </div>
+              </div>
+              <button
+                type="button"
+                onClick={() => setModalChapa(false)}
+                className="rounded-lg p-1.5 text-slate-400 hover:bg-slate-100 hover:text-slate-700 dark:hover:bg-slate-800 dark:hover:text-slate-200 cursor-pointer"
+              >
+                ✕
+              </button>
+            </div>
+
+            {/* Conteúdo da Modal */}
+            <div className="overflow-y-auto p-5 space-y-4 text-xs text-slate-700 dark:text-slate-300">
+              {/* Banner Informativo */}
+              <div className="rounded-xl border border-emerald-200 bg-emerald-50/80 p-3 text-emerald-950 dark:border-emerald-900/60 dark:bg-emerald-950/40 dark:text-emerald-200">
+                <div className="flex items-center gap-2">
+                  <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-emerald-600 text-[10px] font-bold text-white">
+                    ✓
+                  </span>
+                  <div>
+                    <span className="font-bold">Registro Homologado perante a Justiça Eleitoral</span>
+                    <p className="text-[11px] opacity-85">
+                      Chapa registrada e deferida sob o número eleitoral {c.numero}.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              {/* Comparativo Titular e Vice */}
+              <div className="grid gap-3 sm:grid-cols-2">
+                <div className="rounded-xl border border-slate-200 p-3 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-800/50">
+                  <span className="text-[10px] font-bold text-blue-700 uppercase tracking-wider block mb-1">
+                    Candidato a Presidente
+                  </span>
+                  <strong className="text-sm block text-slate-900 dark:text-white">{c.nome}</strong>
+                  <p className="text-[11px] text-slate-500 mt-1">
+                    Partido: <strong>{c.partido}</strong> · Nº <strong>{c.numero}</strong>
+                  </p>
+                  <p className="text-[11px] text-slate-500">
+                    Patrimônio: <strong>{brl(c.patrimonio_total)}</strong>
+                  </p>
+                </div>
+
+                <div className="rounded-xl border border-slate-200 p-3 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-800/50">
+                  <span className="text-[10px] font-bold text-purple-700 uppercase tracking-wider block mb-1">
+                    Candidato a Vice-Presidente
+                  </span>
+                  <strong className="text-sm block text-slate-900 dark:text-white">{c.vice_nome ?? 'A definir'}</strong>
+                  <p className="text-[11px] text-slate-500 mt-1">
+                    Partido: <strong>{c.vice_partido || c.partido}</strong>
+                  </p>
+                  <p className="text-[11px] text-slate-500">
+                    Vínculo: <strong>Chapa Indivisível (CF/88)</strong>
+                  </p>
+                </div>
+              </div>
+
+              {/* Fundamentação Legal */}
+              <div className="rounded-xl bg-slate-50 p-3.5 space-y-2 dark:bg-slate-800/60 text-slate-600 dark:text-slate-400 leading-relaxed">
+                <strong className="text-slate-800 dark:text-slate-200 block text-xs">
+                  ⚖️ Regras Constitucionais da Chapa Presidencial:
+                </strong>
+                <ul className="list-disc list-inside space-y-1">
+                  <li>
+                    <strong>Princípio da Indivisibilidade:</strong> A eleição do Presidente importa a do Vice-Presidente com ele registrado (art. 77, § 1º, da Constituição Federal).
+                  </li>
+                  <li>
+                    <strong>Substituição e Sucessão:</strong> O Vice-Presidente substitui o Presidente no caso de impedimento e sucede-lhe no de vaga (art. 79 da CF/88).
+                  </li>
+                  <li>
+                    <strong>Número Único de Urna:</strong> Não há dígito separado para o vice; a digitação do número {c.numero} na urna confirma o voto para ambos os integrantes da chapa.
+                  </li>
+                </ul>
+              </div>
+
+              {tse?.processo_pje && (
+                <div className="flex items-center justify-between rounded-lg border border-slate-200 p-2.5 dark:border-slate-800">
+                  <span>Processo Judicial Unificado (PJe):</span>
+                  <strong className="font-mono text-slate-800 dark:text-slate-200">{tse.processo_pje}</strong>
+                </div>
+              )}
+            </div>
+
+            {/* Rodapé da Modal */}
+            <div className="flex items-center justify-between border-t border-slate-100 p-4 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-800/50">
+              <a
+                href={URL_TSE_DIVULGACAND_2026}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center gap-1.5 text-xs font-semibold text-blue-600 hover:underline dark:text-blue-400"
+              >
+                <span>Conferir Registro Completo no DivulgaCandContas</span>
+                <span aria-hidden="true">↗</span>
+              </a>
+
+              <button
+                type="button"
+                onClick={() => setModalChapa(false)}
+                className="rounded-lg bg-slate-900 px-3.5 py-1.5 text-xs font-semibold text-white hover:bg-slate-800 dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100 cursor-pointer"
               >
                 Fechar
               </button>

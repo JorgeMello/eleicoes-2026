@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { brl } from '../lib/api.js';
+import { brl, URL_TSE_DIVULGACAND_2026 } from '../lib/api.js';
 
 /**
  * Painel Oficial de Auditoria de Prestação de Contas do TSE.
@@ -21,10 +21,8 @@ export default function TseContasBanner({ c, tse }) {
   const ehSuperavit = saldo >= 0;
   const validadoEm = tse?.validado_em ? new Date(tse.validado_em).toLocaleDateString('pt-BR') : null;
 
-  // Link para o DivulgaCandContas oficial do TSE
-  const urlTse = tse?.sq_candidato
-    ? `https://divulgacandcontas.tse.jus.br/divulga/#/candidato/2026/BR/BR/${tse.sq_candidato}`
-    : 'https://divulgacandcontas.tse.jus.br/divulga/#/home';
+  // Link para a consulta nacional oficial do DivulgaCandContas do TSE
+  const urlTse = URL_TSE_DIVULGACAND_2026;
 
   const copiarCnpj = (e) => {
     e.preventDefault();

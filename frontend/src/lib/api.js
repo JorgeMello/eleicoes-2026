@@ -68,3 +68,7 @@ export function brl(v) {
   if (v === null || v === undefined || v === '') return '—';
   return Number(v).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL', maximumFractionDigits: 0 });
 }
+
+/** URL oficial estável de consulta nacional de candidaturas das Eleições 2026 no DivulgaCandContas do TSE */
+export const URL_TSE_DIVULGACAND_2026 =
+  'https://divulgacandcontas.tse.jus.br/divulga/#/candidato/regiao/BR/20322002026';

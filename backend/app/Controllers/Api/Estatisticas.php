@@ -27,7 +27,7 @@ class Estatisticas extends BaseController
             }
         }
 
-        return $this->response->setJSON([
+        $data = [
             'cargo'             => $cargo,
             'total'             => count($rows),
             'por_partido'       => $porPartido,
@@ -37,6 +37,13 @@ class Estatisticas extends BaseController
             'maior_patrimonio'  => $patrimonios ? max($patrimonios) : null,
             'menor_patrimonio'  => $patrimonios ? min($patrimonios) : null,
             'cargos_disponiveis'=> ['presidente', 'governador', 'senador', 'dep-federal', 'dep-estadual'],
-        ]);
+        ];
+
+        $json = json_encode($data);
+        return $this->response
+            ->setHeader('Cache-Control', 'public, max-age=180, stale-while-revalidate=300')
+            ->setHeader('ETag', '"' . md5($json) . '"')
+            ->setContentType('application/json')
+            ->setBody($json);
     }
 }

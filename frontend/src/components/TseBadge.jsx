@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { brl } from '../lib/api.js';
+import { brl, URL_TSE_DIVULGACAND_2026 } from '../lib/api.js';
 
 /**
  * Selo de Validação e Auditoria Oficial do TSE (DivulgaCandContas).
@@ -84,7 +84,7 @@ export default function TseBadge({ tse, compact = false }) {
         </div>
 
         <a
-          href="https://divulgacandcontas.tse.jus.br/divulga/#/home"
+          href={URL_TSE_DIVULGACAND_2026}
           target="_blank"
           rel="noreferrer"
           className="inline-flex items-center gap-1.5 rounded-lg border border-emerald-300 bg-white px-3 py-1.5 text-xs font-semibold text-emerald-800 shadow-sm transition hover:bg-emerald-50 dark:border-emerald-700 dark:bg-slate-800 dark:text-emerald-200 dark:hover:bg-slate-700"

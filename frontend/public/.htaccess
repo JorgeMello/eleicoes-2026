@@ -1,0 +1,47 @@
+# ==============================================================================
+# CONFIGURAÇÃO APACHE / HOSTINGER — ELEIÇÕES 2026 FRONTEND
+# ==============================================================================
+
+# 1. Roteamento Single Page Application (React Router)
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Não interceptar chamadas para a API ou arquivos do backend
+  RewriteCond %{REQUEST_URI} ^/backend [NC]
+  RewriteRule ^ - [L]
+
+  # Se o arquivo físico ou diretório já existe (assets, imagens, css, js), serve diretamente
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # Roteamento SPA do React Router: envia qualquer outra rota para o index.html
+  RewriteRule ^ index.html [L]
+</IfModule>
+
+# 2. Compressão GZIP de Alta Performance (Reduz pacotes JS/CSS/JSON em até 75%)
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript
+  AddOutputFilterByType DEFLATE application/javascript application/x-javascript application/json application/xml
+  AddOutputFilterByType DEFLATE image/svg+xml application/vnd.ms-fontobject application/x-font-ttf font/opentype
+</IfModule>
+
+# 3. Cache HTTP no Navegador (Evita re-download de arquivos imutáveis)
+<IfModule mod_expires.c>
+  ExpiresActive On
+
+  # Assets com hash do Vite (imutáveis por 1 ano)
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType text/css "access plus 1 year"
+
+  # Imagens e ícones SVG (1 mês)
+  ExpiresByType image/svg+xml "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/webp "access plus 1 month"
+  ExpiresByType image/x-icon "access plus 1 month"
+
+  # HTML da aplicação (não cachear permanentemente para carregar novos deploys na hora)
+  ExpiresByType text/html "access plus 0 seconds"
+</IfModule>

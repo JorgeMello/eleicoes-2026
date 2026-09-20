@@ -1,4 +1,4 @@
-import { brl } from '../lib/api.js';
+import { brl, URL_TSE_DIVULGACAND_2026 } from '../lib/api.js';
 
 /**
  * Painel Oficial de Auditoria Patrimonial e Bens do TSE.
@@ -26,10 +26,8 @@ export default function TseBensBanner({ c, tse, bens = [] }) {
   const valorMaiorBem = Number(maiorBem?.valor || 0);
   const percMaiorBem = patrimonioDeclarado > 0 ? (valorMaiorBem / patrimonioDeclarado) * 100 : 0;
 
-  // Link para o DivulgaCandContas oficial do TSE
-  const urlTse = tse?.sq_candidato
-    ? `https://divulgacandcontas.tse.jus.br/divulga/#/candidato/2026/BR/BR/${tse.sq_candidato}`
-    : 'https://divulgacandcontas.tse.jus.br/divulga/#/home';
+  // Link para a consulta nacional oficial do DivulgaCandContas do TSE
+  const urlTse = URL_TSE_DIVULGACAND_2026;
 
   return (
     <div className="mb-4 rounded-xl border border-emerald-200 bg-gradient-to-br from-emerald-50/90 via-teal-50/40 to-white p-4 shadow-sm dark:border-emerald-800/60 dark:from-emerald-950/40 dark:via-slate-900 dark:to-slate-900">

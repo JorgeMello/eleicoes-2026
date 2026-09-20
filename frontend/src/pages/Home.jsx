@@ -2,7 +2,10 @@ import { useEffect, useState } from 'react';
 import { Link, useParams, useSearchParams } from 'react-router-dom';
 import { Cell, Legend, Pie, PieChart, ResponsiveContainer, Tooltip } from 'recharts';
 import CandidateCard from '../components/CandidateCard.jsx';
+import CandidateCardSkeleton from '../components/CandidateCardSkeleton.jsx';
+import StatsSkeleton from '../components/StatsSkeleton.jsx';
 import { UFS, api, fotoUrl } from '../lib/api.js';
+import { clientCache } from '../lib/clientCache.js';
 
 const CORES = ['#10b981', '#3b82f6', '#f59e0b', '#ef4444', '#8b5cf6', '#06b6d4', '#84cc16'];
 
@@ -32,8 +35,21 @@ export default function Home() {
   const precisaUf = cargo !== 'presidente';
 
   useEffect(() => {
-    setLoading(true);
-    setErro(null);
+    const cacheKey = `home_${cargo}_${JSON.stringify({ busca, partido, ordenar, instrucao, cor, profissao, uf, patMin, patMax })}`;
+    const cached = clientCache.get(cacheKey);
+
+    if (cached) {
+      // 1. Renderiza instantaneamente do cache em 0ms!
+      setLista(cached.lista);
+      setStats(cached.stats);
+      setLoading(false);
+      setErro(null);
+    } else {
+      setLoading(true);
+      setErro(null);
+    }
+
+    // 2. Revalidação silenciosa em background (SWR)
     Promise.all([
       api.candidatos(cargo, {
         busca, partido, ordenar, instrucao, cor, profissao,
@@ -46,8 +62,11 @@ export default function Home() {
       .then(([l, s]) => {
         setLista(l);
         setStats(s);
+        clientCache.set(cacheKey, { lista: l, stats: s });
       })
-      .catch((e) => setErro(e.message))
+      .catch((e) => {
+        if (!cached) setErro(e.message);
+      })
       .finally(() => setLoading(false));
   }, [cargo, busca, partido, ordenar, instrucao, cor, profissao, patMin, patMax, uf]);
 
@@ -128,14 +147,15 @@ export default function Home() {
         </div>
       </div>
 
-      {loading && <p className="text-sm text-slate-500 dark:text-slate-400">Carregando…</p>}
       {erro && (
         <p className="rounded-lg bg-red-50 p-3 text-sm text-red-700 dark:bg-red-950 dark:text-red-300">
           Falha na API ({erro}). Verifique se o backend está rodando e `VITE_API_URL` no `.env`.
         </p>
       )}
 
-      {stats && stats.total > 0 && (
+      {loading && !stats ? (
+        <StatsSkeleton />
+      ) : stats && stats.total > 0 ? (
         <div className="grid gap-3 md:grid-cols-3">
           <div className="rounded-xl border bg-white p-3 dark:border-slate-700 dark:bg-slate-900">
             <h2 className="text-sm font-semibold">Por partido</h2>
@@ -183,7 +203,7 @@ export default function Home() {
             </ResponsiveContainer>
           </div>
         </div>
-      )}
+      ) : null}
 
       <section aria-label="Filtros de candidatos" className="rounded-2xl border-2 border-emerald-500 bg-emerald-50/60 p-4 dark:border-emerald-700 dark:bg-emerald-950/40 sm:p-5">
         <button
@@ -326,18 +346,24 @@ export default function Home() {
         </div>
       </section>
 
-      {!loading && !erro && lista.length === 0 && (
+      {loading && lista.length === 0 ? (
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {Array.from({ length: 9 }).map((_, i) => (
+            <CandidateCardSkeleton key={i} />
+          ))}
+        </div>
+      ) : !loading && !erro && lista.length === 0 ? (
         <p className="rounded-xl border bg-white p-6 text-center text-sm text-slate-500 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-400">
           Nenhuma candidatura para <strong>{cargo}</strong> ainda — rode a coleta do scraper para este cargo.
           {cargo !== 'presidente' && ' No MVP, só presidente possui dados.'}
         </p>
+      ) : (
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {lista.map((c) => (
+            <CandidateCard key={c.slug} c={c} cargo={cargo} />
+          ))}
+        </div>
       )}
-
-      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-        {lista.map((c) => (
-          <CandidateCard key={c.slug} c={c} cargo={cargo} />
-        ))}
-      </div>
 
       {trioComparar.length >= 2 && (
         <Link

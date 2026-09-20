@@ -76,10 +76,13 @@ A plataforma conta com uma **suíte de auditoria e reconciliação contábil em 
    * Tabela relacional 1:1 criada via migration [`2026-09-20-000014_CreateCandidatosTse.php`](backend/app/Database/Migrations/2026-09-20-000014_CreateCandidatosTse.php), isolando os dados de certificação jurídica e fiscal dos cadastros gerais.
 4. **Fase 4 — Ferramenta CLI de Sincronização em Produção:**
    * Comando `php spark tse:auditar` (e `composer tse:auditar`) com suporte a `--reconciliar`, `--slug`, `--dry-run`, `--verbose` e renderização de tabelas ASCII ricas.
-5. **Fase 5 — Selo Visual e Painéis de Auditoria no Frontend:**
+5. **Fase 5 — Selo Visual, Chapa Presidencial e Painéis de Auditoria no Frontend:**
    * Etiqueta esmeralda **`Verificado TSE · Deferido`** exibida nos cards de listagem e no cabeçalho do perfil.
-   * **Auditoria da Aba "Bens":** Banner institucional com checagem matemática (100% consistente, tolerância zero a desvios), botão direto para consulta no DivulgaCandContas, pílulas de filtragem por categoria (Imóveis, Empresas/Quotas, Aplicações/Contas, Veículos), busca textual em tempo real e tabela enriquecida com badges `✓ TSE` e barras de participação percentual.
-   * **Auditoria da Aba "Contas":** Painel oficial de prestação de contas no topo da aba com receitas arrecadadas, despesas contratadas, balanço financeiro de campanha, consumo do teto legal de gastos, botão *"Validar no Portal do TSE ↗"*, badges *"✓ TSE"* em cada doador/fornecedor e selo de homologação no modal analítico de controle dos dados.
+   * **Card Oficial da Chapa Presidencial:** Apresentação do Titular e do Vice-Presidente lado a lado no perfil e na aba "Geral", destacando as alianças partidárias da chapa majoritária indivisível (CF/88, art. 77) e modal de auditoria jurídica de sucessão (CF/88, art. 79) e processo unificado no PJe.
+   * **Central do Plano de Governo Oficial (PDF do TSE):** Botão em destaque para download em 1 clique do documento original arquivado e homologado sob protocolo judicial autêntico no repositório público do TSE.
+   * **Auditoria da Aba "Bens":** Banner institucional com checagem matemática (100% consistente, tolerância zero a desvios), pílulas de filtragem por categoria (Imóveis, Empresas/Quotas, Aplicações/Contas, Veículos), busca textual em tempo real e tabela enriquecida com badges `✓ TSE` e barras de participação percentual.
+   * **Auditoria da Aba "Contas":** Painel oficial de prestação de contas no topo da aba com receitas arrecadadas, despesas contratadas, balanço financeiro de campanha, consumo do teto legal de gastos, badges *"✓ TSE"* em cada doador/fornecedor e selo de homologação no modal analítico de controle dos dados.
+   * **Roteamento Canônico Nacional das Eleições 2026:** Links externos integrados diretamente ao código eleitoral oficial `20322002026` (`#/candidato/regiao/BR/20322002026`) no portal DivulgaCandContas, eliminando qualquer falha de carregamento.
 
 ---
 

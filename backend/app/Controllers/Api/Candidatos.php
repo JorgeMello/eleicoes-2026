@@ -69,7 +69,12 @@ class Candidatos extends BaseController
         [$col, $dir] = $orderMap[$ordenar] ?? $orderMap['nome'];
         $rows = $builder->orderBy($col, $dir)->findAll();
 
-        return $this->response->setJSON($rows);
+        $json = json_encode($rows);
+        return $this->response
+            ->setHeader('Cache-Control', 'public, max-age=180, stale-while-revalidate=300')
+            ->setHeader('ETag', '"' . md5($json) . '"')
+            ->setContentType('application/json')
+            ->setBody($json);
     }
 
     public function show(string $slug): ResponseInterface
@@ -83,14 +88,21 @@ class Candidatos extends BaseController
 
         $id = (int) $candidato['id'];
 
-        return $this->response->setJSON([
+        $payload = [
             'candidato' => $candidato,
             'tse'       => (new CandidatoTseModel())->where('candidato_id', $id)->first(),
             'bens'      => (new BemModel())->where('candidato_id', $id)->orderBy('valor', 'DESC')->findAll(),
             'historico' => (new CandidaturaAnteriorModel())->where('candidato_id', $id)->orderBy('ano', 'DESC')->findAll(),
             'doadores'  => (new DoadorModel())->where('candidato_id', $id)->orderBy('percentual', 'DESC')->findAll(),
             'gastos'    => (new GastoModel())->where('candidato_id', $id)->orderBy('percentual', 'DESC')->findAll(),
-        ]);
+        ];
+
+        $json = json_encode($payload);
+        return $this->response
+            ->setHeader('Cache-Control', 'public, max-age=180, stale-while-revalidate=300')
+            ->setHeader('ETag', '"' . md5($json) . '"')
+            ->setContentType('application/json')
+            ->setBody($json);
     }
 
     public function bens(string $slug): ResponseInterface
@@ -104,6 +116,11 @@ class Candidatos extends BaseController
 
         $bens = (new BemModel())->where('candidato_id', (int) $candidato['id'])->orderBy('valor', 'DESC')->findAll();
 
-        return $this->response->setJSON($bens);
+        $json = json_encode($bens);
+        return $this->response
+            ->setHeader('Cache-Control', 'public, max-age=180, stale-while-revalidate=300')
+            ->setHeader('ETag', '"' . md5($json) . '"')
+            ->setContentType('application/json')
+            ->setBody($json);
     }
 }
