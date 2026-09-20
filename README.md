@@ -77,7 +77,9 @@ A plataforma conta com uma **suíte de auditoria e reconciliação contábil em 
 4. **Fase 4 — Ferramenta CLI de Sincronização em Produção:**
    * Comando `php spark tse:auditar` (e `composer tse:auditar`) com suporte a `--reconciliar`, `--slug`, `--dry-run`, `--verbose` e renderização de tabelas ASCII ricas.
 5. **Fase 5 — Selo Visual e Painéis de Auditoria no Frontend:**
-   * Etiqueta esmeralda **`Verificado TSE · Deferido`** exibida nos cards de listagem, no cabeçalho do perfil e no **painel oficial de prestação de contas no topo da aba "Contas"** (com botão *"Validar no Portal do TSE ↗"* com link para o DivulgaCandContas oficial, badges *"✓ TSE"* em cada doador/fornecedor e selo de homologação no modal analítico de controle dos dados).
+   * Etiqueta esmeralda **`Verificado TSE · Deferido`** exibida nos cards de listagem e no cabeçalho do perfil.
+   * **Auditoria da Aba "Bens":** Banner institucional com checagem matemática (100% consistente, tolerância zero a desvios), botão direto para consulta no DivulgaCandContas, pílulas de filtragem por categoria (Imóveis, Empresas/Quotas, Aplicações/Contas, Veículos), busca textual em tempo real e tabela enriquecida com badges `✓ TSE` e barras de participação percentual.
+   * **Auditoria da Aba "Contas":** Painel oficial de prestação de contas no topo da aba com receitas arrecadadas, despesas contratadas, balanço financeiro de campanha, consumo do teto legal de gastos, botão *"Validar no Portal do TSE ↗"*, badges *"✓ TSE"* em cada doador/fornecedor e selo de homologação no modal analítico de controle dos dados.
 
 ---
 

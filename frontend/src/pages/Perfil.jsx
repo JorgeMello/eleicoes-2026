@@ -4,6 +4,52 @@ import { Bar, BarChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recha
 import { api, brl, fotoUrl } from '../lib/api.js';
 import TseBadge from '../components/TseBadge.jsx';
 import TseContasBanner from '../components/TseContasBanner.jsx';
+import TseBensBanner from '../components/TseBensBanner.jsx';
+
+/** Agrupa a taxonomia oficial de bens do TSE em macrocategorias amigáveis */
+function categoriaMacroBem(tipo = '') {
+  const t = tipo.toLowerCase();
+  if (
+    t.includes('apartamento') ||
+    t.includes('casa') ||
+    t.includes('terreno') ||
+    t.includes('prédio') ||
+    t.includes('predio') ||
+    t.includes('imóve') ||
+    t.includes('imove') ||
+    t.includes('construção') ||
+    t.includes('sala')
+  ) {
+    return 'imoveis';
+  }
+  if (t.includes('quota') || t.includes('ação') || t.includes('acoes') || t.includes('participa')) {
+    return 'participacoes';
+  }
+  if (
+    t.includes('depósito') ||
+    t.includes('deposito') ||
+    t.includes('aplica') ||
+    t.includes('vgbl') ||
+    t.includes('poupança') ||
+    t.includes('poupanca') ||
+    t.includes('fundo') ||
+    t.includes('cdb') ||
+    t.includes('renda fixa')
+  ) {
+    return 'aplicacoes';
+  }
+  if (
+    t.includes('veículo') ||
+    t.includes('veiculo') ||
+    t.includes('automóvel') ||
+    t.includes('automovel') ||
+    t.includes('caminhão') ||
+    t.includes('moto')
+  ) {
+    return 'veiculos';
+  }
+  return 'outros';
+}
 
 function Linha({ k, v }) {
   return (
@@ -126,6 +172,8 @@ export default function Perfil() {
   const [erro, setErro] = useState(null);
   const [aba, setAba] = useState('geral');
   const [ordemBens, setOrdemBens] = useState('desc');
+  const [categoriaBem, setCategoriaBem] = useState('todos');
+  const [buscaBem, setBuscaBem] = useState('');
   const [modalConta, setModalConta] = useState(null); // { row, tipo, posicao, dados, carregando }
 
   useEffect(() => {
@@ -164,14 +212,49 @@ export default function Perfil() {
   const { candidato: c, tse, bens, historico, doadores, gastos } = d;
   const foto = fotoUrl(c);
 
-  const bensOrdenados = [...bens].sort((x, y) => {
-    const vx = x.valor === null || x.valor === undefined ? null : Number(x.valor);
-    const vy = y.valor === null || y.valor === undefined ? null : Number(y.valor);
-    if (vx === null && vy === null) return 0;
-    if (vx === null) return 1;
-    if (vy === null) return -1;
-    return ordemBens === 'desc' ? vy - vx : vx - vy;
-  });
+  const patrimonioTotalRef = Number(tse?.patrimonio_declarado || c?.patrimonio_total || 0);
+
+  const contagemCategorias = {
+    todos: bens.length,
+    imoveis: bens.filter((b) => categoriaMacroBem(b.tipo) === 'imoveis').length,
+    participacoes: bens.filter((b) => categoriaMacroBem(b.tipo) === 'participacoes').length,
+    aplicacoes: bens.filter((b) => categoriaMacroBem(b.tipo) === 'aplicacoes').length,
+    veiculos: bens.filter((b) => categoriaMacroBem(b.tipo) === 'veiculos').length,
+    outros: bens.filter((b) => categoriaMacroBem(b.tipo) === 'outros').length,
+  };
+
+  const categoriasBensList = [
+    { id: 'todos', label: 'Todos os Bens', count: contagemCategorias.todos },
+    { id: 'imoveis', label: 'Imóveis', count: contagemCategorias.imoveis },
+    { id: 'participacoes', label: 'Empresas & Quotas', count: contagemCategorias.participacoes },
+    { id: 'aplicacoes', label: 'Aplicações & Contas', count: contagemCategorias.aplicacoes },
+    { id: 'veiculos', label: 'Veículos', count: contagemCategorias.veiculos },
+    { id: 'outros', label: 'Outros Ativos', count: contagemCategorias.outros },
+  ].filter((cat) => cat.id === 'todos' || cat.count > 0);
+
+  const bensFiltrados = [...bens]
+    .filter((b) => {
+      if (categoriaBem !== 'todos' && categoriaMacroBem(b.tipo) !== categoriaBem) {
+        return false;
+      }
+      if (buscaBem.trim()) {
+        const termo = buscaBem.trim().toLowerCase();
+        const noTipo = (b.tipo || '').toLowerCase().includes(termo);
+        const naDesc = (b.descricao || '').toLowerCase().includes(termo);
+        if (!noTipo && !naDesc) return false;
+      }
+      return true;
+    })
+    .sort((x, y) => {
+      const vx = x.valor === null || x.valor === undefined ? null : Number(x.valor);
+      const vy = y.valor === null || y.valor === undefined ? null : Number(y.valor);
+      if (vx === null && vy === null) return 0;
+      if (vx === null) return 1;
+      if (vy === null) return -1;
+      return ordemBens === 'desc' ? vy - vx : vx - vy;
+    });
+
+  const somaBensFiltrados = bensFiltrados.reduce((acc, b) => acc + Number(b.valor || 0), 0);
 
   const abas = [
     ['geral', 'Visão geral'],
@@ -282,41 +365,155 @@ export default function Perfil() {
 
       {/* Aba: Bens */}
       {aba === 'bens' && (
-        <div className="overflow-x-auto rounded-xl border bg-white dark:border-slate-700 dark:bg-slate-900">
-          <table className="w-full text-sm">
-            <thead className="bg-slate-50 text-left dark:bg-slate-800">
-              <tr>
-                <th className="px-3 py-2">Tipo</th>
-                <th className="px-3 py-2">Descrição</th>
-                <th className="px-3 py-2 text-right">
+        <div className="space-y-4">
+          {/* Banner Oficial de Bens do TSE */}
+          <TseBensBanner c={c} tse={tse} bens={bens} />
+
+          {/* Barra de Filtros por Categoria e Busca Rápida */}
+          <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between rounded-xl border border-slate-200 bg-white p-3 shadow-2xs dark:border-slate-800 dark:bg-slate-900">
+            {/* Pílulas de Categorias */}
+            <div className="flex flex-wrap items-center gap-1.5">
+              {categoriasBensList.map((cat) => {
+                const ativo = categoriaBem === cat.id;
+                return (
                   <button
+                    key={cat.id}
                     type="button"
-                    onClick={() => setOrdemBens((o) => (o === 'desc' ? 'asc' : 'desc'))}
-                    title={ordemBens === 'desc' ? 'Ordenado do maior para o menor — clique para inverter' : 'Ordenado do menor para o maior — clique para inverter'}
-                    className="ml-auto inline-flex cursor-pointer items-center gap-1 font-semibold hover:text-slate-900 dark:hover:text-white"
+                    onClick={() => setCategoriaBem(cat.id)}
+                    className={`inline-flex items-center gap-1.5 rounded-lg px-2.5 py-1 text-xs font-medium transition cursor-pointer ${
+                      ativo
+                        ? 'bg-slate-900 text-white shadow-2xs dark:bg-white dark:text-slate-900'
+                        : 'bg-slate-100 text-slate-600 hover:bg-slate-200 dark:bg-slate-800 dark:text-slate-300 dark:hover:bg-slate-700'
+                    }`}
                   >
-                    Valor <span aria-hidden="true">{ordemBens === 'desc' ? '▼' : '▲'}</span>
+                    <span>{cat.label}</span>
+                    <span
+                      className={`rounded-full px-1.5 py-0.2 text-[10px] font-bold ${
+                        ativo
+                          ? 'bg-white/20 text-white dark:bg-slate-900/30 dark:text-slate-900'
+                          : 'bg-slate-200/80 text-slate-600 dark:bg-slate-700 dark:text-slate-300'
+                      }`}
+                    >
+                      {cat.count}
+                    </span>
                   </button>
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              {bensOrdenados.map((b, i) => (
-                <tr key={b.id ?? i} className="border-t dark:border-slate-800">
-                  <td className="px-3 py-1.5 font-medium">{b.tipo}</td>
-                  <td className="px-3 py-1.5 text-slate-600 dark:text-slate-400">{b.descricao}</td>
-                  <td className="px-3 py-1.5 text-right">{brl(b.valor)}</td>
-                </tr>
-              ))}
-              {bensOrdenados.length === 0 && (
-                <tr>
-                  <td colSpan={3} className="px-3 py-4 text-center text-slate-500 dark:text-slate-400">
-                    Sem bens coletados ainda.
-                  </td>
-                </tr>
+                );
+              })}
+            </div>
+
+            {/* Campo de Busca Rápida */}
+            <div className="relative min-w-[200px] sm:w-64">
+              <input
+                type="text"
+                value={buscaBem}
+                onChange={(e) => setBuscaBem(e.target.value)}
+                placeholder="Buscar por descrição..."
+                className="w-full rounded-lg border border-slate-200 bg-slate-50 py-1.5 pl-8 pr-7 text-xs text-slate-900 placeholder:text-slate-400 focus:border-emerald-500 focus:bg-white focus:outline-hidden focus:ring-1 focus:ring-emerald-500 dark:border-slate-700 dark:bg-slate-800 dark:text-white dark:placeholder:text-slate-500"
+              />
+              <span className="pointer-events-none absolute left-2.5 top-1/2 -translate-y-1/2 text-slate-400">
+                <svg className="h-3.5 w-3.5" viewBox="0 0 20 20" fill="currentColor">
+                  <path
+                    fillRule="evenodd"
+                    d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </span>
+              {buscaBem && (
+                <button
+                  type="button"
+                  onClick={() => setBuscaBem('')}
+                  className="absolute right-2 top-1/2 -translate-y-1/2 rounded p-0.5 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 cursor-pointer"
+                >
+                  ✕
+                </button>
               )}
-            </tbody>
-          </table>
+            </div>
+          </div>
+
+          {/* Tabela Oficial de Bens Auditados */}
+          <div className="overflow-x-auto rounded-xl border border-slate-200 bg-white shadow-2xs dark:border-slate-700 dark:bg-slate-900">
+            <table className="w-full text-sm">
+              <thead className="bg-slate-50 text-left text-xs font-semibold text-slate-600 dark:bg-slate-800 dark:text-slate-300">
+                <tr>
+                  <th className="px-3 py-2.5">Tipo de Ativo</th>
+                  <th className="px-3 py-2.5">Descrição Oficial perante o TSE</th>
+                  <th className="px-3 py-2.5 text-center w-36">Participação</th>
+                  <th className="px-3 py-2.5 text-right w-36">
+                    <button
+                      type="button"
+                      onClick={() => setOrdemBens((o) => (o === 'desc' ? 'asc' : 'desc'))}
+                      title={ordemBens === 'desc' ? 'Ordenado do maior para o menor — clique para inverter' : 'Ordenado do menor para o maior — clique para inverter'}
+                      className="ml-auto inline-flex cursor-pointer items-center gap-1 font-semibold hover:text-slate-900 dark:hover:text-white"
+                    >
+                      Valor Declarado <span aria-hidden="true">{ordemBens === 'desc' ? '▼' : '▲'}</span>
+                    </button>
+                  </th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-slate-100 dark:divide-slate-800">
+                {bensFiltrados.map((b, i) => {
+                  const val = Number(b.valor || 0);
+                  const perc = patrimonioTotalRef > 0 ? (val / patrimonioTotalRef) * 100 : 0;
+                  return (
+                    <tr key={b.id ?? i} className="hover:bg-slate-50/70 dark:hover:bg-slate-800/50 transition-colors">
+                      <td className="px-3 py-2.5 align-top">
+                        <div className="flex flex-col gap-1">
+                          <span className="font-medium text-slate-900 dark:text-white">{b.tipo}</span>
+                          <span className="inline-flex w-fit items-center gap-1 rounded-full bg-emerald-50 px-1.5 py-0.2 text-[10px] font-semibold text-emerald-700 ring-1 ring-inset ring-emerald-600/20 dark:bg-emerald-950/60 dark:text-emerald-300">
+                            ✓ TSE
+                          </span>
+                        </div>
+                      </td>
+                      <td className="px-3 py-2.5 align-top text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
+                        {b.descricao || 'Sem descrição informada'}
+                      </td>
+                      <td className="px-3 py-2.5 align-top text-center">
+                        <div className="flex flex-col items-center gap-1">
+                          <span className="text-xs font-bold text-slate-700 dark:text-slate-300">
+                            {perc.toFixed(1)}%
+                          </span>
+                          <div className="h-1.5 w-16 overflow-hidden rounded-full bg-slate-100 dark:bg-slate-700">
+                            <div
+                              className="h-full rounded-full bg-purple-500"
+                              style={{ width: `${Math.min(perc, 100)}%` }}
+                            />
+                          </div>
+                        </div>
+                      </td>
+                      <td className="px-3 py-2.5 align-top text-right font-semibold text-slate-900 dark:text-white">
+                        {brl(b.valor)}
+                      </td>
+                    </tr>
+                  );
+                })}
+                {bensFiltrados.length === 0 && (
+                  <tr>
+                    <td colSpan={4} className="px-3 py-8 text-center text-slate-500 dark:text-slate-400">
+                      Nenhum bem localizado para o filtro selecionado.
+                    </td>
+                  </tr>
+                )}
+              </tbody>
+              {bensFiltrados.length > 0 && (
+                <tfoot className="border-t border-slate-200 bg-slate-50/80 text-xs font-semibold dark:border-slate-800 dark:bg-slate-800/80">
+                  <tr>
+                    <td colSpan={2} className="px-3 py-2 text-slate-600 dark:text-slate-300">
+                      Total exibido ({bensFiltrados.length} {bensFiltrados.length === 1 ? 'item' : 'itens'})
+                    </td>
+                    <td className="px-3 py-2 text-center text-slate-500 dark:text-slate-400">
+                      {patrimonioTotalRef > 0
+                        ? `${((somaBensFiltrados / patrimonioTotalRef) * 100).toFixed(1)}% do total`
+                        : '—'}
+                    </td>
+                    <td className="px-3 py-2 text-right text-sm font-bold text-slate-900 dark:text-white">
+                      {brl(somaBensFiltrados)}
+                    </td>
+                  </tr>
+                </tfoot>
+              )}
+            </table>
+          </div>
         </div>
       )}
 

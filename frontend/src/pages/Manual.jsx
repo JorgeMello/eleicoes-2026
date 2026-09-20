@@ -367,6 +367,48 @@ export default function Manual() {
             </div>
           </div>
 
+          {/* Validação na Aba Bens do Perfil */}
+          <div className="rounded-xl border border-teal-200 bg-gradient-to-r from-teal-50/80 via-emerald-50/40 to-white p-5 shadow-sm dark:border-teal-900/60 dark:from-teal-950/40 dark:via-slate-900 dark:to-slate-900">
+            <div className="flex items-start gap-3">
+              <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-teal-600 text-white font-bold text-sm shadow-sm dark:bg-teal-500">
+                🏛️
+              </span>
+              <div className="space-y-2">
+                <div className="flex flex-wrap items-center gap-2">
+                  <h3 className="text-base font-bold text-slate-900 dark:text-white">
+                    Validação Oficial TSE na Aba "Bens" do Perfil
+                  </h3>
+                  <span className="rounded-full bg-emerald-100 px-2.5 py-0.5 text-[11px] font-bold text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300">
+                    Novo Recurso
+                  </span>
+                </div>
+                <p className="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
+                  A aba <strong>Bens</strong> conta com o <strong>Banner Oficial de Auditoria Patrimonial do TSE</strong>, filtros por macrocategorias e busca em tempo real para inspeção dos ativos declarados:
+                </p>
+                <div className="grid gap-3 pt-1 sm:grid-cols-3 text-xs">
+                  <div className="rounded-lg bg-white p-3 border border-slate-200 dark:bg-slate-800/80 dark:border-slate-700">
+                    <strong className="text-teal-700 dark:text-teal-400 block mb-1">⚖️ Auditoria Matemática 100%</strong>
+                    <p className="text-slate-600 dark:text-slate-400 leading-relaxed">
+                      Painel confrontando o patrimônio declarado contra a soma exata dos itens, indicando tolerância zero a desvios (100% consistente) e botão direto de validação no DivulgaCandContas.
+                    </p>
+                  </div>
+                  <div className="rounded-lg bg-white p-3 border border-slate-200 dark:bg-slate-800/80 dark:border-slate-700">
+                    <strong className="text-purple-700 dark:text-purple-400 block mb-1">🔍 Filtros por Categoria & Busca</strong>
+                    <p className="text-slate-600 dark:text-slate-400 leading-relaxed">
+                      Pílulas dinâmicas para isolar Imóveis, Quotas/Empresas, Aplicações/Contas e Veículos, além de campo de busca instantânea por palavras-chave na descrição oficial.
+                    </p>
+                  </div>
+                  <div className="rounded-lg bg-white p-3 border border-slate-200 dark:bg-slate-800/80 dark:border-slate-700">
+                    <strong className="text-emerald-700 dark:text-emerald-400 block mb-1">📊 Participação (%) & Selo TSE</strong>
+                    <p className="text-slate-600 dark:text-slate-400 leading-relaxed">
+                      Cada linha exibe o selo <code>✓ TSE</code> e a participação percentual com barra visual sobre o patrimônio total do candidato, com rodapé totalizador dinâmico.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
           {/* Bloco Educativo: Balanço de Campanha (Superávit vs. Déficit) */}
           <div className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-700 dark:bg-slate-900">
             <h3 className="text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
