@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <!-- Gradiente da Carcaça Principal (Cinza Técnico Realista) -->
+    <linearGradient id="corpo-urna" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F1F5F9" />
+      <stop offset="50%" stop-color="#E2E8F0" />
+      <stop offset="100%" stop-color="#CBD5E1" />
+    </linearGradient>
+
+    <!-- Sombra e Profundidade do Gabinete -->
+    <linearGradient id="chanfro-tampa" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#94A3B8" />
+      <stop offset="100%" stop-color="#64748B" />
+    </linearGradient>
+
+    <!-- Display LCD Escuro com Brilho Superior -->
+    <linearGradient id="tela-lcd" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+
+    <!-- Botão Confirma (Verde Icônico) -->
+    <linearGradient id="btn-confirma" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#22C55E" />
+      <stop offset="100%" stop-color="#15803D" />
+    </linearGradient>
+
+    <!-- Botão Corrige (Laranja Oficial) -->
+    <linearGradient id="btn-corrige" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FB923C" />
+      <stop offset="100%" stop-color="#C2410C" />
+    </linearGradient>
+
+    <!-- Sombra Projetada -->
+    <filter id="urna-drop" x="-6%" y="-6%" width="112%" height="116%">
+      <feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#0F172A" flood-opacity="0.3" />
+    </filter>
+  </defs>
+
+  <!-- Gabinete Principal da Urna Eletrônica -->
+  <g filter="url(#urna-drop)">
+    <!-- Base inferior de apoio -->
+    <rect x="24" y="440" width="464" height="24" rx="10" fill="#475569" />
+
+    <!-- Chassi Principal -->
+    <rect x="36" y="76" width="440" height="370" rx="32" fill="url(#corpo-urna)" stroke="#94A3B8" stroke-width="4" />
+
+    <!-- Faixa / Friso Superior da Impressora / Terminal -->
+    <rect x="56" y="96" width="400" height="28" rx="8" fill="url(#chanfro-tampa)" />
+    <!-- Fenda de Saída do Boletim de Urna (BU) -->
+    <rect x="186" y="106" width="140" height="8" rx="4" fill="#0F172A" />
+
+    <!-- Inscrição Superior: JUSTIÇA ELEITORAL -->
+    <text x="256" y="142" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="900" letter-spacing="2" fill="#334155">
+      JUSTIÇA ELEITORAL
+    </text>
+
+    <!-- SEÇÃO ESQUERDA: DISPLAY LCD (TELA DA URNA) -->
+    <g transform="translate(60, 156)">
+      <!-- Borda da Tela -->
+      <rect x="0" y="0" width="190" height="244" rx="14" fill="#1E293B" stroke="#0F172A" stroke-width="3" />
+      <!-- Display LCD -->
+      <rect x="10" y="10" width="170" height="224" rx="8" fill="url(#tela-lcd)" />
+
+      <!-- Linhas e Textos do Display (Simulando Votação de 2026) -->
+      <text x="20" y="34" font-family="monospace" font-size="10" font-weight="bold" fill="#64748B">SEU VOTO PARA</text>
+      <text x="20" y="52" font-family="monospace" font-size="12" font-weight="bold" fill="#F8FAFC">PRESIDENTE</text>
+
+      <!-- Quadrados de Dígitos do Candidato (ex: 2 dígitos piscando) -->
+      <rect x="20" y="66" width="24" height="34" rx="4" fill="#1E293B" stroke="#38BDF8" stroke-width="1.5" />
+      <text x="32" y="90" text-anchor="middle" font-family="monospace" font-size="20" font-weight="bold" fill="#38BDF8">2</text>
+
+      <rect x="50" y="66" width="24" height="34" rx="4" fill="#1E293B" stroke="#38BDF8" stroke-width="1.5" />
+      <text x="62" y="90" text-anchor="middle" font-family="monospace" font-size="20" font-weight="bold" fill="#38BDF8">6</text>
+
+      <!-- Foto Simulada no Canto do Display -->
+      <rect x="112" y="30" width="56" height="70" rx="4" fill="#1E293B" stroke="#475569" stroke-width="1" />
+      <circle cx="140" cy="54" r="14" fill="#64748B" />
+      <path d="M 122 88 Q 140 72 158 88" fill="#64748B" />
+
+      <!-- Linhas Informativas: Nome e Partido -->
+      <rect x="20" y="112" width="70" height="6" rx="2" fill="#64748B" />
+      <rect x="20" y="124" width="110" height="8" rx="2" fill="#E2E8F0" />
+      <rect x="20" y="138" width="50" height="6" rx="2" fill="#64748B" />
+      <rect x="20" y="148" width="80" height="8" rx="2" fill="#E2E8F0" />
+
+      <!-- Rodapé da Tela: Instruções -->
+      <line x1="20" y1="184" x2="170" y2="184" stroke="#334155" stroke-width="1" />
+      <text x="20" y="200" font-family="monospace" font-size="7.5" fill="#94A3B8">CONFIRMA para Votar</text>
+      <text x="20" y="214" font-family="monospace" font-size="7.5" fill="#94A3B8">CORRIGE para Reiniciar</text>
+    </g>
+
+    <!-- SEÇÃO DIREITA: TECLADO NUMÉRICO E TECLAS ESPECIAIS -->
+    <g transform="translate(270, 156)">
+      <!-- Painel Embutido do Teclado -->
+      <rect x="0" y="0" width="182" height="244" rx="14" fill="#334155" stroke="#1E293B" stroke-width="3" />
+
+      <!-- TECLAS NUMÉRICAS (1 a 9) -->
+      <!-- Linha 1: 1, 2, 3 -->
+      <rect x="16" y="16" width="38" height="28" rx="6" fill="#1E293B" stroke="#0F172A" stroke-width="1.5" />
+      <text x="35" y="36" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#FFFFFF">1</text>
+
+      <rect x="72" y="16" width="38" height="28" rx="6" fill="#1E293B" stroke="#0F172A" stroke-width="1.5" />
+      <text x="91" y="36" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#FFFFFF">2</text>
+
+      <rect x="128" y="16" width="38" height="28" rx="6" fill="#1E293B" stroke="#0F172A" stroke-width="1.5" />
+      <text x="147" y="36" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#FFFFFF">3</text>
+
+      <!-- Linha 2: 4, 5, 6 -->
+      <rect x="16" y="52" width="38" height="28" rx="6" fill="#1E293B" stroke="#0F172A" stroke-width="1.5" />
+      <text x="35" y="72" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#FFFFFF">4</text>
+
+      <rect x="72" y="52" width="38" height="28" rx="6" fill="#1E293B" stroke="#0F172A" stroke-width="1.5" />
+      <text x="91" y="72" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#FFFFFF">5</text>
+
+      <rect x="128" y="52" width="38" height="28" rx="6" fill="#1E293B" stroke="#0F172A" stroke-width="1.5" />
+      <text x="147" y="72" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#FFFFFF">6</text>
+
+      <!-- Linha 3: 7, 8, 9 -->
+      <rect x="16" y="88" width="38" height="28" rx="6" fill="#1E293B" stroke="#0F172A" stroke-width="1.5" />
+      <text x="35" y="108" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#FFFFFF">7</text>
+
+      <rect x="72" y="88" width="38" height="28" rx="6" fill="#1E293B" stroke="#0F172A" stroke-width="1.5" />
+      <text x="91" y="108" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#FFFFFF">8</text>
+
+      <rect x="128" y="88" width="38" height="28" rx="6" fill="#1E293B" stroke="#0F172A" stroke-width="1.5" />
+      <text x="147" y="108" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#FFFFFF">9</text>
+
+      <!-- Linha 4: 0 Central -->
+      <rect x="72" y="124" width="38" height="28" rx="6" fill="#1E293B" stroke="#0F172A" stroke-width="1.5" />
+      <text x="91" y="144" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#FFFFFF">0</text>
+
+      <!-- TECLAS ESPECIAIS (BRANCO, CORRIGE, CONFIRMA) -->
+      <!-- Tecla BRANCO -->
+      <rect x="10" y="174" width="48" height="42" rx="6" fill="#F8FAFC" stroke="#94A3B8" stroke-width="1.5" />
+      <text x="34" y="198" text-anchor="middle" font-family="sans-serif" font-size="8" font-weight="900" fill="#0F172A">BRANCO</text>
+
+      <!-- Tecla CORRIGE (Laranja) -->
+      <rect x="64" y="174" width="50" height="42" rx="6" fill="url(#btn-corrige)" stroke="#7C2D12" stroke-width="1.5" />
+      <text x="89" y="198" text-anchor="middle" font-family="sans-serif" font-size="8" font-weight="900" fill="#FFFFFF">CORRIGE</text>
+
+      <!-- Tecla CONFIRMA (Verde - Maior) -->
+      <rect x="120" y="162" width="54" height="54" rx="6" fill="url(#btn-confirma)" stroke="#14532D" stroke-width="1.5" />
+      <text x="147" y="193" text-anchor="middle" font-family="sans-serif" font-size="8" font-weight="900" fill="#FFFFFF">CONFIRMA</text>
+    </g>
+  </g>
+</svg>

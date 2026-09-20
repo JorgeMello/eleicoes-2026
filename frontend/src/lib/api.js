@@ -38,6 +38,14 @@ export const api = {
     const q = new URLSearchParams({ cargo, ...params });
     return get(`/rankings/receitas?${q}`);
   },
+  rankingGastos: (cargo, params = {}) => {
+    const q = new URLSearchParams({ cargo, ...params });
+    return get(`/rankings/gastos?${q}`);
+  },
+  rankingDoadores: (cargo, params = {}) => {
+    const q = new URLSearchParams({ cargo, ...params });
+    return get(`/rankings/doadores?${q}`);
+  },
   estatisticas: (cargo) => get(`/estatisticas?cargo=${cargo}`),
   pesquisas: (params = {}) => {
     const q = new URLSearchParams({ cargo: 'presidente', ...params });

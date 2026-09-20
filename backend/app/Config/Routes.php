@@ -15,6 +15,9 @@ $routes->group('api', ['filter' => 'cors'], static function ($routes) {
     $routes->get('candidatos/(:segment)/bens', 'Api\Candidatos::bens/$1');
     $routes->get('rankings/patrimonio', 'Api\Rankings::patrimonio');
     $routes->get('rankings/receitas', 'Api\Rankings::receitas');
+    $routes->get('rankings/gastos', 'Api\Rankings::gastos');
+    $routes->get('rankings/despesas', 'Api\Rankings::gastos');
+    $routes->get('rankings/doadores', 'Api\Rankings::doadores');
     $routes->get('estatisticas', 'Api\Estatisticas::index');
     $routes->post('coletas', 'Api\Coletas::importar');
     $routes->get('pesquisas', 'Api\Pesquisas::index');

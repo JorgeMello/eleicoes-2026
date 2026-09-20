@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <!-- Gradientes Oficiais das Cores do Brasil -->
+    <linearGradient id="br-green" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00A83E" />
+      <stop offset="100%" stop-color="#007F2E" />
+    </linearGradient>
+
+    <linearGradient id="br-yellow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFEB3B" />
+      <stop offset="100%" stop-color="#FBC02D" />
+    </linearGradient>
+
+    <linearGradient id="br-blue" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00358E" />
+      <stop offset="100%" stop-color="#001F5C" />
+    </linearGradient>
+
+    <linearGradient id="urna-tampa" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00B845" />
+      <stop offset="100%" stop-color="#009B3A" />
+    </linearGradient>
+
+    <filter id="urna-shadow" x="-8%" y="-8%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.25" />
+    </filter>
+
+    <filter id="cedula-shadow" x="-10%" y="-10%" width="125%" height="125%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#001F5C" flood-opacity="0.3" />
+    </filter>
+  </defs>
+
+  <!-- Grupo Principal da Urna -->
+  <g filter="url(#urna-shadow)">
+    <!-- Corpo Principal da Urna (Verde Bandeira) -->
+    <rect x="76" y="210" width="360" height="250" rx="28" fill="url(#br-green)" stroke="#005C20" stroke-width="4" />
+
+    <!-- Base Inferior de Apoio -->
+    <rect x="60" y="440" width="392" height="24" rx="12" fill="#006624" />
+
+    <!-- Emblema Central Estilizado (Losango Amarelo e Círculo Azul da Bandeira) -->
+    <g transform="translate(256, 335)">
+      <!-- Losango Amarelo -->
+      <polygon points="0,-48 68,0 0,48 -68,0" fill="url(#br-yellow)" stroke="#D4A000" stroke-width="2" />
+      <!-- Círculo Azul Central -->
+      <circle cx="0" cy="0" r="28" fill="url(#br-blue)" stroke="#001844" stroke-width="2" />
+      <!-- Faixa Branca Central Inclinada -->
+      <path d="M-27,-6 Q0,10 27,2" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" />
+    </g>
+
+    <!-- Tampa Superior da Urna (Verde Escuro com Chanfro) -->
+    <path d="M 52 220 L 96 156 L 416 156 L 460 220 Z" fill="url(#urna-tampa)" stroke="#005C20" stroke-width="4" stroke-linejoin="round" />
+
+    <!-- Friso de Borda da Tampa -->
+    <rect x="44" y="212" width="424" height="18" rx="9" fill="#00802B" />
+
+    <!-- Ranhura / Fenda de Inserção do Voto (Azul Institucional Profundo) -->
+    <rect x="156" y="172" width="200" height="18" rx="9" fill="url(#br-blue)" stroke="#001A4E" stroke-width="2" />
+  </g>
+
+  <!-- Cédula de Votação Entrando na Urna (Amarelo Ouro com Sombra) -->
+  <g filter="url(#cedula-shadow)" transform="rotate(-6, 256, 120)">
+    <!-- Papel do Voto -->
+    <rect x="178" y="44" width="156" height="140" rx="12" fill="url(#br-yellow)" stroke="#D4A000" stroke-width="3" />
+
+    <!-- Cabeçalho da Cédula -->
+    <rect x="194" y="60" width="124" height="12" rx="4" fill="#E5A600" opacity="0.8" />
+
+    <!-- Linhas de Opções de Voto -->
+    <rect x="194" y="82" width="76" height="8" rx="3" fill="#00358E" opacity="0.6" />
+    <rect x="194" y="98" width="60" height="8" rx="3" fill="#00358E" opacity="0.6" />
+
+    <!-- Quadrado de Votação Marcado (Checkbox com Confirmação) -->
+    <rect x="286" y="82" width="28" height="28" rx="6" fill="#00358E" />
+    <!-- Visto de Confirmação (Checkmark Branco) -->
+    <path d="M 292 95 L 298 102 L 308 89" fill="none" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- Faixa Verde Decorativa na Borda da Cédula -->
+    <rect x="178" y="172" width="156" height="12" rx="4" fill="#009B3A" />
+  </g>
+</svg>
