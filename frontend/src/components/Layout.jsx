@@ -49,6 +49,9 @@ export default function Layout({ children }) {
             <NavLink to="/pesquisas" className={({ isActive }) => `rounded px-3 py-1.5 ${isActive ? 'bg-white/15' : 'hover:bg-white/10'}`}>
               Pesquisas
             </NavLink>
+            <NavLink to="/manual" className={({ isActive }) => `rounded px-3 py-1.5 ${isActive ? 'bg-white/15' : 'hover:bg-white/10'}`}>
+              Manual
+            </NavLink>
             <a
               href="https://github.com/JorgeMello/eleicoes-2026"
               target="_blank"
@@ -69,6 +72,7 @@ export default function Layout({ children }) {
               const destino = `/${c.id}${subRota}`;
               const ehCargoAtivo =
                 location.pathname !== '/pesquisas' &&
+                location.pathname !== '/manual' &&
                 (cargo === c.id || location.pathname.startsWith(`/${c.id}`));
               return (
                 <NavLink
