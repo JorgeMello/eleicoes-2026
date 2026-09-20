@@ -103,7 +103,7 @@ export default function Comparador() {
   return (
     <div className="space-y-4">
       <div className="flex flex-wrap items-center gap-3">
-        <h1 className="text-2xl font-bold">Comparar até 3 candidatos · {cargo}</h1>
+        <h1 className="text-2xl font-bold">Comparar até 3 candidatos · <span className="uppercase">{cargo}</span></h1>
         <button
           type="button"
           onClick={() => setShowGraficos((v) => !v)}

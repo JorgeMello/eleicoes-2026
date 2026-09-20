@@ -1,0 +1,682 @@
+[
+  {
+    "instituto": "Datafolha",
+    "cargo": "presidente",
+    "uf": "BR",
+    "tipo": "1-turno",
+    "confronto": null,
+    "data_inicio": "2026-09-15",
+    "data_fim": "2026-09-16",
+    "margem_erro": 2,
+    "amostra": 2002,
+    "registro_tse": "BR-04029/2026",
+    "fonte_url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-17-setembro-lula-flavio-bolsonaro-1-turno-2-turno-rejeicao.ghtml",
+    "resultados": [
+      {
+        "nome": "Lula",
+        "partido": "PT",
+        "percentual": 39
+      },
+      {
+        "nome": "Flávio Bolsonaro",
+        "partido": "PL",
+        "percentual": 36
+      },
+      {
+        "nome": "Escritor Augusto Cury",
+        "partido": "AVANTE",
+        "percentual": 6
+      },
+      {
+        "nome": "Ronaldo Caiado",
+        "partido": "PSD",
+        "percentual": 4
+      },
+      {
+        "nome": "Renan Santos",
+        "partido": "MISSÃO",
+        "percentual": 3
+      },
+      {
+        "nome": "Romeu Zema",
+        "partido": "NOVO",
+        "percentual": 2
+      },
+      {
+        "nome": "Samara Martins",
+        "partido": "UP",
+        "percentual": 1
+      },
+      {
+        "nome": "Rui Costa Pimenta",
+        "partido": "PCO",
+        "percentual": 1
+      },
+      {
+        "nome": "Edmilson Costa",
+        "partido": "PCB",
+        "percentual": 0
+      },
+      {
+        "nome": "Clariana Barão",
+        "partido": "DC",
+        "percentual": 0
+      },
+      {
+        "nome": "Hertz Dias",
+        "partido": "PSTU",
+        "percentual": 0
+      },
+      {
+        "nome": "Veterinário Wilson Grassi",
+        "partido": "DEMOCRATA",
+        "percentual": 0
+      }
+    ]
+  },
+  {
+    "instituto": "Datafolha",
+    "cargo": "presidente",
+    "uf": "BR",
+    "tipo": "1-turno",
+    "confronto": null,
+    "data_inicio": "2026-09-15",
+    "data_fim": "2026-09-16",
+    "margem_erro": 2,
+    "amostra": 2002,
+    "registro_tse": "BR-04029/2026",
+    "fonte_url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-17-setembro-lula-flavio-bolsonaro-1-turno-2-turno-rejeicao.ghtml",
+    "resultados": [
+      {
+        "nome": "Flávio Bolsonaro",
+        "partido": "PL",
+        "percentual": 47
+      },
+      {
+        "nome": "Lula",
+        "partido": "PT",
+        "percentual": 47
+      },
+      {
+        "nome": "Renan Santos",
+        "partido": "MISSÃO",
+        "percentual": 15
+      },
+      {
+        "nome": "Romeu Zema",
+        "partido": "NOVO",
+        "percentual": 14
+      },
+      {
+        "nome": "Ronaldo Caiado",
+        "partido": "PSD",
+        "percentual": 13
+      },
+      {
+        "nome": "Rui Costa Pimenta",
+        "partido": "PCO",
+        "percentual": 11
+      },
+      {
+        "nome": "Samara Martins",
+        "partido": "UP",
+        "percentual": 10
+      },
+      {
+        "nome": "Edmilson Costa",
+        "partido": "PCB",
+        "percentual": 10
+      },
+      {
+        "nome": "Escritor Augusto Cury",
+        "partido": "AVANTE",
+        "percentual": 9
+      },
+      {
+        "nome": "Clariana Barão",
+        "partido": "DC",
+        "percentual": 7
+      },
+      {
+        "nome": "Hertz Dias",
+        "partido": "PSTU",
+        "percentual": 7
+      },
+      {
+        "nome": "Veterinário Wilson Grassi",
+        "partido": "DEMOCRATA",
+        "percentual": 6
+      }
+    ]
+  },
+  {
+    "instituto": "Datafolha",
+    "cargo": "presidente",
+    "uf": "BR",
+    "tipo": "2-turno",
+    "confronto": "Lula x Flávio Bolsonaro",
+    "data_inicio": "2026-09-15",
+    "data_fim": "2026-09-16",
+    "margem_erro": 2,
+    "amostra": 2002,
+    "registro_tse": "BR-04029/2026",
+    "fonte_url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-17-setembro-lula-flavio-bolsonaro-1-turno-2-turno-rejeicao.ghtml",
+    "resultados": [
+      {
+        "nome": "Lula",
+        "partido": "PT",
+        "percentual": 46
+      },
+      {
+        "nome": "Flávio Bolsonaro",
+        "partido": "PL",
+        "percentual": 44
+      }
+    ]
+  },
+  {
+    "instituto": "Datafolha",
+    "cargo": "presidente",
+    "uf": "BR",
+    "tipo": "rejeicao",
+    "confronto": null,
+    "data_inicio": "2026-09-15",
+    "data_fim": "2026-09-16",
+    "margem_erro": 2,
+    "amostra": 2002,
+    "registro_tse": "BR-04029/2026",
+    "fonte_url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/17/datafolha-rejeicao-lula-flavio-17-setembro.ghtml",
+    "resultados": [
+      {
+        "nome": "Flávio Bolsonaro",
+        "partido": "PL",
+        "percentual": 47
+      },
+      {
+        "nome": "Lula",
+        "partido": "PT",
+        "percentual": 47
+      },
+      {
+        "nome": "Renan Santos",
+        "partido": "MISSÃO",
+        "percentual": 15
+      },
+      {
+        "nome": "Romeu Zema",
+        "partido": "NOVO",
+        "percentual": 14
+      },
+      {
+        "nome": "Ronaldo Caiado",
+        "partido": "PSD",
+        "percentual": 13
+      },
+      {
+        "nome": "Rui Costa Pimenta",
+        "partido": "PCO",
+        "percentual": 11
+      },
+      {
+        "nome": "Samara Martins",
+        "partido": "UP",
+        "percentual": 10
+      },
+      {
+        "nome": "Edmilson Costa",
+        "partido": "PCB",
+        "percentual": 10
+      },
+      {
+        "nome": "Escritor Augusto Cury",
+        "partido": "AVANTE",
+        "percentual": 9
+      },
+      {
+        "nome": "Clariana Barão",
+        "partido": "DC",
+        "percentual": 7
+      },
+      {
+        "nome": "Hertz Dias",
+        "partido": "PSTU",
+        "percentual": 7
+      },
+      {
+        "nome": "Veterinário Wilson Grassi",
+        "partido": "DEMOCRATA",
+        "percentual": 6
+      }
+    ]
+  },
+  {
+    "instituto": "Quaest",
+    "cargo": "presidente",
+    "uf": "BR",
+    "tipo": "1-turno",
+    "confronto": "sem Pablo Marçal",
+    "data_inicio": "2026-09-03",
+    "data_fim": "2026-09-06",
+    "margem_erro": 2,
+    "amostra": 2004,
+    "registro_tse": "BR-01720/2026",
+    "fonte_url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+    "resultados": [
+      {
+        "nome": "Lula",
+        "partido": "PT",
+        "percentual": 36
+      },
+      {
+        "nome": "Flávio Bolsonaro",
+        "partido": "PL",
+        "percentual": 29
+      },
+      {
+        "nome": "Augusto Cury",
+        "partido": "AVANTE",
+        "percentual": 8
+      },
+      {
+        "nome": "Renan Santos",
+        "partido": "MISSÃO",
+        "percentual": 3
+      },
+      {
+        "nome": "Ronaldo Caiado",
+        "partido": "PSD",
+        "percentual": 3
+      },
+      {
+        "nome": "Romeu Zema",
+        "partido": "NOVO",
+        "percentual": 2
+      },
+      {
+        "nome": "Samara Martins",
+        "partido": "UP",
+        "percentual": 1
+      },
+      {
+        "nome": "Edmilson Costa",
+        "partido": "PCB",
+        "percentual": 0
+      },
+      {
+        "nome": "Rui Costa Pimenta",
+        "partido": "PCO",
+        "percentual": 0
+      },
+      {
+        "nome": "Veterinário Wilson Grassi",
+        "partido": "DEMOCRATA",
+        "percentual": 0
+      },
+      {
+        "nome": "Clariana Barão",
+        "partido": "DC",
+        "percentual": 0
+      },
+      {
+        "nome": "Hertz Dias",
+        "partido": "PSTU",
+        "percentual": 0
+      }
+    ]
+  },
+  {
+    "instituto": "Quaest",
+    "cargo": "presidente",
+    "uf": "BR",
+    "tipo": "1-turno",
+    "confronto": null,
+    "data_inicio": "2026-09-03",
+    "data_fim": "2026-09-06",
+    "margem_erro": 2,
+    "amostra": 2004,
+    "registro_tse": "BR-01720/2026",
+    "fonte_url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-presidente-7-setembro.ghtml",
+    "resultados": [
+      {
+        "nome": "Lula",
+        "partido": "PT",
+        "percentual": 36
+      },
+      {
+        "nome": "Flávio Bolsonaro",
+        "partido": "PL",
+        "percentual": 29
+      },
+      {
+        "nome": "Augusto Cury",
+        "partido": "AVANTE",
+        "percentual": 8
+      },
+      {
+        "nome": "Renan Santos",
+        "partido": "MISSÃO",
+        "percentual": 3
+      },
+      {
+        "nome": "Ronaldo Caiado",
+        "partido": "PSD",
+        "percentual": 3
+      },
+      {
+        "nome": "Romeu Zema",
+        "partido": "NOVO",
+        "percentual": 2
+      },
+      {
+        "nome": "Pablo Marçal",
+        "partido": "PRTB",
+        "percentual": 1
+      },
+      {
+        "nome": "Samara Martins",
+        "partido": "UP",
+        "percentual": 1
+      },
+      {
+        "nome": "Rui Costa Pimenta",
+        "partido": "PCO",
+        "percentual": 0
+      },
+      {
+        "nome": "Clariana Barão",
+        "partido": "DC",
+        "percentual": 0
+      },
+      {
+        "nome": "Veterinário Wilson Grassi",
+        "partido": "DEMOCRATA",
+        "percentual": 0
+      },
+      {
+        "nome": "Edmilson Costa",
+        "partido": "PCB",
+        "percentual": 0
+      },
+      {
+        "nome": "Hertz Dias",
+        "partido": "PSTU",
+        "percentual": 0
+      }
+    ]
+  },
+  {
+    "instituto": "Datafolha",
+    "cargo": "presidente",
+    "uf": "BR",
+    "tipo": "2-turno",
+    "confronto": "Lula x Flávio Bolsonaro",
+    "data_inicio": "2026-09-08",
+    "data_fim": "2026-09-10",
+    "margem_erro": 2,
+    "amostra": 2002,
+    "registro_tse": "BR-01833/2026",
+    "fonte_url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/11/datafolha-2o-turno-presidente-11-setembro.ghtml",
+    "resultados": [
+      {
+        "nome": "Lula",
+        "partido": "PT",
+        "percentual": 46
+      },
+      {
+        "nome": "Flávio Bolsonaro",
+        "partido": "PL",
+        "percentual": 44
+      }
+    ]
+  },
+  {
+    "instituto": "Datafolha",
+    "cargo": "presidente",
+    "uf": "BR",
+    "tipo": "2-turno",
+    "confronto": "Lula x Ronaldo Caiado",
+    "data_inicio": "2026-09-08",
+    "data_fim": "2026-09-10",
+    "margem_erro": 2,
+    "amostra": 2002,
+    "registro_tse": "BR-01833/2026",
+    "fonte_url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/11/datafolha-2o-turno-presidente-11-setembro.ghtml",
+    "resultados": [
+      {
+        "nome": "Lula",
+        "partido": "PT",
+        "percentual": 46
+      },
+      {
+        "nome": "Ronaldo Caiado",
+        "partido": "PSD",
+        "percentual": 41
+      }
+    ]
+  },
+  {
+    "instituto": "Datafolha",
+    "cargo": "presidente",
+    "uf": "BR",
+    "tipo": "2-turno",
+    "confronto": "Lula x Romeu Zema",
+    "data_inicio": "2026-09-08",
+    "data_fim": "2026-09-10",
+    "margem_erro": 2,
+    "amostra": 2002,
+    "registro_tse": "BR-01833/2026",
+    "fonte_url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/11/datafolha-2o-turno-presidente-11-setembro.ghtml",
+    "resultados": [
+      {
+        "nome": "Lula",
+        "partido": "PT",
+        "percentual": 48
+      },
+      {
+        "nome": "Romeu Zema",
+        "partido": "NOVO",
+        "percentual": 39
+      }
+    ]
+  },
+  {
+    "instituto": "Datafolha",
+    "cargo": "presidente",
+    "uf": "BR",
+    "tipo": "2-turno",
+    "confronto": "Lula x Renan Santos",
+    "data_inicio": "2026-09-08",
+    "data_fim": "2026-09-10",
+    "margem_erro": 2,
+    "amostra": 2002,
+    "registro_tse": "BR-01833/2026",
+    "fonte_url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/11/datafolha-2o-turno-presidente-11-setembro.ghtml",
+    "resultados": [
+      {
+        "nome": "Lula",
+        "partido": "PT",
+        "percentual": 48
+      },
+      {
+        "nome": "Renan Santos",
+        "partido": "MISSÃO",
+        "percentual": 37
+      }
+    ]
+  },
+  {
+    "instituto": "Datafolha",
+    "cargo": "presidente",
+    "uf": "BR",
+    "tipo": "2-turno",
+    "confronto": "Lula x Augusto Cury",
+    "data_inicio": "2026-09-08",
+    "data_fim": "2026-09-10",
+    "margem_erro": 2,
+    "amostra": 2002,
+    "registro_tse": "BR-01833/2026",
+    "fonte_url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/11/datafolha-2o-turno-presidente-11-setembro.ghtml",
+    "resultados": [
+      {
+        "nome": "Lula",
+        "partido": "PT",
+        "percentual": 45
+      },
+      {
+        "nome": "Augusto Cury",
+        "partido": "AVANTE",
+        "percentual": 43
+      }
+    ]
+  },
+  {
+    "instituto": "Datafolha",
+    "cargo": "presidente",
+    "uf": "BR",
+    "tipo": "1-turno",
+    "confronto": null,
+    "data_inicio": "2026-09-08",
+    "data_fim": "2026-09-10",
+    "margem_erro": 2,
+    "amostra": 2002,
+    "registro_tse": "BR-01833/2026",
+    "fonte_url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/11/datafolha-2o-turno-presidente-11-setembro.ghtml",
+    "resultados": [
+      {
+        "nome": "Flávio Bolsonaro",
+        "partido": "PL",
+        "percentual": 46
+      },
+      {
+        "nome": "Lula",
+        "partido": "PT",
+        "percentual": 46
+      },
+      {
+        "nome": "Renan Santos",
+        "partido": "MISSÃO",
+        "percentual": 17
+      },
+      {
+        "nome": "Romeu Zema",
+        "partido": "NOVO",
+        "percentual": 16
+      },
+      {
+        "nome": "Ronaldo Caiado",
+        "partido": "PSD",
+        "percentual": 14
+      },
+      {
+        "nome": "Rui Costa Pimenta",
+        "partido": "PCO",
+        "percentual": 11
+      },
+      {
+        "nome": "Escritor Augusto Cury",
+        "partido": "AVANTE",
+        "percentual": 10
+      },
+      {
+        "nome": "Edmilson Costa",
+        "partido": "PCB",
+        "percentual": 9
+      },
+      {
+        "nome": "Samara Martins",
+        "partido": "UP",
+        "percentual": 9
+      },
+      {
+        "nome": "Clariana Barão",
+        "partido": "DC",
+        "percentual": 7
+      },
+      {
+        "nome": "Hertz Dias",
+        "partido": "PSTU",
+        "percentual": 7
+      },
+      {
+        "nome": "Veterinário Wilson Grassi",
+        "partido": "DEMOCRATA",
+        "percentual": 7
+      }
+    ]
+  },
+  {
+    "instituto": "Datafolha",
+    "cargo": "presidente",
+    "uf": "BR",
+    "tipo": "1-turno",
+    "confronto": null,
+    "data_inicio": "2026-09-08",
+    "data_fim": "2026-09-10",
+    "margem_erro": 2,
+    "amostra": 2002,
+    "registro_tse": "BR-01833/2026",
+    "fonte_url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/11/datafolha-2o-turno-presidente-11-setembro.ghtml",
+    "resultados": [
+      {
+        "nome": "Lula",
+        "partido": "PT",
+        "percentual": 39
+      },
+      {
+        "nome": "Flávio Bolsonaro",
+        "partido": "PL",
+        "percentual": 35
+      },
+      {
+        "nome": "Escritor Augusto Cury",
+        "partido": "AVANTE",
+        "percentual": 6
+      },
+      {
+        "nome": "Ronaldo Caiado",
+        "partido": "PSD",
+        "percentual": 4
+      },
+      {
+        "nome": "Renan Santos",
+        "partido": "MISSÃO",
+        "percentual": 3
+      },
+      {
+        "nome": "Romeu Zema",
+        "partido": "NOVO",
+        "percentual": 2
+      },
+      {
+        "nome": "Samara Martins",
+        "partido": "UP",
+        "percentual": 1
+      },
+      {
+        "nome": "Rui Costa Pimenta",
+        "partido": "PCO",
+        "percentual": 1
+      },
+      {
+        "nome": "Clariana Barão",
+        "partido": "DC",
+        "percentual": 1
+      },
+      {
+        "nome": "Edmilson Costa",
+        "partido": "PCB",
+        "percentual": 1
+      },
+      {
+        "nome": "Veterinário Wilson Grassi",
+        "partido": "DEMOCRATA",
+        "percentual": 0
+      },
+      {
+        "nome": "Hertz Dias",
+        "partido": "PSTU",
+        "percentual": 0
+      }
+    ]
+  }
+]

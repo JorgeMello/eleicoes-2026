@@ -52,7 +52,7 @@ export default function Home() {
     <div className="space-y-5">
       <div className="flex flex-wrap items-end gap-3">
         <div>
-          <h1 className="text-2xl font-bold">Candidatos · {cargo}</h1>
+          <h1 className="text-2xl font-bold">Candidatos · <span className="uppercase">{cargo}</span></h1>
           <p className="text-sm text-slate-500 dark:text-slate-400">
             {stats ? `${stats.total} candidaturas` : 'carregando…'} · clique num card para ver o perfil completo
           </p>

@@ -31,6 +31,14 @@ export const api = {
   rankingPatrimonio: (cargo) => get(`/rankings/patrimonio?cargo=${cargo}`),
   rankingReceitas: (cargo) => get(`/rankings/receitas?cargo=${cargo}`),
   estatisticas: (cargo) => get(`/estatisticas?cargo=${cargo}`),
+  pesquisas: (params = {}) => {
+    const q = new URLSearchParams({ cargo: 'presidente', ...params });
+    return get(`/pesquisas?${q}`);
+  },
+  evolucao: (params = {}) => {
+    const q = new URLSearchParams({ cargo: 'presidente', ...params });
+    return get(`/pesquisas/evolucao?${q}`);
+  },
 };
 
 /** Foto local primeiro; fallback para URL original do G1. */

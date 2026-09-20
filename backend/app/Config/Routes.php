@@ -17,4 +17,8 @@ $routes->group('api', ['filter' => 'cors'], static function ($routes) {
     $routes->get('rankings/receitas', 'Api\Rankings::receitas');
     $routes->get('estatisticas', 'Api\Estatisticas::index');
     $routes->post('coletas', 'Api\Coletas::importar');
+    $routes->get('pesquisas', 'Api\Pesquisas::index');
+    $routes->get('pesquisas/evolucao', 'Api\Pesquisas::evolucao');
+    $routes->get('pesquisas/(:num)', 'Api\Pesquisas::show/$1');
+    $routes->post('pesquisas', 'Api\Pesquisas::importar');
 });
