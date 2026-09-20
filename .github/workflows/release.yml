@@ -1,0 +1,56 @@
+name: Publicação Automática de Release
+
+# Dispara automaticamente sempre que houver novo código ou merge na branch main
+on:
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  criar-release:
+    name: Detectar Alterações e Publicar Release
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar código do repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Calcular Próxima Versão Semântica
+        id: versao
+        run: |
+          # Busca a última tag criada no repositório
+          ULTIMA_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "")
+          
+          if [ -z "$ULTIMA_TAG" ]; then
+            NOVA_TAG="v1.0.0"
+          else
+            # Extrai os números maior, menor e patch (ex: v1.0.0 -> 1 0 0)
+            SEM_V="${ULTIMA_TAG#v}"
+            MAIOR=$(echo "$SEM_V" | cut -d. -f1)
+            MENOR=$(echo "$SEM_V" | cut -d. -f2)
+            PATCH=$(echo "$SEM_V" | cut -d. -f3)
+
+            # Incrementa o minor (ex: v1.0.0 -> v1.1.0) para novas features
+            NOVO_MENOR=$((MENOR + 1))
+            NOVA_TAG="v${MAIOR}.${NOVO_MENOR}.0"
+          fi
+
+          echo "Última versão detectada: ${ULTIMA_TAG:-nenhuma}"
+          echo "Nova versão calculada: $NOVA_TAG"
+          echo "tag=$NOVA_TAG" >> $GITHUB_OUTPUT
+
+      - name: Criar Release Oficial no GitHub com Notas Automáticas
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.versao.outputs.tag }}
+          name: "Versão ${{ steps.versao.outputs.tag }} — Atualização da Plataforma"
+          generate_release_notes: true
+          make_latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

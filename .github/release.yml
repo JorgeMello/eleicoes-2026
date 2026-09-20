@@ -1,0 +1,20 @@
+# Configuração das Notas Automáticas de Release do GitHub
+changelog:
+  categories:
+    - title: "🚀 Novas Funcionalidades e Melhorias"
+      labels:
+        - "enhancement"
+        - "feature"
+    - title: "🐛 Correções e Ajustes"
+      labels:
+        - "fix"
+        - "bug"
+    - title: "📊 Controle dos Dados e Análise Eleitoral"
+      labels:
+        - "data"
+        - "analytics"
+    - title: "🛠️ Manutenção e Infraestrutura"
+      labels:
+        - "chore"
+        - "documentation"
+        - "*"
