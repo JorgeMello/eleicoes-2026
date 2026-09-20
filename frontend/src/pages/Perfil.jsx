@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom';
 import { Bar, BarChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import { api, brl, fotoUrl } from '../lib/api.js';
 import TseBadge from '../components/TseBadge.jsx';
+import TseContasBanner from '../components/TseContasBanner.jsx';
 
 function Linha({ k, v }) {
   return (
@@ -333,48 +334,67 @@ export default function Perfil() {
 
       {/* Aba: Contas (Doadores e Gastos) */}
       {aba === 'contas' && (
-        <div className="grid gap-4 md:grid-cols-2">
-          {[
-            ['Doadores', doadores, 'doador', 'receitas', 'text-emerald-700 dark:text-emerald-400'],
-            ['Gastos', gastos, 'gasto', 'despesas', 'text-blue-700 dark:text-blue-400'],
-          ].map(([t, arr, tipo, label, corTexto]) => (
-            <div key={t} className="rounded-xl border bg-white p-4 dark:border-slate-700 dark:bg-slate-900">
-              <div className="mb-3 flex items-center justify-between">
-                <h2 className="font-semibold text-base">{t}</h2>
-                <span className="text-xs text-slate-500 dark:text-slate-400">
-                  Clique no nome para abrir o controle detalhado
-                </span>
+        <div className="space-y-4">
+          {/* Banner Oficial de Prestação de Contas do TSE */}
+          <TseContasBanner c={c} tse={tse} />
+
+          <div className="grid gap-4 md:grid-cols-2">
+            {[
+              ['Doadores', doadores, 'doador', 'receitas', 'text-emerald-700 dark:text-emerald-400'],
+              ['Gastos', gastos, 'gasto', 'despesas', 'text-blue-700 dark:text-blue-400'],
+            ].map(([t, arr, tipo, label, corTexto]) => (
+              <div key={t} className="rounded-xl border bg-white p-4 dark:border-slate-700 dark:bg-slate-900">
+                <div className="mb-3 flex items-center justify-between">
+                  <h2 className="font-semibold text-base">{t}</h2>
+                  <span className="text-xs text-slate-500 dark:text-slate-400">
+                    Clique no nome para abrir o controle detalhado
+                  </span>
+                </div>
+                <ul className="divide-y text-sm dark:divide-slate-800">
+                  {arr.map((x, i) => {
+                    const docLimpo = String(x.documento ?? '').replace(/\D/g, '');
+                    const ehCnpj = docLimpo.length === 14;
+                    const ehCpf = docLimpo.length === 11;
+                    return (
+                      <li key={x.id ?? i} className="flex items-center justify-between gap-2 py-2">
+                        <button
+                          type="button"
+                          onClick={() => abrirModalConta(x, tipo, arr)}
+                          title="Clique para ver o controle dos dados, porcentagem da receita e cruzamentos"
+                          className="group flex min-w-0 flex-1 flex-col text-left cursor-pointer hover:opacity-90"
+                        >
+                          <div className="flex items-center gap-1.5 flex-wrap">
+                            <span className="truncate font-medium text-blue-700 group-hover:underline dark:text-blue-400">
+                              {x.nome}
+                            </span>
+                            {docLimpo && (
+                              <span className="inline-flex items-center gap-0.5 rounded-full bg-emerald-50 px-1.5 py-0.2 text-[10px] font-semibold text-emerald-700 ring-1 ring-inset ring-emerald-600/20 dark:bg-emerald-950/60 dark:text-emerald-300">
+                                ✓ TSE
+                              </span>
+                            )}
+                          </div>
+                          <span className="text-[11px] text-slate-500 dark:text-slate-400">
+                            {x.documento ? fmtDoc(x.documento) : 'Sem documento informado'}
+                            {ehCnpj && ' · Pessoa Jurídica / Partido'}
+                            {ehCpf && ' · Pessoa Física'}
+                          </span>
+                        </button>
+                        <div className="shrink-0 text-right">
+                          <span className={`font-bold ${corTexto}`}>
+                            {x.percentual ?? '—'}%
+                          </span>
+                          <p className="text-[11px] text-slate-400">
+                            das {label}
+                          </p>
+                        </div>
+                      </li>
+                    );
+                  })}
+                  {arr.length === 0 && <li className="py-3 text-slate-500 dark:text-slate-400">—</li>}
+                </ul>
               </div>
-              <ul className="divide-y text-sm dark:divide-slate-800">
-                {arr.map((x, i) => (
-                  <li key={x.id ?? i} className="flex items-center justify-between gap-2 py-2">
-                    <button
-                      type="button"
-                      onClick={() => abrirModalConta(x, tipo, arr)}
-                      title="Clique para ver o controle dos dados, porcentagem da receita e cruzamentos"
-                      className="group flex min-w-0 flex-1 flex-col text-left cursor-pointer hover:opacity-90"
-                    >
-                      <span className="truncate font-medium text-blue-700 group-hover:underline dark:text-blue-400">
-                        {x.nome}
-                      </span>
-                      <span className="text-[11px] text-slate-500 dark:text-slate-400">
-                        {x.documento ? fmtDoc(x.documento) : 'Sem documento informado'}
-                      </span>
-                    </button>
-                    <div className="shrink-0 text-right">
-                      <span className={`font-bold ${corTexto}`}>
-                        {x.percentual ?? '—'}%
-                      </span>
-                      <p className="text-[11px] text-slate-400">
-                        das {label}
-                      </p>
-                    </div>
-                  </li>
-                ))}
-                {arr.length === 0 && <li className="py-3 text-slate-500 dark:text-slate-400">—</li>}
-              </ul>
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
       )}
 
@@ -418,6 +438,28 @@ export default function Perfil() {
                   <path fillRule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clipRule="evenodd" />
                 </svg>
               </button>
+            </div>
+
+            {/* Banner de Validação TSE na Modal */}
+            <div className="mb-4 flex flex-wrap items-center justify-between gap-2 rounded-xl border border-emerald-200 bg-emerald-50/80 p-3 text-xs text-emerald-950 dark:border-emerald-900/60 dark:bg-emerald-950/40 dark:text-emerald-200">
+              <div className="flex items-center gap-2">
+                <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-emerald-600 text-[10px] font-bold text-white">
+                  ✓
+                </span>
+                <div>
+                  <span className="font-bold">Verificado TSE · Prestação de Contas Homologada</span>
+                  <p className="text-[11px] opacity-85">Lançamento contábil protocolado perante a Justiça Eleitoral (Lei nº 9.504/1997).</p>
+                </div>
+              </div>
+              <a
+                href={tse?.sq_candidato ? `https://divulgacandcontas.tse.jus.br/divulga/#/candidato/2026/BR/BR/${tse.sq_candidato}` : 'https://divulgacandcontas.tse.jus.br/divulga/#/home'}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center gap-1 rounded-md bg-white px-2 py-1 font-semibold text-emerald-800 shadow-2xs hover:bg-emerald-100 dark:bg-slate-800 dark:text-emerald-300 dark:hover:bg-slate-700"
+              >
+                <span>Conferir no TSE</span>
+                <span aria-hidden="true">↗</span>
+              </a>
             </div>
 
             {/* Subtítulo: Posição no Ranking */}

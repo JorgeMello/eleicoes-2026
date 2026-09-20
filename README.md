@@ -76,8 +76,8 @@ A plataforma conta com uma **suíte de auditoria e reconciliação contábil em 
    * Tabela relacional 1:1 criada via migration [`2026-09-20-000014_CreateCandidatosTse.php`](backend/app/Database/Migrations/2026-09-20-000014_CreateCandidatosTse.php), isolando os dados de certificação jurídica e fiscal dos cadastros gerais.
 4. **Fase 4 — Ferramenta CLI de Sincronização em Produção:**
    * Comando `php spark tse:auditar` (e `composer tse:auditar`) com suporte a `--reconciliar`, `--slug`, `--dry-run`, `--verbose` e renderização de tabelas ASCII ricas.
-5. **Fase 5 — Selo Visual e Painel de Auditoria no Frontend:**
-   * Etiqueta esmeralda **`Verificado TSE · Deferido`** exibida nos cards de listagem e no cabeçalho do candidato, acompanhada do banner institucional com CNPJ eleitoral (com botão de cópia), processo PJe, auditoria de bens (100% consistente) e barra de consumo do teto legal de gastos.
+5. **Fase 5 — Selo Visual e Painéis de Auditoria no Frontend:**
+   * Etiqueta esmeralda **`Verificado TSE · Deferido`** exibida nos cards de listagem, no cabeçalho do perfil e no **painel oficial de prestação de contas no topo da aba "Contas"** (com botão *"Validar no Portal do TSE ↗"* com link para o DivulgaCandContas oficial, badges *"✓ TSE"* em cada doador/fornecedor e selo de homologação no modal analítico de controle dos dados).
 
 ---
 
