@@ -56,20 +56,46 @@ export async function coletarPerfil(page, item) {
       vice_partido = viceM[2].trim();
     }
 
-    // Rankings: bloco "Nome [quebra] CNPJ/CPF [quebra] R$ valor (pct%)"
+    // Rankings: bloco "Nome [quebra] CNPJ/CPF nº [quebra] R$ valor (pct%)".
+    // O documento é capturado (só dígitos) para o dossiê; empresa = CNPJ, nunca nome.
     const ranking = (titulo) => {
       const out = [];
       const idx = body.indexOf(titulo);
-      const trecho = idx >= 0 ? body.slice(idx, idx + 6000) : body;
-      const re2 = /([\s\S]+?)\s*R\$\s*[\d.,]+\s*\((\d+(?:[.,]\d+)?)%\)/g;
-      let m2;
-      while ((m2 = re2.exec(trecho)) !== null) {
-        const linhas = m2[1]
-          .split('\n').map((s) => s.trim()).filter(Boolean)
-          .filter((l) => !/^(CNPJ|CPF)\b/i.test(l) && !/^R\$/i.test(l) && !/ranking|ordenar|maior valor|menor valor/i.test(l));
-        const nome = (linhas.pop() || '').replace(/\|+$/, '').trim();
-        if (nome.length < 3) continue;
-        out.push({ nome, percentual: parseFloat(m2[2].replace(',', '.')) });
+      if (idx < 0) return out;
+      let trecho = body.slice(idx + titulo.length, idx + 6000);
+      const proximo = trecho.search(/ranking de (doadores|gastos)/i);
+      if (proximo > 0) trecho = trecho.slice(0, proximo);
+      // junta "R$ 40.150.000,00" + "(97.1%)" quando quebrados em linhas
+      trecho = trecho.replace(/(R\$\s*[\d.,]+)\s*\n\s*(\(\d+(?:[.,]\d+)?%\))/g, '$1 $2');
+      const linhas = trecho.split('\n').map((s) => s.trim()).filter(Boolean);
+      let buf = [];
+      const flush = () => {
+        if (!buf.length) return;
+        const valorLinha = buf.find((l) => /R\$\s*[\d.,]+\s*\(\d+(?:[.,]\d+)?%\)/.test(l));
+        if (!valorLinha) {
+          buf = [];
+          return;
+        }
+        const pct = parseFloat(valorLinha.match(/\((\d+(?:[.,]\d+)?)%\)/)[1].replace(',', '.'));
+        let documento = null;
+        const nomes = buf
+          .filter((l) => l !== valorLinha)
+          .filter((l) => {
+            const dm = l.match(/^(CNPJ|CPF)\s*([\d./-]+)/i);
+            if (dm) {
+              documento = dm[2].replace(/\D/g, '');
+              return false;
+            }
+            return !/^R\$/i.test(l) && !/ranking|ordenar|maior valor|menor valor/i.test(l);
+          });
+        const nome = (nomes.pop() || '').replace(/\|+$/, '').trim();
+        if (nome.length >= 3) out.push({ nome, percentual: pct, documento });
+        buf = [];
+      };
+      for (const linha of linhas) {
+        buf.push(linha);
+        if (/R\$\s*[\d.,]+\s*\(\d+(?:[.,]\d+)?%\)/.test(linha)) flush();
+        if (buf.length > 8) buf = buf.slice(-8);
       }
       return out.slice(0, 15);
     };

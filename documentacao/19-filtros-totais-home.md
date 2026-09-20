@@ -14,7 +14,9 @@ contagem total junto ao título.
   ficam de fora quando a faixa é usada (documentado no card? não — comportamento padrão de
   filtro numérico; registrado aqui).
 - Badge "N filtros ativos" + botão "Limpar filtros"; subtítulo mostra "X de Y candidaturas".
-- Totais nos 3 donuts: "N candidaturas em K grupos" sob cada título.
+- Totais nos 3 donuts com rótulos próprios: "N candidaturas em K partidos" (partido),
+  "N candidaturas em K níveis de ensino" (instrução), "N candidatos em K etnias" (cor);
+  a categoria "—" (sem dado) não conta como grupo.
 
 ## Documentação técnica
 - `backend/app/Controllers/Api/Candidatos.php`: `patrimonio_min/max` numéricos (`>=`, `<=`).

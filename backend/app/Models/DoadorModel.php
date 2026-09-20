@@ -11,5 +11,5 @@ class DoadorModel extends Model
     protected $useAutoIncrement = true;
     protected $returnType       = 'array';
     protected $useTimestamps    = false;
-    protected $allowedFields    = ['candidato_id', 'nome', 'valor', 'percentual'];
+    protected $allowedFields    = ['candidato_id', 'nome', 'documento', 'valor', 'percentual'];
 }

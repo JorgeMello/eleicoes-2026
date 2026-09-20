@@ -47,6 +47,7 @@ export const api = {
     const q = new URLSearchParams({ cargo: 'presidente', ...params });
     return get(`/pesquisas/evolucao?${q}`);
   },
+  empresa: (doc) => get(`/empresas/${String(doc).replace(/\D/g, '')}`),
 };
 
 /** Foto local primeiro; fallback para URL original do G1. */

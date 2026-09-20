@@ -66,9 +66,9 @@ export default function Home() {
   const filtrosAtivos = [busca, partido, instrucao, cor, profissao, patMin, patMax, uf].filter(Boolean).length;
   const [filtrosAbertos, setFiltrosAbertos] = useState(filtrosAtivos > 0); // recolhido por padrão
 
-  const totalGrupos = (obj) => {
-    const d = donut(obj);
-    return `${stats?.total ?? 0} candidaturas em ${d.length} ${d.length === 1 ? 'grupo' : 'grupos'}`;
+  const totalEm = (obj, sujeito = 'candidaturas', unidade = 'grupos') => {
+    const d = donut(obj).filter((g) => g.name !== '—');
+    return `${stats?.total ?? 0} ${sujeito} em ${d.length} ${unidade}`;
   };
 
   const campo = 'w-full rounded-lg border bg-white px-3 py-2 text-base dark:border-slate-700 dark:bg-slate-900';
@@ -125,7 +125,7 @@ export default function Home() {
         <div className="grid gap-3 md:grid-cols-3">
           <div className="rounded-xl border bg-white p-3 dark:border-slate-700 dark:bg-slate-900">
             <h2 className="text-sm font-semibold">Por partido</h2>
-            <p className="text-xs text-slate-500 dark:text-slate-400">{stats && totalGrupos(stats.por_partido)}</p>
+            <p className="text-xs text-slate-500 dark:text-slate-400">{stats && totalEm(stats.por_partido, 'candidaturas', 'partidos')}</p>
             <ResponsiveContainer width="100%" height={200}>
               <PieChart>
                 <Pie data={donut(stats.por_partido)} dataKey="value" nameKey="name" outerRadius={70}>
@@ -140,7 +140,7 @@ export default function Home() {
           </div>
           <div className="rounded-xl border bg-white p-3 dark:border-slate-700 dark:bg-slate-900">
             <h2 className="text-sm font-semibold">Por instrução</h2>
-            <p className="text-xs text-slate-500 dark:text-slate-400">{stats && totalGrupos(stats.por_instrucao)}</p>
+            <p className="text-xs text-slate-500 dark:text-slate-400">{stats && totalEm(stats.por_instrucao, 'candidaturas', 'níveis de ensino')}</p>
             <ResponsiveContainer width="100%" height={200}>
               <PieChart>
                 <Pie data={donut(stats.por_instrucao)} dataKey="value" nameKey="name" outerRadius={70}>
@@ -155,7 +155,7 @@ export default function Home() {
           </div>
           <div className="rounded-xl border bg-white p-3 dark:border-slate-700 dark:bg-slate-900">
             <h2 className="text-sm font-semibold">Por cor/etnia</h2>
-            <p className="text-xs text-slate-500 dark:text-slate-400">{stats && totalGrupos(stats.por_cor)}</p>
+            <p className="text-xs text-slate-500 dark:text-slate-400">{stats && totalEm(stats.por_cor, 'candidatos', 'etnias')}</p>
             <ResponsiveContainer width="100%" height={200}>
               <PieChart>
                 <Pie data={donut(stats.por_cor)} dataKey="value" nameKey="name" outerRadius={70}>

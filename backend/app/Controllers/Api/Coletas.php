@@ -104,10 +104,10 @@ class Coletas extends BaseController
                     $histModel->insert(['candidato_id' => $id, 'ano' => $h['ano'] ?? 0, 'cargo' => $h['cargo'] ?? '—', 'partido' => $h['partido'] ?? null, 'resultado' => $h['resultado'] ?? null]);
                 }
                 foreach ($item['doadores'] ?? [] as $d) {
-                    $doadorModel->insert(['candidato_id' => $id, 'nome' => $d['nome'] ?? '—', 'valor' => $d['valor'] ?? null, 'percentual' => $d['percentual'] ?? null]);
+                    $doadorModel->insert(['candidato_id' => $id, 'nome' => $d['nome'] ?? '—', 'documento' => $d['documento'] ?? null, 'valor' => $d['valor'] ?? null, 'percentual' => $d['percentual'] ?? null]);
                 }
                 foreach ($item['gastos'] ?? [] as $g) {
-                    $gastoModel->insert(['candidato_id' => $id, 'nome' => $g['nome'] ?? '—', 'valor' => $g['valor'] ?? null, 'percentual' => $g['percentual'] ?? null]);
+                    $gastoModel->insert(['candidato_id' => $id, 'nome' => $g['nome'] ?? '—', 'documento' => $g['documento'] ?? null, 'valor' => $g['valor'] ?? null, 'percentual' => $g['percentual'] ?? null]);
                 }
                 $ok++;
             } catch (\Throwable $e) {

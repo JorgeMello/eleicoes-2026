@@ -6,6 +6,7 @@
     "numero": 27,
     "cargo": "presidente",
     "uf": "BR",
+    "foto_arquivo": "clariana-barao",
     "foto_url_original": "https://s2-g1.glbimg.com/fpgFnwowRD-jqd3jMfrMRQEty48=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/PIJ1noRUi8whBvTVNjhQ/clariana-barao.jpeg",
     "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/clariana-barao.ghtml",
     "profissao": "Advogado",
@@ -60,61 +61,50 @@
     "doadores": [
       {
         "nome": "Direção Nacional - Dc",
-        "percentual": 99.11
+        "percentual": 99.11,
+        "documento": "01127628000115"
       },
       {
         "nome": "Eudo Morais Freire Filho",
-        "percentual": 0.4
+        "percentual": 0.4,
+        "documento": "20977247449"
       },
       {
         "nome": "Clariana Zacarkim Barao",
-        "percentual": 0.33
+        "percentual": 0.33,
+        "documento": "01542149142"
       },
       {
         "nome": "Lara De Araujo Amorim",
-        "percentual": 0.17
-      },
-      {
-        "nome": "ella comunicacao ltda",
-        "percentual": 37.45
-      },
-      {
-        "nome": "claudia nogueira guimaraes ltda",
-        "percentual": 22.03
-      },
-      {
-        "nome": "facebook servicos online do brasil ltda.",
-        "percentual": 17.83
-      },
-      {
-        "nome": "lara de araujo amorim",
-        "percentual": 10.01
-      },
-      {
-        "nome": "av comunicacao multimidia ltda",
-        "percentual": 4.01
+        "percentual": 0.17,
+        "documento": "74060937487"
       }
     ],
     "gastos": [
       {
         "nome": "ella comunicacao ltda",
-        "percentual": 37.45
+        "percentual": 37.45,
+        "documento": "48730481000117"
       },
       {
         "nome": "claudia nogueira guimaraes ltda",
-        "percentual": 22.03
+        "percentual": 22.03,
+        "documento": "53027987000102"
       },
       {
         "nome": "facebook servicos online do brasil ltda.",
-        "percentual": 17.83
+        "percentual": 17.83,
+        "documento": "13347016000117"
       },
       {
         "nome": "lara de araujo amorim",
-        "percentual": 10.01
+        "percentual": 10.01,
+        "documento": "74060937487"
       },
       {
         "nome": "av comunicacao multimidia ltda",
-        "percentual": 4.01
+        "percentual": 4.01,
+        "documento": "15310562000109"
       }
     ],
     "raw": {
@@ -144,61 +134,50 @@
       "doadores": [
         {
           "nome": "Direção Nacional - Dc",
-          "percentual": 99.11
+          "percentual": 99.11,
+          "documento": "01127628000115"
         },
         {
           "nome": "Eudo Morais Freire Filho",
-          "percentual": 0.4
+          "percentual": 0.4,
+          "documento": "20977247449"
         },
         {
           "nome": "Clariana Zacarkim Barao",
-          "percentual": 0.33
+          "percentual": 0.33,
+          "documento": "01542149142"
         },
         {
           "nome": "Lara De Araujo Amorim",
-          "percentual": 0.17
-        },
-        {
-          "nome": "ella comunicacao ltda",
-          "percentual": 37.45
-        },
-        {
-          "nome": "claudia nogueira guimaraes ltda",
-          "percentual": 22.03
-        },
-        {
-          "nome": "facebook servicos online do brasil ltda.",
-          "percentual": 17.83
-        },
-        {
-          "nome": "lara de araujo amorim",
-          "percentual": 10.01
-        },
-        {
-          "nome": "av comunicacao multimidia ltda",
-          "percentual": 4.01
+          "percentual": 0.17,
+          "documento": "74060937487"
         }
       ],
       "gastos": [
         {
           "nome": "ella comunicacao ltda",
-          "percentual": 37.45
+          "percentual": 37.45,
+          "documento": "48730481000117"
         },
         {
           "nome": "claudia nogueira guimaraes ltda",
-          "percentual": 22.03
+          "percentual": 22.03,
+          "documento": "53027987000102"
         },
         {
           "nome": "facebook servicos online do brasil ltda.",
-          "percentual": 17.83
+          "percentual": 17.83,
+          "documento": "13347016000117"
         },
         {
           "nome": "lara de araujo amorim",
-          "percentual": 10.01
+          "percentual": 10.01,
+          "documento": "74060937487"
         },
         {
           "nome": "av comunicacao multimidia ltda",
-          "percentual": 4.01
+          "percentual": 4.01,
+          "documento": "15310562000109"
         }
       ],
       "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
@@ -208,7 +187,7 @@
       "tse_encontrado": false,
       "tse_base": null
     },
-    "coletado_em": "2026-09-20T00:17:04.786Z"
+    "coletado_em": "2026-09-20T03:21:44.602Z"
   },
   {
     "slug": "edmilson-costa",
@@ -217,6 +196,7 @@
     "numero": 21,
     "cargo": "presidente",
     "uf": "BR",
+    "foto_arquivo": "edmilson-costa",
     "foto_url_original": "https://s2-g1.glbimg.com/ra8t1WO_gnSQyUYfoqZ0xM8Zv-o=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/X/FAPcABSV6sasx8MciaPA/edmilson-costa.jpeg",
     "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/edmilson-costa.ghtml",
     "profissao": "Aposentado (exceto servidor público)",
@@ -269,65 +249,55 @@
     "doadores": [
       {
         "nome": "Queroapoiar.com.br",
-        "percentual": 57.54
+        "percentual": 57.54,
+        "documento": "39586155000197"
       },
       {
         "nome": "Ricardo Da Gama Rosa Costa",
-        "percentual": 22.02
+        "percentual": 22.02,
+        "documento": "77423321753"
       },
       {
         "nome": "Francisco Raimundo Malta De Araujo",
-        "percentual": 8.74
+        "percentual": 8.74,
+        "documento": "19138920344"
       },
       {
         "nome": "Eduardo Gustavo Viana Grandi",
-        "percentual": 7.34
+        "percentual": 7.34,
+        "documento": "03717104993"
       },
       {
         "nome": "Maria Ines De Oliveira Santos",
-        "percentual": 4.37
-      },
-      {
-        "nome": "thiago menezes granzotti sociedade individual de advocacia",
-        "percentual": 32.79
-      },
-      {
-        "nome": "alamia cambio turismo ltda",
-        "percentual": 22.88
-      },
-      {
-        "nome": "grafica irmaos miranda de friburgo ltda",
-        "percentual": 22.46
-      },
-      {
-        "nome": "grafica e editora cappeler ltda",
-        "percentual": 9.18
-      },
-      {
-        "nome": "pavunao da lapa comercio e servicos ltda",
-        "percentual": 7.05
+        "percentual": 4.37,
+        "documento": "63797887787"
       }
     ],
     "gastos": [
       {
         "nome": "thiago menezes granzotti sociedade individual de advocacia",
-        "percentual": 32.79
+        "percentual": 32.79,
+        "documento": "39234762000198"
       },
       {
         "nome": "alamia cambio turismo ltda",
-        "percentual": 22.88
+        "percentual": 22.88,
+        "documento": "05644776000168"
       },
       {
         "nome": "grafica irmaos miranda de friburgo ltda",
-        "percentual": 22.46
+        "percentual": 22.46,
+        "documento": "01555124000104"
       },
       {
         "nome": "grafica e editora cappeler ltda",
-        "percentual": 9.18
+        "percentual": 9.18,
+        "documento": "07448688000116"
       },
       {
         "nome": "pavunao da lapa comercio e servicos ltda",
-        "percentual": 7.05
+        "percentual": 7.05,
+        "documento": "35171136000149"
       }
     ],
     "raw": {
@@ -367,65 +337,55 @@
       "doadores": [
         {
           "nome": "Queroapoiar.com.br",
-          "percentual": 57.54
+          "percentual": 57.54,
+          "documento": "39586155000197"
         },
         {
           "nome": "Ricardo Da Gama Rosa Costa",
-          "percentual": 22.02
+          "percentual": 22.02,
+          "documento": "77423321753"
         },
         {
           "nome": "Francisco Raimundo Malta De Araujo",
-          "percentual": 8.74
+          "percentual": 8.74,
+          "documento": "19138920344"
         },
         {
           "nome": "Eduardo Gustavo Viana Grandi",
-          "percentual": 7.34
+          "percentual": 7.34,
+          "documento": "03717104993"
         },
         {
           "nome": "Maria Ines De Oliveira Santos",
-          "percentual": 4.37
-        },
-        {
-          "nome": "thiago menezes granzotti sociedade individual de advocacia",
-          "percentual": 32.79
-        },
-        {
-          "nome": "alamia cambio turismo ltda",
-          "percentual": 22.88
-        },
-        {
-          "nome": "grafica irmaos miranda de friburgo ltda",
-          "percentual": 22.46
-        },
-        {
-          "nome": "grafica e editora cappeler ltda",
-          "percentual": 9.18
-        },
-        {
-          "nome": "pavunao da lapa comercio e servicos ltda",
-          "percentual": 7.05
+          "percentual": 4.37,
+          "documento": "63797887787"
         }
       ],
       "gastos": [
         {
           "nome": "thiago menezes granzotti sociedade individual de advocacia",
-          "percentual": 32.79
+          "percentual": 32.79,
+          "documento": "39234762000198"
         },
         {
           "nome": "alamia cambio turismo ltda",
-          "percentual": 22.88
+          "percentual": 22.88,
+          "documento": "05644776000168"
         },
         {
           "nome": "grafica irmaos miranda de friburgo ltda",
-          "percentual": 22.46
+          "percentual": 22.46,
+          "documento": "01555124000104"
         },
         {
           "nome": "grafica e editora cappeler ltda",
-          "percentual": 9.18
+          "percentual": 9.18,
+          "documento": "07448688000116"
         },
         {
           "nome": "pavunao da lapa comercio e servicos ltda",
-          "percentual": 7.05
+          "percentual": 7.05,
+          "documento": "35171136000149"
         }
       ],
       "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
@@ -435,7 +395,7 @@
       "tse_encontrado": false,
       "tse_base": null
     },
-    "coletado_em": "2026-09-20T00:17:11.795Z"
+    "coletado_em": "2026-09-20T03:21:48.605Z"
   },
   {
     "slug": "escritor-augusto-cury",
@@ -444,6 +404,7 @@
     "numero": 70,
     "cargo": "presidente",
     "uf": "BR",
+    "foto_arquivo": "escritor-augusto-cury",
     "foto_url_original": "https://s2-g1.glbimg.com/Z1jzu5FCePhznAYP6BAK8VMZZaU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/l/7iHeHrSuG10BBoPoP6xw/escritor-augusto-cury.jpeg",
     "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
     "profissao": "Escritor e crítico",
@@ -763,65 +724,55 @@
     "doadores": [
       {
         "nome": "Direção Nacional - Avante",
-        "percentual": 83.44
+        "percentual": 83.44,
+        "documento": "59933952000100"
       },
       {
         "nome": "Augusto Jorge Cury",
-        "percentual": 12.41
+        "percentual": 12.41,
+        "documento": "02162936852"
       },
       {
         "nome": "Wilson De Matos Silva",
-        "percentual": 2.13
+        "percentual": 2.13,
+        "documento": "01343998972"
       },
       {
         "nome": "Sergio Adriano Soares Vita",
-        "percentual": 1.24
+        "percentual": 1.24,
+        "documento": "74901265687"
       },
       {
         "nome": "Noraldino Lucio Dias Junior",
-        "percentual": 0.53
-      },
-      {
-        "nome": "facebook servicos online do brasil ltda.",
-        "percentual": 47.84
-      },
-      {
-        "nome": "triade gestao e projetos ltda",
-        "percentual": 12.3
-      },
-      {
-        "nome": "trinta dezessete captacao de conteudo ltda",
-        "percentual": 9.33
-      },
-      {
-        "nome": "ribeiro consultoria e marketing ltda",
-        "percentual": 6.15
-      },
-      {
-        "nome": "escritorio comercial de barretos - sociedade simples ltda",
-        "percentual": 5.13
+        "percentual": 0.53,
+        "documento": "00982416644"
       }
     ],
     "gastos": [
       {
         "nome": "facebook servicos online do brasil ltda.",
-        "percentual": 47.84
+        "percentual": 47.84,
+        "documento": "13347016000117"
       },
       {
         "nome": "triade gestao e projetos ltda",
-        "percentual": 12.3
+        "percentual": 12.3,
+        "documento": "67918982000176"
       },
       {
         "nome": "trinta dezessete captacao de conteudo ltda",
-        "percentual": 9.33
+        "percentual": 9.33,
+        "documento": "42586504000185"
       },
       {
         "nome": "ribeiro consultoria e marketing ltda",
-        "percentual": 6.15
+        "percentual": 6.15,
+        "documento": "58330510000107"
       },
       {
         "nome": "escritorio comercial de barretos - sociedade simples ltda",
-        "percentual": 5.13
+        "percentual": 5.13,
+        "documento": "03431216000108"
       }
     ],
     "raw": {
@@ -904,65 +855,55 @@
       "doadores": [
         {
           "nome": "Direção Nacional - Avante",
-          "percentual": 83.44
+          "percentual": 83.44,
+          "documento": "59933952000100"
         },
         {
           "nome": "Augusto Jorge Cury",
-          "percentual": 12.41
+          "percentual": 12.41,
+          "documento": "02162936852"
         },
         {
           "nome": "Wilson De Matos Silva",
-          "percentual": 2.13
+          "percentual": 2.13,
+          "documento": "01343998972"
         },
         {
           "nome": "Sergio Adriano Soares Vita",
-          "percentual": 1.24
+          "percentual": 1.24,
+          "documento": "74901265687"
         },
         {
           "nome": "Noraldino Lucio Dias Junior",
-          "percentual": 0.53
-        },
-        {
-          "nome": "facebook servicos online do brasil ltda.",
-          "percentual": 47.84
-        },
-        {
-          "nome": "triade gestao e projetos ltda",
-          "percentual": 12.3
-        },
-        {
-          "nome": "trinta dezessete captacao de conteudo ltda",
-          "percentual": 9.33
-        },
-        {
-          "nome": "ribeiro consultoria e marketing ltda",
-          "percentual": 6.15
-        },
-        {
-          "nome": "escritorio comercial de barretos - sociedade simples ltda",
-          "percentual": 5.13
+          "percentual": 0.53,
+          "documento": "00982416644"
         }
       ],
       "gastos": [
         {
           "nome": "facebook servicos online do brasil ltda.",
-          "percentual": 47.84
+          "percentual": 47.84,
+          "documento": "13347016000117"
         },
         {
           "nome": "triade gestao e projetos ltda",
-          "percentual": 12.3
+          "percentual": 12.3,
+          "documento": "67918982000176"
         },
         {
           "nome": "trinta dezessete captacao de conteudo ltda",
-          "percentual": 9.33
+          "percentual": 9.33,
+          "documento": "42586504000185"
         },
         {
           "nome": "ribeiro consultoria e marketing ltda",
-          "percentual": 6.15
+          "percentual": 6.15,
+          "documento": "58330510000107"
         },
         {
           "nome": "escritorio comercial de barretos - sociedade simples ltda",
-          "percentual": 5.13
+          "percentual": 5.13,
+          "documento": "03431216000108"
         }
       ],
       "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
@@ -972,7 +913,7 @@
       "tse_encontrado": false,
       "tse_base": null
     },
-    "coletado_em": "2026-09-20T00:17:17.529Z"
+    "coletado_em": "2026-09-20T03:21:53.216Z"
   },
   {
     "slug": "flavio-bolsonaro",
@@ -981,6 +922,7 @@
     "numero": 22,
     "cargo": "presidente",
     "uf": "BR",
+    "foto_arquivo": "flavio-bolsonaro",
     "foto_url_original": "https://s2-g1.glbimg.com/QTAyL1ombA-z_4GApzlyh_noV7I=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/1/XLA6WAQyGC0GBxgXhZyw/flavio-bolsonaro.jpeg",
     "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/flavio-bolsonaro.ghtml",
     "profissao": "Senador",
@@ -1076,65 +1018,55 @@
     "doadores": [
       {
         "nome": "Direção Nacional - Pl",
-        "percentual": 95.23
+        "percentual": 95.23,
+        "documento": "08517423000195"
       },
       {
         "nome": "Erasmo Carlos Battistella",
-        "percentual": 0.89
+        "percentual": 0.89,
+        "documento": "81278896015"
       },
       {
         "nome": "Walter Schlatter",
-        "percentual": 0.53
+        "percentual": 0.53,
+        "documento": "39727254934"
       },
       {
         "nome": "Waldemar Verdi Junior",
-        "percentual": 0.32
+        "percentual": 0.32,
+        "documento": "05637449872"
       },
       {
         "nome": "Marco Antonio Branquinho Junior",
-        "percentual": 0.22
-      },
-      {
-        "nome": "f.a.r.o propaganda e publicidade ltda",
-        "percentual": 23.31
-      },
-      {
-        "nome": "paranoa digital producao cinematografica, de videos e programas ltda",
-        "percentual": 8.95
-      },
-      {
-        "nome": "aurea tecnologia e solucoes ltda",
-        "percentual": 6.58
-      },
-      {
-        "nome": "algoritmo dados estrategia e comunicacao ltda",
-        "percentual": 6.41
-      },
-      {
-        "nome": "rmr consultoria de inteligencia ltda",
-        "percentual": 6.05
+        "percentual": 0.22,
+        "documento": "00529246619"
       }
     ],
     "gastos": [
       {
         "nome": "f.a.r.o propaganda e publicidade ltda",
-        "percentual": 23.31
+        "percentual": 23.31,
+        "documento": "09383641000147"
       },
       {
         "nome": "paranoa digital producao cinematografica, de videos e programas ltda",
-        "percentual": 8.95
+        "percentual": 8.95,
+        "documento": "32951141000186"
       },
       {
         "nome": "aurea tecnologia e solucoes ltda",
-        "percentual": 6.58
+        "percentual": 6.58,
+        "documento": "57780367000192"
       },
       {
         "nome": "algoritmo dados estrategia e comunicacao ltda",
-        "percentual": 6.41
+        "percentual": 6.41,
+        "documento": "67949812000159"
       },
       {
         "nome": "rmr consultoria de inteligencia ltda",
-        "percentual": 6.05
+        "percentual": 6.05,
+        "documento": "17861454000150"
       }
     ],
     "raw": {
@@ -1197,65 +1129,55 @@
       "doadores": [
         {
           "nome": "Direção Nacional - Pl",
-          "percentual": 95.23
+          "percentual": 95.23,
+          "documento": "08517423000195"
         },
         {
           "nome": "Erasmo Carlos Battistella",
-          "percentual": 0.89
+          "percentual": 0.89,
+          "documento": "81278896015"
         },
         {
           "nome": "Walter Schlatter",
-          "percentual": 0.53
+          "percentual": 0.53,
+          "documento": "39727254934"
         },
         {
           "nome": "Waldemar Verdi Junior",
-          "percentual": 0.32
+          "percentual": 0.32,
+          "documento": "05637449872"
         },
         {
           "nome": "Marco Antonio Branquinho Junior",
-          "percentual": 0.22
-        },
-        {
-          "nome": "f.a.r.o propaganda e publicidade ltda",
-          "percentual": 23.31
-        },
-        {
-          "nome": "paranoa digital producao cinematografica, de videos e programas ltda",
-          "percentual": 8.95
-        },
-        {
-          "nome": "aurea tecnologia e solucoes ltda",
-          "percentual": 6.58
-        },
-        {
-          "nome": "algoritmo dados estrategia e comunicacao ltda",
-          "percentual": 6.41
-        },
-        {
-          "nome": "rmr consultoria de inteligencia ltda",
-          "percentual": 6.05
+          "percentual": 0.22,
+          "documento": "00529246619"
         }
       ],
       "gastos": [
         {
           "nome": "f.a.r.o propaganda e publicidade ltda",
-          "percentual": 23.31
+          "percentual": 23.31,
+          "documento": "09383641000147"
         },
         {
           "nome": "paranoa digital producao cinematografica, de videos e programas ltda",
-          "percentual": 8.95
+          "percentual": 8.95,
+          "documento": "32951141000186"
         },
         {
           "nome": "aurea tecnologia e solucoes ltda",
-          "percentual": 6.58
+          "percentual": 6.58,
+          "documento": "57780367000192"
         },
         {
           "nome": "algoritmo dados estrategia e comunicacao ltda",
-          "percentual": 6.41
+          "percentual": 6.41,
+          "documento": "67949812000159"
         },
         {
           "nome": "rmr consultoria de inteligencia ltda",
-          "percentual": 6.05
+          "percentual": 6.05,
+          "documento": "17861454000150"
         }
       ],
       "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
@@ -1265,7 +1187,7 @@
       "tse_encontrado": false,
       "tse_base": null
     },
-    "coletado_em": "2026-09-20T00:17:21.505Z"
+    "coletado_em": "2026-09-20T03:21:57.252Z"
   },
   {
     "slug": "hertz-dias",
@@ -1274,6 +1196,7 @@
     "numero": 16,
     "cargo": "presidente",
     "uf": "BR",
+    "foto_arquivo": "hertz-dias",
     "foto_url_original": "https://s2-g1.glbimg.com/XJoK6j87KKFfl4PYkvEI4Ii3vSE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/O/k1wPIgRDSinJCkuwPJRA/hertz-dias.jpeg",
     "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
     "profissao": "Professor de ensino fundamental",
@@ -1311,65 +1234,55 @@
     "doadores": [
       {
         "nome": "Direção Nacional - Pstu",
-        "percentual": 99.26
+        "percentual": 99.26,
+        "documento": "73282907000164"
       },
       {
         "nome": "Jose Maria De Almeida",
-        "percentual": 0.28
+        "percentual": 0.28,
+        "documento": "03325634800"
       },
       {
         "nome": "Vera Lucia Pereira Da Silva Salgado",
-        "percentual": 0.28
+        "percentual": 0.28,
+        "documento": "68379738000145"
       },
       {
         "nome": "Emmanuel Oliveira Da Silva",
-        "percentual": 0.14
+        "percentual": 0.14,
+        "documento": "01783075805"
       },
       {
         "nome": "Orlando Cariello Filho",
-        "percentual": 0.05
-      },
-      {
-        "nome": "opiniao socialista ltda",
-        "percentual": 19.48
-      },
-      {
-        "nome": "projeto ip grafis solucoes graficas ltda",
-        "percentual": 18.25
-      },
-      {
-        "nome": "multidao comunicacao e producao ltda",
-        "percentual": 17.43
-      },
-      {
-        "nome": "francisco de assis da silva filho",
-        "percentual": 13.84
-      },
-      {
-        "nome": "ilaese mg",
-        "percentual": 12.82
+        "percentual": 0.05,
+        "documento": "05763010191"
       }
     ],
     "gastos": [
       {
         "nome": "opiniao socialista ltda",
-        "percentual": 19.48
+        "percentual": 19.48,
+        "documento": "55446524000100"
       },
       {
         "nome": "projeto ip grafis solucoes graficas ltda",
-        "percentual": 18.25
+        "percentual": 18.25,
+        "documento": "12346643000170"
       },
       {
         "nome": "multidao comunicacao e producao ltda",
-        "percentual": 17.43
+        "percentual": 17.43,
+        "documento": "20682095000188"
       },
       {
         "nome": "francisco de assis da silva filho",
-        "percentual": 13.84
+        "percentual": 13.84,
+        "documento": "13208691300"
       },
       {
         "nome": "ilaese mg",
-        "percentual": 12.82
+        "percentual": 12.82,
+        "documento": "25362643000106"
       }
     ],
     "raw": {
@@ -1406,65 +1319,55 @@
       "doadores": [
         {
           "nome": "Direção Nacional - Pstu",
-          "percentual": 99.26
+          "percentual": 99.26,
+          "documento": "73282907000164"
         },
         {
           "nome": "Jose Maria De Almeida",
-          "percentual": 0.28
+          "percentual": 0.28,
+          "documento": "03325634800"
         },
         {
           "nome": "Vera Lucia Pereira Da Silva Salgado",
-          "percentual": 0.28
+          "percentual": 0.28,
+          "documento": "68379738000145"
         },
         {
           "nome": "Emmanuel Oliveira Da Silva",
-          "percentual": 0.14
+          "percentual": 0.14,
+          "documento": "01783075805"
         },
         {
           "nome": "Orlando Cariello Filho",
-          "percentual": 0.05
-        },
-        {
-          "nome": "opiniao socialista ltda",
-          "percentual": 19.48
-        },
-        {
-          "nome": "projeto ip grafis solucoes graficas ltda",
-          "percentual": 18.25
-        },
-        {
-          "nome": "multidao comunicacao e producao ltda",
-          "percentual": 17.43
-        },
-        {
-          "nome": "francisco de assis da silva filho",
-          "percentual": 13.84
-        },
-        {
-          "nome": "ilaese mg",
-          "percentual": 12.82
+          "percentual": 0.05,
+          "documento": "05763010191"
         }
       ],
       "gastos": [
         {
           "nome": "opiniao socialista ltda",
-          "percentual": 19.48
+          "percentual": 19.48,
+          "documento": "55446524000100"
         },
         {
           "nome": "projeto ip grafis solucoes graficas ltda",
-          "percentual": 18.25
+          "percentual": 18.25,
+          "documento": "12346643000170"
         },
         {
           "nome": "multidao comunicacao e producao ltda",
-          "percentual": 17.43
+          "percentual": 17.43,
+          "documento": "20682095000188"
         },
         {
           "nome": "francisco de assis da silva filho",
-          "percentual": 13.84
+          "percentual": 13.84,
+          "documento": "13208691300"
         },
         {
           "nome": "ilaese mg",
-          "percentual": 12.82
+          "percentual": 12.82,
+          "documento": "25362643000106"
         }
       ],
       "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
@@ -1474,7 +1377,7 @@
       "tse_encontrado": false,
       "tse_base": null
     },
-    "coletado_em": "2026-09-20T00:17:26.070Z"
+    "coletado_em": "2026-09-20T03:22:02.199Z"
   },
   {
     "slug": "leonardo-avalanche",
@@ -1483,6 +1386,7 @@
     "numero": 28,
     "cargo": "presidente",
     "uf": "BR",
+    "foto_arquivo": "leonardo-avalanche",
     "foto_url_original": "https://s2-g1.glbimg.com/T8dGExfVivK_wW9IN6Teuu6dqaY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/8/Q1OSE7RD2q1WE2vBPPLQ/leonardo-avalanche.jpeg",
     "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/leonardo-avalanche.ghtml",
     "profissao": "Empresário",
@@ -1595,7 +1499,7 @@
       "tse_encontrado": false,
       "tse_base": null
     },
-    "coletado_em": "2026-09-20T00:17:30.665Z"
+    "coletado_em": "2026-09-20T03:22:08.756Z"
   },
   {
     "slug": "lula",
@@ -1604,6 +1508,7 @@
     "numero": 13,
     "cargo": "presidente",
     "uf": "BR",
+    "foto_arquivo": "lula",
     "foto_url_original": "https://s2-g1.glbimg.com/QkJlfoDyktQCxd5QCbzsyGM33tk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/H/hs2xuMTICMP6ZYtvosBA/lula.jpeg",
     "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/lula.ghtml",
     "profissao": "Torneiro mecânico",
@@ -1613,11 +1518,71 @@
     "vice_nome": "Geraldo Alckmin",
     "vice_partido": "PSB",
     "patrimonio_total": 4775650.640000001,
-    "receitas_total": 41350925.55,
+    "receitas_total": 41468730.74,
     "despesas_total": 65677121.42,
     "limite_gastos": 88944030.8,
     "fonte_atualizado_em": "15/09/2026 • Atualizado há 4 dias\n\nDados",
     "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em caderneta de poupança",
+        "valor": 14.99
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação financeira - banco do brasil",
+        "valor": 485.39
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Tvri11",
+        "valor": 50000
+      },
+      {
+        "tipo": "Construção",
+        "descricao": "Construção Casa em construção são bernardo do campo",
+        "valor": 246918.82
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Bradesco",
+        "valor": 56671.07
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bb rf lp high",
+        "valor": 207917.4
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Credito decorrente do distrato datado em 11/2015., com solicitacao de resgate, da quota parte do termo de adesao e compromisso de participacao para implantacao e construcao atraves da bancoop",
+        "valor": 179298.96
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Situado no distrito de riacho grande em são bernardo do campo",
+        "valor": 2733.45
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 26,68% de sítio no distrito de riacho grande, são bernardo do campo",
+        "valor": 130000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Marca chevrolet, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Marca chevrolet, ano 2010/2011",
+        "valor": 50000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 64,08% de terreno localizado no distrito do riacho grande, são bernardo do campo",
+        "valor": 265000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Caderneta de poupança",
+        "valor": 0.13
+      },
       {
         "tipo": "Apartamento",
         "descricao": "Apartamento 50% do apartamento localizado em são bernardo do campo",
@@ -1639,74 +1604,14 @@
         "valor": 1923927.36
       },
       {
-        "tipo": "Fundo de curto prazo",
-        "descricao": "Fundo de curto prazo Fundo di plus agil",
-        "valor": 132834.2
-      },
-      {
         "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
         "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bradesco fundo de investimento em cotas de fundos de investimento renda fixa simples",
         "valor": 6277.62
       },
       {
-        "tipo": "Construção",
-        "descricao": "Construção Casa em construção são bernardo do campo",
-        "valor": 246918.82
-      },
-      {
-        "tipo": "Depósito bancário em conta corrente no país",
-        "descricao": "Depósito bancário em conta corrente no país Bradesco",
-        "valor": 56671.07
-      },
-      {
-        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
-        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bb rf lp high",
-        "valor": 207917.4
-      },
-      {
-        "tipo": "Caderneta de poupança",
-        "descricao": "Caderneta de poupança Saldo em caderneta de poupança",
-        "valor": 14.99
-      },
-      {
-        "tipo": "Outras aplicações e investimentos",
-        "descricao": "Outras aplicações e investimentos Aplicação financeira - banco do brasil",
-        "valor": 485.39
-      },
-      {
-        "tipo": "Fundo de investimento imobiliário",
-        "descricao": "Fundo de investimento imobiliário Tvri11",
-        "valor": 50000
-      },
-      {
-        "tipo": "Terreno",
-        "descricao": "Terreno 26,68% de sítio no distrito de riacho grande, são bernardo do campo",
-        "valor": 130000
-      },
-      {
-        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Marca chevrolet, ano",
-        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Marca chevrolet, ano 2010/2011",
-        "valor": 50000
-      },
-      {
-        "tipo": "Terreno",
-        "descricao": "Terreno Situado no distrito de riacho grande em são bernardo do campo",
-        "valor": 2733.45
-      },
-      {
-        "tipo": "Outros bens e direitos",
-        "descricao": "Outros bens e direitos Credito decorrente do distrato datado em 11/2015., com solicitacao de resgate, da quota parte do termo de adesao e compromisso de participacao para implantacao e construcao atraves da bancoop",
-        "valor": 179298.96
-      },
-      {
-        "tipo": "Terreno",
-        "descricao": "Terreno 64,08% de terreno localizado no distrito do riacho grande, são bernardo do campo",
-        "valor": 265000
-      },
-      {
-        "tipo": "Caderneta de poupança",
-        "descricao": "Caderneta de poupança Caderneta de poupança",
-        "valor": 0.13
+        "tipo": "Fundo de curto prazo",
+        "descricao": "Fundo de curto prazo Fundo di plus agil",
+        "valor": 132834.2
       }
     ],
     "historico": [
@@ -1732,65 +1637,55 @@
     "doadores": [
       {
         "nome": "Direção Nacional - Pt",
-        "percentual": 97.1
+        "percentual": 96.82,
+        "documento": "00676262000170"
       },
       {
         "nome": "Erasmo Carlos Battistella",
-        "percentual": 1.21
+        "percentual": 1.21,
+        "documento": "81278896015"
       },
       {
         "nome": "Um A Mais Servicos De Tecnologia E Consultoria Ltda",
-        "percentual": 0.43
+        "percentual": 0.43,
+        "documento": "16832957000134"
       },
       {
         "nome": "Pedro Pereira De Freitas",
-        "percentual": 0.22
+        "percentual": 0.22,
+        "documento": "00243809972"
       },
       {
         "nome": "Marco Aurelio De Carvalho",
-        "percentual": 0.12
-      },
-      {
-        "nome": "delta3 comunicacao e projetos ltda",
-        "percentual": 47.2
-      },
-      {
-        "nome": "log producoes & filmes ltda",
-        "percentual": 6.5
-      },
-      {
-        "nome": "grafica nmc ltda",
-        "percentual": 4.2
-      },
-      {
-        "nome": "facebook servicos online do brasil ltda.",
-        "percentual": 3.94
-      },
-      {
-        "nome": "ferraro e novaes advogados",
-        "percentual": 2.32
+        "percentual": 0.12,
+        "documento": "26692352800"
       }
     ],
     "gastos": [
       {
         "nome": "delta3 comunicacao e projetos ltda",
-        "percentual": 47.2
+        "percentual": 47.2,
+        "documento": "63984717000135"
       },
       {
         "nome": "log producoes & filmes ltda",
-        "percentual": 6.5
+        "percentual": 6.5,
+        "documento": "31399764000125"
       },
       {
         "nome": "grafica nmc ltda",
-        "percentual": 4.2
+        "percentual": 4.2,
+        "documento": "35659497000139"
       },
       {
         "nome": "facebook servicos online do brasil ltda.",
-        "percentual": 3.94
+        "percentual": 3.94,
+        "documento": "13347016000117"
       },
       {
         "nome": "ferraro e novaes advogados",
-        "percentual": 2.32
+        "percentual": 2.32,
+        "documento": "27539297000114"
       }
     ],
     "raw": {
@@ -1823,92 +1718,82 @@
         }
       ],
       "bens_brutos": [
+        "Caderneta de poupança R$ 14,99 Saldo em caderneta de poupança",
+        "Outras aplicações e investimentos R$ 485,39 Aplicação financeira - banco do brasil",
+        "Fundo de investimento imobiliário R$ 50.000,00 Tvri11",
+        "Construção R$ 246.918,82 Casa em construção são bernardo do campo",
+        "Depósito bancário em conta corrente no país R$ 56.671,07 Bradesco",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 207.917,40 Bb rf lp high",
+        "Outros bens e direitos R$ 179.298,96 Credito decorrente do distrato datado em 11/2015., com solicitacao de resgate, da quota parte do termo de adesao e compromisso de participacao para implantacao e construcao atraves da bancoop",
+        "Terreno R$ 2.733,45 Situado no distrito de riacho grande em são bernardo do campo",
+        "Terreno R$ 130.000,00 26,68% de sítio no distrito de riacho grande, são bernardo do campo",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 50.000,00 Marca chevrolet, ano 2010/2011",
+        "Terreno R$ 265.000,00 64,08% de terreno localizado no distrito do riacho grande, são bernardo do campo",
+        "Caderneta de poupança R$ 0,13 Caderneta de poupança",
         "Apartamento R$ 94.571,25 50% do apartamento localizado em são bernardo do campo",
         "Quotas ou quinhões de capital R$ 49.000,00 98% do capital social da l.i.l.s palestras, eventos e publicações",
         "Vgbl - vida gerador de benefício livre R$ 1.380.000,00 Banco bradesco",
         "Vgbl - vida gerador de benefício livre R$ 1.923.927,36 Brasilprev seguros",
-        "Fundo de curto prazo R$ 132.834,20 Fundo di plus agil",
         "Aplicação de renda fixa (cdb, rdb e outros) R$ 6.277,62 Bradesco fundo de investimento em cotas de fundos de investimento renda fixa simples",
-        "Construção R$ 246.918,82 Casa em construção são bernardo do campo",
-        "Depósito bancário em conta corrente no país R$ 56.671,07 Bradesco",
-        "Aplicação de renda fixa (cdb, rdb e outros) R$ 207.917,40 Bb rf lp high",
-        "Caderneta de poupança R$ 14,99 Saldo em caderneta de poupança",
-        "Outras aplicações e investimentos R$ 485,39 Aplicação financeira - banco do brasil",
-        "Fundo de investimento imobiliário R$ 50.000,00 Tvri11",
-        "Terreno R$ 130.000,00 26,68% de sítio no distrito de riacho grande, são bernardo do campo",
-        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 50.000,00 Marca chevrolet, ano 2010/2011",
-        "Terreno R$ 2.733,45 Situado no distrito de riacho grande em são bernardo do campo",
-        "Outros bens e direitos R$ 179.298,96 Credito decorrente do distrato datado em 11/2015., com solicitacao de resgate, da quota parte do termo de adesao e compromisso de participacao para implantacao e construcao atraves da bancoop",
-        "Terreno R$ 265.000,00 64,08% de terreno localizado no distrito do riacho grande, são bernardo do campo",
-        "Caderneta de poupança R$ 0,13 Caderneta de poupança"
+        "Fundo de curto prazo R$ 132.834,20 Fundo di plus agil"
       ],
       "vice_nome": "Geraldo Alckmin",
       "vice_partido": "PSB",
-      "receitas_total": 41350925.55,
+      "receitas_total": 41468730.74,
       "despesas_total": 65677121.42,
       "limite_gastos": 88944030.8,
       "doadores": [
         {
           "nome": "Direção Nacional - Pt",
-          "percentual": 97.1
+          "percentual": 96.82,
+          "documento": "00676262000170"
         },
         {
           "nome": "Erasmo Carlos Battistella",
-          "percentual": 1.21
+          "percentual": 1.21,
+          "documento": "81278896015"
         },
         {
           "nome": "Um A Mais Servicos De Tecnologia E Consultoria Ltda",
-          "percentual": 0.43
+          "percentual": 0.43,
+          "documento": "16832957000134"
         },
         {
           "nome": "Pedro Pereira De Freitas",
-          "percentual": 0.22
+          "percentual": 0.22,
+          "documento": "00243809972"
         },
         {
           "nome": "Marco Aurelio De Carvalho",
-          "percentual": 0.12
-        },
-        {
-          "nome": "delta3 comunicacao e projetos ltda",
-          "percentual": 47.2
-        },
-        {
-          "nome": "log producoes & filmes ltda",
-          "percentual": 6.5
-        },
-        {
-          "nome": "grafica nmc ltda",
-          "percentual": 4.2
-        },
-        {
-          "nome": "facebook servicos online do brasil ltda.",
-          "percentual": 3.94
-        },
-        {
-          "nome": "ferraro e novaes advogados",
-          "percentual": 2.32
+          "percentual": 0.12,
+          "documento": "26692352800"
         }
       ],
       "gastos": [
         {
           "nome": "delta3 comunicacao e projetos ltda",
-          "percentual": 47.2
+          "percentual": 47.2,
+          "documento": "63984717000135"
         },
         {
           "nome": "log producoes & filmes ltda",
-          "percentual": 6.5
+          "percentual": 6.5,
+          "documento": "31399764000125"
         },
         {
           "nome": "grafica nmc ltda",
-          "percentual": 4.2
+          "percentual": 4.2,
+          "documento": "35659497000139"
         },
         {
           "nome": "facebook servicos online do brasil ltda.",
-          "percentual": 3.94
+          "percentual": 3.94,
+          "documento": "13347016000117"
         },
         {
           "nome": "ferraro e novaes advogados",
-          "percentual": 2.32
+          "percentual": 2.32,
+          "documento": "27539297000114"
         }
       ],
       "fonte_atualizado_em": "15/09/2026 • Atualizado há 4 dias\n\nDados"
@@ -1918,7 +1803,7 @@
       "tse_encontrado": false,
       "tse_base": null
     },
-    "coletado_em": "2026-09-20T00:17:36.112Z"
+    "coletado_em": "2026-09-20T03:22:14.070Z"
   },
   {
     "slug": "renan-santos",
@@ -1927,6 +1812,7 @@
     "numero": 14,
     "cargo": "presidente",
     "uf": "BR",
+    "foto_arquivo": "renan-santos",
     "foto_url_original": "https://s2-g1.glbimg.com/caYbLru7mBUXGRCsg7om9BfpKrY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/S/MKqR8hQru5DuXBVeU3tQ/renan-santos.jpeg",
     "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/renan-santos.ghtml",
     "profissao": "Empresário",
@@ -1966,65 +1852,55 @@
     "doadores": [
       {
         "nome": "Queroapoiar.com.br",
-        "percentual": 87.23
+        "percentual": 87.23,
+        "documento": "39586155000197"
       },
       {
         "nome": "Jose Antonio Israel Da Veiga Pereira",
-        "percentual": 2.22
+        "percentual": 2.22,
+        "documento": "44580516877"
       },
       {
         "nome": "Danilo Julio Gatto",
-        "percentual": 2.22
+        "percentual": 2.22,
+        "documento": "05651327681"
       },
       {
         "nome": "Jose Thomaz Israel Da Veiga Pereira",
-        "percentual": 2.22
+        "percentual": 2.22,
+        "documento": "40210778806"
       },
       {
         "nome": "Direção Nacional - Missão",
-        "percentual": 0.89
-      },
-      {
-        "nome": "wbl grafica e editora ltda",
-        "percentual": 22.83
-      },
-      {
-        "nome": "marella & rollo sociedade de advogados",
-        "percentual": 9.75
-      },
-      {
-        "nome": "dlocal brasil instituicao de pagamento s.a.",
-        "percentual": 7.8
-      },
-      {
-        "nome": "facebook servicos online do brasil ltda.",
-        "percentual": 7.02
-      },
-      {
-        "nome": "grafica e editora revelacao ltda",
-        "percentual": 6.99
+        "percentual": 0.89,
+        "documento": "52924566000103"
       }
     ],
     "gastos": [
       {
         "nome": "wbl grafica e editora ltda",
-        "percentual": 22.83
+        "percentual": 22.83,
+        "documento": "08142850000136"
       },
       {
         "nome": "marella & rollo sociedade de advogados",
-        "percentual": 9.75
+        "percentual": 9.75,
+        "documento": "27122380000193"
       },
       {
         "nome": "dlocal brasil instituicao de pagamento s.a.",
-        "percentual": 7.8
+        "percentual": 7.8,
+        "documento": "25021356000132"
       },
       {
         "nome": "facebook servicos online do brasil ltda.",
-        "percentual": 7.02
+        "percentual": 7.02,
+        "documento": "13347016000117"
       },
       {
         "nome": "grafica e editora revelacao ltda",
-        "percentual": 6.99
+        "percentual": 6.99,
+        "documento": "08288515000140"
       }
     ],
     "raw": {
@@ -2051,65 +1927,55 @@
       "doadores": [
         {
           "nome": "Queroapoiar.com.br",
-          "percentual": 87.23
+          "percentual": 87.23,
+          "documento": "39586155000197"
         },
         {
           "nome": "Jose Antonio Israel Da Veiga Pereira",
-          "percentual": 2.22
+          "percentual": 2.22,
+          "documento": "44580516877"
         },
         {
           "nome": "Danilo Julio Gatto",
-          "percentual": 2.22
+          "percentual": 2.22,
+          "documento": "05651327681"
         },
         {
           "nome": "Jose Thomaz Israel Da Veiga Pereira",
-          "percentual": 2.22
+          "percentual": 2.22,
+          "documento": "40210778806"
         },
         {
           "nome": "Direção Nacional - Missão",
-          "percentual": 0.89
-        },
-        {
-          "nome": "wbl grafica e editora ltda",
-          "percentual": 22.83
-        },
-        {
-          "nome": "marella & rollo sociedade de advogados",
-          "percentual": 9.75
-        },
-        {
-          "nome": "dlocal brasil instituicao de pagamento s.a.",
-          "percentual": 7.8
-        },
-        {
-          "nome": "facebook servicos online do brasil ltda.",
-          "percentual": 7.02
-        },
-        {
-          "nome": "grafica e editora revelacao ltda",
-          "percentual": 6.99
+          "percentual": 0.89,
+          "documento": "52924566000103"
         }
       ],
       "gastos": [
         {
           "nome": "wbl grafica e editora ltda",
-          "percentual": 22.83
+          "percentual": 22.83,
+          "documento": "08142850000136"
         },
         {
           "nome": "marella & rollo sociedade de advogados",
-          "percentual": 9.75
+          "percentual": 9.75,
+          "documento": "27122380000193"
         },
         {
           "nome": "dlocal brasil instituicao de pagamento s.a.",
-          "percentual": 7.8
+          "percentual": 7.8,
+          "documento": "25021356000132"
         },
         {
           "nome": "facebook servicos online do brasil ltda.",
-          "percentual": 7.02
+          "percentual": 7.02,
+          "documento": "13347016000117"
         },
         {
           "nome": "grafica e editora revelacao ltda",
-          "percentual": 6.99
+          "percentual": 6.99,
+          "documento": "08288515000140"
         }
       ],
       "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
@@ -2119,7 +1985,7 @@
       "tse_encontrado": false,
       "tse_base": null
     },
-    "coletado_em": "2026-09-20T00:17:40.894Z"
+    "coletado_em": "2026-09-20T03:22:18.389Z"
   },
   {
     "slug": "ronaldo-caiado",
@@ -2128,6 +1994,7 @@
     "numero": 55,
     "cargo": "presidente",
     "uf": "BR",
+    "foto_arquivo": "ronaldo-caiado",
     "foto_url_original": "https://s2-g1.glbimg.com/YABeb0dIqlNuKh5KIFTWTciAMqA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/N/hezxMURaW4xf8WiRaUtQ/ronaldo-caiado.jpeg",
     "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/ronaldo-caiado.ghtml",
     "profissao": "Médico",
@@ -2248,65 +2115,55 @@
     "doadores": [
       {
         "nome": "Direção Nacional - Psd",
-        "percentual": 74.38
+        "percentual": 74.38,
+        "documento": "13629827000100"
       },
       {
         "nome": "Carlos Eduardo Ferraz De Mattos Barroso",
-        "percentual": 23.34
+        "percentual": 23.34,
+        "documento": "09083831850"
       },
       {
         "nome": "Hideo Augusto Dendini",
-        "percentual": 0.25
+        "percentual": 0.25,
+        "documento": "09153399862"
       },
       {
         "nome": "Cristiane Alkmin Junqueira Schmidt",
-        "percentual": 0.25
+        "percentual": 0.25,
+        "documento": "01167631757"
       },
       {
         "nome": "Roberto Lucio Rocha Brant",
-        "percentual": 0.25
-      },
-      {
-        "nome": "epos brasil estrategia, comunicacao e tecnologia ltda",
-        "percentual": 81.49
-      },
-      {
-        "nome": "2026 comunicacao spe ltda",
-        "percentual": 4.07
-      },
-      {
-        "nome": "amaro aviation s.a.",
-        "percentual": 2.25
-      },
-      {
-        "nome": "facebook servicos online do brasil ltda.",
-        "percentual": 2.23
-      },
-      {
-        "nome": "malheiros, penteado e toledo - advogados",
-        "percentual": 2.04
+        "percentual": 0.25,
+        "documento": "00670049620"
       }
     ],
     "gastos": [
       {
         "nome": "epos brasil estrategia, comunicacao e tecnologia ltda",
-        "percentual": 81.49
+        "percentual": 81.49,
+        "documento": "55554460000153"
       },
       {
         "nome": "2026 comunicacao spe ltda",
-        "percentual": 4.07
+        "percentual": 4.07,
+        "documento": "66183521000130"
       },
       {
         "nome": "amaro aviation s.a.",
-        "percentual": 2.25
+        "percentual": 2.25,
+        "documento": "40264431000180"
       },
       {
         "nome": "facebook servicos online do brasil ltda.",
-        "percentual": 2.23
+        "percentual": 2.23,
+        "documento": "13347016000117"
       },
       {
         "nome": "malheiros, penteado e toledo - advogados",
-        "percentual": 2.04
+        "percentual": 2.04,
+        "documento": "04639525000122"
       }
     ],
     "raw": {
@@ -2374,65 +2231,55 @@
       "doadores": [
         {
           "nome": "Direção Nacional - Psd",
-          "percentual": 74.38
+          "percentual": 74.38,
+          "documento": "13629827000100"
         },
         {
           "nome": "Carlos Eduardo Ferraz De Mattos Barroso",
-          "percentual": 23.34
+          "percentual": 23.34,
+          "documento": "09083831850"
         },
         {
           "nome": "Hideo Augusto Dendini",
-          "percentual": 0.25
+          "percentual": 0.25,
+          "documento": "09153399862"
         },
         {
           "nome": "Cristiane Alkmin Junqueira Schmidt",
-          "percentual": 0.25
+          "percentual": 0.25,
+          "documento": "01167631757"
         },
         {
           "nome": "Roberto Lucio Rocha Brant",
-          "percentual": 0.25
-        },
-        {
-          "nome": "epos brasil estrategia, comunicacao e tecnologia ltda",
-          "percentual": 81.49
-        },
-        {
-          "nome": "2026 comunicacao spe ltda",
-          "percentual": 4.07
-        },
-        {
-          "nome": "amaro aviation s.a.",
-          "percentual": 2.25
-        },
-        {
-          "nome": "facebook servicos online do brasil ltda.",
-          "percentual": 2.23
-        },
-        {
-          "nome": "malheiros, penteado e toledo - advogados",
-          "percentual": 2.04
+          "percentual": 0.25,
+          "documento": "00670049620"
         }
       ],
       "gastos": [
         {
           "nome": "epos brasil estrategia, comunicacao e tecnologia ltda",
-          "percentual": 81.49
+          "percentual": 81.49,
+          "documento": "55554460000153"
         },
         {
           "nome": "2026 comunicacao spe ltda",
-          "percentual": 4.07
+          "percentual": 4.07,
+          "documento": "66183521000130"
         },
         {
           "nome": "amaro aviation s.a.",
-          "percentual": 2.25
+          "percentual": 2.25,
+          "documento": "40264431000180"
         },
         {
           "nome": "facebook servicos online do brasil ltda.",
-          "percentual": 2.23
+          "percentual": 2.23,
+          "documento": "13347016000117"
         },
         {
           "nome": "malheiros, penteado e toledo - advogados",
-          "percentual": 2.04
+          "percentual": 2.04,
+          "documento": "04639525000122"
         }
       ],
       "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
@@ -2442,7 +2289,7 @@
       "tse_encontrado": false,
       "tse_base": null
     },
-    "coletado_em": "2026-09-20T00:17:47.854Z"
+    "coletado_em": "2026-09-20T03:22:23.967Z"
   },
   {
     "slug": "rui-costa-pimenta",
@@ -2451,6 +2298,7 @@
     "numero": 29,
     "cargo": "presidente",
     "uf": "BR",
+    "foto_arquivo": "rui-costa-pimenta",
     "foto_url_original": "https://s2-g1.glbimg.com/4Mei8I5zy8bubbokDpcAifLYhOo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/8/2RGLosS02epBU0fdEEDg/rui-costa-pimenta.jpeg",
     "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/rui-costa-pimenta.ghtml",
     "profissao": "Jornalista e redator",
@@ -2488,17 +2336,15 @@
     "doadores": [
       {
         "nome": "Queroapoiar.com.br",
-        "percentual": 100
-      },
-      {
-        "nome": "queroapoiar.com.br ltda",
-        "percentual": 100
+        "percentual": 100,
+        "documento": "39586155000197"
       }
     ],
     "gastos": [
       {
         "nome": "queroapoiar.com.br ltda",
-        "percentual": 100
+        "percentual": 100,
+        "documento": "39586155000197"
       }
     ],
     "raw": {
@@ -2539,17 +2385,15 @@
       "doadores": [
         {
           "nome": "Queroapoiar.com.br",
-          "percentual": 100
-        },
-        {
-          "nome": "queroapoiar.com.br ltda",
-          "percentual": 100
+          "percentual": 100,
+          "documento": "39586155000197"
         }
       ],
       "gastos": [
         {
           "nome": "queroapoiar.com.br ltda",
-          "percentual": 100
+          "percentual": 100,
+          "documento": "39586155000197"
         }
       ],
       "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
@@ -2559,7 +2403,7 @@
       "tse_encontrado": false,
       "tse_base": null
     },
-    "coletado_em": "2026-09-20T00:17:53.675Z"
+    "coletado_em": "2026-09-20T03:22:30.604Z"
   },
   {
     "slug": "samara",
@@ -2568,6 +2412,7 @@
     "numero": 80,
     "cargo": "presidente",
     "uf": "BR",
+    "foto_arquivo": "samara",
     "foto_url_original": "https://s2-g1.glbimg.com/JgLOkZw-oYiTupvhz-6UlPULujk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/i/KjNThuTsKWX0qkPMgxIQ/samara.jpeg",
     "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/samara.ghtml",
     "profissao": "Odontólogo",
@@ -2604,53 +2449,40 @@
     "doadores": [
       {
         "nome": "Direção Nacional - Up",
-        "percentual": 70.87
+        "percentual": 70.87,
+        "documento": "26235522000166"
       },
       {
         "nome": "Queroapoiar.com.br",
-        "percentual": 29.13
-      },
-      {
-        "nome": "a verdade - sociedade de comunicacao",
-        "percentual": 23.33
-      },
-      {
-        "nome": "ssg solucoes em servicos graficos ltda",
-        "percentual": 9.49
-      },
-      {
-        "nome": "factor comunicacao visual ltda",
-        "percentual": 9.09
-      },
-      {
-        "nome": "luiz antonio alencar marinho falcao",
-        "percentual": 6.22
-      },
-      {
-        "nome": "raquel oliveira de brito",
-        "percentual": 4.67
+        "percentual": 29.13,
+        "documento": "39586155000197"
       }
     ],
     "gastos": [
       {
         "nome": "a verdade - sociedade de comunicacao",
-        "percentual": 23.33
+        "percentual": 23.33,
+        "documento": "09391110000104"
       },
       {
         "nome": "ssg solucoes em servicos graficos ltda",
-        "percentual": 9.49
+        "percentual": 9.49,
+        "documento": "59370631000145"
       },
       {
         "nome": "factor comunicacao visual ltda",
-        "percentual": 9.09
+        "percentual": 9.09,
+        "documento": "44448899000185"
       },
       {
         "nome": "luiz antonio alencar marinho falcao",
-        "percentual": 6.22
+        "percentual": 6.22,
+        "documento": "11313439487"
       },
       {
         "nome": "raquel oliveira de brito",
-        "percentual": 4.67
+        "percentual": 4.67,
+        "documento": "22815230801"
       }
     ],
     "raw": {
@@ -2682,53 +2514,40 @@
       "doadores": [
         {
           "nome": "Direção Nacional - Up",
-          "percentual": 70.87
+          "percentual": 70.87,
+          "documento": "26235522000166"
         },
         {
           "nome": "Queroapoiar.com.br",
-          "percentual": 29.13
-        },
-        {
-          "nome": "a verdade - sociedade de comunicacao",
-          "percentual": 23.33
-        },
-        {
-          "nome": "ssg solucoes em servicos graficos ltda",
-          "percentual": 9.49
-        },
-        {
-          "nome": "factor comunicacao visual ltda",
-          "percentual": 9.09
-        },
-        {
-          "nome": "luiz antonio alencar marinho falcao",
-          "percentual": 6.22
-        },
-        {
-          "nome": "raquel oliveira de brito",
-          "percentual": 4.67
+          "percentual": 29.13,
+          "documento": "39586155000197"
         }
       ],
       "gastos": [
         {
           "nome": "a verdade - sociedade de comunicacao",
-          "percentual": 23.33
+          "percentual": 23.33,
+          "documento": "09391110000104"
         },
         {
           "nome": "ssg solucoes em servicos graficos ltda",
-          "percentual": 9.49
+          "percentual": 9.49,
+          "documento": "59370631000145"
         },
         {
           "nome": "factor comunicacao visual ltda",
-          "percentual": 9.09
+          "percentual": 9.09,
+          "documento": "44448899000185"
         },
         {
           "nome": "luiz antonio alencar marinho falcao",
-          "percentual": 6.22
+          "percentual": 6.22,
+          "documento": "11313439487"
         },
         {
           "nome": "raquel oliveira de brito",
-          "percentual": 4.67
+          "percentual": 4.67,
+          "documento": "22815230801"
         }
       ],
       "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
@@ -2738,7 +2557,7 @@
       "tse_encontrado": false,
       "tse_base": null
     },
-    "coletado_em": "2026-09-20T00:18:00.586Z"
+    "coletado_em": "2026-09-20T03:22:36.115Z"
   },
   {
     "slug": "veterinario-wilson-grassi",
@@ -2747,6 +2566,7 @@
     "numero": 35,
     "cargo": "presidente",
     "uf": "BR",
+    "foto_arquivo": "veterinario-wilson-grassi",
     "foto_url_original": "https://s2-g1.glbimg.com/zA4rYMoqD_Ry1P4JL6mJlMqWX48=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/p/BpPauXRSeZA6URcXYlyw/veterinario-wilson-grassi.jpeg",
     "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
     "profissao": "Veterinário",
@@ -2790,53 +2610,40 @@
     "doadores": [
       {
         "nome": "Wilson Grassi Junior",
-        "percentual": 99.98
+        "percentual": 99.98,
+        "documento": "11777433886"
       },
       {
         "nome": "Suely Nogueira Coelho",
-        "percentual": 0.02
-      },
-      {
-        "nome": "sflj consultoria e assessoramento ltda",
-        "percentual": 58.53
-      },
-      {
-        "nome": "dlocal brasil instituicao de pagamento s.a.",
-        "percentual": 16.91
-      },
-      {
-        "nome": "facebook servicos online do brasil ltda.",
-        "percentual": 14.96
-      },
-      {
-        "nome": "shihara freire pereira sociedade individual de advocacia",
-        "percentual": 7.02
-      },
-      {
-        "nome": "royal impressoes e manuseio ltda",
-        "percentual": 1.3
+        "percentual": 0.02,
+        "documento": "15875822368"
       }
     ],
     "gastos": [
       {
         "nome": "sflj consultoria e assessoramento ltda",
-        "percentual": 58.53
+        "percentual": 58.53,
+        "documento": "19653777000183"
       },
       {
         "nome": "dlocal brasil instituicao de pagamento s.a.",
-        "percentual": 16.91
+        "percentual": 16.91,
+        "documento": "25021356000132"
       },
       {
         "nome": "facebook servicos online do brasil ltda.",
-        "percentual": 14.96
+        "percentual": 14.96,
+        "documento": "13347016000117"
       },
       {
         "nome": "shihara freire pereira sociedade individual de advocacia",
-        "percentual": 7.02
+        "percentual": 7.02,
+        "documento": "26052128000192"
       },
       {
         "nome": "royal impressoes e manuseio ltda",
-        "percentual": 1.3
+        "percentual": 1.3,
+        "documento": "62525095000114"
       }
     ],
     "raw": {
@@ -2879,53 +2686,40 @@
       "doadores": [
         {
           "nome": "Wilson Grassi Junior",
-          "percentual": 99.98
+          "percentual": 99.98,
+          "documento": "11777433886"
         },
         {
           "nome": "Suely Nogueira Coelho",
-          "percentual": 0.02
-        },
-        {
-          "nome": "sflj consultoria e assessoramento ltda",
-          "percentual": 58.53
-        },
-        {
-          "nome": "dlocal brasil instituicao de pagamento s.a.",
-          "percentual": 16.91
-        },
-        {
-          "nome": "facebook servicos online do brasil ltda.",
-          "percentual": 14.96
-        },
-        {
-          "nome": "shihara freire pereira sociedade individual de advocacia",
-          "percentual": 7.02
-        },
-        {
-          "nome": "royal impressoes e manuseio ltda",
-          "percentual": 1.3
+          "percentual": 0.02,
+          "documento": "15875822368"
         }
       ],
       "gastos": [
         {
           "nome": "sflj consultoria e assessoramento ltda",
-          "percentual": 58.53
+          "percentual": 58.53,
+          "documento": "19653777000183"
         },
         {
           "nome": "dlocal brasil instituicao de pagamento s.a.",
-          "percentual": 16.91
+          "percentual": 16.91,
+          "documento": "25021356000132"
         },
         {
           "nome": "facebook servicos online do brasil ltda.",
-          "percentual": 14.96
+          "percentual": 14.96,
+          "documento": "13347016000117"
         },
         {
           "nome": "shihara freire pereira sociedade individual de advocacia",
-          "percentual": 7.02
+          "percentual": 7.02,
+          "documento": "26052128000192"
         },
         {
           "nome": "royal impressoes e manuseio ltda",
-          "percentual": 1.3
+          "percentual": 1.3,
+          "documento": "62525095000114"
         }
       ],
       "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
@@ -2935,7 +2729,7 @@
       "tse_encontrado": false,
       "tse_base": null
     },
-    "coletado_em": "2026-09-20T00:18:05.395Z"
+    "coletado_em": "2026-09-20T03:22:42.307Z"
   },
   {
     "slug": "zema",
@@ -2944,6 +2738,7 @@
     "numero": 30,
     "cargo": "presidente",
     "uf": "BR",
+    "foto_arquivo": "zema",
     "foto_url_original": "https://s2-g1.glbimg.com/AaRQkLczN7c2auxbdOLjbuo9o8U=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/V/LLwH4XScuIJFf2aQWQxQ/zema.jpeg",
     "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/zema.ghtml",
     "profissao": "Empresário",
@@ -3066,65 +2861,55 @@
     "doadores": [
       {
         "nome": "Direção Nacional - Novo",
-        "percentual": 91.18
+        "percentual": 91.18,
+        "documento": "13405866000124"
       },
       {
         "nome": "Renato Ribeiro Machado",
-        "percentual": 4.45
+        "percentual": 4.45,
+        "documento": "38045281634"
       },
       {
         "nome": "Direção Estadual/distrital - Novo - Minas Gerais",
-        "percentual": 2.15
+        "percentual": 2.15,
+        "documento": "26561313000102"
       },
       {
         "nome": "Salo Davi Seibel",
-        "percentual": 1.11
+        "percentual": 1.11,
+        "documento": "04734599734"
       },
       {
         "nome": "Helio Seibel",
-        "percentual": 1.11
-      },
-      {
-        "nome": "reframe it consultoria e intermediacao ltda",
-        "percentual": 22.35
-      },
-      {
-        "nome": "triton consultoria ltda",
-        "percentual": 10.81
-      },
-      {
-        "nome": "jonathas alpoim severino da silva bezerra carvalho ltda",
-        "percentual": 7.79
-      },
-      {
-        "nome": "bessoni & fortes sociedade de advogados",
-        "percentual": 7.21
-      },
-      {
-        "nome": "facebook servicos online do brasil ltda.",
-        "percentual": 4.09
+        "percentual": 1.11,
+        "documento": "53379284815"
       }
     ],
     "gastos": [
       {
         "nome": "reframe it consultoria e intermediacao ltda",
-        "percentual": 22.35
+        "percentual": 22.35,
+        "documento": "59378606000108"
       },
       {
         "nome": "triton consultoria ltda",
-        "percentual": 10.81
+        "percentual": 10.81,
+        "documento": "44355509000122"
       },
       {
         "nome": "jonathas alpoim severino da silva bezerra carvalho ltda",
-        "percentual": 7.79
+        "percentual": 7.79,
+        "documento": "68278875000193"
       },
       {
         "nome": "bessoni & fortes sociedade de advogados",
-        "percentual": 7.21
+        "percentual": 7.21,
+        "documento": "23851057000108"
       },
       {
         "nome": "facebook servicos online do brasil ltda.",
-        "percentual": 4.09
+        "percentual": 4.09,
+        "documento": "13347016000117"
       }
     ],
     "raw": {
@@ -3178,65 +2963,55 @@
       "doadores": [
         {
           "nome": "Direção Nacional - Novo",
-          "percentual": 91.18
+          "percentual": 91.18,
+          "documento": "13405866000124"
         },
         {
           "nome": "Renato Ribeiro Machado",
-          "percentual": 4.45
+          "percentual": 4.45,
+          "documento": "38045281634"
         },
         {
           "nome": "Direção Estadual/distrital - Novo - Minas Gerais",
-          "percentual": 2.15
+          "percentual": 2.15,
+          "documento": "26561313000102"
         },
         {
           "nome": "Salo Davi Seibel",
-          "percentual": 1.11
+          "percentual": 1.11,
+          "documento": "04734599734"
         },
         {
           "nome": "Helio Seibel",
-          "percentual": 1.11
-        },
-        {
-          "nome": "reframe it consultoria e intermediacao ltda",
-          "percentual": 22.35
-        },
-        {
-          "nome": "triton consultoria ltda",
-          "percentual": 10.81
-        },
-        {
-          "nome": "jonathas alpoim severino da silva bezerra carvalho ltda",
-          "percentual": 7.79
-        },
-        {
-          "nome": "bessoni & fortes sociedade de advogados",
-          "percentual": 7.21
-        },
-        {
-          "nome": "facebook servicos online do brasil ltda.",
-          "percentual": 4.09
+          "percentual": 1.11,
+          "documento": "53379284815"
         }
       ],
       "gastos": [
         {
           "nome": "reframe it consultoria e intermediacao ltda",
-          "percentual": 22.35
+          "percentual": 22.35,
+          "documento": "59378606000108"
         },
         {
           "nome": "triton consultoria ltda",
-          "percentual": 10.81
+          "percentual": 10.81,
+          "documento": "44355509000122"
         },
         {
           "nome": "jonathas alpoim severino da silva bezerra carvalho ltda",
-          "percentual": 7.79
+          "percentual": 7.79,
+          "documento": "68278875000193"
         },
         {
           "nome": "bessoni & fortes sociedade de advogados",
-          "percentual": 7.21
+          "percentual": 7.21,
+          "documento": "23851057000108"
         },
         {
           "nome": "facebook servicos online do brasil ltda.",
-          "percentual": 4.09
+          "percentual": 4.09,
+          "documento": "13347016000117"
         }
       ],
       "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
@@ -3246,6 +3021,6 @@
       "tse_encontrado": false,
       "tse_base": null
     },
-    "coletado_em": "2026-09-20T00:18:09.712Z"
+    "coletado_em": "2026-09-20T03:22:48.604Z"
   }
 ]

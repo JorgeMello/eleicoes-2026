@@ -21,4 +21,5 @@ $routes->group('api', ['filter' => 'cors'], static function ($routes) {
     $routes->get('pesquisas/evolucao', 'Api\Pesquisas::evolucao');
     $routes->get('pesquisas/(:num)', 'Api\Pesquisas::show/$1');
     $routes->post('pesquisas', 'Api\Pesquisas::importar');
+    $routes->get('empresas/(:segment)', 'Api\Empresas::show/$1');
 });
