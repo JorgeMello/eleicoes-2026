@@ -17,6 +17,38 @@ export const CARGOS = [
 
 export const UFS = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO'];
 
+export const UFS_DATA = {
+  AC: { nome: 'Acre', regiao: 'Norte' },
+  AL: { nome: 'Alagoas', regiao: 'Nordeste' },
+  AP: { nome: 'Amapá', regiao: 'Norte' },
+  AM: { nome: 'Amazonas', regiao: 'Norte' },
+  BA: { nome: 'Bahia', regiao: 'Nordeste' },
+  CE: { nome: 'Ceará', regiao: 'Nordeste' },
+  DF: { nome: 'Distrito Federal', regiao: 'Centro-Oeste' },
+  ES: { nome: 'Espírito Santo', regiao: 'Sudeste' },
+  GO: { nome: 'Goiás', regiao: 'Centro-Oeste' },
+  MA: { nome: 'Maranhão', regiao: 'Nordeste' },
+  MT: { nome: 'Mato Grosso', regiao: 'Centro-Oeste' },
+  MS: { nome: 'Mato Grosso do Sul', regiao: 'Centro-Oeste' },
+  MG: { nome: 'Minas Gerais', regiao: 'Sudeste' },
+  PA: { nome: 'Pará', regiao: 'Norte' },
+  PB: { nome: 'Paraíba', regiao: 'Nordeste' },
+  PR: { nome: 'Paraná', regiao: 'Sul' },
+  PE: { nome: 'Pernambuco', regiao: 'Nordeste' },
+  PI: { nome: 'Piauí', regiao: 'Nordeste' },
+  RJ: { nome: 'Rio de Janeiro', regiao: 'Sudeste' },
+  RN: { nome: 'Rio Grande do Norte', regiao: 'Nordeste' },
+  RS: { nome: 'Rio Grande do Sul', regiao: 'Sul' },
+  RO: { nome: 'Rondônia', regiao: 'Norte' },
+  RR: { nome: 'Roraima', regiao: 'Norte' },
+  SC: { nome: 'Santa Catarina', regiao: 'Sul' },
+  SP: { nome: 'São Paulo', regiao: 'Sudeste' },
+  SE: { nome: 'Sergipe', regiao: 'Nordeste' },
+  TO: { nome: 'Tocantins', regiao: 'Norte' },
+};
+
+export const REGIOES = ['Todas', 'Sudeste', 'Sul', 'Nordeste', 'Centro-Oeste', 'Norte'];
+
 async function get(path) {
   const r = await fetch(`${API_URL}${path}`);
   if (!r.ok) throw new Error(`API ${r.status} em ${path}`);
@@ -46,7 +78,10 @@ export const api = {
     const q = new URLSearchParams({ cargo, ...params });
     return get(`/rankings/doadores?${q}`);
   },
-  estatisticas: (cargo) => get(`/estatisticas?cargo=${cargo}`),
+  estatisticas: (cargo, params = {}) => {
+    const q = new URLSearchParams({ cargo, ...params });
+    return get(`/estatisticas?${q}`);
+  },
   pesquisas: (params = {}) => {
     const q = new URLSearchParams({ cargo: 'presidente', ...params });
     return get(`/pesquisas?${q}`);

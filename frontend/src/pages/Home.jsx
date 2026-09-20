@@ -5,7 +5,8 @@ import CandidateCard from '../components/CandidateCard.jsx';
 import CandidateCardSkeleton from '../components/CandidateCardSkeleton.jsx';
 import StatsSkeleton from '../components/StatsSkeleton.jsx';
 import ExportButton from '../components/ExportButton.jsx';
-import { UFS, api, fotoUrl } from '../lib/api.js';
+import UfSelector from '../components/UfSelector.jsx';
+import { UFS, UFS_DATA, api, fotoUrl } from '../lib/api.js';
 import { clientCache } from '../lib/clientCache.js';
 
 const COLUNAS_EXPORT_CANDIDATOS = [
@@ -75,7 +76,7 @@ export default function Home() {
         ...(patMin ? { patrimonio_min: patMin } : {}),
         ...(patMax ? { patrimonio_max: patMax } : {}),
       }),
-      api.estatisticas(cargo),
+      api.estatisticas(cargo, uf ? { uf } : {}),
     ])
       .then(([l, s]) => {
         setLista(l);
@@ -154,20 +155,37 @@ export default function Home() {
     upd(qual === 'min' ? 'patrimonio_min' : 'patrimonio_max', n);
   };
 
+  const ufNome = uf ? UFS_DATA[uf]?.nome : null;
+
   return (
     <div className="space-y-5">
+      {precisaUf && (
+        <UfSelector
+          ufSelecionada={uf}
+          onSelectUf={(novaUf) => upd('uf', novaUf)}
+          cargo={cargo}
+        />
+      )}
+
       <div className="flex flex-wrap items-end justify-between gap-3">
         <div>
-          <h1 className="text-2xl font-bold">Candidatos · <span className="uppercase">{cargo}</span></h1>
+          <h1 className="text-2xl font-bold flex items-center flex-wrap gap-2">
+            <span>Candidatos · <span className="uppercase">{cargo}</span></span>
+            {uf && (
+              <span className="text-emerald-600 dark:text-emerald-400 font-semibold text-lg">
+                · {ufNome} ({uf})
+              </span>
+            )}
+          </h1>
           <p className="text-sm text-slate-500 dark:text-slate-400">
-            {stats ? `${lista.length} de ${stats.total} candidaturas` : 'carregando…'} · clique num card para ver o perfil completo
+            {stats ? `${lista.length} de ${stats.total} candidaturas${uf ? ` no ${uf}` : ''}` : 'carregando…'} · clique num card para ver o perfil completo
           </p>
         </div>
         <ExportButton
-          filename={`candidatos_${cargo}_eleicoes2026`}
+          filename={`candidatos_${cargo}_${uf || 'brasil'}_eleicoes2026`}
           columns={COLUNAS_EXPORT_CANDIDATOS}
           data={lista}
-          label="Exportar Candidatos"
+          label={`Exportar Candidatos${uf ? ` (${uf})` : ''}`}
         />
       </div>
 

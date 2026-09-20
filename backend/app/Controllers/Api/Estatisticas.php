@@ -11,8 +11,14 @@ class Estatisticas extends BaseController
     public function index(): ResponseInterface
     {
         $cargo = $this->request->getGet('cargo') ?? 'presidente';
+        $uf    = trim((string) ($this->request->getGet('uf') ?? ''));
         $model = new CandidatoModel();
-        $rows  = $model->where('cargo', $cargo)->findAll();
+
+        $builder = $model->where('cargo', $cargo);
+        if ($uf !== '') {
+            $builder = $builder->where('uf', $uf);
+        }
+        $rows = $builder->findAll();
 
         $porPartido = $porProfissao = $porInstrucao = $porCor = [];
         $patrimonios = [];
@@ -29,6 +35,7 @@ class Estatisticas extends BaseController
 
         $data = [
             'cargo'             => $cargo,
+            'uf'                => $uf !== '' ? $uf : null,
             'total'             => count($rows),
             'por_partido'       => $porPartido,
             'por_profissao'     => $porProfissao,

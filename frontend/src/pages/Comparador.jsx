@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useParams, useSearchParams } from 'react-router-dom';
 import { Bar, BarChart, LabelList, Legend, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
-import { api, brl, fotoUrl, UFS } from '../lib/api.js';
+import { api, brl, fotoUrl, UFS, UFS_DATA } from '../lib/api.js';
 
 const LINHAS = [
   { label: 'Partido', get: (c) => c.partido, ajuda: 'Legenda pela qual o candidato concorre em 2026 (fonte: TSE via G1).',
@@ -228,7 +228,9 @@ export default function Comparador() {
           >
             <option value="">Escolha a UF para comparar…</option>
             {UFS.map((u) => (
-              <option key={u} value={u}>{u}</option>
+              <option key={u} value={u}>
+                {u} · {UFS_DATA[u]?.nome || u} ({UFS_DATA[u]?.regiao})
+              </option>
             ))}
           </select>
         )}
