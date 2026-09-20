@@ -6,6 +6,7 @@ export default function Manual() {
 
   const abas = [
     { id: 'passo-a-passo', rotulo: 'Passo a Passo dos Módulos', icone: '🧭' },
+    { id: 'auditoria-tse', rotulo: 'Auditoria & Selo TSE', icone: '🛡️' },
     { id: 'filtros-insights', rotulo: 'Engenharia de Filtros', icone: '🔍' },
     { id: 'dicas-ouro', rotulo: 'Dicas de Ouro & Insights', icone: '💡' },
     { id: 'legislacao', rotulo: 'Regras Eleitorais & TSE', icone: '⚖️' },
@@ -87,7 +88,11 @@ export default function Manual() {
                 </li>
                 <li className="flex gap-2">
                   <span className="text-emerald-500 font-bold">✓</span>
-                  <span><strong>Acesso ao Perfil:</strong> basta clicar no card do candidato para abrir a tela com plano de governo, histórico eleitoral e detalhamento de contas.</span>
+                  <span><strong>Selo Verificado TSE:</strong> cada card traz a etiqueta verde de validação oficial logo abaixo do nome, indicando que a candidatura e suas declarações foram homologadas pelo TSE.</span>
+                </li>
+                <li className="flex gap-2">
+                  <span className="text-emerald-500 font-bold">✓</span>
+                  <span><strong>Acesso ao Perfil:</strong> basta clicar no card do candidato para abrir a tela com plano de governo, histórico eleitoral, selo oficial e detalhamento de contas.</span>
                 </li>
                 <li className="flex gap-2">
                   <span className="text-emerald-500 font-bold">✓</span>
@@ -202,7 +207,151 @@ export default function Manual() {
         </div>
       )}
 
-      {/* SEÇÃO 2: ENGENHARIA DE FILTROS & BUSCA EFICIENTE */}
+      {/* SEÇÃO 2: AUDITORIA OFICIAL DO TSE & SELO DE VALIDAÇÃO */}
+      {secaoAtiva === 'auditoria-tse' && (
+        <div className="space-y-6">
+          {/* Banner de Introdução da Seção */}
+          <div className="rounded-xl border border-emerald-200 bg-gradient-to-r from-emerald-50 via-teal-50/50 to-white p-6 dark:border-emerald-800/60 dark:from-emerald-950/40 dark:via-slate-900 dark:to-slate-900 shadow-sm">
+            <div className="flex items-center gap-3">
+              <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-emerald-600 text-white shadow-sm dark:bg-emerald-500 text-lg">
+                🛡️
+              </span>
+              <div>
+                <h2 className="text-xl font-bold text-slate-900 dark:text-white">
+                  Auditoria Oficial do TSE & Selo de Validação
+                </h2>
+                <p className="mt-0.5 text-xs text-slate-600 dark:text-slate-400">
+                  Como a plataforma audita, reconcilia e certifica os dados fiscais e patrimoniais com a Justiça Eleitoral (DivulgaCandContas)
+                </p>
+              </div>
+            </div>
+
+            <p className="mt-4 text-sm text-slate-700 dark:text-slate-300 leading-relaxed">
+              Todas as candidaturas exibidas nesta plataforma passam por um rigoroso pipeline de reconciliação contábil em conformidade com as resoluções vigentes do Tribunal Superior Eleitoral. Ao navegar pela aplicação, o cidadão conta com indicadores claros para verificar a legalidade e a consistência das contas de campanha.
+            </p>
+          </div>
+
+          {/* Grid dos 4 Pilares da Auditoria */}
+          <div className="grid gap-4 md:grid-cols-2">
+            {/* Pilar 1: Selo Verificado TSE */}
+            <div className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-700 dark:bg-slate-900">
+              <div className="flex items-center gap-2.5">
+                <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-emerald-100 font-bold text-emerald-700 dark:bg-emerald-950 dark:text-emerald-300">
+                  ✓
+                </span>
+                <div>
+                  <h3 className="text-base font-bold text-slate-900 dark:text-white">O Selo "Verificado TSE · Deferido"</h3>
+                  <span className="text-xs text-slate-500 dark:text-slate-400">Certificação nos cards e no perfil</span>
+                </div>
+              </div>
+              <p className="mt-3 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
+                A etiqueta verde posicionada <strong>imediatamente abaixo do nome do candidato</strong> nos cards de listagem e no cabeçalho do perfil atesta que a candidatura possui registro formal homologado junto ao sistema DivulgaCandContas do TSE, com certidões validadas e dados públicos conferidos.
+              </p>
+              <div className="mt-3 rounded-lg bg-slate-50 p-3 text-xs dark:bg-slate-800/60">
+                <span className="font-semibold text-emerald-700 dark:text-emerald-400">O que a etiqueta valida:</span>
+                <ul className="mt-1.5 space-y-1 list-disc list-inside text-slate-600 dark:text-slate-400">
+                  <li>Registro deferido perante a Justiça Eleitoral.</li>
+                  <li>Inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ Eleitoral).</li>
+                  <li>Protocolo autêntico do Plano de Governo no repositório oficial.</li>
+                </ul>
+              </div>
+            </div>
+
+            {/* Pilar 2: Auditoria Matemática de Bens */}
+            <div className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-700 dark:bg-slate-900">
+              <div className="flex items-center gap-2.5">
+                <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-blue-100 font-bold text-blue-700 dark:bg-blue-950 dark:text-blue-300">
+                  ⚖️
+                </span>
+                <div>
+                  <h3 className="text-base font-bold text-slate-900 dark:text-white">Auditoria Matemática dos Bens</h3>
+                  <span className="text-xs text-slate-500 dark:text-slate-400">Cruzamento item a item vs. Total</span>
+                </div>
+              </div>
+              <p className="mt-3 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
+                O motor de reconciliação da plataforma audita cada declaração de bens individualmente: soma cada item (imóveis, veículos, contas bancárias, quotas empresariais e fundos) e compara com o valor consolidado informado pelo candidato.
+              </p>
+              <div className="mt-3 rounded-lg bg-slate-50 p-3 text-xs dark:bg-slate-800/60">
+                <span className="font-semibold text-blue-700 dark:text-blue-400">Indicador no Painel:</span>
+                <p className="mt-1 text-slate-600 dark:text-slate-400">
+                  Quando aparece <strong>"100% Consistente"</strong>, a soma dos bens bate centavo a centavo com o patrimônio declarado (tolerância zero a desvios). Na eleição presidencial de 2026, 143 bens totalizando mais de R$ 1,03 bilhão foram auditados sem divergências.
+                </p>
+              </div>
+            </div>
+
+            {/* Pilar 3: Teto Legal de Gastos de Campanha */}
+            <div className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-700 dark:bg-slate-900">
+              <div className="flex items-center gap-2.5">
+                <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-amber-100 font-bold text-amber-700 dark:bg-amber-950 dark:text-amber-300">
+                  💰
+                </span>
+                <div>
+                  <h3 className="text-base font-bold text-slate-900 dark:text-white">Fiscalização do Teto Legal de Gastos</h3>
+                  <span className="text-xs text-slate-500 dark:text-slate-400">Limite oficial fixado pelo TSE</span>
+                </div>
+              </div>
+              <p className="mt-3 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
+                O TSE fixa um limite máximo intransponível de contratações para cada cargo. Para o 1º turno de Presidente, o teto é de <strong>R$ 88.944.030,80</strong>. O painel do perfil exibe uma barra de progresso em tempo real mostrando o percentual consumido pela candidatura.
+              </p>
+              <div className="mt-3 rounded-lg bg-slate-50 p-3 text-xs dark:bg-slate-800/60">
+                <span className="font-semibold text-amber-700 dark:text-amber-400">Cores da Barra de Teto:</span>
+                <p className="mt-1 text-slate-600 dark:text-slate-400">
+                  <strong>Verde:</strong> Campanha com gastos regulares abaixo de 90% do teto. <br />
+                  <strong>Âmbar:</strong> Alerta de aproximação do teto legal (acima de 90%), exigindo contenção de despesas sob risco de sanção legal.
+                </p>
+              </div>
+            </div>
+
+            {/* Pilar 4: CNPJ de Campanha e Processo PJe */}
+            <div className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-700 dark:bg-slate-900">
+              <div className="flex items-center gap-2.5">
+                <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-purple-100 font-bold text-purple-700 dark:bg-purple-950 dark:text-purple-300">
+                  📑
+                </span>
+                <div>
+                  <h3 className="text-base font-bold text-slate-900 dark:text-white">CNPJ Eleitoral & Processo no PJe</h3>
+                  <span className="text-xs text-slate-500 dark:text-slate-400">Autenticidade e rastreabilidade documental</span>
+                </div>
+              </div>
+              <p className="mt-3 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
+                O banner de auditoria no perfil disponibiliza o CNPJ Eleitoral com botão de cópia instantânea (para conferência na Receita Federal) e o número do Processo Judicial Eletrônico (PJe) no TSE, acompanhado do link direto para a consulta no portal DivulgaCandContas.
+              </p>
+              <div className="mt-3 rounded-lg bg-slate-50 p-3 text-xs dark:bg-slate-800/60">
+                <span className="font-semibold text-purple-700 dark:text-purple-400">Transparência Ativa:</span>
+                <p className="mt-1 text-slate-600 dark:text-slate-400">
+                  O cidadão pode conferir diretamente na fonte primária da Justiça Eleitoral se houve impugnações, recursos ou julgamentos pendentes sobre a elegibilidade da candidatura.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          {/* Bloco Educativo: Balanço de Campanha (Superávit vs. Déficit) */}
+          <div className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-700 dark:bg-slate-900">
+            <h3 className="text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
+              <span>💡 Como Entender o Balanço de Campanha (Receitas vs. Despesas)</span>
+            </h3>
+            <p className="mt-2 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
+              Ao analisar as contas de uma candidatura, você poderá se deparar com duas situações contábeis:
+            </p>
+            <div className="mt-3 grid gap-3 sm:grid-cols-2 text-xs">
+              <div className="rounded-lg border border-emerald-200 bg-emerald-50/70 p-3 dark:border-emerald-900 dark:bg-emerald-950/40">
+                <strong className="text-emerald-800 dark:text-emerald-300 block text-sm">Superávit ou Saldo Neutro:</strong>
+                <p className="mt-1 text-slate-600 dark:text-slate-300">
+                  Ocorre quando as <strong>Receitas Arrecadadas</strong> são maiores ou iguais às <strong>Despesas Contratadas</strong>. A campanha possui caixa suficiente para cobrir todos os contratos firmados até o momento.
+                </p>
+              </div>
+              <div className="rounded-lg border border-amber-200 bg-amber-50/70 p-3 dark:border-amber-900 dark:bg-amber-950/40">
+                <strong className="text-amber-800 dark:text-amber-300 block text-sm">Déficit Temporário de Campanha:</strong>
+                <p className="mt-1 text-slate-600 dark:text-slate-300">
+                  Ocorre quando as <strong>Despesas Contratadas</strong> superam temporariamente as receitas já recebidas. Trata-se de prática prevista na Lei das Eleições (Lei 9.504/1997), onde as contratações são lançadas na prestação parcial, devendo ser cobertas por futuros repasses do Fundo Partidário ou assumidas pelo partido ao final do pleito sob a forma de restos a pagar.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* SEÇÃO 3: ENGENHARIA DE FILTROS & BUSCA EFICIENTE */}
       {secaoAtiva === 'filtros-insights' && (
         <div className="space-y-4">
           <div className="rounded-xl border border-slate-200 bg-white p-5 dark:border-slate-700 dark:bg-slate-900">
