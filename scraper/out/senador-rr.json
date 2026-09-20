@@ -1,0 +1,2564 @@
+[
+  {
+    "slug": "230002549361",
+    "nome": "Bartô Macuxi",
+    "partido": "PSOL",
+    "numero": 500,
+    "cargo": "senador",
+    "uf": "RR",
+    "foto_arquivo": "senador-rr-230002549361",
+    "foto_url_original": "https://s2-g1.glbimg.com/BERMBDPedwAkGJQzTwZeL9pBPrk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/f/Xgq2ohRWq3GWeU5Giysg/barto-macuxi.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/rr/230002549361.ghtml",
+    "profissao": "Desenhista",
+    "cor_etnia": "Indígena",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Lincoln Freire",
+    "suplente1_partido": "PSOL",
+    "suplente2_nome": "Eliete Quadros",
+    "suplente2_partido": "PSOL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Lincoln Freire",
+        "nome_urna": "Lincoln Freire",
+        "partido": "PSOL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Eliete Quadros",
+        "nome_urna": "Eliete Quadros",
+        "partido": "PSOL"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 54000,
+    "despesas_total": 17283,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 100,
+        "documento": "06954942000195"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "industria e comercio ioris ltda",
+        "percentual": 43.4,
+        "documento": "84041011000100"
+      },
+      {
+        "nome": "a. f. comercio e servicos ltda",
+        "percentual": 28.47,
+        "documento": "31315055000114"
+      },
+      {
+        "nome": "thayna silva gomes",
+        "percentual": 18.76,
+        "documento": "04356376226"
+      },
+      {
+        "nome": "jhonatan silva damasceno",
+        "percentual": 9.38,
+        "documento": "01590314271"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Bartô Macuxi",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 500,
+      "profissao": "Desenhista",
+      "cor_etnia": "Indígena",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/BERMBDPedwAkGJQzTwZeL9pBPrk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/f/Xgq2ohRWq3GWeU5Giysg/barto-macuxi.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Lincoln Freire",
+      "suplente1_partido": "PSOL",
+      "suplente2_nome": "Eliete Quadros",
+      "suplente2_partido": "PSOL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Lincoln Freire",
+          "nome_urna": "Lincoln Freire",
+          "partido": "PSOL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Eliete Quadros",
+          "nome_urna": "Eliete Quadros",
+          "partido": "PSOL"
+        }
+      ],
+      "receitas_total": 54000,
+      "despesas_total": 17283,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 100,
+          "documento": "06954942000195"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "industria e comercio ioris ltda",
+          "percentual": 43.4,
+          "documento": "84041011000100"
+        },
+        {
+          "nome": "a. f. comercio e servicos ltda",
+          "percentual": 28.47,
+          "documento": "31315055000114"
+        },
+        {
+          "nome": "thayna silva gomes",
+          "percentual": 18.76,
+          "documento": "04356376226"
+        },
+        {
+          "nome": "jhonatan silva damasceno",
+          "percentual": 9.38,
+          "documento": "01590314271"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-rr-230002549361.jpeg",
+    "coletado_em": "2026-09-20T22:38:41.696Z"
+  },
+  {
+    "slug": "230002550794",
+    "nome": "Chico Rodrigues",
+    "partido": "PSB",
+    "numero": 400,
+    "cargo": "senador",
+    "uf": "RR",
+    "foto_arquivo": "senador-rr-230002550794",
+    "foto_url_original": "https://s2-g1.glbimg.com/CQT_WCa6jmWyS-VsQYYSiKz84FU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/a/YNOR2dR0CWKr4L5WiqwQ/chico-rodrigues.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/rr/230002550794.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Pedro Arthur Rodrigues",
+    "suplente1_partido": "PSB",
+    "suplente2_nome": "Coronel Carla",
+    "suplente2_partido": "PSB",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Pedro Arthur Rodrigues",
+        "nome_urna": "Pedro Arthur Rodrigues",
+        "partido": "PSB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Coronel Carla",
+        "nome_urna": "Coronel Carla",
+        "partido": "PSB"
+      }
+    ],
+    "patrimonio_total": 4554226.650000001,
+    "receitas_total": 1140252,
+    "despesas_total": 1284794.52,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Ford f-4000 ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Ford f-4000 ano 2000",
+        "valor": 43114
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa - adquirida n. r. campos emp. imob. ltda lote: 267 boa vista/rr",
+        "valor": 7460
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Volvo/nl",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Volvo/nl 10 280 ano 1990/1990",
+        "valor": 40000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota/corolla apremiumh ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota/corolla apremiumh ano 2024",
+        "valor": 160997
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação societária empresa br. n.",
+        "valor": 400000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote de terras: 067 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "valor": 18333.33
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote de terras: 460 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "valor": 18333.33
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote de terras: 312 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "valor": 18333.33
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Volvo/nl",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Volvo/nl 12 410 4x2 ano 1993/1993",
+        "valor": 65000
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Numerario em cofre particular",
+        "valor": 358900
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apto em brasília-df",
+        "valor": 2300000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote de terras: 297 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "valor": 18333.33
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote de terras: 436 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "valor": 18333.33
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Vw fusca",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Vw fusca 1600 ano 1996",
+        "valor": 15000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imóvel rural br 210 km município de são luiz/rr",
+        "valor": 10000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Mmc/pajeiro sport hpe ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Mmc/pajeiro sport hpe ano 2007/2007",
+        "valor": 130000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote de terras : 342 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "valor": 18333.33
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote de terras: 052 adquirido n. r. campos emp. imob. boa vista/rr",
+        "valor": 18333.33
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote de terras: 082 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "valor": 18333.33
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imóvel rural na rr 205 município de alto alegre/rr",
+        "valor": 5000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Mmc/l200 outdoor ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Mmc/l200 outdoor ano 2011/2012",
+        "valor": 45000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. M.benz/lo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. M.benz/lo 814 - microonibus ano 1997/1997",
+        "valor": 18000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação societária empresa san s.",
+        "valor": 450000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Galpão com área total: 900,0 m² boa vista/rr",
+        "valor": 5000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote de terras: 404 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "valor": 18333.33
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota hilux swsrxa4fd ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota hilux swsrxa4fd ano 2016/2016",
+        "valor": 150000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Ford f-12000 ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Ford f-12000 ano 2000",
+        "valor": 51486.69
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa- adquirida n. r. campos emp. imob. ltda lote: 206 boa vista/rr",
+        "valor": 4769
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imóvel rural br 210 km município de são luiz/rr",
+        "valor": 10000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Vw saveirocd ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Vw saveirocd ano 2015/2019",
+        "valor": 49500
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote de terras: 420 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "valor": 18333.33
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote de terras: 327 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "valor": 18333.33
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imóvel residêncial em paulo afonso-ba",
+        "valor": 33333.33
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2016,
+        "cargo": "Vereador",
+        "partido": "PRP",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psb",
+        "percentual": 97.19,
+        "documento": "01421697000137"
+      },
+      {
+        "nome": "Francisco De Assis Rodrigues",
+        "percentual": 2.1,
+        "documento": "07654871449"
+      },
+      {
+        "nome": "Pedro Arthur Ferreira Rodrigues",
+        "percentual": 0.7,
+        "documento": "86114000110"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "girassois , consultoria, marketing, pesquisa e estrategia ltda",
+        "percentual": 23.35,
+        "documento": "65311309000148"
+      },
+      {
+        "nome": "forbras roraima ltda",
+        "percentual": 18.21,
+        "documento": "84017888000165"
+      },
+      {
+        "nome": "impacto comunicacao visual ltda",
+        "percentual": 9.31,
+        "documento": "10901797000151"
+      },
+      {
+        "nome": "contapllan planejamento e assessoria contabil ltda",
+        "percentual": 6.23,
+        "documento": "47241460000175"
+      },
+      {
+        "nome": "paulino de souza sociedade individual de advocacia",
+        "percentual": 6.23,
+        "documento": "24924957000192"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Chico Rodrigues",
+      "partido_pagina": "PSB",
+      "numero_pagina": 400,
+      "profissao": "Senador",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/CQT_WCa6jmWyS-VsQYYSiKz84FU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/a/YNOR2dR0CWKr4L5WiqwQ/chico-rodrigues.jpeg",
+      "historico": [
+        {
+          "ano": 2016,
+          "cargo": "Vereador",
+          "partido": "PRP",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 43.114,00 Ford f-4000 ano 2000",
+        "Casa R$ 7.460,00 Casa - adquirida n. r. campos emp. imob. ltda lote: 267 boa vista/rr",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 40.000,00 Volvo/nl 10 280 ano 1990/1990",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 160.997,00 Toyota/corolla apremiumh ano 2024",
+        "Quotas ou quinhões de capital R$ 400.000,00 Participação societária empresa br. n.",
+        "Terreno R$ 18.333,33 Lote de terras: 067 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "Terreno R$ 18.333,33 Lote de terras: 460 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "Terreno R$ 18.333,33 Lote de terras: 312 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 65.000,00 Volvo/nl 12 410 4x2 ano 1993/1993",
+        "Dinheiro em espécie - moeda nacional R$ 358.900,00 Numerario em cofre particular",
+        "Apartamento R$ 2.300.000,00 Apto em brasília-df",
+        "Terreno R$ 18.333,33 Lote de terras: 297 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "Terreno R$ 18.333,33 Lote de terras: 436 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 15.000,00 Vw fusca 1600 ano 1996",
+        "Outros bens imóveis R$ 10.000,00 Imóvel rural br 210 km município de são luiz/rr",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 130.000,00 Mmc/pajeiro sport hpe ano 2007/2007",
+        "Terreno R$ 18.333,33 Lote de terras : 342 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "Terreno R$ 18.333,33 Lote de terras: 052 adquirido n. r. campos emp. imob. boa vista/rr",
+        "Terreno R$ 18.333,33 Lote de terras: 082 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "Outros bens imóveis R$ 5.000,00 Imóvel rural na rr 205 município de alto alegre/rr",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 45.000,00 Mmc/l200 outdoor ano 2011/2012",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 18.000,00 M.benz/lo 814 - microonibus ano 1997/1997",
+        "Quotas ou quinhões de capital R$ 450.000,00 Participação societária empresa san s.",
+        "Terreno R$ 5.000,00 Galpão com área total: 900,0 m² boa vista/rr",
+        "Terreno R$ 18.333,33 Lote de terras: 404 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 150.000,00 Toyota hilux swsrxa4fd ano 2016/2016",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 51.486,69 Ford f-12000 ano 2000",
+        "Casa R$ 4.769,00 Casa- adquirida n. r. campos emp. imob. ltda lote: 206 boa vista/rr",
+        "Outros bens imóveis R$ 10.000,00 Imóvel rural br 210 km município de são luiz/rr",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 49.500,00 Vw saveirocd ano 2015/2019",
+        "Terreno R$ 18.333,33 Lote de terras: 420 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "Terreno R$ 18.333,33 Lote de terras: 327 adquirido n. r. campos emp. imob. ltda boa vista/rr",
+        "Casa R$ 33.333,33 Imóvel residêncial em paulo afonso-ba"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Pedro Arthur Rodrigues",
+      "suplente1_partido": "PSB",
+      "suplente2_nome": "Coronel Carla",
+      "suplente2_partido": "PSB",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Pedro Arthur Rodrigues",
+          "nome_urna": "Pedro Arthur Rodrigues",
+          "partido": "PSB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Coronel Carla",
+          "nome_urna": "Coronel Carla",
+          "partido": "PSB"
+        }
+      ],
+      "receitas_total": 1140252,
+      "despesas_total": 1284794.52,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psb",
+          "percentual": 97.19,
+          "documento": "01421697000137"
+        },
+        {
+          "nome": "Francisco De Assis Rodrigues",
+          "percentual": 2.1,
+          "documento": "07654871449"
+        },
+        {
+          "nome": "Pedro Arthur Ferreira Rodrigues",
+          "percentual": 0.7,
+          "documento": "86114000110"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "girassois , consultoria, marketing, pesquisa e estrategia ltda",
+          "percentual": 23.35,
+          "documento": "65311309000148"
+        },
+        {
+          "nome": "forbras roraima ltda",
+          "percentual": 18.21,
+          "documento": "84017888000165"
+        },
+        {
+          "nome": "impacto comunicacao visual ltda",
+          "percentual": 9.31,
+          "documento": "10901797000151"
+        },
+        {
+          "nome": "contapllan planejamento e assessoria contabil ltda",
+          "percentual": 6.23,
+          "documento": "47241460000175"
+        },
+        {
+          "nome": "paulino de souza sociedade individual de advocacia",
+          "percentual": 6.23,
+          "documento": "24924957000192"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-rr-230002550794.jpeg",
+    "coletado_em": "2026-09-20T22:38:44.235Z"
+  },
+  {
+    "slug": "230002549845",
+    "nome": "Helena Da Asatur",
+    "partido": "PSD",
+    "numero": 555,
+    "cargo": "senador",
+    "uf": "RR",
+    "foto_arquivo": "senador-rr-230002549845",
+    "foto_url_original": "https://s2-g1.glbimg.com/mpPY4lp1G2HmXTH80kpN4uFuc-E=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/w/pNEifBTIy4UDxux3U3Ag/helena-da-asatur.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/rr/230002549845.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Tânia Soares",
+    "suplente1_partido": "UNIÃO",
+    "suplente2_nome": "Simone Queiroz",
+    "suplente2_partido": "PSD",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Tânia Soares",
+        "nome_urna": "Tânia Soares",
+        "partido": "UNIÃO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Simone Queiroz",
+        "nome_urna": "Simone Queiroz",
+        "partido": "PSD"
+      }
+    ],
+    "patrimonio_total": 10601281.009999998,
+    "receitas_total": 3039500,
+    "despesas_total": 2386841.32,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote urbano no bairro caçari, boa vista - rr",
+        "valor": 324000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bb cdb rende fácil",
+        "valor": 42068.14
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel toyota lexus es",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel toyota lexus es 300h my23, ano 2023/2023",
+        "valor": 345000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depósito à vista ¿ banco do brasil",
+        "valor": 1319.43
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Rf lp high ¿ fundo de investimento",
+        "valor": 117506.85
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Caderneta de poupança (conta conjunta)",
+        "valor": 60.33
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bb renda fixa referenciada di plus ágil ¿ fundo de investimento",
+        "valor": 51021.28
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imóvel na rua udine benedite, boa vista - rr",
+        "valor": 370000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Ourocap mensal",
+        "valor": 8197.69
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imóvel residencial no caçari, boa vista - rr",
+        "valor": 3200000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imóvel residencial no bairro cauamé, boa vista - rr",
+        "valor": 180000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote urbano no bairro caçari, boa vista - rr",
+        "valor": 324000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imóvel residencial no bairro caçari, boa vista - rr",
+        "valor": 1300000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhonete ford f-150 tremor, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhonete ford f-150 tremor, ano 2025/2025",
+        "valor": 390000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhonete toyota hilux sw srx a4fd, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhonete toyota hilux sw srx a4fd, ano 2021",
+        "valor": 385000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento residencial em manaus - am",
+        "valor": 915860
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhão vw",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhão vw 9.150 e-delivery, ano 2010/2010",
+        "valor": 65000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhonete ford f-150 platinum, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhonete ford f-150 platinum, ano 2023/2023",
+        "valor": 280000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imóvel rural \"fazenda trem bom\" em boa vista - rr",
+        "valor": 2000000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote urbano no bairro caçari, boa vista - rr",
+        "valor": 300000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depósito à vista ¿ banco do brasil",
+        "valor": 2247.29
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 98.7,
+        "documento": "13629827000100"
+      },
+      {
+        "nome": "Renildo Evangelista Lima",
+        "percentual": 1.18,
+        "documento": "32656076234"
+      },
+      {
+        "nome": "Joseilson Camara Silva",
+        "percentual": 0.12,
+        "documento": "64930629268"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "g de s a ltda",
+        "percentual": 16.76,
+        "documento": "24724620000131"
+      },
+      {
+        "nome": "positiva mkt e empreendimentos ltda",
+        "percentual": 15.92,
+        "documento": "47071025000140"
+      },
+      {
+        "nome": "delgado gomes advogados",
+        "percentual": 12.57,
+        "documento": "10757737000107"
+      },
+      {
+        "nome": "industria e comercio ioris ltda",
+        "percentual": 12.57,
+        "documento": "84041011000100"
+      },
+      {
+        "nome": "alex de s. lima",
+        "percentual": 4.49,
+        "documento": "13238718000162"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Helena Da Asatur",
+      "partido_pagina": "PSD",
+      "numero_pagina": 555,
+      "profissao": "Deputado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/mpPY4lp1G2HmXTH80kpN4uFuc-E=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/w/pNEifBTIy4UDxux3U3Ag/helena-da-asatur.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 324.000,00 Lote urbano no bairro caçari, boa vista - rr",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 42.068,14 Bb cdb rende fácil",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 345.000,00 Automóvel toyota lexus es 300h my23, ano 2023/2023",
+        "Depósito bancário em conta corrente no país R$ 1.319,43 Depósito à vista ¿ banco do brasil",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 117.506,85 Rf lp high ¿ fundo de investimento",
+        "Caderneta de poupança R$ 60,33 Caderneta de poupança (conta conjunta)",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 51.021,28 Bb renda fixa referenciada di plus ágil ¿ fundo de investimento",
+        "Casa R$ 370.000,00 Imóvel na rua udine benedite, boa vista - rr",
+        "Outras aplicações e investimentos R$ 8.197,69 Ourocap mensal",
+        "Casa R$ 3.200.000,00 Imóvel residencial no caçari, boa vista - rr",
+        "Casa R$ 180.000,00 Imóvel residencial no bairro cauamé, boa vista - rr",
+        "Terreno R$ 324.000,00 Lote urbano no bairro caçari, boa vista - rr",
+        "Casa R$ 1.300.000,00 Imóvel residencial no bairro caçari, boa vista - rr",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 390.000,00 Caminhonete ford f-150 tremor, ano 2025/2025",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 385.000,00 Caminhonete toyota hilux sw srx a4fd, ano 2021",
+        "Apartamento R$ 915.860,00 Apartamento residencial em manaus - am",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 65.000,00 Caminhão vw 9.150 e-delivery, ano 2010/2010",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 280.000,00 Caminhonete ford f-150 platinum, ano 2023/2023",
+        "Outros bens imóveis R$ 2.000.000,00 Imóvel rural \"fazenda trem bom\" em boa vista - rr",
+        "Terreno R$ 300.000,00 Lote urbano no bairro caçari, boa vista - rr",
+        "Depósito bancário em conta corrente no país R$ 2.247,29 Depósito à vista ¿ banco do brasil"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Tânia Soares",
+      "suplente1_partido": "UNIÃO",
+      "suplente2_nome": "Simone Queiroz",
+      "suplente2_partido": "PSD",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Tânia Soares",
+          "nome_urna": "Tânia Soares",
+          "partido": "UNIÃO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Simone Queiroz",
+          "nome_urna": "Simone Queiroz",
+          "partido": "PSD"
+        }
+      ],
+      "receitas_total": 3039500,
+      "despesas_total": 2386841.32,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 98.7,
+          "documento": "13629827000100"
+        },
+        {
+          "nome": "Renildo Evangelista Lima",
+          "percentual": 1.18,
+          "documento": "32656076234"
+        },
+        {
+          "nome": "Joseilson Camara Silva",
+          "percentual": 0.12,
+          "documento": "64930629268"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "g de s a ltda",
+          "percentual": 16.76,
+          "documento": "24724620000131"
+        },
+        {
+          "nome": "positiva mkt e empreendimentos ltda",
+          "percentual": 15.92,
+          "documento": "47071025000140"
+        },
+        {
+          "nome": "delgado gomes advogados",
+          "percentual": 12.57,
+          "documento": "10757737000107"
+        },
+        {
+          "nome": "industria e comercio ioris ltda",
+          "percentual": 12.57,
+          "documento": "84041011000100"
+        },
+        {
+          "nome": "alex de s. lima",
+          "percentual": 4.49,
+          "documento": "13238718000162"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-rr-230002549845.jpeg",
+    "coletado_em": "2026-09-20T22:38:46.899Z"
+  },
+  {
+    "slug": "230002534806",
+    "nome": "Helio Fernando Barbosa Lopes",
+    "partido": "PL",
+    "numero": 222,
+    "cargo": "senador",
+    "uf": "RR",
+    "foto_arquivo": "senador-rr-230002534806",
+    "foto_url_original": "https://s2-g1.glbimg.com/sYVfmE7kAvdZ7u7NItup5WLOuGc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/T/bpVMuoRGmFrUAny3RYlQ/helio-fernando-barbosa-lopes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/rr/230002534806.ghtml",
+    "profissao": "Membro das forças armadas",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Raimundo Silva",
+    "suplente1_partido": "PL",
+    "suplente2_nome": "Dr. Alexandre Salomão",
+    "suplente2_partido": "PL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Raimundo Silva",
+        "nome_urna": "Raimundo Silva",
+        "partido": "PL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Dr. Alexandre Salomão",
+        "nome_urna": "Dr. Alexandre Salomão",
+        "partido": "PL"
+      }
+    ],
+    "patrimonio_total": 36000,
+    "receitas_total": 504000,
+    "despesas_total": 218999.5,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa no minicipio de iguaçu rj - lote n.º 130",
+        "valor": 18000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa no minicipio de iguaçu rj - lote n.º 129",
+        "valor": 18000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2014,
+        "cargo": "Deputado federal",
+        "partido": "PTN",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 99.21,
+        "documento": "08517423000195"
+      },
+      {
+        "nome": "Lucas Filipe De Carvalho Cunha",
+        "percentual": 0.79,
+        "documento": "03908235111"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "dunamis creative house ltda",
+        "percentual": 45.66,
+        "documento": "66956852000165"
+      },
+      {
+        "nome": "lenon geyson rodrigues lira",
+        "percentual": 15.98,
+        "documento": "38247798204"
+      },
+      {
+        "nome": "jose haroldo ribeiro sousa",
+        "percentual": 11.42,
+        "documento": "07480407220"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 9.13,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "c3a empreendimentos ltda",
+        "percentual": 8.22,
+        "documento": "08955446000181"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Helio Fernando Barbosa Lopes",
+      "partido_pagina": "PL",
+      "numero_pagina": 222,
+      "profissao": "Membro das forças armadas",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/sYVfmE7kAvdZ7u7NItup5WLOuGc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/T/bpVMuoRGmFrUAny3RYlQ/helio-fernando-barbosa-lopes.jpeg",
+      "historico": [
+        {
+          "ano": 2014,
+          "cargo": "Deputado federal",
+          "partido": "PTN",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Casa R$ 18.000,00 Casa no minicipio de iguaçu rj - lote n.º 130",
+        "Casa R$ 18.000,00 Casa no minicipio de iguaçu rj - lote n.º 129"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Raimundo Silva",
+      "suplente1_partido": "PL",
+      "suplente2_nome": "Dr. Alexandre Salomão",
+      "suplente2_partido": "PL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Raimundo Silva",
+          "nome_urna": "Raimundo Silva",
+          "partido": "PL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Dr. Alexandre Salomão",
+          "nome_urna": "Dr. Alexandre Salomão",
+          "partido": "PL"
+        }
+      ],
+      "receitas_total": 504000,
+      "despesas_total": 218999.5,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 99.21,
+          "documento": "08517423000195"
+        },
+        {
+          "nome": "Lucas Filipe De Carvalho Cunha",
+          "percentual": 0.79,
+          "documento": "03908235111"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "dunamis creative house ltda",
+          "percentual": 45.66,
+          "documento": "66956852000165"
+        },
+        {
+          "nome": "lenon geyson rodrigues lira",
+          "percentual": 15.98,
+          "documento": "38247798204"
+        },
+        {
+          "nome": "jose haroldo ribeiro sousa",
+          "percentual": 11.42,
+          "documento": "07480407220"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 9.13,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "c3a empreendimentos ltda",
+          "percentual": 8.22,
+          "documento": "08955446000181"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-rr-230002534806.jpeg",
+    "coletado_em": "2026-09-20T22:38:49.537Z"
+  },
+  {
+    "slug": "230002550787",
+    "nome": "Hilton Xavier",
+    "partido": "AVANTE",
+    "numero": 700,
+    "cargo": "senador",
+    "uf": "RR",
+    "foto_arquivo": "senador-rr-230002550787",
+    "foto_url_original": "https://s2-g1.glbimg.com/neWDop-ZikwwaoDxNsghITeahzI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/s/BmwoptSLKug9y9a8LMdA/hilton-xavier.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/rr/230002550787.ghtml",
+    "profissao": "Agricultor",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Fernanda Macedo",
+    "suplente1_partido": "AVANTE",
+    "suplente2_nome": "Cairon Marques",
+    "suplente2_partido": "AVANTE",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Fernanda Macedo",
+        "nome_urna": "Fernanda Macedo",
+        "partido": "AVANTE"
+      },
+      {
+        "ordem": 2,
+        "nome": "Cairon Marques",
+        "nome_urna": "Cairon Marques",
+        "partido": "AVANTE"
+      }
+    ],
+    "patrimonio_total": 17826300,
+    "receitas_total": 4000,
+    "despesas_total": 31958,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Sitio, gleba baliza - rr",
+        "valor": 1500000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Fazenda localizado na vicinal 22 em são luiz - rr",
+        "valor": 4370000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno no loteamento novo horizonte em são luiz - rr",
+        "valor": 83000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Fazenda no monte cristo , boa vista - rr",
+        "valor": 2350000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Sitio novo paraiso, gleba jauaperi - rr",
+        "valor": 1350000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Sitio na estrada maclaren, gleba cauame",
+        "valor": 482000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 18 terrenos no bairro castelo branco em são luiz - rr",
+        "valor": 808300
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa residencial no bairro dos estados, boa vista - rr",
+        "valor": 1350000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Sitio localizado na vicinal 22, em são luiz - rr",
+        "valor": 2360000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Imovel rural , gleba jauperi, são luiz - rr",
+        "valor": 2670000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno no loteamento novo horizonte em são luiz - rr",
+        "valor": 128000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno urbano em caroebe - rr",
+        "valor": 375000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Alisson Marcolino De Sousa",
+        "percentual": 50,
+        "documento": "03756049280"
+      },
+      {
+        "nome": "Jairo De Souza Silva",
+        "percentual": 50,
+        "documento": "00424657295"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "ponto das impressoes ltda",
+        "percentual": 67.95,
+        "documento": "40226686000158"
+      },
+      {
+        "nome": "jose haroldo ribeiro sousa",
+        "percentual": 21.9,
+        "documento": "07480407220"
+      },
+      {
+        "nome": "laise maggi sociedade individual de advocacia",
+        "percentual": 10.14,
+        "documento": "53705023000168"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Hilton Xavier",
+      "partido_pagina": "AVANTE",
+      "numero_pagina": 700,
+      "profissao": "Agricultor",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/neWDop-ZikwwaoDxNsghITeahzI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/s/BmwoptSLKug9y9a8LMdA/hilton-xavier.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens e direitos R$ 1.500.000,00 Sitio, gleba baliza - rr",
+        "Outros bens e direitos R$ 4.370.000,00 Fazenda localizado na vicinal 22 em são luiz - rr",
+        "Terreno R$ 83.000,00 Terreno no loteamento novo horizonte em são luiz - rr",
+        "Outros bens e direitos R$ 2.350.000,00 Fazenda no monte cristo , boa vista - rr",
+        "Outros bens e direitos R$ 1.350.000,00 Sitio novo paraiso, gleba jauaperi - rr",
+        "Outros bens e direitos R$ 482.000,00 Sitio na estrada maclaren, gleba cauame",
+        "Terreno R$ 808.300,00 18 terrenos no bairro castelo branco em são luiz - rr",
+        "Casa R$ 1.350.000,00 Casa residencial no bairro dos estados, boa vista - rr",
+        "Outros bens e direitos R$ 2.360.000,00 Sitio localizado na vicinal 22, em são luiz - rr",
+        "Outros bens e direitos R$ 2.670.000,00 Imovel rural , gleba jauperi, são luiz - rr",
+        "Terreno R$ 128.000,00 Terreno no loteamento novo horizonte em são luiz - rr",
+        "Terreno R$ 375.000,00 Terreno urbano em caroebe - rr"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Fernanda Macedo",
+      "suplente1_partido": "AVANTE",
+      "suplente2_nome": "Cairon Marques",
+      "suplente2_partido": "AVANTE",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Fernanda Macedo",
+          "nome_urna": "Fernanda Macedo",
+          "partido": "AVANTE"
+        },
+        {
+          "ordem": 2,
+          "nome": "Cairon Marques",
+          "nome_urna": "Cairon Marques",
+          "partido": "AVANTE"
+        }
+      ],
+      "receitas_total": 4000,
+      "despesas_total": 31958,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Alisson Marcolino De Sousa",
+          "percentual": 50,
+          "documento": "03756049280"
+        },
+        {
+          "nome": "Jairo De Souza Silva",
+          "percentual": 50,
+          "documento": "00424657295"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "ponto das impressoes ltda",
+          "percentual": 67.95,
+          "documento": "40226686000158"
+        },
+        {
+          "nome": "jose haroldo ribeiro sousa",
+          "percentual": 21.9,
+          "documento": "07480407220"
+        },
+        {
+          "nome": "laise maggi sociedade individual de advocacia",
+          "percentual": 10.14,
+          "documento": "53705023000168"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-rr-230002550787.jpeg",
+    "coletado_em": "2026-09-20T22:38:52.133Z"
+  },
+  {
+    "slug": "230002552727",
+    "nome": "Hiperion De Oliveira",
+    "partido": "PV",
+    "numero": 433,
+    "cargo": "senador",
+    "uf": "RR",
+    "foto_arquivo": "senador-rr-230002552727",
+    "foto_url_original": "https://s2-g1.glbimg.com/0z3N4H3GMxhxz0qESE771Uelnik=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/7/VI7NboRciRL81sZNpKsw/hiperion-de-oliveira.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/rr/230002552727.ghtml",
+    "profissao": "Engenheiro",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Erislan Filhão",
+    "suplente1_partido": "PV",
+    "suplente2_nome": "Edson Costa",
+    "suplente2_partido": "PV",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Erislan Filhão",
+        "nome_urna": "Erislan Filhão",
+        "partido": "PV"
+      },
+      {
+        "ordem": 2,
+        "nome": "Edson Costa",
+        "nome_urna": "Edson Costa",
+        "partido": "PV"
+      }
+    ],
+    "patrimonio_total": 40000,
+    "receitas_total": 5000,
+    "despesas_total": 3930,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Frontier",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Frontier 2010",
+        "valor": 40000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Rudson Leite Da Silva",
+        "percentual": 100,
+        "documento": "68545488000176"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "a r de lima",
+        "percentual": 38.17,
+        "documento": "34387655000186"
+      },
+      {
+        "nome": "f. a. s. barbosa ltda",
+        "percentual": 35.62,
+        "documento": "47863274000178"
+      },
+      {
+        "nome": "shawany de araujo alves",
+        "percentual": 13.49,
+        "documento": "43840343000177"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 12.72,
+        "documento": "13347016000117"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Hiperion De Oliveira",
+      "partido_pagina": "PV",
+      "numero_pagina": 433,
+      "profissao": "Engenheiro",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/0z3N4H3GMxhxz0qESE771Uelnik=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/7/VI7NboRciRL81sZNpKsw/hiperion-de-oliveira.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 40.000,00 Frontier 2010"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Erislan Filhão",
+      "suplente1_partido": "PV",
+      "suplente2_nome": "Edson Costa",
+      "suplente2_partido": "PV",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Erislan Filhão",
+          "nome_urna": "Erislan Filhão",
+          "partido": "PV"
+        },
+        {
+          "ordem": 2,
+          "nome": "Edson Costa",
+          "nome_urna": "Edson Costa",
+          "partido": "PV"
+        }
+      ],
+      "receitas_total": 5000,
+      "despesas_total": 3930,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Rudson Leite Da Silva",
+          "percentual": 100,
+          "documento": "68545488000176"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "a r de lima",
+          "percentual": 38.17,
+          "documento": "34387655000186"
+        },
+        {
+          "nome": "f. a. s. barbosa ltda",
+          "percentual": 35.62,
+          "documento": "47863274000178"
+        },
+        {
+          "nome": "shawany de araujo alves",
+          "percentual": 13.49,
+          "documento": "43840343000177"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 12.72,
+          "documento": "13347016000117"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-rr-230002552727.jpeg",
+    "coletado_em": "2026-09-20T22:38:54.788Z"
+  },
+  {
+    "slug": "230002553636",
+    "nome": "Márcio Junqueira",
+    "partido": "PSDB",
+    "numero": 456,
+    "cargo": "senador",
+    "uf": "RR",
+    "foto_arquivo": "senador-rr-230002553636",
+    "foto_url_original": "https://s2-g1.glbimg.com/9R3sIQEZDS_4650_h-6aby8XoFM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/P/rGYzezQ0aFEbNzYu2UBA/marcio-junqueira.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/rr/230002553636.ghtml",
+    "profissao": "Outros",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Leônidas Silva",
+    "suplente1_partido": "CIDADANIA",
+    "suplente2_nome": "Edinaldo Barreira",
+    "suplente2_partido": "PSDB",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Leônidas Silva",
+        "nome_urna": "Leônidas Silva",
+        "partido": "CIDADANIA"
+      },
+      {
+        "ordem": 2,
+        "nome": "Edinaldo Barreira",
+        "nome_urna": "Edinaldo Barreira",
+        "partido": "PSDB"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 10000,
+    "despesas_total": 30000,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Leila Diniz Moraes Campos",
+        "percentual": 100,
+        "documento": "65844505204"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "jose haroldo ribeiro sousa",
+        "percentual": 33.33,
+        "documento": "07480407220"
+      },
+      {
+        "nome": "lenon geyson rodrigues lira",
+        "percentual": 33.33,
+        "documento": "38247798204"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 33.33,
+        "documento": "13347016000117"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Márcio Junqueira",
+      "partido_pagina": "PSDB",
+      "numero_pagina": 456,
+      "profissao": "Outros",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/9R3sIQEZDS_4650_h-6aby8XoFM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/P/rGYzezQ0aFEbNzYu2UBA/marcio-junqueira.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Leônidas Silva",
+      "suplente1_partido": "CIDADANIA",
+      "suplente2_nome": "Edinaldo Barreira",
+      "suplente2_partido": "PSDB",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Leônidas Silva",
+          "nome_urna": "Leônidas Silva",
+          "partido": "CIDADANIA"
+        },
+        {
+          "ordem": 2,
+          "nome": "Edinaldo Barreira",
+          "nome_urna": "Edinaldo Barreira",
+          "partido": "PSDB"
+        }
+      ],
+      "receitas_total": 10000,
+      "despesas_total": 30000,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Leila Diniz Moraes Campos",
+          "percentual": 100,
+          "documento": "65844505204"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "jose haroldo ribeiro sousa",
+          "percentual": 33.33,
+          "documento": "07480407220"
+        },
+        {
+          "nome": "lenon geyson rodrigues lira",
+          "percentual": 33.33,
+          "documento": "38247798204"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 33.33,
+          "documento": "13347016000117"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-rr-230002553636.jpeg",
+    "coletado_em": "2026-09-20T22:38:57.338Z"
+  },
+  {
+    "slug": "230002549360",
+    "nome": "Mario Rocha",
+    "partido": "PSOL",
+    "numero": 505,
+    "cargo": "senador",
+    "uf": "RR",
+    "foto_arquivo": "senador-rr-230002549360",
+    "foto_url_original": "https://s2-g1.glbimg.com/2jpu7YS5c9cumRtwZjilqjOLhqg=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/u/55xwYHSBmyCzNmdBQf4Q/mario-rocha.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/rr/230002549360.ghtml",
+    "profissao": "Servidor público civil aposentado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Diogo Montel",
+    "suplente1_partido": "PSOL",
+    "suplente2_nome": "Isaac Montel",
+    "suplente2_partido": "PSOL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Diogo Montel",
+        "nome_urna": "Diogo Montel",
+        "partido": "PSOL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Isaac Montel",
+        "nome_urna": "Isaac Montel",
+        "partido": "PSOL"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 2500,
+    "despesas_total": 8810,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Mario Souza Da Rocha",
+        "percentual": 100,
+        "documento": "07000138220"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "omam biyick da silva",
+        "percentual": 56.75,
+        "documento": "00280443200"
+      },
+      {
+        "nome": "j. f. dos santos",
+        "percentual": 43.25,
+        "documento": "25132229000100"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Mario Rocha",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 505,
+      "profissao": "Servidor público civil aposentado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/2jpu7YS5c9cumRtwZjilqjOLhqg=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/u/55xwYHSBmyCzNmdBQf4Q/mario-rocha.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Diogo Montel",
+      "suplente1_partido": "PSOL",
+      "suplente2_nome": "Isaac Montel",
+      "suplente2_partido": "PSOL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Diogo Montel",
+          "nome_urna": "Diogo Montel",
+          "partido": "PSOL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Isaac Montel",
+          "nome_urna": "Isaac Montel",
+          "partido": "PSOL"
+        }
+      ],
+      "receitas_total": 2500,
+      "despesas_total": 8810,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Mario Souza Da Rocha",
+          "percentual": 100,
+          "documento": "07000138220"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "omam biyick da silva",
+          "percentual": 56.75,
+          "documento": "00280443200"
+        },
+        {
+          "nome": "j. f. dos santos",
+          "percentual": 43.25,
+          "documento": "25132229000100"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-rr-230002549360.jpeg",
+    "coletado_em": "2026-09-20T22:38:59.897Z"
+  },
+  {
+    "slug": "230002534804",
+    "nome": "Nicoletti",
+    "partido": "PL",
+    "numero": 227,
+    "cargo": "senador",
+    "uf": "RR",
+    "foto_arquivo": "senador-rr-230002534804",
+    "foto_url_original": "https://s2-g1.glbimg.com/evM0sMeiYETSUQW7CKjVM_SCSy8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/0/sisxwoS6qlFZ9rbpYBzg/nicoletti.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/rr/230002534804.ghtml",
+    "profissao": "Membro das forças armadas",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Subtenente Vélton",
+    "suplente1_partido": "PL",
+    "suplente2_nome": "Michele Gutierrez",
+    "suplente2_partido": "PL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Subtenente Vélton",
+        "nome_urna": "Subtenente Vélton",
+        "partido": "PL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Michele Gutierrez",
+        "nome_urna": "Michele Gutierrez",
+        "partido": "PL"
+      }
+    ],
+    "patrimonio_total": 2100000,
+    "receitas_total": 3115500,
+    "despesas_total": 2825494.3,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa de alvenaria com terreno financiamento caixa",
+        "valor": 2000000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Venda veiculo captur",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Venda veiculo captur",
+        "valor": 100000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2024,
+        "cargo": "Prefeito",
+        "partido": "UNIÃO",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 99.5,
+        "documento": "08517423000195"
+      },
+      {
+        "nome": "Antonio Carlos Nicoletti",
+        "percentual": 0.5,
+        "documento": "99445700015"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "forbras roraima ltda",
+        "percentual": 12.64,
+        "documento": "84017888000165"
+      },
+      {
+        "nome": "sadamatsu sociedade individual de advocacia",
+        "percentual": 10.62,
+        "documento": "40226940000118"
+      },
+      {
+        "nome": "elves preses ferreira de sousa",
+        "percentual": 10.62,
+        "documento": "10822894000159"
+      },
+      {
+        "nome": "a. p. faccio & cia ltda",
+        "percentual": 8.15,
+        "documento": "03611874000173"
+      },
+      {
+        "nome": "m fernandes comercio e servico ltda",
+        "percentual": 7.08,
+        "documento": "67765730000154"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Nicoletti",
+      "partido_pagina": "PL",
+      "numero_pagina": 227,
+      "profissao": "Membro das forças armadas",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/evM0sMeiYETSUQW7CKjVM_SCSy8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/0/sisxwoS6qlFZ9rbpYBzg/nicoletti.jpeg",
+      "historico": [
+        {
+          "ano": 2024,
+          "cargo": "Prefeito",
+          "partido": "UNIÃO",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Casa R$ 2.000.000,00 Casa de alvenaria com terreno financiamento caixa",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 100.000,00 Venda veiculo captur"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Subtenente Vélton",
+      "suplente1_partido": "PL",
+      "suplente2_nome": "Michele Gutierrez",
+      "suplente2_partido": "PL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Subtenente Vélton",
+          "nome_urna": "Subtenente Vélton",
+          "partido": "PL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Michele Gutierrez",
+          "nome_urna": "Michele Gutierrez",
+          "partido": "PL"
+        }
+      ],
+      "receitas_total": 3115500,
+      "despesas_total": 2825494.3,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 99.5,
+          "documento": "08517423000195"
+        },
+        {
+          "nome": "Antonio Carlos Nicoletti",
+          "percentual": 0.5,
+          "documento": "99445700015"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "forbras roraima ltda",
+          "percentual": 12.64,
+          "documento": "84017888000165"
+        },
+        {
+          "nome": "sadamatsu sociedade individual de advocacia",
+          "percentual": 10.62,
+          "documento": "40226940000118"
+        },
+        {
+          "nome": "elves preses ferreira de sousa",
+          "percentual": 10.62,
+          "documento": "10822894000159"
+        },
+        {
+          "nome": "a. p. faccio & cia ltda",
+          "percentual": 8.15,
+          "documento": "03611874000173"
+        },
+        {
+          "nome": "m fernandes comercio e servico ltda",
+          "percentual": 7.08,
+          "documento": "67765730000154"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-rr-230002534804.jpeg",
+    "coletado_em": "2026-09-20T22:39:02.511Z"
+  },
+  {
+    "slug": "230002553010",
+    "nome": "Pastor Isamar",
+    "partido": "UNIÃO",
+    "numero": 444,
+    "cargo": "senador",
+    "uf": "RR",
+    "foto_arquivo": "senador-rr-230002553010",
+    "foto_url_original": "https://s2-g1.glbimg.com/V7arI30iOxg56jtnACWlqTXEmso=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/OJj45zQ2aFmX1IzyJuBA/pastor-isamar.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/rr/230002553010.ghtml",
+    "profissao": "Outros",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Isamar Júnior",
+    "suplente1_partido": "UNIÃO",
+    "suplente2_nome": "Ronaldo Damasceno",
+    "suplente2_partido": "PP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Isamar Júnior",
+        "nome_urna": "Isamar Júnior",
+        "partido": "UNIÃO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Ronaldo Damasceno",
+        "nome_urna": "Ronaldo Damasceno",
+        "partido": "PP"
+      }
+    ],
+    "patrimonio_total": 1132126.82,
+    "receitas_total": 1028000,
+    "despesas_total": 1438291.5,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imovel residencia no bairo nova cidade, boa vista/rr",
+        "valor": 50000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Maquina retro jcb mod 3c plus",
+        "valor": 189000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imovel residencial na jose aleixo, bairro liberdade, boa vista/rr",
+        "valor": 41359.25
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Imovel rural localizado na colonia santa fe, com 50 ha",
+        "valor": 2000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Construcao realizada no imovel rural denominado colonia santa fe",
+        "valor": 100000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Maquina retro jcb mod 3c plus",
+        "valor": 189000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente",
+        "valor": 2972.14
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imovel residencia no bairro são vicente, boa vista/rr,",
+        "valor": 550000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança",
+        "valor": 7795.43
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - União",
+        "percentual": 97.28,
+        "documento": "44551496000167"
+      },
+      {
+        "nome": "Gildevaldo Da Luz Rocha",
+        "percentual": 2.33,
+        "documento": "56384300249"
+      },
+      {
+        "nome": "Edmilson Araujo Sousa Junior",
+        "percentual": 0.39,
+        "documento": "87378230278"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "isis r. de v. martins",
+        "percentual": 69.53,
+        "documento": "49700039000100"
+      },
+      {
+        "nome": "rodolfo tavares sociedade individual de advocacia",
+        "percentual": 7.65,
+        "documento": "34308888000146"
+      },
+      {
+        "nome": "avant comunicacao visual ltda",
+        "percentual": 3.91,
+        "documento": "29804519000104"
+      },
+      {
+        "nome": "l w s de andrade publicidade ltda",
+        "percentual": 3.65,
+        "documento": "09595086000117"
+      },
+      {
+        "nome": "essent inovacao contabil ltda",
+        "percentual": 3.48,
+        "documento": "25188538000100"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Pastor Isamar",
+      "partido_pagina": "UNIÃO",
+      "numero_pagina": 444,
+      "profissao": "Outros",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/V7arI30iOxg56jtnACWlqTXEmso=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/OJj45zQ2aFmX1IzyJuBA/pastor-isamar.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 50.000,00 Imovel residencia no bairo nova cidade, boa vista/rr",
+        "Outros bens e direitos R$ 189.000,00 Maquina retro jcb mod 3c plus",
+        "Casa R$ 41.359,25 Imovel residencial na jose aleixo, bairro liberdade, boa vista/rr",
+        "Outros bens e direitos R$ 2.000,00 Imovel rural localizado na colonia santa fe, com 50 ha",
+        "Outros bens e direitos R$ 100.000,00 Construcao realizada no imovel rural denominado colonia santa fe",
+        "Outros bens e direitos R$ 189.000,00 Maquina retro jcb mod 3c plus",
+        "Depósito bancário em conta corrente no país R$ 2.972,14 Conta corrente",
+        "Casa R$ 550.000,00 Imovel residencia no bairro são vicente, boa vista/rr,",
+        "Caderneta de poupança R$ 7.795,43 Poupança"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Isamar Júnior",
+      "suplente1_partido": "UNIÃO",
+      "suplente2_nome": "Ronaldo Damasceno",
+      "suplente2_partido": "PP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Isamar Júnior",
+          "nome_urna": "Isamar Júnior",
+          "partido": "UNIÃO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Ronaldo Damasceno",
+          "nome_urna": "Ronaldo Damasceno",
+          "partido": "PP"
+        }
+      ],
+      "receitas_total": 1028000,
+      "despesas_total": 1438291.5,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - União",
+          "percentual": 97.28,
+          "documento": "44551496000167"
+        },
+        {
+          "nome": "Gildevaldo Da Luz Rocha",
+          "percentual": 2.33,
+          "documento": "56384300249"
+        },
+        {
+          "nome": "Edmilson Araujo Sousa Junior",
+          "percentual": 0.39,
+          "documento": "87378230278"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "isis r. de v. martins",
+          "percentual": 69.53,
+          "documento": "49700039000100"
+        },
+        {
+          "nome": "rodolfo tavares sociedade individual de advocacia",
+          "percentual": 7.65,
+          "documento": "34308888000146"
+        },
+        {
+          "nome": "avant comunicacao visual ltda",
+          "percentual": 3.91,
+          "documento": "29804519000104"
+        },
+        {
+          "nome": "l w s de andrade publicidade ltda",
+          "percentual": 3.65,
+          "documento": "09595086000117"
+        },
+        {
+          "nome": "essent inovacao contabil ltda",
+          "percentual": 3.48,
+          "documento": "25188538000100"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-rr-230002553010.jpeg",
+    "coletado_em": "2026-09-20T22:39:05.123Z"
+  },
+  {
+    "slug": "230002549330",
+    "nome": "Regina Tio Ivo",
+    "partido": "NOVO",
+    "numero": 300,
+    "cargo": "senador",
+    "uf": "RR",
+    "foto_arquivo": "senador-rr-230002549330",
+    "foto_url_original": "https://s2-g1.glbimg.com/X5HWGseIriJgKBEE1aP9OBSve44=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/V/jws0AaSNKcJKQmeD44TA/regina-tio-ivo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/rr/230002549330.ghtml",
+    "profissao": "Comerciante",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Dunga Silva",
+    "suplente1_partido": "NOVO",
+    "suplente2_nome": "Marcos Silva",
+    "suplente2_partido": "NOVO",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Dunga Silva",
+        "nome_urna": "Dunga Silva",
+        "partido": "NOVO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Marcos Silva",
+        "nome_urna": "Marcos Silva",
+        "partido": "NOVO"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 60000,
+    "despesas_total": 210240,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Novo",
+        "percentual": 100,
+        "documento": "13405866000124"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "l w s de andrade publicidade ltda",
+        "percentual": 61.57,
+        "documento": "09595086000117"
+      },
+      {
+        "nome": "monteiro e monteiro advogados associados",
+        "percentual": 23.78,
+        "documento": "35542612000190"
+      },
+      {
+        "nome": "solucao contabilidade, auditoria, assessoria e consultoria ltda",
+        "percentual": 9.51,
+        "documento": "10607500000140"
+      },
+      {
+        "nome": "hemelly kerolayne souza pereira cavalcante",
+        "percentual": 0.57,
+        "documento": "03031453239"
+      },
+      {
+        "nome": "renato lopes dos santos",
+        "percentual": 0.57,
+        "documento": "89342585272"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Regina Tio Ivo",
+      "partido_pagina": "NOVO",
+      "numero_pagina": 300,
+      "profissao": "Comerciante",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/X5HWGseIriJgKBEE1aP9OBSve44=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/V/jws0AaSNKcJKQmeD44TA/regina-tio-ivo.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Dunga Silva",
+      "suplente1_partido": "NOVO",
+      "suplente2_nome": "Marcos Silva",
+      "suplente2_partido": "NOVO",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Dunga Silva",
+          "nome_urna": "Dunga Silva",
+          "partido": "NOVO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Marcos Silva",
+          "nome_urna": "Marcos Silva",
+          "partido": "NOVO"
+        }
+      ],
+      "receitas_total": 60000,
+      "despesas_total": 210240,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Novo",
+          "percentual": 100,
+          "documento": "13405866000124"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "l w s de andrade publicidade ltda",
+          "percentual": 61.57,
+          "documento": "09595086000117"
+        },
+        {
+          "nome": "monteiro e monteiro advogados associados",
+          "percentual": 23.78,
+          "documento": "35542612000190"
+        },
+        {
+          "nome": "solucao contabilidade, auditoria, assessoria e consultoria ltda",
+          "percentual": 9.51,
+          "documento": "10607500000140"
+        },
+        {
+          "nome": "hemelly kerolayne souza pereira cavalcante",
+          "percentual": 0.57,
+          "documento": "03031453239"
+        },
+        {
+          "nome": "renato lopes dos santos",
+          "percentual": 0.57,
+          "documento": "89342585272"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-rr-230002549330.jpeg",
+    "coletado_em": "2026-09-20T22:39:07.634Z"
+  },
+  {
+    "slug": "230002533586",
+    "nome": "Rogério Miranda",
+    "partido": "DC",
+    "numero": 277,
+    "cargo": "senador",
+    "uf": "RR",
+    "foto_arquivo": "senador-rr-230002533586",
+    "foto_url_original": "https://s2-g1.glbimg.com/q4vklpe1pEtvyXfetLAO2x7S7bY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/M/oAHaNHSWaQ2yxpkbVajQ/rogerio-miranda.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/rr/230002533586.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Gilmar Popular",
+    "suplente1_partido": "DC",
+    "suplente2_nome": "Alfredo Bezerra",
+    "suplente2_partido": "DC",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Gilmar Popular",
+        "nome_urna": "Gilmar Popular",
+        "partido": "DC"
+      },
+      {
+        "ordem": 2,
+        "nome": "Alfredo Bezerra",
+        "nome_urna": "Alfredo Bezerra",
+        "partido": "DC"
+      }
+    ],
+    "patrimonio_total": 7470000,
+    "receitas_total": 2000,
+    "despesas_total": 0,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Lote de terra urbano",
+        "valor": 410000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Lote urbano",
+        "valor": 3000000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Lote urbano",
+        "valor": 60000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imóvel urbano",
+        "valor": 500000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Modelo onix. chevrolet",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Modelo onix. chevrolet",
+        "valor": 100000
+      },
+      {
+        "tipo": "Galpão",
+        "descricao": "Galpão Galpão de alvenaria",
+        "valor": 1000000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Lote urbano",
+        "valor": 2400000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2010,
+        "cargo": "Deputado federal",
+        "partido": "PMN",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Dc - Roraima",
+        "percentual": 100,
+        "documento": "05070853000113"
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Rogério Miranda",
+      "partido_pagina": "DC",
+      "numero_pagina": 277,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/q4vklpe1pEtvyXfetLAO2x7S7bY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/M/oAHaNHSWaQ2yxpkbVajQ/rogerio-miranda.jpeg",
+      "historico": [
+        {
+          "ano": 2010,
+          "cargo": "Deputado federal",
+          "partido": "PMN",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Outros bens imóveis R$ 410.000,00 Lote de terra urbano",
+        "Outros bens imóveis R$ 3.000.000,00 Lote urbano",
+        "Outros bens imóveis R$ 60.000,00 Lote urbano",
+        "Outros bens imóveis R$ 500.000,00 Imóvel urbano",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 100.000,00 Modelo onix. chevrolet",
+        "Galpão R$ 1.000.000,00 Galpão de alvenaria",
+        "Outros bens imóveis R$ 2.400.000,00 Lote urbano"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Gilmar Popular",
+      "suplente1_partido": "DC",
+      "suplente2_nome": "Alfredo Bezerra",
+      "suplente2_partido": "DC",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Gilmar Popular",
+          "nome_urna": "Gilmar Popular",
+          "partido": "DC"
+        },
+        {
+          "ordem": 2,
+          "nome": "Alfredo Bezerra",
+          "nome_urna": "Alfredo Bezerra",
+          "partido": "DC"
+        }
+      ],
+      "receitas_total": 2000,
+      "despesas_total": 0,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Dc - Roraima",
+          "percentual": 100,
+          "documento": "05070853000113"
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-rr-230002533586.jpeg",
+    "coletado_em": "2026-09-20T22:39:10.303Z"
+  },
+  {
+    "slug": "230002553006",
+    "nome": "Teresa Surita",
+    "partido": "MDB",
+    "numero": 155,
+    "cargo": "senador",
+    "uf": "RR",
+    "foto_arquivo": "senador-rr-230002553006",
+    "foto_url_original": "https://s2-g1.glbimg.com/z8cIn7dBS3TCAmGKwVKqrwpmyt0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/M/VuLPqzRwKvLAQ5G4Zz6A/teresa-surita.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/rr/230002553006.ghtml",
+    "profissao": "Publicitário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Flávio Zacher",
+    "suplente1_partido": "PDT",
+    "suplente2_nome": "Professora Ilma Xaud",
+    "suplente2_partido": "PDT",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Flávio Zacher",
+        "nome_urna": "Flávio Zacher",
+        "partido": "PDT"
+      },
+      {
+        "ordem": 2,
+        "nome": "Professora Ilma Xaud",
+        "nome_urna": "Professora Ilma Xaud",
+        "partido": "PDT"
+      }
+    ],
+    "patrimonio_total": 8481615.57,
+    "receitas_total": 2478357.13,
+    "despesas_total": 1373540.74,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Valor a ser recebido",
+        "valor": 779882.79
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Ações ordinárias em empresa familiar",
+        "valor": 500
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Quotas em processo de doação",
+        "valor": 1000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Ativo digital custodiado",
+        "valor": 404058.43
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ações",
+        "valor": 1218652.67
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Renda fixa",
+        "valor": 5794194.8
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Valor investido em cdb no banco do brasil",
+        "valor": 102120.17
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente no banco xp",
+        "valor": 81206.71
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro mantido em cofre",
+        "valor": 100000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 68.59,
+        "documento": "00676213000138"
+      },
+      {
+        "nome": "Direção Nacional - Pdt",
+        "percentual": 30.26,
+        "documento": "00719575000169"
+      },
+      {
+        "nome": "Direção Estadual/distrital - Mdb - Roraima",
+        "percentual": 0.42,
+        "documento": "03656678000115"
+      },
+      {
+        "nome": "Luciana Surita Da Motta Macedo",
+        "percentual": 0.4,
+        "documento": "44733682204"
+      },
+      {
+        "nome": "Mariana De Moraes Scheller E Silva",
+        "percentual": 0.32,
+        "documento": "04831260983"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "republica comunicacao e consultoria ltda",
+        "percentual": 14.92,
+        "documento": "17582483000182"
+      },
+      {
+        "nome": "andre vieira silva ltda",
+        "percentual": 7.28,
+        "documento": "04162481000192"
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 7.1,
+        "documento": "25021356000132"
+      },
+      {
+        "nome": "norte producoes de filmes ltda",
+        "percentual": 5.97,
+        "documento": "24270938000190"
+      },
+      {
+        "nome": "fm industria grafica e locacao de maquinas e equipamentos ltda",
+        "percentual": 5.62,
+        "documento": "06108422000161"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Teresa Surita",
+      "partido_pagina": "MDB",
+      "numero_pagina": 155,
+      "profissao": "Publicitário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/z8cIn7dBS3TCAmGKwVKqrwpmyt0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/M/VuLPqzRwKvLAQ5G4Zz6A/teresa-surita.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens e direitos R$ 779.882,79 Valor a ser recebido",
+        "Outras participações societárias R$ 500,00 Ações ordinárias em empresa familiar",
+        "Outros bens e direitos R$ 1.000,00 Quotas em processo de doação",
+        "Outros bens e direitos R$ 404.058,43 Ativo digital custodiado",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 1.218.652,67 Ações",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 5.794.194,80 Renda fixa",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 102.120,17 Valor investido em cdb no banco do brasil",
+        "Depósito bancário em conta corrente no país R$ 81.206,71 Conta corrente no banco xp",
+        "Dinheiro em espécie - moeda nacional R$ 100.000,00 Dinheiro mantido em cofre"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Flávio Zacher",
+      "suplente1_partido": "PDT",
+      "suplente2_nome": "Professora Ilma Xaud",
+      "suplente2_partido": "PDT",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Flávio Zacher",
+          "nome_urna": "Flávio Zacher",
+          "partido": "PDT"
+        },
+        {
+          "ordem": 2,
+          "nome": "Professora Ilma Xaud",
+          "nome_urna": "Professora Ilma Xaud",
+          "partido": "PDT"
+        }
+      ],
+      "receitas_total": 2478357.13,
+      "despesas_total": 1373540.74,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 68.59,
+          "documento": "00676213000138"
+        },
+        {
+          "nome": "Direção Nacional - Pdt",
+          "percentual": 30.26,
+          "documento": "00719575000169"
+        },
+        {
+          "nome": "Direção Estadual/distrital - Mdb - Roraima",
+          "percentual": 0.42,
+          "documento": "03656678000115"
+        },
+        {
+          "nome": "Luciana Surita Da Motta Macedo",
+          "percentual": 0.4,
+          "documento": "44733682204"
+        },
+        {
+          "nome": "Mariana De Moraes Scheller E Silva",
+          "percentual": 0.32,
+          "documento": "04831260983"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "republica comunicacao e consultoria ltda",
+          "percentual": 14.92,
+          "documento": "17582483000182"
+        },
+        {
+          "nome": "andre vieira silva ltda",
+          "percentual": 7.28,
+          "documento": "04162481000192"
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 7.1,
+          "documento": "25021356000132"
+        },
+        {
+          "nome": "norte producoes de filmes ltda",
+          "percentual": 5.97,
+          "documento": "24270938000190"
+        },
+        {
+          "nome": "fm industria grafica e locacao de maquinas e equipamentos ltda",
+          "percentual": 5.62,
+          "documento": "06108422000161"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-rr-230002553006.jpeg",
+    "coletado_em": "2026-09-20T22:39:12.793Z"
+  }
+]

@@ -1,0 +1,1890 @@
+[
+  {
+    "slug": "40002542686",
+    "nome": "Capitão Alberto Neto",
+    "partido": "PL",
+    "numero": 222,
+    "cargo": "senador",
+    "uf": "AM",
+    "foto_arquivo": "senador-am-40002542686",
+    "foto_url_original": "https://s2-g1.glbimg.com/Tn1U2I6j-M569t5Y6O11M9VamO4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/o/hhU7QuT4WBVGbk0ppyEw/capitao-alberto-neto.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/am/40002542686.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Alessandro Toniza",
+    "suplente1_partido": "PL",
+    "suplente2_nome": "Mário Bastos",
+    "suplente2_partido": "PL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Alessandro Toniza",
+        "nome_urna": "Alessandro Toniza",
+        "partido": "PL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Mário Bastos",
+        "nome_urna": "Mário Bastos",
+        "partido": "PL"
+      }
+    ],
+    "patrimonio_total": 655440.8500000001,
+    "receitas_total": 3870000,
+    "despesas_total": 2067761.87,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicações e investimentos",
+        "valor": 30455.48
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Deposito em conta corrente",
+        "valor": 10893.8
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 312000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Deposito em conta poupança",
+        "valor": 0.04
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Fundo de investimentos",
+        "valor": 48587.33
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicações e investimentos",
+        "valor": 53503.2
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societaria",
+        "valor": 200000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Deposito em conta corrente",
+        "valor": 1
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 98.19,
+        "documento": "08517423000195"
+      },
+      {
+        "nome": "Alessandro Bronze Toniza",
+        "percentual": 0.65,
+        "documento": "48294985104"
+      },
+      {
+        "nome": "Carlos Antonio De Carli Filho",
+        "percentual": 0.65,
+        "documento": "14309009204"
+      },
+      {
+        "nome": "Jose Alexandre Bulcao Romano",
+        "percentual": 0.52,
+        "documento": "78054516215"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "asc comunicacoes e producoes ltda",
+        "percentual": 24.18,
+        "documento": "08710304000154"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 10.64,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "sergio roberto bulcao bringel junior",
+        "percentual": 5.49,
+        "documento": "00820374261"
+      },
+      {
+        "nome": "grafica e editora vitoria ltda",
+        "percentual": 4.5,
+        "documento": "05526766000128"
+      },
+      {
+        "nome": "rico taxi aereo ltda",
+        "percentual": 3.7,
+        "documento": "04614277000165"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Capitão Alberto Neto",
+      "partido_pagina": "PL",
+      "numero_pagina": 222,
+      "profissao": "Deputado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/Tn1U2I6j-M569t5Y6O11M9VamO4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/o/hhU7QuT4WBVGbk0ppyEw/capitao-alberto-neto.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outras aplicações e investimentos R$ 30.455,48 Aplicações e investimentos",
+        "Depósito bancário em conta corrente no país R$ 10.893,80 Deposito em conta corrente",
+        "Apartamento R$ 312.000,00 Apartamento",
+        "Caderneta de poupança R$ 0,04 Deposito em conta poupança",
+        "Outras aplicações e investimentos R$ 48.587,33 Fundo de investimentos",
+        "Outras aplicações e investimentos R$ 53.503,20 Aplicações e investimentos",
+        "Outras participações societárias R$ 200.000,00 Participação societaria",
+        "Depósito bancário em conta corrente no país R$ 1,00 Deposito em conta corrente"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Alessandro Toniza",
+      "suplente1_partido": "PL",
+      "suplente2_nome": "Mário Bastos",
+      "suplente2_partido": "PL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Alessandro Toniza",
+          "nome_urna": "Alessandro Toniza",
+          "partido": "PL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Mário Bastos",
+          "nome_urna": "Mário Bastos",
+          "partido": "PL"
+        }
+      ],
+      "receitas_total": 3870000,
+      "despesas_total": 2067761.87,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 98.19,
+          "documento": "08517423000195"
+        },
+        {
+          "nome": "Alessandro Bronze Toniza",
+          "percentual": 0.65,
+          "documento": "48294985104"
+        },
+        {
+          "nome": "Carlos Antonio De Carli Filho",
+          "percentual": 0.65,
+          "documento": "14309009204"
+        },
+        {
+          "nome": "Jose Alexandre Bulcao Romano",
+          "percentual": 0.52,
+          "documento": "78054516215"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "asc comunicacoes e producoes ltda",
+          "percentual": 24.18,
+          "documento": "08710304000154"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 10.64,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "sergio roberto bulcao bringel junior",
+          "percentual": 5.49,
+          "documento": "00820374261"
+        },
+        {
+          "nome": "grafica e editora vitoria ltda",
+          "percentual": 4.5,
+          "documento": "05526766000128"
+        },
+        {
+          "nome": "rico taxi aereo ltda",
+          "percentual": 3.7,
+          "documento": "04614277000165"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-am-40002542686.jpeg",
+    "coletado_em": "2026-09-20T22:35:35.253Z"
+  },
+  {
+    "slug": "40002535391",
+    "nome": "Dailson Corrêa",
+    "partido": "DC",
+    "numero": 277,
+    "cargo": "senador",
+    "uf": "AM",
+    "foto_arquivo": "senador-am-40002535391",
+    "foto_url_original": "https://s2-g1.glbimg.com/BgKjMvcijyD6g6p1p6pDO1LPGD0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/C/VGvYAaRvWfLuWIwP4r1Q/dailson-correa.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/am/40002535391.ghtml",
+    "profissao": "Comerciante",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Lê e escreve",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Isaías Amazonas",
+    "suplente1_partido": "DC",
+    "suplente2_nome": "Capelão Roberto Da Silva",
+    "suplente2_partido": "DC",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Isaías Amazonas",
+        "nome_urna": "Isaías Amazonas",
+        "partido": "DC"
+      },
+      {
+        "ordem": 2,
+        "nome": "Capelão Roberto Da Silva",
+        "nome_urna": "Capelão Roberto Da Silva",
+        "partido": "DC"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 1825,
+    "despesas_total": 4000,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Deyse Da Silva Hounsell",
+        "percentual": 100,
+        "documento": "61800090234"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "rlv desenvolvimento de softwares ltda",
+        "percentual": 100,
+        "documento": "66051427000127"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Dailson Corrêa",
+      "partido_pagina": "DC",
+      "numero_pagina": 277,
+      "profissao": "Comerciante",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Lê e escreve",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/BgKjMvcijyD6g6p1p6pDO1LPGD0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/C/VGvYAaRvWfLuWIwP4r1Q/dailson-correa.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Isaías Amazonas",
+      "suplente1_partido": "DC",
+      "suplente2_nome": "Capelão Roberto Da Silva",
+      "suplente2_partido": "DC",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Isaías Amazonas",
+          "nome_urna": "Isaías Amazonas",
+          "partido": "DC"
+        },
+        {
+          "ordem": 2,
+          "nome": "Capelão Roberto Da Silva",
+          "nome_urna": "Capelão Roberto Da Silva",
+          "partido": "DC"
+        }
+      ],
+      "receitas_total": 1825,
+      "despesas_total": 4000,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Deyse Da Silva Hounsell",
+          "percentual": 100,
+          "documento": "61800090234"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "rlv desenvolvimento de softwares ltda",
+          "percentual": 100,
+          "documento": "66051427000127"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-am-40002535391.jpeg",
+    "coletado_em": "2026-09-20T22:35:37.960Z"
+  },
+  {
+    "slug": "40002531447",
+    "nome": "Eduardo Braga",
+    "partido": "MDB",
+    "numero": 155,
+    "cargo": "senador",
+    "uf": "AM",
+    "foto_arquivo": "senador-am-40002531447",
+    "foto_url_original": "https://s2-g1.glbimg.com/IZsNbtFs9LWbS9Cem-wFJRu6wWc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/b/KBPIA6Qgif12QGIt2Z0Q/eduardo-braga.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/am/40002531447.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Sandra Braga",
+    "suplente1_partido": "MDB",
+    "suplente2_nome": "Miguel Biango",
+    "suplente2_partido": "MDB",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Sandra Braga",
+        "nome_urna": "Sandra Braga",
+        "partido": "MDB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Miguel Biango",
+        "nome_urna": "Miguel Biango",
+        "partido": "MDB"
+      }
+    ],
+    "patrimonio_total": 31467169.169999987,
+    "receitas_total": 3680000,
+    "despesas_total": 3043325.2,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 50% terreno denominado recanto dos cardeais, situado a margem esquerda do rio tarumã em conjunto com seu irmão carlos dos santos braga filho",
+        "valor": 6909.42
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa certificado operações estruturadas (coe).",
+        "valor": 500000
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário 15.690 cotas cacr11 - cartesia recebíveis imobiliários - fii resplim.",
+        "valor": 1545089
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Bradesco fic de fi renda fixa referenciado di supremo.",
+        "valor": 270350.34
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário 15.236 cotas hsaf11 - hsi ativos financeiros fii resp lim - agora investimentos.",
+        "valor": 1240467.54
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro em espécie (moeda nacional)",
+        "valor": 173000
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos 19.745 cotas perfin apollo energia fnd de invest em part.",
+        "valor": 1500223.05
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Creditos em transito- juros s/ capital próprio a receber de vibra energia s.a. cnpj 34274233000102-de",
+        "valor": 11810.56
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Unidade 706-torre comercial stamford do empreendimento comercial - britannia park offices, com pagamento em 2025 de 12 parcelas no montante de r$51.644,02. do financiamento bradesco.",
+        "valor": 312094.42
+      },
+      {
+        "tipo": "Embarcação",
+        "descricao": "Embarcação Jet ski, cor vermelho, marca yamaha ano 2009.",
+        "valor": 40000
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 33.200 ações petra junto a agora investimentos.",
+        "valor": 1086570.39
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 10.300 ações - abcb4 -banco do brasil s.a - agora investimentos.",
+        "valor": 217788.48
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Unidade 707-torre comercial stamford do empreendimento comercial - britannia park offices, com pagamento em 2025 de 12 parcelas no montante de r$51.644,02. do financiamento bradesco.",
+        "valor": 312094.42
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em caderneta de poupança - banco bradesco s.a.",
+        "valor": 29690.25
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Rb capital securitizadora s.a cra flu cra021002yb - xp investimentos.",
+        "valor": 242487.38
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Brad fi financeiro cic de ci mult d p 500 agora resp limitada.",
+        "valor": 1065067.7
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa debentures infraestrutura - banco bradesco s.a.",
+        "valor": 1388905.99
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Virgo companhia de securitização cri 22b00004808 - xp investimentos.",
+        "valor": 292770.67
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Virgo companhia de securitização cra flu cra0240020c - xp investimentos.",
+        "valor": 147710.89
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente no banco do brasil.",
+        "valor": 13642.63
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa (cdb) banco bradesco. ag 20.030-1 e ag 1217.",
+        "valor": 643915.08
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa residencial, resultado da unificação dos lotes 75-b e 76-b, situada na av. projetada do loteamento denominado ponta negra.",
+        "valor": 963603.76
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 31.000 ações cxse3 - caixa seguridade participações s.a - agora investimentos.",
+        "valor": 457875.3
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 19.100 ações eqtl3 - equatorial s.a - agora investimentos.",
+        "valor": 691030.28
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Apicações de renda fixa - banco safra",
+        "valor": 16400
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Unidade 708-torre comercial stamford do empreendimento comercial - britannia park offices, com pagamento em 2025 de 12 parcelas no montante de r$51.644,02. do financiamento bradesco.",
+        "valor": 312094.42
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo mercedes benz, modelo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo mercedes benz, modelo 2010, cor preto.",
+        "valor": 295000
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário 16.413 cotas rbry11 - fdo inv imobiliário credito imob estruturado resp lim - agora investimentos.",
+        "valor": 1535359.07
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa - igua rio de janeiro s.a. - cnpj: 02.332.886/0001-04",
+        "valor": 198718.06
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Cert. de recebiveis agronegócios - banco safra s.a",
+        "valor": 403109.52
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Premio acumulados em vgbl - banco safra s.a.",
+        "valor": 60000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Creditos em transito- juros s/ capital próprio a receber de vale s.a. cnpj:33.592.510/0001-54",
+        "valor": 40303.31
+      },
+      {
+        "tipo": "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. Quadro da fundação oscar niemeyer, cnpj",
+        "descricao": "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. Quadro da fundação oscar niemeyer, cnpj 32.085.367/0001-41.",
+        "valor": 45000
+      },
+      {
+        "tipo": "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. Relógio adquirido da empresa gdm comercio",
+        "descricao": "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. Relógio adquirido da empresa gdm comercio",
+        "valor": 40000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 1.179.200 quotas de capítal social na empresa parintins participações ltda. conf. alterações no contrato social registradas na jucea n° 1721073 em 15/01/2025 e n° 1831019 em 19/12/2025.",
+        "valor": 1179200
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Um lote de terras sob o n°58-a do loteamento ponta negra, gleba-01.",
+        "valor": 400000
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Unidade 705-torre comercial stamford do empreendimento comercial - britannia park offices, com pagamento em 2025 de 12 parcelas no montante de r$51.644,02. do financiamento bradesco.",
+        "valor": 312094.42
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em caderneta de poupança - banco bradesco s.a.",
+        "valor": 326.67
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 21.100 ações bbse3 - bb seguridade participações - agora investimentos.",
+        "valor": 745653.63
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Apicações em renda fixa simpar s.a. deb flu u jsmla5 - xp investimentos cctvm s.a.",
+        "valor": 27076.09
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa certificado de recebíveis agronegocio, banco bradesco s.a.",
+        "valor": 1853920.07
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 9.800 ações jbss32 jbs n.v.",
+        "valor": 749980.77
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em c/c nu financeira s.a. sociedade de crédito, financiamento e investimento.",
+        "valor": 35702.47
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Eb fs fip classe 2 - trend pe - xp investimentos.",
+        "valor": 25388.58
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 5.125,33 ações axia7 - centrais elet bras s.a - eletrobras - agora investimentos.",
+        "valor": 253380
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 30.210 ações vale do rio doce pna n1, junto a corretora agora investimentos, sendo adquirido no ano 2.300 ações no valor de r$196.397,00",
+        "valor": 2037854.72
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa certificado operações estruturadas (coe) - banco safra.",
+        "valor": 100000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo renaut captur intense",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo renaut captur intense 1.6cvt",
+        "valor": 103655.08
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Eco securizadora de direitos c cra flu cra024001p6 - xp investimentos.",
+        "valor": 195374.31
+      },
+      {
+        "tipo": "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc)",
+        "descricao": "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc) Mca cp fic fidc - xp investimentos",
+        "valor": 250000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente - banco safra s.a. ag 4400",
+        "valor": 93.58
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Creditos em transito- juros s/ capital próprio a receber banco bradesco s.a. cnpj:60.746.948/0001-12",
+        "valor": 8785.24
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa certificados de recebíveis imobiliários - banco bradesco s.a.",
+        "valor": 2490255.72
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa 50% casa situada na praça heliodoro balbi, em conjunto com seu irmão carlos dos santos braga filho.",
+        "valor": 55925.58
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 19.500 ações axia6 - centrais elet bras s.a - eletrobras - agora investimentos.",
+        "valor": 739427.19
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Eco securizadora de direitos c cra flu cra020001us - xp investimentos cctvm s.a.",
+        "valor": 199097.93
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 10.201 ações klbn11 - klabin s.a - agora investimentos.",
+        "valor": 183845.72
+      },
+      {
+        "tipo": "Embarcação",
+        "descricao": "Embarcação Embarcação, tipo lancha ano 2.000.",
+        "valor": 200000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Credito a receber de parintins participações ltda conforme contrato de muto acrescimo em 2013 o valoe de r$1.393.766,47.",
+        "valor": 3204636.47
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Fii rbr crédito imobiliário estruturado - rbry11-btg pactual serviços financeiros a/a dtvm",
+        "valor": 16413
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 97.83,
+        "documento": "00676213000138"
+      },
+      {
+        "nome": "Direção Estadual/distrital - Mdb - Amazonas",
+        "percentual": 1.63,
+        "documento": "04160131000197"
+      },
+      {
+        "nome": "Carlos Eduardo De Souza Braga",
+        "percentual": 0.54,
+        "documento": "07810423215"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "cta - cleiton taxi aereo ltda",
+        "percentual": 19.55,
+        "documento": "04984400000130"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 10.81,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "mxprint marketing ltda",
+        "percentual": 9.62,
+        "documento": "02487846000123"
+      },
+      {
+        "nome": "apui taxi aereo s/a",
+        "percentual": 8.21,
+        "documento": "01341740000154"
+      },
+      {
+        "nome": "j l de b brito producoes",
+        "percentual": 8.21,
+        "documento": "16605335000173"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Eduardo Braga",
+      "partido_pagina": "MDB",
+      "numero_pagina": 155,
+      "profissao": "Senador",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/IZsNbtFs9LWbS9Cem-wFJRu6wWc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/b/KBPIA6Qgif12QGIt2Z0Q/eduardo-braga.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 6.909,42 50% terreno denominado recanto dos cardeais, situado a margem esquerda do rio tarumã em conjunto com seu irmão carlos dos santos braga filho",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 500.000,00 Aplicação de renda fixa certificado operações estruturadas (coe).",
+        "Fundo de investimento imobiliário R$ 1.545.089,00 15.690 cotas cacr11 - cartesia recebíveis imobiliários - fii resplim.",
+        "Fundo de investimento imobiliário R$ 270.350,34 Bradesco fic de fi renda fixa referenciado di supremo.",
+        "Fundo de investimento imobiliário R$ 1.240.467,54 15.236 cotas hsaf11 - hsi ativos financeiros fii resp lim - agora investimentos.",
+        "Dinheiro em espécie - moeda nacional R$ 173.000,00 Dinheiro em espécie (moeda nacional)",
+        "Outros fundos R$ 1.500.223,05 19.745 cotas perfin apollo energia fnd de invest em part.",
+        "Outros bens e direitos R$ 11.810,56 Creditos em transito- juros s/ capital próprio a receber de vibra energia s.a. cnpj 34274233000102-de",
+        "Sala ou conjunto R$ 312.094,42 Unidade 706-torre comercial stamford do empreendimento comercial - britannia park offices, com pagamento em 2025 de 12 parcelas no montante de r$51.644,02. do financiamento bradesco.",
+        "Embarcação R$ 40.000,00 Jet ski, cor vermelho, marca yamaha ano 2009.",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 1.086.570,39 33.200 ações petra junto a agora investimentos.",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 217.788,48 10.300 ações - abcb4 -banco do brasil s.a - agora investimentos.",
+        "Sala ou conjunto R$ 312.094,42 Unidade 707-torre comercial stamford do empreendimento comercial - britannia park offices, com pagamento em 2025 de 12 parcelas no montante de r$51.644,02. do financiamento bradesco.",
+        "Caderneta de poupança R$ 29.690,25 Saldo em caderneta de poupança - banco bradesco s.a.",
+        "Outros fundos R$ 242.487,38 Rb capital securitizadora s.a cra flu cra021002yb - xp investimentos.",
+        "Fundo de investimento imobiliário R$ 1.065.067,70 Brad fi financeiro cic de ci mult d p 500 agora resp limitada.",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 1.388.905,99 Aplicação de renda fixa debentures infraestrutura - banco bradesco s.a.",
+        "Outras aplicações e investimentos R$ 292.770,67 Virgo companhia de securitização cri 22b00004808 - xp investimentos.",
+        "Outras aplicações e investimentos R$ 147.710,89 Virgo companhia de securitização cra flu cra0240020c - xp investimentos.",
+        "Depósito bancário em conta corrente no país R$ 13.642,63 Saldo em conta corrente no banco do brasil.",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 643.915,08 Aplicação de renda fixa (cdb) banco bradesco. ag 20.030-1 e ag 1217.",
+        "Casa R$ 963.603,76 Casa residencial, resultado da unificação dos lotes 75-b e 76-b, situada na av. projetada do loteamento denominado ponta negra.",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 457.875,30 31.000 ações cxse3 - caixa seguridade participações s.a - agora investimentos.",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 691.030,28 19.100 ações eqtl3 - equatorial s.a - agora investimentos.",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 16.400,00 Apicações de renda fixa - banco safra",
+        "Sala ou conjunto R$ 312.094,42 Unidade 708-torre comercial stamford do empreendimento comercial - britannia park offices, com pagamento em 2025 de 12 parcelas no montante de r$51.644,02. do financiamento bradesco.",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 295.000,00 Veiculo mercedes benz, modelo 2010, cor preto.",
+        "Fundo de investimento imobiliário R$ 1.535.359,07 16.413 cotas rbry11 - fdo inv imobiliário credito imob estruturado resp lim - agora investimentos.",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 198.718,06 Aplicação de renda fixa - igua rio de janeiro s.a. - cnpj: 02.332.886/0001-04",
+        "Outras aplicações e investimentos R$ 403.109,52 Cert. de recebiveis agronegócios - banco safra s.a",
+        "Vgbl - vida gerador de benefício livre R$ 60.000,00 Premio acumulados em vgbl - banco safra s.a.",
+        "Outros bens e direitos R$ 40.303,31 Creditos em transito- juros s/ capital próprio a receber de vale s.a. cnpj:33.592.510/0001-54",
+        "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. R$ 45.000,00 Quadro da fundação oscar niemeyer, cnpj 32.085.367/0001-41.",
+        "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. R$ 40.000,00 Relógio adquirido da empresa gdm comercio",
+        "Quotas ou quinhões de capital R$ 1.179.200,00 1.179.200 quotas de capítal social na empresa parintins participações ltda. conf. alterações no contrato social registradas na jucea n° 1721073 em 15/01/2025 e n° 1831019 em 19/12/2025.",
+        "Terreno R$ 400.000,00 Um lote de terras sob o n°58-a do loteamento ponta negra, gleba-01.",
+        "Sala ou conjunto R$ 312.094,42 Unidade 705-torre comercial stamford do empreendimento comercial - britannia park offices, com pagamento em 2025 de 12 parcelas no montante de r$51.644,02. do financiamento bradesco.",
+        "Caderneta de poupança R$ 326,67 Saldo em caderneta de poupança - banco bradesco s.a.",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 745.653,63 21.100 ações bbse3 - bb seguridade participações - agora investimentos.",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 27.076,09 Apicações em renda fixa simpar s.a. deb flu u jsmla5 - xp investimentos cctvm s.a.",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 1.853.920,07 Aplicação de renda fixa certificado de recebíveis agronegocio, banco bradesco s.a.",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 749.980,77 9.800 ações jbss32 jbs n.v.",
+        "Depósito bancário em conta corrente no país R$ 35.702,47 Saldo em c/c nu financeira s.a. sociedade de crédito, financiamento e investimento.",
+        "Fundo de investimento imobiliário R$ 25.388,58 Eb fs fip classe 2 - trend pe - xp investimentos.",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 253.380,00 5.125,33 ações axia7 - centrais elet bras s.a - eletrobras - agora investimentos.",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 2.037.854,72 30.210 ações vale do rio doce pna n1, junto a corretora agora investimentos, sendo adquirido no ano 2.300 ações no valor de r$196.397,00",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 100.000,00 Aplicação de renda fixa certificado operações estruturadas (coe) - banco safra.",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 103.655,08 Veiculo renaut captur intense 1.6cvt",
+        "Outras aplicações e investimentos R$ 195.374,31 Eco securizadora de direitos c cra flu cra024001p6 - xp investimentos.",
+        "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc) R$ 250.000,00 Mca cp fic fidc - xp investimentos",
+        "Depósito bancário em conta corrente no país R$ 93,58 Saldo em conta corrente - banco safra s.a. ag 4400",
+        "Outros bens e direitos R$ 8.785,24 Creditos em transito- juros s/ capital próprio a receber banco bradesco s.a. cnpj:60.746.948/0001-12",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 2.490.255,72 Aplicação de renda fixa certificados de recebíveis imobiliários - banco bradesco s.a.",
+        "Casa R$ 55.925,58 50% casa situada na praça heliodoro balbi, em conjunto com seu irmão carlos dos santos braga filho.",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 739.427,19 19.500 ações axia6 - centrais elet bras s.a - eletrobras - agora investimentos.",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 199.097,93 Eco securizadora de direitos c cra flu cra020001us - xp investimentos cctvm s.a.",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 183.845,72 10.201 ações klbn11 - klabin s.a - agora investimentos.",
+        "Embarcação R$ 200.000,00 Embarcação, tipo lancha ano 2.000.",
+        "Outros bens e direitos R$ 3.204.636,47 Credito a receber de parintins participações ltda conforme contrato de muto acrescimo em 2013 o valoe de r$1.393.766,47.",
+        "Fundo de investimento imobiliário R$ 16.413,00 Fii rbr crédito imobiliário estruturado - rbry11-btg pactual serviços financeiros a/a dtvm"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Sandra Braga",
+      "suplente1_partido": "MDB",
+      "suplente2_nome": "Miguel Biango",
+      "suplente2_partido": "MDB",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Sandra Braga",
+          "nome_urna": "Sandra Braga",
+          "partido": "MDB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Miguel Biango",
+          "nome_urna": "Miguel Biango",
+          "partido": "MDB"
+        }
+      ],
+      "receitas_total": 3680000,
+      "despesas_total": 3043325.2,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 97.83,
+          "documento": "00676213000138"
+        },
+        {
+          "nome": "Direção Estadual/distrital - Mdb - Amazonas",
+          "percentual": 1.63,
+          "documento": "04160131000197"
+        },
+        {
+          "nome": "Carlos Eduardo De Souza Braga",
+          "percentual": 0.54,
+          "documento": "07810423215"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "cta - cleiton taxi aereo ltda",
+          "percentual": 19.55,
+          "documento": "04984400000130"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 10.81,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "mxprint marketing ltda",
+          "percentual": 9.62,
+          "documento": "02487846000123"
+        },
+        {
+          "nome": "apui taxi aereo s/a",
+          "percentual": 8.21,
+          "documento": "01341740000154"
+        },
+        {
+          "nome": "j l de b brito producoes",
+          "percentual": 8.21,
+          "documento": "16605335000173"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-am-40002531447.jpeg",
+    "coletado_em": "2026-09-20T22:35:40.602Z"
+  },
+  {
+    "slug": "40002535270",
+    "nome": "Evandro De Oliveira",
+    "partido": "PSTU",
+    "numero": 161,
+    "cargo": "senador",
+    "uf": "AM",
+    "foto_arquivo": "senador-am-40002535270",
+    "foto_url_original": "https://s2-g1.glbimg.com/OPPAHS8x5Ve24tELUOyrRItbEeE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/1/JmsdQMQAOFD4ATUPXpuQ/evandro-de-oliveira.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/am/40002535270.ghtml",
+    "profissao": "Técnico de mecânica",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Antonio Neto",
+    "suplente1_partido": "PSTU",
+    "suplente2_nome": "João Rebouças",
+    "suplente2_partido": "PSTU",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Antonio Neto",
+        "nome_urna": "Antonio Neto",
+        "partido": "PSTU"
+      },
+      {
+        "ordem": 2,
+        "nome": "João Rebouças",
+        "nome_urna": "João Rebouças",
+        "partido": "PSTU"
+      }
+    ],
+    "patrimonio_total": 7000,
+    "receitas_total": 14502,
+    "despesas_total": 12500,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motoclicleta",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motoclicleta",
+        "valor": 7000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 100,
+        "documento": "73282907000164"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "francisco de assis da silva filho",
+        "percentual": 40,
+        "documento": "13208691300"
+      },
+      {
+        "nome": "samuel da silva nascimento",
+        "percentual": 32,
+        "documento": "01863276254"
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 16,
+        "documento": "60157581000100"
+      },
+      {
+        "nome": "eudes lopes melo",
+        "percentual": 12,
+        "documento": "33711470297"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Evandro De Oliveira",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 161,
+      "profissao": "Técnico de mecânica",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/OPPAHS8x5Ve24tELUOyrRItbEeE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/1/JmsdQMQAOFD4ATUPXpuQ/evandro-de-oliveira.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 7.000,00 Motoclicleta"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Antonio Neto",
+      "suplente1_partido": "PSTU",
+      "suplente2_nome": "João Rebouças",
+      "suplente2_partido": "PSTU",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Antonio Neto",
+          "nome_urna": "Antonio Neto",
+          "partido": "PSTU"
+        },
+        {
+          "ordem": 2,
+          "nome": "João Rebouças",
+          "nome_urna": "João Rebouças",
+          "partido": "PSTU"
+        }
+      ],
+      "receitas_total": 14502,
+      "despesas_total": 12500,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 100,
+          "documento": "73282907000164"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "francisco de assis da silva filho",
+          "percentual": 40,
+          "documento": "13208691300"
+        },
+        {
+          "nome": "samuel da silva nascimento",
+          "percentual": 32,
+          "documento": "01863276254"
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 16,
+          "documento": "60157581000100"
+        },
+        {
+          "nome": "eudes lopes melo",
+          "percentual": 12,
+          "documento": "33711470297"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-am-40002535270.jpeg",
+    "coletado_em": "2026-09-20T22:35:43.153Z"
+  },
+  {
+    "slug": "40002551283",
+    "nome": "Ismael Munduruku",
+    "partido": "REDE",
+    "numero": 181,
+    "cargo": "senador",
+    "uf": "AM",
+    "foto_arquivo": "senador-am-40002551283",
+    "foto_url_original": "https://s2-g1.glbimg.com/CTy2mcKdW9jAiLMz3sOw1TNqsZg=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/p/p1e6BqSgCuYB56f010zw/ismael-munduruku.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/am/40002551283.ghtml",
+    "profissao": "Outros",
+    "cor_etnia": "Indígena",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Daila Prestes",
+    "suplente1_partido": "REDE",
+    "suplente2_nome": "Laynara Prestes",
+    "suplente2_partido": "REDE",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Daila Prestes",
+        "nome_urna": "Daila Prestes",
+        "partido": "REDE"
+      },
+      {
+        "ordem": 2,
+        "nome": "Laynara Prestes",
+        "nome_urna": "Laynara Prestes",
+        "partido": "REDE"
+      }
+    ],
+    "patrimonio_total": 300000,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Residencial",
+        "valor": 300000
+      }
+    ],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Ismael Munduruku",
+      "partido_pagina": "REDE",
+      "numero_pagina": 181,
+      "profissao": "Outros",
+      "cor_etnia": "Indígena",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/CTy2mcKdW9jAiLMz3sOw1TNqsZg=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/p/p1e6BqSgCuYB56f010zw/ismael-munduruku.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 300.000,00 Residencial"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Daila Prestes",
+      "suplente1_partido": "REDE",
+      "suplente2_nome": "Laynara Prestes",
+      "suplente2_partido": "REDE",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Daila Prestes",
+          "nome_urna": "Daila Prestes",
+          "partido": "REDE"
+        },
+        {
+          "ordem": 2,
+          "nome": "Laynara Prestes",
+          "nome_urna": "Laynara Prestes",
+          "partido": "REDE"
+        }
+      ],
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 3811887.03,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-am-40002551283.jpeg",
+    "coletado_em": "2026-09-20T22:35:45.732Z"
+  },
+  {
+    "slug": "40002537344",
+    "nome": "Plinio Valério",
+    "partido": "PSDB",
+    "numero": 455,
+    "cargo": "senador",
+    "uf": "AM",
+    "foto_arquivo": "senador-am-40002537344",
+    "foto_url_original": "https://s2-g1.glbimg.com/ZKQ9fG4B7X28sc31ylOyMv6kUo0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/g/A1cdzIQzOOjSoAJJeJIg/plinio-valerio.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/am/40002537344.ghtml",
+    "profissao": "Jornalista e redator",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Kelly Barbosa",
+    "suplente1_partido": "PSDB",
+    "suplente2_nome": "Professora Judite",
+    "suplente2_partido": "PSDB",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Kelly Barbosa",
+        "nome_urna": "Kelly Barbosa",
+        "partido": "PSDB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Professora Judite",
+        "nome_urna": "Professora Judite",
+        "partido": "PSDB"
+      }
+    ],
+    "patrimonio_total": 3527132.51,
+    "receitas_total": 2593640,
+    "despesas_total": 626000,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança- banco do brasil",
+        "valor": 475209.22
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Fundo de investimento",
+        "valor": 555072.91
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhonete importada ford",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhonete importada ford",
+        "valor": 123154.74
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Lca emitida pelo banco do brasil",
+        "valor": 450000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno- loteamento 03",
+        "valor": 124080
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo fiat",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo fiat 500/2013/2014",
+        "valor": 65190
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Letra de credito imobiliario banco bradesco",
+        "valor": 110000
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Casco de aluminio naval",
+        "valor": 4000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 370636.42
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno- loteamento 01",
+        "valor": 228046
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno- br 174",
+        "valor": 30000
+      },
+      {
+        "tipo": "Embarcação",
+        "descricao": "Embarcação Lancha atleta 22",
+        "valor": 10000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo importado alfa romeo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo importado alfa romeo",
+        "valor": 8000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação em renda fixa cdb",
+        "valor": 10000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno- loteamento 02",
+        "valor": 66954
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Moto aquatica- jetski",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Moto aquatica- jetski",
+        "valor": 25000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Deposito em conta poupança",
+        "valor": 329.14
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Motor de polpa de explosão-gasolina",
+        "valor": 26894.04
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Informado por cnpj",
+        "valor": 124938.17
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança caixa",
+        "valor": 510047.3
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno comunidade",
+        "valor": 55000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Cdb di emitido pelo banco do brasil",
+        "valor": 98000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fração unidade habitacional",
+        "valor": 56580.57
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psdb",
+        "percentual": 92.53,
+        "documento": "03653474000120"
+      },
+      {
+        "nome": "Francisco Plinio Valerio Tomaz",
+        "percentual": 5.35,
+        "documento": "03537250215"
+      },
+      {
+        "nome": "Celso Castelo Branco Garcia",
+        "percentual": 2.12,
+        "documento": "47617721234"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "frota & azevedo advogados associados",
+        "percentual": 47.92,
+        "documento": "35250580000150"
+      },
+      {
+        "nome": "lotus representante comercial ltda",
+        "percentual": 31.95,
+        "documento": "03184552000195"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 17.57,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "myrla rayna cavalcante bezerra",
+        "percentual": 0.8,
+        "documento": "96324600220"
+      },
+      {
+        "nome": "sebastiao david da silva neto",
+        "percentual": 0.18,
+        "documento": "78332427215"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Plinio Valério",
+      "partido_pagina": "PSDB",
+      "numero_pagina": 455,
+      "profissao": "Jornalista e redator",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/ZKQ9fG4B7X28sc31ylOyMv6kUo0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/g/A1cdzIQzOOjSoAJJeJIg/plinio-valerio.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 475.209,22 Poupança- banco do brasil",
+        "Vgbl - vida gerador de benefício livre R$ 555.072,91 Fundo de investimento",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 123.154,74 Caminhonete importada ford",
+        "Outros fundos R$ 450.000,00 Lca emitida pelo banco do brasil",
+        "Terreno R$ 124.080,00 Terreno- loteamento 03",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 65.190,00 Veiculo fiat 500/2013/2014",
+        "Fundo de investimento imobiliário R$ 110.000,00 Letra de credito imobiliario banco bradesco",
+        "Outros bens móveis R$ 4.000,00 Casco de aluminio naval",
+        "Apartamento R$ 370.636,42 Apartamento",
+        "Terreno R$ 228.046,00 Terreno- loteamento 01",
+        "Terreno R$ 30.000,00 Terreno- br 174",
+        "Embarcação R$ 10.000,00 Lancha atleta 22",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 8.000,00 Veiculo importado alfa romeo",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 10.000,00 Aplicação em renda fixa cdb",
+        "Terreno R$ 66.954,00 Terreno- loteamento 02",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 25.000,00 Moto aquatica- jetski",
+        "Caderneta de poupança R$ 329,14 Deposito em conta poupança",
+        "Outros bens móveis R$ 26.894,04 Motor de polpa de explosão-gasolina",
+        "Outras aplicações e investimentos R$ 124.938,17 Informado por cnpj",
+        "Caderneta de poupança R$ 510.047,30 Poupança caixa",
+        "Terreno R$ 55.000,00 Terreno comunidade",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 98.000,00 Cdb di emitido pelo banco do brasil",
+        "Outros bens imóveis R$ 56.580,57 Fração unidade habitacional"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Kelly Barbosa",
+      "suplente1_partido": "PSDB",
+      "suplente2_nome": "Professora Judite",
+      "suplente2_partido": "PSDB",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Kelly Barbosa",
+          "nome_urna": "Kelly Barbosa",
+          "partido": "PSDB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Professora Judite",
+          "nome_urna": "Professora Judite",
+          "partido": "PSDB"
+        }
+      ],
+      "receitas_total": 2593640,
+      "despesas_total": 626000,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psdb",
+          "percentual": 92.53,
+          "documento": "03653474000120"
+        },
+        {
+          "nome": "Francisco Plinio Valerio Tomaz",
+          "percentual": 5.35,
+          "documento": "03537250215"
+        },
+        {
+          "nome": "Celso Castelo Branco Garcia",
+          "percentual": 2.12,
+          "documento": "47617721234"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "frota & azevedo advogados associados",
+          "percentual": 47.92,
+          "documento": "35250580000150"
+        },
+        {
+          "nome": "lotus representante comercial ltda",
+          "percentual": 31.95,
+          "documento": "03184552000195"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 17.57,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "myrla rayna cavalcante bezerra",
+          "percentual": 0.8,
+          "documento": "96324600220"
+        },
+        {
+          "nome": "sebastiao david da silva neto",
+          "percentual": 0.18,
+          "documento": "78332427215"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-am-40002537344.jpeg",
+    "coletado_em": "2026-09-20T22:35:48.228Z"
+  },
+  {
+    "slug": "40002551281",
+    "nome": "Professora Evany",
+    "partido": "PSOL",
+    "numero": 500,
+    "cargo": "senador",
+    "uf": "AM",
+    "foto_arquivo": "senador-am-40002551281",
+    "foto_url_original": "https://s2-g1.glbimg.com/QLo1gvheHk2ITQwu-UTDVOK50Vo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/o/uTTAPmSMOWK2MuAEmi6w/professora-evany.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/am/40002551281.ghtml",
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Renan Rotondano",
+    "suplente1_partido": "PSOL",
+    "suplente2_nome": "Jander Muniz",
+    "suplente2_partido": "PSOL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Renan Rotondano",
+        "nome_urna": "Renan Rotondano",
+        "partido": "PSOL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Jander Muniz",
+        "nome_urna": "Jander Muniz",
+        "partido": "PSOL"
+      }
+    ],
+    "patrimonio_total": 52448.3,
+    "receitas_total": 50000,
+    "despesas_total": 21402,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Cdb",
+        "valor": 20874.28
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "valor": 31574.02
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 90,
+        "documento": "06954942000195"
+      },
+      {
+        "nome": "Maria Evany Do Nascimento",
+        "percentual": 10,
+        "documento": "49332740291"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "55.934.201 maykom pereira de souza",
+        "percentual": 35.04,
+        "documento": "55934201000158"
+      },
+      {
+        "nome": "intermidium tecnologia ltda",
+        "percentual": 35.04,
+        "documento": "68005957000164"
+      },
+      {
+        "nome": "hashtag print servicos e acabamentos graficos ltda",
+        "percentual": 29.9,
+        "documento": "36600649000190"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Professora Evany",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 500,
+      "profissao": "Professor de ensino superior",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/QLo1gvheHk2ITQwu-UTDVOK50Vo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/o/uTTAPmSMOWK2MuAEmi6w/professora-evany.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 20.874,28 Cdb",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 31.574,02 Automóvel"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Renan Rotondano",
+      "suplente1_partido": "PSOL",
+      "suplente2_nome": "Jander Muniz",
+      "suplente2_partido": "PSOL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Renan Rotondano",
+          "nome_urna": "Renan Rotondano",
+          "partido": "PSOL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Jander Muniz",
+          "nome_urna": "Jander Muniz",
+          "partido": "PSOL"
+        }
+      ],
+      "receitas_total": 50000,
+      "despesas_total": 21402,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 90,
+          "documento": "06954942000195"
+        },
+        {
+          "nome": "Maria Evany Do Nascimento",
+          "percentual": 10,
+          "documento": "49332740291"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "55.934.201 maykom pereira de souza",
+          "percentual": 35.04,
+          "documento": "55934201000158"
+        },
+        {
+          "nome": "intermidium tecnologia ltda",
+          "percentual": 35.04,
+          "documento": "68005957000164"
+        },
+        {
+          "nome": "hashtag print servicos e acabamentos graficos ltda",
+          "percentual": 29.9,
+          "documento": "36600649000190"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-am-40002551281.jpeg",
+    "coletado_em": "2026-09-20T22:35:51.050Z"
+  },
+  {
+    "slug": "40002541744",
+    "nome": "Wilson Lima",
+    "partido": "UNIÃO",
+    "numero": 444,
+    "cargo": "senador",
+    "uf": "AM",
+    "foto_arquivo": "senador-am-40002541744",
+    "foto_url_original": "https://s2-g1.glbimg.com/49Sycl9fq-HjOHaHt-aL5tcnBnw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/r/ALAO5pTAG8QarHlj6HHQ/wilson-lima.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/am/40002541744.ghtml",
+    "profissao": "Jornalista e redator",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Luís Mário Bonates",
+    "suplente1_partido": "UNIÃO",
+    "suplente2_nome": "Babá Tupinambá",
+    "suplente2_partido": "PP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Luís Mário Bonates",
+        "nome_urna": "Luís Mário Bonates",
+        "partido": "UNIÃO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Babá Tupinambá",
+        "nome_urna": "Babá Tupinambá",
+        "partido": "PP"
+      }
+    ],
+    "patrimonio_total": 597210.85,
+    "receitas_total": 2062718.72,
+    "despesas_total": 1638209.8,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento financiado pela caixa econômica federal em 20/08/2012",
+        "valor": 120000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 100% das quotas de capital da empresa lima publicidade - me, cnpj 11.787.867/0001-55",
+        "valor": 200000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente bradesco",
+        "valor": 1
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação renda fixa bradesco",
+        "valor": 277209.85
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - União",
+        "percentual": 80.26,
+        "documento": "44551496000167"
+      },
+      {
+        "nome": "Direção Nacional - Pp",
+        "percentual": 9.7,
+        "documento": "00887169000105"
+      },
+      {
+        "nome": "Direção Estadual/distrital - União - Amazonas",
+        "percentual": 5.33,
+        "documento": "45858915000170"
+      },
+      {
+        "nome": "Roberto Maia Cidade Filho",
+        "percentual": 0.68,
+        "documento": "68468492000188"
+      },
+      {
+        "nome": "Direção Municipal/comissão Provisória - União - Manaus - Am",
+        "percentual": 0.24,
+        "documento": "46711829000101"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "olt comunicacao e marketing ltda",
+        "percentual": 18.31,
+        "documento": "12369956000144"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 18.31,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "mauro drummond eventos ltda",
+        "percentual": 12.21,
+        "documento": "59710190000183"
+      },
+      {
+        "nome": "mac junior's solucoes e empreendimentos ltda",
+        "percentual": 6.1,
+        "documento": "17159549000126"
+      },
+      {
+        "nome": "filmes producoes ltda",
+        "percentual": 6.1,
+        "documento": "29516888000100"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Wilson Lima",
+      "partido_pagina": "UNIÃO",
+      "numero_pagina": 444,
+      "profissao": "Jornalista e redator",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/49Sycl9fq-HjOHaHt-aL5tcnBnw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/r/ALAO5pTAG8QarHlj6HHQ/wilson-lima.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 120.000,00 Apartamento financiado pela caixa econômica federal em 20/08/2012",
+        "Quotas ou quinhões de capital R$ 200.000,00 100% das quotas de capital da empresa lima publicidade - me, cnpj 11.787.867/0001-55",
+        "Depósito bancário em conta corrente no país R$ 1,00 Saldo em conta corrente bradesco",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 277.209,85 Aplicação renda fixa bradesco"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Luís Mário Bonates",
+      "suplente1_partido": "UNIÃO",
+      "suplente2_nome": "Babá Tupinambá",
+      "suplente2_partido": "PP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Luís Mário Bonates",
+          "nome_urna": "Luís Mário Bonates",
+          "partido": "UNIÃO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Babá Tupinambá",
+          "nome_urna": "Babá Tupinambá",
+          "partido": "PP"
+        }
+      ],
+      "receitas_total": 2062718.72,
+      "despesas_total": 1638209.8,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - União",
+          "percentual": 80.26,
+          "documento": "44551496000167"
+        },
+        {
+          "nome": "Direção Nacional - Pp",
+          "percentual": 9.7,
+          "documento": "00887169000105"
+        },
+        {
+          "nome": "Direção Estadual/distrital - União - Amazonas",
+          "percentual": 5.33,
+          "documento": "45858915000170"
+        },
+        {
+          "nome": "Roberto Maia Cidade Filho",
+          "percentual": 0.68,
+          "documento": "68468492000188"
+        },
+        {
+          "nome": "Direção Municipal/comissão Provisória - União - Manaus - Am",
+          "percentual": 0.24,
+          "documento": "46711829000101"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "olt comunicacao e marketing ltda",
+          "percentual": 18.31,
+          "documento": "12369956000144"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 18.31,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "mauro drummond eventos ltda",
+          "percentual": 12.21,
+          "documento": "59710190000183"
+        },
+        {
+          "nome": "mac junior's solucoes e empreendimentos ltda",
+          "percentual": 6.1,
+          "documento": "17159549000126"
+        },
+        {
+          "nome": "filmes producoes ltda",
+          "percentual": 6.1,
+          "documento": "29516888000100"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-am-40002541744.jpeg",
+    "coletado_em": "2026-09-20T22:35:53.653Z"
+  },
+  {
+    "slug": "40002550806",
+    "nome": "Xuxa Do Amazonas",
+    "partido": "MOB",
+    "numero": 333,
+    "cargo": "senador",
+    "uf": "AM",
+    "foto_arquivo": "senador-am-40002550806",
+    "foto_url_original": "https://s2-g1.glbimg.com/vwUrGWKQOhbmelA427vmLuyPDqE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/T/HKxCEJTLexykvldyqDUA/xuxa-do-amazonas.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/am/40002550806.ghtml",
+    "profissao": "Militar reformado",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Neida Farias",
+    "suplente1_partido": "MOBILIZA",
+    "suplente2_nome": "Angelo Reis",
+    "suplente2_partido": "MOBILIZA",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Neida Farias",
+        "nome_urna": "Neida Farias",
+        "partido": "MOBILIZA"
+      },
+      {
+        "ordem": 2,
+        "nome": "Angelo Reis",
+        "nome_urna": "Angelo Reis",
+        "partido": "MOBILIZA"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 80000,
+    "despesas_total": 0,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [
+      {
+        "ano": 2010,
+        "cargo": "Deputado estadual",
+        "partido": "PPS",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mobiliza",
+        "percentual": 100,
+        "documento": "29549433000182"
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Xuxa Do Amazonas",
+      "partido_pagina": "MOB",
+      "numero_pagina": 333,
+      "profissao": "Militar reformado",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/vwUrGWKQOhbmelA427vmLuyPDqE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/T/HKxCEJTLexykvldyqDUA/xuxa-do-amazonas.jpeg",
+      "historico": [
+        {
+          "ano": 2010,
+          "cargo": "Deputado estadual",
+          "partido": "PPS",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Neida Farias",
+      "suplente1_partido": "MOBILIZA",
+      "suplente2_nome": "Angelo Reis",
+      "suplente2_partido": "MOBILIZA",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Neida Farias",
+          "nome_urna": "Neida Farias",
+          "partido": "MOBILIZA"
+        },
+        {
+          "ordem": 2,
+          "nome": "Angelo Reis",
+          "nome_urna": "Angelo Reis",
+          "partido": "MOBILIZA"
+        }
+      ],
+      "receitas_total": 80000,
+      "despesas_total": 0,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mobiliza",
+          "percentual": 100,
+          "documento": "29549433000182"
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-am-40002550806.jpeg",
+    "coletado_em": "2026-09-20T22:35:56.417Z"
+  }
+]

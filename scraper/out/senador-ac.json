@@ -1,0 +1,1952 @@
+[
+  {
+    "slug": "10002536710",
+    "nome": "Dr. Junior Feitosa",
+    "partido": "DC",
+    "numero": 277,
+    "cargo": "senador",
+    "uf": "AC",
+    "foto_arquivo": "senador-ac-10002536710",
+    "foto_url_original": "https://s2-g1.glbimg.com/YEcaxGVJy3hdo1fj6PhSzXafYNI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/y/QR7OxnSAqI30AnUHu65w/dr.-junior-feitosa.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ac/10002536710.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Walter Damasceno",
+    "suplente1_partido": "DC",
+    "suplente2_nome": "Raimundo Moreira",
+    "suplente2_partido": "DC",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Walter Damasceno",
+        "nome_urna": "Walter Damasceno",
+        "partido": "DC"
+      },
+      {
+        "ordem": 2,
+        "nome": "Raimundo Moreira",
+        "nome_urna": "Raimundo Moreira",
+        "partido": "DC"
+      }
+    ],
+    "patrimonio_total": 1352418.21,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota hilux swdmda4md ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota hilux swdmda4md ano 2022",
+        "valor": 410000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Conta bancaria banco do brasil",
+        "valor": 888418.21
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo marca honda nc",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo marca honda nc 750x ano 2022",
+        "valor": 54000
+      }
+    ],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Dr. Junior Feitosa",
+      "partido_pagina": "DC",
+      "numero_pagina": 277,
+      "profissao": "Advogado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/YEcaxGVJy3hdo1fj6PhSzXafYNI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/y/QR7OxnSAqI30AnUHu65w/dr.-junior-feitosa.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 410.000,00 Toyota hilux swdmda4md ano 2022",
+        "Outros bens imóveis R$ 888.418,21 Conta bancaria banco do brasil",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 54.000,00 Veiculo marca honda nc 750x ano 2022"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Walter Damasceno",
+      "suplente1_partido": "DC",
+      "suplente2_nome": "Raimundo Moreira",
+      "suplente2_partido": "DC",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Walter Damasceno",
+          "nome_urna": "Walter Damasceno",
+          "partido": "DC"
+        },
+        {
+          "ordem": 2,
+          "nome": "Raimundo Moreira",
+          "nome_urna": "Raimundo Moreira",
+          "partido": "DC"
+        }
+      ],
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 3176572.53,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ac-10002536710.jpeg",
+    "coletado_em": "2026-09-20T22:35:15.582Z"
+  },
+  {
+    "slug": "10002544274",
+    "nome": "Eduardo Velloso",
+    "partido": "SD",
+    "numero": 777,
+    "cargo": "senador",
+    "uf": "AC",
+    "foto_arquivo": "senador-ac-10002544274",
+    "foto_url_original": "https://s2-g1.glbimg.com/oQgZ-b7Itkgldh1aK7GK44xQvMw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/j/mYPITUScOsPjWVHq6Anw/eduardo-velloso.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ac/10002544274.ghtml",
+    "profissao": "Médico",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Rejane Velloso",
+    "suplente1_partido": "SOLIDARIEDADE",
+    "suplente2_nome": "Vando Torquato",
+    "suplente2_partido": "SOLIDARIEDADE",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Rejane Velloso",
+        "nome_urna": "Rejane Velloso",
+        "partido": "SOLIDARIEDADE"
+      },
+      {
+        "ordem": 2,
+        "nome": "Vando Torquato",
+        "nome_urna": "Vando Torquato",
+        "partido": "SOLIDARIEDADE"
+      }
+    ],
+    "patrimonio_total": 9821531.660000002,
+    "receitas_total": 26500,
+    "despesas_total": 6200,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social 30% incorporadora velloso",
+        "valor": 29500
+      },
+      {
+        "tipo": "Prédio comercial",
+        "descricao": "Prédio comercial Imóvel urbano avenida ceara em rio branco",
+        "valor": 450000
+      },
+      {
+        "tipo": "Prédio comercial",
+        "descricao": "Prédio comercial 50% imovel urbano rua francisco mangabeira 28",
+        "valor": 190000
+      },
+      {
+        "tipo": "Aeronave",
+        "descricao": "Aeronave Aeronave matrícula puhov 2021 modelo h2",
+        "valor": 100000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social credisis capitalcred",
+        "valor": 18291.47
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa na estrada da sobral rio branco acre",
+        "valor": 70000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bb cdb rende facil",
+        "valor": 101107.32
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação banco do brasil",
+        "valor": 27880.73
+      },
+      {
+        "tipo": "Prédio comercial",
+        "descricao": "Prédio comercial Imovel urbano rua francisco mangabeira - santa casa",
+        "valor": 1000000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel rural fazenda santa ana",
+        "valor": 700000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno urbano rua copacabana rio branco acre",
+        "valor": 400000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno urbano rua rio grande do sul financiado cef",
+        "valor": 650000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento em praia grande 75m2 - são paulo",
+        "valor": 315000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social medsafe",
+        "valor": 5000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação banco do brasil",
+        "valor": 37856.31
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento financiado pelo banco do brasil em rio branco",
+        "valor": 1500000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social sicoob",
+        "valor": 85391.17
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Credisis",
+        "valor": 7723.11
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 50% imovel urbano rua camboriu rio branco acre 488m2",
+        "valor": 250000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 16,6% terreno urbano de 2.500m2 jardim europa rio branco acre",
+        "valor": 63850.08
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Sicoob",
+        "valor": 9224
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social unimed rio branco",
+        "valor": 171208.36
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social velloso e cia participações",
+        "valor": 3000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Sicoob renda fixa",
+        "valor": 1549828.37
+      },
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua Imovel rural no município de boca do acre 750x2.900,00x7.300,00metros",
+        "valor": 1952500
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social hemocardio",
+        "valor": 108333.34
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Sicoob 1515-6",
+        "valor": 2414.8
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social velloso e cia agronegocios",
+        "valor": 3000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social cestran",
+        "valor": 1250
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Banco credisis cdb",
+        "valor": 1388.93
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio sicoob",
+        "valor": 17783.67
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Antonio Cesar Lima Da Conceicao",
+        "percentual": 56.6,
+        "documento": "61987417100"
+      },
+      {
+        "nome": "Paulo Crisogono Carvalho De Velloso Vianna",
+        "percentual": 33.96,
+        "documento": "23003448749"
+      },
+      {
+        "nome": "Nathan Barros Lessa",
+        "percentual": 9.43,
+        "documento": "03271009236"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "t r d agnolo solucoes empresariais ltda",
+        "percentual": 80.65,
+        "documento": "40956759000167"
+      },
+      {
+        "nome": "bca producao e distribuicao de filmes ltda",
+        "percentual": 19.35,
+        "documento": "13392325000109"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Eduardo Velloso",
+      "partido_pagina": "SD",
+      "numero_pagina": 777,
+      "profissao": "Médico",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/oQgZ-b7Itkgldh1aK7GK44xQvMw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/j/mYPITUScOsPjWVHq6Anw/eduardo-velloso.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Quotas ou quinhões de capital R$ 29.500,00 Capital social 30% incorporadora velloso",
+        "Prédio comercial R$ 450.000,00 Imóvel urbano avenida ceara em rio branco",
+        "Prédio comercial R$ 190.000,00 50% imovel urbano rua francisco mangabeira 28",
+        "Aeronave R$ 100.000,00 Aeronave matrícula puhov 2021 modelo h2",
+        "Quotas ou quinhões de capital R$ 18.291,47 Capital social credisis capitalcred",
+        "Casa R$ 70.000,00 Casa na estrada da sobral rio branco acre",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 101.107,32 Bb cdb rende facil",
+        "Outras aplicações e investimentos R$ 27.880,73 Aplicação banco do brasil",
+        "Prédio comercial R$ 1.000.000,00 Imovel urbano rua francisco mangabeira - santa casa",
+        "Outros bens imóveis R$ 700.000,00 Imovel rural fazenda santa ana",
+        "Terreno R$ 400.000,00 Terreno urbano rua copacabana rio branco acre",
+        "Terreno R$ 650.000,00 Terreno urbano rua rio grande do sul financiado cef",
+        "Apartamento R$ 315.000,00 Apartamento em praia grande 75m2 - são paulo",
+        "Quotas ou quinhões de capital R$ 5.000,00 Capital social medsafe",
+        "Outras aplicações e investimentos R$ 37.856,31 Aplicação banco do brasil",
+        "Apartamento R$ 1.500.000,00 Apartamento financiado pelo banco do brasil em rio branco",
+        "Quotas ou quinhões de capital R$ 85.391,17 Capital social sicoob",
+        "Outras aplicações e investimentos R$ 7.723,11 Credisis",
+        "Outros bens imóveis R$ 250.000,00 50% imovel urbano rua camboriu rio branco acre 488m2",
+        "Terreno R$ 63.850,08 16,6% terreno urbano de 2.500m2 jardim europa rio branco acre",
+        "Outras aplicações e investimentos R$ 9.224,00 Sicoob",
+        "Quotas ou quinhões de capital R$ 171.208,36 Capital social unimed rio branco",
+        "Quotas ou quinhões de capital R$ 3.000,00 Capital social velloso e cia participações",
+        "Outras aplicações e investimentos R$ 1.549.828,37 Sicoob renda fixa",
+        "Terra nua R$ 1.952.500,00 Imovel rural no município de boca do acre 750x2.900,00x7.300,00metros",
+        "Quotas ou quinhões de capital R$ 108.333,34 Capital social hemocardio",
+        "Outras aplicações e investimentos R$ 2.414,80 Sicoob 1515-6",
+        "Quotas ou quinhões de capital R$ 3.000,00 Capital social velloso e cia agronegocios",
+        "Quotas ou quinhões de capital R$ 1.250,00 Capital social cestran",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 1.388,93 Banco credisis cdb",
+        "Consórcio não contemplado R$ 17.783,67 Consorcio sicoob"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Rejane Velloso",
+      "suplente1_partido": "SOLIDARIEDADE",
+      "suplente2_nome": "Vando Torquato",
+      "suplente2_partido": "SOLIDARIEDADE",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Rejane Velloso",
+          "nome_urna": "Rejane Velloso",
+          "partido": "SOLIDARIEDADE"
+        },
+        {
+          "ordem": 2,
+          "nome": "Vando Torquato",
+          "nome_urna": "Vando Torquato",
+          "partido": "SOLIDARIEDADE"
+        }
+      ],
+      "receitas_total": 26500,
+      "despesas_total": 6200,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Antonio Cesar Lima Da Conceicao",
+          "percentual": 56.6,
+          "documento": "61987417100"
+        },
+        {
+          "nome": "Paulo Crisogono Carvalho De Velloso Vianna",
+          "percentual": 33.96,
+          "documento": "23003448749"
+        },
+        {
+          "nome": "Nathan Barros Lessa",
+          "percentual": 9.43,
+          "documento": "03271009236"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "t r d agnolo solucoes empresariais ltda",
+          "percentual": 80.65,
+          "documento": "40956759000167"
+        },
+        {
+          "nome": "bca producao e distribuicao de filmes ltda",
+          "percentual": 19.35,
+          "documento": "13392325000109"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ac-10002544274.jpeg",
+    "coletado_em": "2026-09-20T22:35:18.104Z"
+  },
+  {
+    "slug": "10002548046",
+    "nome": "Gladson Camelí",
+    "partido": "PP",
+    "numero": 111,
+    "cargo": "senador",
+    "uf": "AC",
+    "foto_arquivo": "senador-ac-10002548046",
+    "foto_url_original": "https://s2-g1.glbimg.com/E5btVRqTQ7eawqA26DMKMqDkLB8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/Q/YkdAR7T72tmNejpwuXGg/gladson-cameli.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ac/10002548046.ghtml",
+    "profissao": "Engenheiro",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Beatriz Cameli",
+    "suplente1_partido": "PP",
+    "suplente2_nome": "Debora Nunes",
+    "suplente2_partido": "PP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Beatriz Cameli",
+        "nome_urna": "Beatriz Cameli",
+        "partido": "PP"
+      },
+      {
+        "ordem": 2,
+        "nome": "Debora Nunes",
+        "nome_urna": "Debora Nunes",
+        "partido": "PP"
+      }
+    ],
+    "patrimonio_total": 5997277.46,
+    "receitas_total": 3330010,
+    "despesas_total": 2081531.92,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Prédio residencial",
+        "descricao": "Prédio residencial Construcao de um imovel, sendo financiado a construcao pela caixa economica federal atraves do contrato 1.4444.1304.348.0. no lote 20, 21 e 22",
+        "valor": 612233.26
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Capital social da empresa cooperativa de credito",
+        "valor": 3687.57
+      },
+      {
+        "tipo": "Aeronave",
+        "descricao": "Aeronave Aeronave prefixo pt-wgk, fabricante beech aircraft, modelo be58, serie th-1644, certificado 14492, ano fabricacao 1991",
+        "valor": 1500000
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Valor referente a lucro a receber distribuido do ano de 2022 da empresa marmud cameli cnpj 04.061.172/0001-26",
+        "valor": 1151500
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio imovel banco bradesco contrato 190589165 grupo 791 cota 0061",
+        "valor": 59404.36
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. I/bmw x6, cor cinza",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. I/bmw x6, cor cinza",
+        "valor": 920000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Conta corrente banco bradesco ag 427 cc 407518-8",
+        "valor": 2
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Grupo vp13 cota 14 porto seguro administradora de consorcio contrato 21666",
+        "valor": 144590.45
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio bradesco, cronos 1.3 flex, contrato 705079216, parcelas 69",
+        "valor": 10684.87
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio imovel banco bradesco contrato 190589123 grupo 793 cota 82",
+        "valor": 59441.44
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio banco do brasil",
+        "valor": 65709.92
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio bradesco automoveis argo 1.0 flex, contrato 705036288 em 67 parcelas",
+        "valor": 8754.82
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Ourocap brasil - cnpj 15.138.043/0001-05",
+        "valor": 4951.97
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Vw fusca, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Vw fusca, ano 1977/1977, cor azul",
+        "valor": 15000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Cdb automatico bb ag 5977-3 cc 5279-5",
+        "valor": 18073.29
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio imovel bradesco contrato 190276634 grupo 905 cota 0072",
+        "valor": 61796.17
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Honda cbr",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Honda cbr 650r, ano 2024/2024, cor vermelha",
+        "valor": 48000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Ourocap mensal - cnpj 15.138.043/0001-05",
+        "valor": 3133
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Conta registro do fluxo de pag - banco do brasil",
+        "valor": 0.42
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Vp13 cota 116 porto seguro administradora de consorcio contrato 21667",
+        "valor": 140985.51
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. I/lr discovery, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. I/lr discovery, ano 2019/2020",
+        "valor": 449000
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consorcio imovel bradesco contrato 190589217 grupo 795 cota 0076",
+        "valor": 61198.53
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Um lote de terra resultante do remembramento dos lotes 20, 21 e 22",
+        "valor": 600000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Informado por cnpj 00.360.305/0001-04 - cef",
+        "valor": 27476.43
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Cdb banco bradesco",
+        "valor": 31653.45
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pp",
+        "percentual": 90.99,
+        "documento": "00887169000105"
+      },
+      {
+        "nome": "Eladio Messias Cameli",
+        "percentual": 9.01,
+        "documento": "03581780291"
+      },
+      {
+        "nome": "Dulcineia Vaz Da Silva",
+        "percentual": 0,
+        "documento": "30875684220"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "amazonia produtora de filmes ltda",
+        "percentual": 31.13,
+        "documento": "09604159000190"
+      },
+      {
+        "nome": "criart brasil ltda",
+        "percentual": 22.5,
+        "documento": "48498781000112"
+      },
+      {
+        "nome": "alfo express comercio e servicos ltda",
+        "percentual": 10.26,
+        "documento": "18054020000100"
+      },
+      {
+        "nome": "sanfer consultoria ltda",
+        "percentual": 7.26,
+        "documento": "09466162000194"
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 2.88,
+        "documento": "25021356000132"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Gladson Camelí",
+      "partido_pagina": "PP",
+      "numero_pagina": 111,
+      "profissao": "Engenheiro",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/E5btVRqTQ7eawqA26DMKMqDkLB8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/Q/YkdAR7T72tmNejpwuXGg/gladson-cameli.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Prédio residencial R$ 612.233,26 Construcao de um imovel, sendo financiado a construcao pela caixa economica federal atraves do contrato 1.4444.1304.348.0. no lote 20, 21 e 22",
+        "Outros bens e direitos R$ 3.687,57 Capital social da empresa cooperativa de credito",
+        "Aeronave R$ 1.500.000,00 Aeronave prefixo pt-wgk, fabricante beech aircraft, modelo be58, serie th-1644, certificado 14492, ano fabricacao 1991",
+        "Outros fundos R$ 1.151.500,00 Valor referente a lucro a receber distribuido do ano de 2022 da empresa marmud cameli cnpj 04.061.172/0001-26",
+        "Consórcio não contemplado R$ 59.404,36 Consorcio imovel banco bradesco contrato 190589165 grupo 791 cota 0061",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 920.000,00 I/bmw x6, cor cinza",
+        "Outros bens e direitos R$ 2,00 Conta corrente banco bradesco ag 427 cc 407518-8",
+        "Consórcio não contemplado R$ 144.590,45 Grupo vp13 cota 14 porto seguro administradora de consorcio contrato 21666",
+        "Consórcio não contemplado R$ 10.684,87 Consorcio bradesco, cronos 1.3 flex, contrato 705079216, parcelas 69",
+        "Consórcio não contemplado R$ 59.441,44 Consorcio imovel banco bradesco contrato 190589123 grupo 793 cota 82",
+        "Consórcio não contemplado R$ 65.709,92 Consorcio banco do brasil",
+        "Consórcio não contemplado R$ 8.754,82 Consorcio bradesco automoveis argo 1.0 flex, contrato 705036288 em 67 parcelas",
+        "Outros bens e direitos R$ 4.951,97 Ourocap brasil - cnpj 15.138.043/0001-05",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 15.000,00 Vw fusca, ano 1977/1977, cor azul",
+        "Outros bens e direitos R$ 18.073,29 Cdb automatico bb ag 5977-3 cc 5279-5",
+        "Consórcio não contemplado R$ 61.796,17 Consorcio imovel bradesco contrato 190276634 grupo 905 cota 0072",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 48.000,00 Honda cbr 650r, ano 2024/2024, cor vermelha",
+        "Outros bens e direitos R$ 3.133,00 Ourocap mensal - cnpj 15.138.043/0001-05",
+        "Outros bens e direitos R$ 0,42 Conta registro do fluxo de pag - banco do brasil",
+        "Consórcio não contemplado R$ 140.985,51 Vp13 cota 116 porto seguro administradora de consorcio contrato 21667",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 449.000,00 I/lr discovery, ano 2019/2020",
+        "Consórcio não contemplado R$ 61.198,53 Consorcio imovel bradesco contrato 190589217 grupo 795 cota 0076",
+        "Terreno R$ 600.000,00 Um lote de terra resultante do remembramento dos lotes 20, 21 e 22",
+        "Outros bens e direitos R$ 27.476,43 Informado por cnpj 00.360.305/0001-04 - cef",
+        "Outros bens e direitos R$ 31.653,45 Cdb banco bradesco"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Beatriz Cameli",
+      "suplente1_partido": "PP",
+      "suplente2_nome": "Debora Nunes",
+      "suplente2_partido": "PP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Beatriz Cameli",
+          "nome_urna": "Beatriz Cameli",
+          "partido": "PP"
+        },
+        {
+          "ordem": 2,
+          "nome": "Debora Nunes",
+          "nome_urna": "Debora Nunes",
+          "partido": "PP"
+        }
+      ],
+      "receitas_total": 3330010,
+      "despesas_total": 2081531.92,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pp",
+          "percentual": 90.99,
+          "documento": "00887169000105"
+        },
+        {
+          "nome": "Eladio Messias Cameli",
+          "percentual": 9.01,
+          "documento": "03581780291"
+        },
+        {
+          "nome": "Dulcineia Vaz Da Silva",
+          "percentual": 0,
+          "documento": "30875684220"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "amazonia produtora de filmes ltda",
+          "percentual": 31.13,
+          "documento": "09604159000190"
+        },
+        {
+          "nome": "criart brasil ltda",
+          "percentual": 22.5,
+          "documento": "48498781000112"
+        },
+        {
+          "nome": "alfo express comercio e servicos ltda",
+          "percentual": 10.26,
+          "documento": "18054020000100"
+        },
+        {
+          "nome": "sanfer consultoria ltda",
+          "percentual": 7.26,
+          "documento": "09466162000194"
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 2.88,
+          "documento": "25021356000132"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ac-10002548046.jpeg",
+    "coletado_em": "2026-09-20T22:35:21.047Z"
+  },
+  {
+    "slug": "10002536441",
+    "nome": "Jorge Viana",
+    "partido": "PT",
+    "numero": 131,
+    "cargo": "senador",
+    "uf": "AC",
+    "foto_arquivo": "senador-ac-10002536441",
+    "foto_url_original": "https://s2-g1.glbimg.com/dguLOVGWbmNq8ncl4NnAf_cq3TA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/b/XsqB6YQWSCoG2UPWC0MQ/jorge-viana.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ac/10002536441.ghtml",
+    "profissao": "Engenheiro",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Binho Marques",
+    "suplente1_partido": "PT",
+    "suplente2_nome": "Bira Vasconcelos",
+    "suplente2_partido": "PT",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Binho Marques",
+        "nome_urna": "Binho Marques",
+        "partido": "PT"
+      },
+      {
+        "ordem": 2,
+        "nome": "Bira Vasconcelos",
+        "nome_urna": "Bira Vasconcelos",
+        "partido": "PT"
+      }
+    ],
+    "patrimonio_total": 5575791.880000001,
+    "receitas_total": 1613286.27,
+    "despesas_total": 1371032.27,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 180000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Chacara",
+        "valor": 520126.8
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança",
+        "valor": 1275.22
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Capital social cooperativa",
+        "valor": 13436.1
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 2147719.72
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 25000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 210000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa",
+        "valor": 650000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação",
+        "valor": 152606.88
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 225000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 350000
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Fundo de rendimento de renda fixa",
+        "valor": 144034.97
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Capital social cooperativa",
+        "valor": 1970.55
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente",
+        "valor": 13922.07
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 80000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 40000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 225000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 566700
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente",
+        "valor": 28001.12
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação",
+        "valor": 998.45
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 98.45,
+        "documento": "00676262000170"
+      },
+      {
+        "nome": "Antonio Siqueira E Silva Neto",
+        "percentual": 0.93,
+        "documento": "91842310259"
+      },
+      {
+        "nome": "Madson Willander Melo De Sa",
+        "percentual": 0.62,
+        "documento": "96411252220"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "opaio servicos de comunicacao ltda",
+        "percentual": 54.7,
+        "documento": "15710469000191"
+      },
+      {
+        "nome": "segura o balance ltda",
+        "percentual": 10.94,
+        "documento": "19700128000196"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 4.01,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "seta assessoria ltda",
+        "percentual": 2.55,
+        "documento": "53893471000132"
+      },
+      {
+        "nome": "letsrocket comunicacao digital ltda",
+        "percentual": 2.19,
+        "documento": "22507365000140"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Jorge Viana",
+      "partido_pagina": "PT",
+      "numero_pagina": 131,
+      "profissao": "Engenheiro",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/dguLOVGWbmNq8ncl4NnAf_cq3TA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/b/XsqB6YQWSCoG2UPWC0MQ/jorge-viana.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 180.000,00 Terreno",
+        "Outros bens imóveis R$ 520.126,80 Chacara",
+        "Caderneta de poupança R$ 1.275,22 Poupança",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 13.436,10 Capital social cooperativa",
+        "Apartamento R$ 2.147.719,72 Apartamento",
+        "Terreno R$ 25.000,00 Terreno",
+        "Terreno R$ 210.000,00 Terreno",
+        "Casa R$ 650.000,00 Casa",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 152.606,88 Aplicação",
+        "Terreno R$ 225.000,00 Terreno",
+        "Terreno R$ 350.000,00 Terreno",
+        "Outros fundos R$ 144.034,97 Fundo de rendimento de renda fixa",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 1.970,55 Capital social cooperativa",
+        "Depósito bancário em conta corrente no país R$ 13.922,07 Saldo em conta corrente",
+        "Terreno R$ 80.000,00 Terreno",
+        "Terreno R$ 40.000,00 Terreno",
+        "Terreno R$ 225.000,00 Terreno",
+        "Terreno R$ 566.700,00 Terreno",
+        "Depósito bancário em conta corrente no país R$ 28.001,12 Saldo em conta corrente",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 998,45 Aplicação"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Binho Marques",
+      "suplente1_partido": "PT",
+      "suplente2_nome": "Bira Vasconcelos",
+      "suplente2_partido": "PT",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Binho Marques",
+          "nome_urna": "Binho Marques",
+          "partido": "PT"
+        },
+        {
+          "ordem": 2,
+          "nome": "Bira Vasconcelos",
+          "nome_urna": "Bira Vasconcelos",
+          "partido": "PT"
+        }
+      ],
+      "receitas_total": 1613286.27,
+      "despesas_total": 1371032.27,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 98.45,
+          "documento": "00676262000170"
+        },
+        {
+          "nome": "Antonio Siqueira E Silva Neto",
+          "percentual": 0.93,
+          "documento": "91842310259"
+        },
+        {
+          "nome": "Madson Willander Melo De Sa",
+          "percentual": 0.62,
+          "documento": "96411252220"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "opaio servicos de comunicacao ltda",
+          "percentual": 54.7,
+          "documento": "15710469000191"
+        },
+        {
+          "nome": "segura o balance ltda",
+          "percentual": 10.94,
+          "documento": "19700128000196"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 4.01,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "seta assessoria ltda",
+          "percentual": 2.55,
+          "documento": "53893471000132"
+        },
+        {
+          "nome": "letsrocket comunicacao digital ltda",
+          "percentual": 2.19,
+          "documento": "22507365000140"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ac-10002536441.jpeg",
+    "coletado_em": "2026-09-20T22:35:23.673Z"
+  },
+  {
+    "slug": "10002533895",
+    "nome": "Mara Rocha",
+    "partido": "REP",
+    "numero": 100,
+    "cargo": "senador",
+    "uf": "AC",
+    "foto_arquivo": "senador-ac-10002533895",
+    "foto_url_original": "https://s2-g1.glbimg.com/zrOGgU11nWMrAYH5Hc7rx4LaBqA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/k/QGCCGiQBeBOyqxK7Aohg/mara-rocha.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ac/10002533895.ghtml",
+    "profissao": "Jornalista e redator",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Pr Moreira",
+    "suplente1_partido": "REPUBLICANOS",
+    "suplente2_nome": null,
+    "suplente2_partido": null,
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Pr Moreira",
+        "nome_urna": "Pr Moreira",
+        "partido": "REPUBLICANOS"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 2614496.8,
+    "despesas_total": 730480.46,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Republicanos",
+        "percentual": 99.14,
+        "documento": "07665132000181"
+      },
+      {
+        "nome": "Marcos Alvarenga Gripp",
+        "percentual": 0.25,
+        "documento": "60014040972"
+      },
+      {
+        "nome": "Silvia Maria Almeida Do Nascimento",
+        "percentual": 0.23,
+        "documento": "35913002253"
+      },
+      {
+        "nome": "Thanya Santos Da Silva Barroso",
+        "percentual": 0.1,
+        "documento": "88442020268"
+      },
+      {
+        "nome": "Eduardo De Paiva Dias",
+        "percentual": 0.1,
+        "documento": "11272937291"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "gdlp comercio e servicos ltda",
+        "percentual": 53.5,
+        "documento": "62892693000121"
+      },
+      {
+        "nome": "andrias sarkis sociedade individual de advocacia",
+        "percentual": 19.17,
+        "documento": "39530429000126"
+      },
+      {
+        "nome": "t r d agnolo solucoes empresariais ltda",
+        "percentual": 13.01,
+        "documento": "40956759000167"
+      },
+      {
+        "nome": "devanir nascimento de araújo",
+        "percentual": 2.74,
+        "documento": "51343606268"
+      },
+      {
+        "nome": "ronis de oliveira marcilio",
+        "percentual": 2.05,
+        "documento": "51311925287"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Mara Rocha",
+      "partido_pagina": "REP",
+      "numero_pagina": 100,
+      "profissao": "Jornalista e redator",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/zrOGgU11nWMrAYH5Hc7rx4LaBqA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/k/QGCCGiQBeBOyqxK7Aohg/mara-rocha.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Pr Moreira",
+      "suplente1_partido": "REPUBLICANOS",
+      "suplente2_nome": null,
+      "suplente2_partido": null,
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Pr Moreira",
+          "nome_urna": "Pr Moreira",
+          "partido": "REPUBLICANOS"
+        }
+      ],
+      "receitas_total": 2614496.8,
+      "despesas_total": 730480.46,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Republicanos",
+          "percentual": 99.14,
+          "documento": "07665132000181"
+        },
+        {
+          "nome": "Marcos Alvarenga Gripp",
+          "percentual": 0.25,
+          "documento": "60014040972"
+        },
+        {
+          "nome": "Silvia Maria Almeida Do Nascimento",
+          "percentual": 0.23,
+          "documento": "35913002253"
+        },
+        {
+          "nome": "Thanya Santos Da Silva Barroso",
+          "percentual": 0.1,
+          "documento": "88442020268"
+        },
+        {
+          "nome": "Eduardo De Paiva Dias",
+          "percentual": 0.1,
+          "documento": "11272937291"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "gdlp comercio e servicos ltda",
+          "percentual": 53.5,
+          "documento": "62892693000121"
+        },
+        {
+          "nome": "andrias sarkis sociedade individual de advocacia",
+          "percentual": 19.17,
+          "documento": "39530429000126"
+        },
+        {
+          "nome": "t r d agnolo solucoes empresariais ltda",
+          "percentual": 13.01,
+          "documento": "40956759000167"
+        },
+        {
+          "nome": "devanir nascimento de araújo",
+          "percentual": 2.74,
+          "documento": "51343606268"
+        },
+        {
+          "nome": "ronis de oliveira marcilio",
+          "percentual": 2.05,
+          "documento": "51311925287"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ac-10002533895.jpeg",
+    "coletado_em": "2026-09-20T22:35:26.205Z"
+  },
+  {
+    "slug": "10002548050",
+    "nome": "Marcio Bittar",
+    "partido": "PL",
+    "numero": 222,
+    "cargo": "senador",
+    "uf": "AC",
+    "foto_arquivo": "senador-ac-10002548050",
+    "foto_url_original": "https://s2-g1.glbimg.com/Z0cVMl9Q0XRAVYWj01c_luWAhds=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/7/d9rz5NSyekV5U7KAgKWg/marcio-bittar.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ac/10002548050.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Jebert Nascimento",
+    "suplente1_partido": "PL",
+    "suplente2_nome": "Livio Veras",
+    "suplente2_partido": "PP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Jebert Nascimento",
+        "nome_urna": "Jebert Nascimento",
+        "partido": "PL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Livio Veras",
+        "nome_urna": "Livio Veras",
+        "partido": "PP"
+      }
+    ],
+    "patrimonio_total": 9514015.35,
+    "receitas_total": 3040000,
+    "despesas_total": 505532,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Saldo em conta poupaça",
+        "valor": 648.43
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Cdb rende facil bb",
+        "valor": 137419.16
+      },
+      {
+        "tipo": "Crédito decorrente de alienação",
+        "descricao": "Crédito decorrente de alienação Credito decorrente de promessa de compra e venda de imovel",
+        "valor": 1500000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento residencial",
+        "valor": 1720802.12
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno com casa em construção",
+        "valor": 1800000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Cotas em pousada",
+        "valor": 52479.15
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Credito junto a empresa lock holding",
+        "valor": 200000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Saldo em conta bancária",
+        "valor": 131959.02
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhonete toyota hilux",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Caminhonete toyota hilux",
+        "valor": 350000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Saldo em conta bancaria",
+        "valor": 513.07
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Credito junto a empresa lock holding",
+        "valor": 300000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota hilux sw4",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota hilux sw4",
+        "valor": 250000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Cotas em empresa lock holding investimentos",
+        "valor": 242500
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa em residencial",
+        "valor": 552131.38
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Credito junto a empresa lock holding",
+        "valor": 500000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno com casa em construção",
+        "valor": 275563.02
+      },
+      {
+        "tipo": "Crédito decorrente de empréstimo",
+        "descricao": "Crédito decorrente de empréstimo Emprestimo para devedor garantidor",
+        "valor": 1500000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 99.34,
+        "documento": "08517423000195"
+      },
+      {
+        "nome": "Marcio Miguel Bittar",
+        "percentual": 0.66,
+        "documento": "23796332153"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "grafica e editora movimento ltda",
+        "percentual": 22.02,
+        "documento": "08220275000142"
+      },
+      {
+        "nome": "ortiz taxi aereo ltda",
+        "percentual": 15.82,
+        "documento": "05011693000131"
+      },
+      {
+        "nome": "e.o.pereira",
+        "percentual": 15.82,
+        "documento": "23657819000121"
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 11.87,
+        "documento": "25021356000132"
+      },
+      {
+        "nome": "j a comunicacao visual ltda",
+        "percentual": 0.89,
+        "documento": "07941947000146"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Marcio Bittar",
+      "partido_pagina": "PL",
+      "numero_pagina": 222,
+      "profissao": "Senador",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/Z0cVMl9Q0XRAVYWj01c_luWAhds=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/7/d9rz5NSyekV5U7KAgKWg/marcio-bittar.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens e direitos R$ 648,43 Saldo em conta poupaça",
+        "Outros bens e direitos R$ 137.419,16 Cdb rende facil bb",
+        "Crédito decorrente de alienação R$ 1.500.000,00 Credito decorrente de promessa de compra e venda de imovel",
+        "Apartamento R$ 1.720.802,12 Apartamento residencial",
+        "Terreno R$ 1.800.000,00 Terreno com casa em construção",
+        "Quotas ou quinhões de capital R$ 52.479,15 Cotas em pousada",
+        "Outros bens e direitos R$ 200.000,00 Credito junto a empresa lock holding",
+        "Outros bens e direitos R$ 131.959,02 Saldo em conta bancária",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 350.000,00 Caminhonete toyota hilux",
+        "Outros bens e direitos R$ 513,07 Saldo em conta bancaria",
+        "Outros bens e direitos R$ 300.000,00 Credito junto a empresa lock holding",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 250.000,00 Toyota hilux sw4",
+        "Quotas ou quinhões de capital R$ 242.500,00 Cotas em empresa lock holding investimentos",
+        "Casa R$ 552.131,38 Casa em residencial",
+        "Outros bens e direitos R$ 500.000,00 Credito junto a empresa lock holding",
+        "Terreno R$ 275.563,02 Terreno com casa em construção",
+        "Crédito decorrente de empréstimo R$ 1.500.000,00 Emprestimo para devedor garantidor"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Jebert Nascimento",
+      "suplente1_partido": "PL",
+      "suplente2_nome": "Livio Veras",
+      "suplente2_partido": "PP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Jebert Nascimento",
+          "nome_urna": "Jebert Nascimento",
+          "partido": "PL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Livio Veras",
+          "nome_urna": "Livio Veras",
+          "partido": "PP"
+        }
+      ],
+      "receitas_total": 3040000,
+      "despesas_total": 505532,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 99.34,
+          "documento": "08517423000195"
+        },
+        {
+          "nome": "Marcio Miguel Bittar",
+          "percentual": 0.66,
+          "documento": "23796332153"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "grafica e editora movimento ltda",
+          "percentual": 22.02,
+          "documento": "08220275000142"
+        },
+        {
+          "nome": "ortiz taxi aereo ltda",
+          "percentual": 15.82,
+          "documento": "05011693000131"
+        },
+        {
+          "nome": "e.o.pereira",
+          "percentual": 15.82,
+          "documento": "23657819000121"
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 11.87,
+          "documento": "25021356000132"
+        },
+        {
+          "nome": "j a comunicacao visual ltda",
+          "percentual": 0.89,
+          "documento": "07941947000146"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ac-10002548050.jpeg",
+    "coletado_em": "2026-09-20T22:35:28.690Z"
+  },
+  {
+    "slug": "10002535804",
+    "nome": "Petecão",
+    "partido": "PSD",
+    "numero": 555,
+    "cargo": "senador",
+    "uf": "AC",
+    "foto_arquivo": "senador-ac-10002535804",
+    "foto_url_original": "https://s2-g1.glbimg.com/4utrRcOmGbeFw6eNnyiKw-arrNc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/Q/WL3B5ESQKarX8OqbeyHw/petecao.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ac/10002535804.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Marfisa Galvão",
+    "suplente1_partido": "PSD",
+    "suplente2_nome": "Solino Matos",
+    "suplente2_partido": "PSD",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Marfisa Galvão",
+        "nome_urna": "Marfisa Galvão",
+        "partido": "PSD"
+      },
+      {
+        "ordem": 2,
+        "nome": "Solino Matos",
+        "nome_urna": "Solino Matos",
+        "partido": "PSD"
+      }
+    ],
+    "patrimonio_total": 3861594.86,
+    "receitas_total": 2800000,
+    "despesas_total": 1042358.5,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Camioneta marca toyota, modelo hilux cd dsl",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Camioneta marca toyota, modelo hilux cd dsl 4x4 srv at",
+        "valor": 170000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Saveiro robust cd placa qlv6067 branco cristal",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Saveiro robust cd placa qlv6067 branco cristal 2018/2019",
+        "valor": 69000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Oliveira & cunha ltda",
+        "valor": 10000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Chacara localizada na br 364, km 12, ramal da embrapa",
+        "valor": 36000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Camionete marca toyota, modelo hilux cs",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Camionete marca toyota, modelo hilux cs 4x4, branca polar",
+        "valor": 100000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Lote de terra rural no 95, colonia ceara, br 364, km 52, gleba f1",
+        "valor": 3000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Loteamento terras alphaville rio branco",
+        "valor": 191174.48
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Loteamento terras alphaville rio branco",
+        "valor": 191174.48
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota hilux cdsrxa4rd",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota hilux cdsrxa4rd 2024/2024 cor preta",
+        "valor": 312000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa residencial unifamiliar - financiada junto a caixa economica federal",
+        "valor": 1200000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Consórcio de imoveis",
+        "valor": 25741.38
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Um lote de terra rural situado no seringal belo jardim, vila alber sampaio",
+        "valor": 28000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Loteamento terras alphaville rio branco",
+        "valor": 139966.62
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Uma toyota, modelo land cruiser pr, 2005/2006, cor bege",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Uma toyota, modelo land cruiser pr, 2005/2006, cor bege",
+        "valor": 77000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Uma casa residencial com seu respectivo terreno, localizado na quadra g",
+        "valor": 110000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Um terreno situado na rua albert assad, 48, loteamento sao jose",
+        "valor": 293304
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Uma area de terra rural na br 364, km 10, ramal da embrapa",
+        "valor": 55000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 50% lote: v26.",
+        "valor": 238572.9
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Microonibus, modelo ducato engesigexe, marca fiat, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Microonibus, modelo ducato engesigexe, marca fiat, ano 2018/2018",
+        "valor": 80000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Renda fixa - basa",
+        "valor": 44810
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participacao no capital social da firma casa loterica do bosque ltda.",
+        "valor": 9800
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Lote de terra rural no 93, colonia sao joao, br 364",
+        "valor": 10000
+      },
+      {
+        "tipo": "Terra nua",
+        "descricao": "Terra nua Lote de terra rural no 89, colonia meu bom jesus, br 364, km 52, gleba f1",
+        "valor": 60000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Lote de terra rural no 91, colonia sao francisco, br 364, km 52, gleba f1",
+        "valor": 15000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Um lote localizado na estrada da sobral, bairro sobral",
+        "valor": 115000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota hilux cdsrxa4rd",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota hilux cdsrxa4rd",
+        "valor": 277051
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 100,
+        "documento": "13629827000100"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "p. h. a. ramalho ltda",
+        "percentual": 23.98,
+        "documento": "12980692000160"
+      },
+      {
+        "nome": "flashprint grafica e editora ltda",
+        "percentual": 8.44,
+        "documento": "28688292000116"
+      },
+      {
+        "nome": "r b s nascimento",
+        "percentual": 5.99,
+        "documento": "65675524000128"
+      },
+      {
+        "nome": "seta assessoria ltda",
+        "percentual": 5.76,
+        "documento": "53893471000132"
+      },
+      {
+        "nome": "grafica print tech ltda",
+        "percentual": 4.8,
+        "documento": "68185471000155"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Petecão",
+      "partido_pagina": "PSD",
+      "numero_pagina": 555,
+      "profissao": "Empresário",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/4utrRcOmGbeFw6eNnyiKw-arrNc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/Q/WL3B5ESQKarX8OqbeyHw/petecao.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 170.000,00 Camioneta marca toyota, modelo hilux cd dsl 4x4 srv at",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 69.000,00 Saveiro robust cd placa qlv6067 branco cristal 2018/2019",
+        "Quotas ou quinhões de capital R$ 10.000,00 Oliveira & cunha ltda",
+        "Outros bens imóveis R$ 36.000,00 Chacara localizada na br 364, km 12, ramal da embrapa",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 100.000,00 Camionete marca toyota, modelo hilux cs 4x4, branca polar",
+        "Outros bens imóveis R$ 3.000,00 Lote de terra rural no 95, colonia ceara, br 364, km 52, gleba f1",
+        "Terreno R$ 191.174,48 Loteamento terras alphaville rio branco",
+        "Terreno R$ 191.174,48 Loteamento terras alphaville rio branco",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 312.000,00 Toyota hilux cdsrxa4rd 2024/2024 cor preta",
+        "Casa R$ 1.200.000,00 Casa residencial unifamiliar - financiada junto a caixa economica federal",
+        "Outros bens e direitos R$ 25.741,38 Consórcio de imoveis",
+        "Terreno R$ 28.000,00 Um lote de terra rural situado no seringal belo jardim, vila alber sampaio",
+        "Terreno R$ 139.966,62 Loteamento terras alphaville rio branco",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 77.000,00 Uma toyota, modelo land cruiser pr, 2005/2006, cor bege",
+        "Casa R$ 110.000,00 Uma casa residencial com seu respectivo terreno, localizado na quadra g",
+        "Terreno R$ 293.304,00 Um terreno situado na rua albert assad, 48, loteamento sao jose",
+        "Outros bens imóveis R$ 55.000,00 Uma area de terra rural na br 364, km 10, ramal da embrapa",
+        "Outros bens imóveis R$ 238.572,90 50% lote: v26.",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 80.000,00 Microonibus, modelo ducato engesigexe, marca fiat, ano 2018/2018",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 44.810,00 Renda fixa - basa",
+        "Quotas ou quinhões de capital R$ 9.800,00 Participacao no capital social da firma casa loterica do bosque ltda.",
+        "Outros bens imóveis R$ 10.000,00 Lote de terra rural no 93, colonia sao joao, br 364",
+        "Terra nua R$ 60.000,00 Lote de terra rural no 89, colonia meu bom jesus, br 364, km 52, gleba f1",
+        "Outros bens imóveis R$ 15.000,00 Lote de terra rural no 91, colonia sao francisco, br 364, km 52, gleba f1",
+        "Terreno R$ 115.000,00 Um lote localizado na estrada da sobral, bairro sobral",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 277.051,00 Toyota hilux cdsrxa4rd"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Marfisa Galvão",
+      "suplente1_partido": "PSD",
+      "suplente2_nome": "Solino Matos",
+      "suplente2_partido": "PSD",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Marfisa Galvão",
+          "nome_urna": "Marfisa Galvão",
+          "partido": "PSD"
+        },
+        {
+          "ordem": 2,
+          "nome": "Solino Matos",
+          "nome_urna": "Solino Matos",
+          "partido": "PSD"
+        }
+      ],
+      "receitas_total": 2800000,
+      "despesas_total": 1042358.5,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 100,
+          "documento": "13629827000100"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "p. h. a. ramalho ltda",
+          "percentual": 23.98,
+          "documento": "12980692000160"
+        },
+        {
+          "nome": "flashprint grafica e editora ltda",
+          "percentual": 8.44,
+          "documento": "28688292000116"
+        },
+        {
+          "nome": "r b s nascimento",
+          "percentual": 5.99,
+          "documento": "65675524000128"
+        },
+        {
+          "nome": "seta assessoria ltda",
+          "percentual": 5.76,
+          "documento": "53893471000132"
+        },
+        {
+          "nome": "grafica print tech ltda",
+          "percentual": 4.8,
+          "documento": "68185471000155"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ac-10002535804.jpeg",
+    "coletado_em": "2026-09-20T22:35:31.209Z"
+  },
+  {
+    "slug": "10002544110",
+    "nome": "Professor Inacio Moreira",
+    "partido": "PSOL",
+    "numero": 500,
+    "cargo": "senador",
+    "uf": "AC",
+    "foto_arquivo": "senador-ac-10002544110",
+    "foto_url_original": "https://s2-g1.glbimg.com/9kWcMd9d6xyd704XwMKRvwkjJpo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/T/OpAs1dSm6BtRENwUY0eQ/professor-inacio-moreira.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ac/10002544110.ghtml",
+    "profissao": "Professor de ensino fundamental",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Soleane Manchineri",
+    "suplente1_partido": "REDE",
+    "suplente2_nome": "Janaina Queiroz",
+    "suplente2_partido": "REDE",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Soleane Manchineri",
+        "nome_urna": "Soleane Manchineri",
+        "partido": "REDE"
+      },
+      {
+        "ordem": 2,
+        "nome": "Janaina Queiroz",
+        "nome_urna": "Janaina Queiroz",
+        "partido": "REDE"
+      }
+    ],
+    "patrimonio_total": 200000,
+    "receitas_total": 45773,
+    "despesas_total": 32585.97,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Uma casa de 2 quartos, sala e cozinha",
+        "valor": 200000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 96.13,
+        "documento": "06954942000195"
+      },
+      {
+        "nome": "Inacio Alves Moreira Netto",
+        "percentual": 2.95,
+        "documento": "32218893215"
+      },
+      {
+        "nome": "Soleane De Souza Brasil Manchineri",
+        "percentual": 0.76,
+        "documento": "83339078220"
+      },
+      {
+        "nome": "Queroapoiar.com.br Ltda",
+        "percentual": 0.16,
+        "documento": "39586155000197"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "f. almeida da silva",
+        "percentual": 96.93,
+        "documento": "06886449000185"
+      },
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 2.15,
+        "documento": "39586155000197"
+      },
+      {
+        "nome": "cordeiro tech solutions ltda",
+        "percentual": 0.92,
+        "documento": "67668282000170"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Professor Inacio Moreira",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 500,
+      "profissao": "Professor de ensino fundamental",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/9kWcMd9d6xyd704XwMKRvwkjJpo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/T/OpAs1dSm6BtRENwUY0eQ/professor-inacio-moreira.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 200.000,00 Uma casa de 2 quartos, sala e cozinha"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Soleane Manchineri",
+      "suplente1_partido": "REDE",
+      "suplente2_nome": "Janaina Queiroz",
+      "suplente2_partido": "REDE",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Soleane Manchineri",
+          "nome_urna": "Soleane Manchineri",
+          "partido": "REDE"
+        },
+        {
+          "ordem": 2,
+          "nome": "Janaina Queiroz",
+          "nome_urna": "Janaina Queiroz",
+          "partido": "REDE"
+        }
+      ],
+      "receitas_total": 45773,
+      "despesas_total": 32585.97,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 96.13,
+          "documento": "06954942000195"
+        },
+        {
+          "nome": "Inacio Alves Moreira Netto",
+          "percentual": 2.95,
+          "documento": "32218893215"
+        },
+        {
+          "nome": "Soleane De Souza Brasil Manchineri",
+          "percentual": 0.76,
+          "documento": "83339078220"
+        },
+        {
+          "nome": "Queroapoiar.com.br Ltda",
+          "percentual": 0.16,
+          "documento": "39586155000197"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "f. almeida da silva",
+          "percentual": 96.93,
+          "documento": "06886449000185"
+        },
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 2.15,
+          "documento": "39586155000197"
+        },
+        {
+          "nome": "cordeiro tech solutions ltda",
+          "percentual": 0.92,
+          "documento": "67668282000170"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ac-10002544110.jpeg",
+    "coletado_em": "2026-09-20T22:35:33.812Z"
+  }
+]

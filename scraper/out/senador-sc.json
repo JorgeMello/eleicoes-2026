@@ -1,0 +1,2740 @@
+[
+  {
+    "slug": "240002535770",
+    "nome": "Afrânio Boppré",
+    "partido": "PSOL",
+    "numero": 500,
+    "cargo": "senador",
+    "uf": "SC",
+    "foto_arquivo": "senador-sc-240002535770",
+    "foto_url_original": "https://s2-g1.glbimg.com/vARqy2_19ckxURhLVUMV2zR5cvc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/u/J9hzwtSa6udu8p2aBoJw/afranio-boppre.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/sc/240002535770.ghtml",
+    "profissao": "Vereador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Luci Choinacki",
+    "suplente1_partido": "PT",
+    "suplente2_nome": "Cida Da Silva",
+    "suplente2_partido": "PT",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Luci Choinacki",
+        "nome_urna": "Luci Choinacki",
+        "partido": "PT"
+      },
+      {
+        "ordem": 2,
+        "nome": "Cida Da Silva",
+        "nome_urna": "Cida Da Silva",
+        "partido": "PT"
+      }
+    ],
+    "patrimonio_total": 1516039,
+    "receitas_total": 399664.76,
+    "despesas_total": 167748.8,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno em florianópolis",
+        "valor": 150000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Previdência privada itaú",
+        "valor": 238259
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Cbd itaú",
+        "valor": 37780
+      },
+      {
+        "tipo": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado",
+        "descricao": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado Fundos de investimento itaú",
+        "valor": 163000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Fiat palio weekend",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Fiat palio weekend 2012",
+        "valor": 37000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento em florianópolis",
+        "valor": 700000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento em florianópolis",
+        "valor": 190000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 94.37,
+        "documento": "06954942000195"
+      },
+      {
+        "nome": "Ana Lucia Martins Rosskamp",
+        "percentual": 3.75,
+        "documento": "68438186000107"
+      },
+      {
+        "nome": "Gelson Luiz Merisio",
+        "percentual": 0.68,
+        "documento": "68530897000107"
+      },
+      {
+        "nome": "Gerusa Maria Duarte",
+        "percentual": 0.27,
+        "documento": "00895334968"
+      },
+      {
+        "nome": "Afranio Tadeu Boppre",
+        "percentual": 0.25,
+        "documento": "44651716920"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "usina 4 comunicacao limitada",
+        "percentual": 23.85,
+        "documento": "00760940000189"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 19.38,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "mg industria, editora grafica, comercio e servicos ltda",
+        "percentual": 13.99,
+        "documento": "09277200000160"
+      },
+      {
+        "nome": "cintia catarina faraco",
+        "percentual": 8.35,
+        "documento": "57981760968"
+      },
+      {
+        "nome": "larissa carolina rodrigues e santos",
+        "percentual": 8.29,
+        "documento": "09345711988"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Afrânio Boppré",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 500,
+      "profissao": "Vereador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/vARqy2_19ckxURhLVUMV2zR5cvc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/u/J9hzwtSa6udu8p2aBoJw/afranio-boppre.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 150.000,00 Terreno em florianópolis",
+        "Outras aplicações e investimentos R$ 238.259,00 Previdência privada itaú",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 37.780,00 Cbd itaú",
+        "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado R$ 163.000,00 Fundos de investimento itaú",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 37.000,00 Fiat palio weekend 2012",
+        "Apartamento R$ 700.000,00 Apartamento em florianópolis",
+        "Apartamento R$ 190.000,00 Apartamento em florianópolis"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Luci Choinacki",
+      "suplente1_partido": "PT",
+      "suplente2_nome": "Cida Da Silva",
+      "suplente2_partido": "PT",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Luci Choinacki",
+          "nome_urna": "Luci Choinacki",
+          "partido": "PT"
+        },
+        {
+          "ordem": 2,
+          "nome": "Cida Da Silva",
+          "nome_urna": "Cida Da Silva",
+          "partido": "PT"
+        }
+      ],
+      "receitas_total": 399664.76,
+      "despesas_total": 167748.8,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 94.37,
+          "documento": "06954942000195"
+        },
+        {
+          "nome": "Ana Lucia Martins Rosskamp",
+          "percentual": 3.75,
+          "documento": "68438186000107"
+        },
+        {
+          "nome": "Gelson Luiz Merisio",
+          "percentual": 0.68,
+          "documento": "68530897000107"
+        },
+        {
+          "nome": "Gerusa Maria Duarte",
+          "percentual": 0.27,
+          "documento": "00895334968"
+        },
+        {
+          "nome": "Afranio Tadeu Boppre",
+          "percentual": 0.25,
+          "documento": "44651716920"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "usina 4 comunicacao limitada",
+          "percentual": 23.85,
+          "documento": "00760940000189"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 19.38,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "mg industria, editora grafica, comercio e servicos ltda",
+          "percentual": 13.99,
+          "documento": "09277200000160"
+        },
+        {
+          "nome": "cintia catarina faraco",
+          "percentual": 8.35,
+          "documento": "57981760968"
+        },
+        {
+          "nome": "larissa carolina rodrigues e santos",
+          "percentual": 8.29,
+          "documento": "09345711988"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-sc-240002535770.jpeg",
+    "coletado_em": "2026-09-20T22:39:02.051Z"
+  },
+  {
+    "slug": "240002539636",
+    "nome": "Ana Lucia Da Silveira Machado",
+    "partido": "UP",
+    "numero": 800,
+    "cargo": "senador",
+    "uf": "SC",
+    "foto_arquivo": "senador-sc-240002539636",
+    "foto_url_original": "https://s2-g1.glbimg.com/NK8yBpYTWFF4eFKgqlz0B0ijlZc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/e/gqZS0bTBCG4X5Mnrj3GQ/ana-lucia-da-silveira-machado.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/sc/240002539636.ghtml",
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Jaqueline Almeida Camargo",
+    "suplente1_partido": "UP",
+    "suplente2_nome": "Jorge Luiz Adão",
+    "suplente2_partido": "UP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Jaqueline Almeida Camargo",
+        "nome_urna": "Jaqueline Almeida Camargo",
+        "partido": "UP"
+      },
+      {
+        "ordem": 2,
+        "nome": "Jorge Luiz Adão",
+        "nome_urna": "Jorge Luiz Adão",
+        "partido": "UP"
+      }
+    ],
+    "patrimonio_total": 344000,
+    "receitas_total": 0,
+    "despesas_total": 1000,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa unifamiliar terrea",
+        "valor": 344000
+      }
+    ],
+    "historico": [],
+    "doadores": [],
+    "gastos": [
+      {
+        "nome": "demokratia contabilidade partidaria e eleitoral ltda",
+        "percentual": 50,
+        "documento": "55578476000104"
+      },
+      {
+        "nome": "monguilhott sociedade individual de advocacia",
+        "percentual": 50,
+        "documento": "22265337000163"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Ana Lucia Da Silveira Machado",
+      "partido_pagina": "UP",
+      "numero_pagina": 800,
+      "profissao": "Professor de ensino médio",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/NK8yBpYTWFF4eFKgqlz0B0ijlZc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/e/gqZS0bTBCG4X5Mnrj3GQ/ana-lucia-da-silveira-machado.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 344.000,00 Casa unifamiliar terrea"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Jaqueline Almeida Camargo",
+      "suplente1_partido": "UP",
+      "suplente2_nome": "Jorge Luiz Adão",
+      "suplente2_partido": "UP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Jaqueline Almeida Camargo",
+          "nome_urna": "Jaqueline Almeida Camargo",
+          "partido": "UP"
+        },
+        {
+          "ordem": 2,
+          "nome": "Jorge Luiz Adão",
+          "nome_urna": "Jorge Luiz Adão",
+          "partido": "UP"
+        }
+      ],
+      "receitas_total": 0,
+      "despesas_total": 1000,
+      "limite_gastos": 4447201.54,
+      "doadores": [],
+      "gastos": [
+        {
+          "nome": "demokratia contabilidade partidaria e eleitoral ltda",
+          "percentual": 50,
+          "documento": "55578476000104"
+        },
+        {
+          "nome": "monguilhott sociedade individual de advocacia",
+          "percentual": 50,
+          "documento": "22265337000163"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-sc-240002539636.jpeg",
+    "coletado_em": "2026-09-20T22:39:04.502Z"
+  },
+  {
+    "slug": "240002541935",
+    "nome": "Carlos Bolsonaro",
+    "partido": "PL",
+    "numero": 222,
+    "cargo": "senador",
+    "uf": "SC",
+    "foto_arquivo": "senador-sc-240002541935",
+    "foto_url_original": "https://s2-g1.glbimg.com/IIitIB1y16vpEN1l8eBXWINz-Uk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/6/nJmkssRJmGV5aPWhTwQw/carlos-bolsonaro.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/sc/240002541935.ghtml",
+    "profissao": "Outros",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Rafael Caleffi",
+    "suplente1_partido": "PL",
+    "suplente2_nome": "Balduino Rodrigues",
+    "suplente2_partido": "PL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Rafael Caleffi",
+        "nome_urna": "Rafael Caleffi",
+        "partido": "PL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Balduino Rodrigues",
+        "nome_urna": "Balduino Rodrigues",
+        "partido": "PL"
+      }
+    ],
+    "patrimonio_total": 2784065.08,
+    "receitas_total": 4300000,
+    "despesas_total": 2950211.88,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo hb20x",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo hb20x",
+        "valor": 61050
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo dafra city",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo dafra city",
+        "valor": 11000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depositorio bacario",
+        "valor": 463887.03
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo nissan kicks",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo nissan kicks",
+        "valor": 144000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo mt03",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo mt03",
+        "valor": 30590
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participaçao societária - bolsonaro digital ltda",
+        "valor": 249
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Investimentos diversos",
+        "valor": 1953289.05
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participação societária ¿ wf advvisory ltda",
+        "valor": 120000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 100,
+        "documento": "08517423000195"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "ventura estudio ltda",
+        "percentual": 33.9,
+        "documento": "23087346000174"
+      },
+      {
+        "nome": "exact industria e servicos de embalagens e rotulos ltda",
+        "percentual": 20.52,
+        "documento": "23412180000114"
+      },
+      {
+        "nome": "reditus comunicacao ltda",
+        "percentual": 16.95,
+        "documento": "31456921000197"
+      },
+      {
+        "nome": "forma consultoria em marketing ltda",
+        "percentual": 16.95,
+        "documento": "29859785000134"
+      },
+      {
+        "nome": "g p s consultoria, projetos e obras ltda",
+        "percentual": 5.08,
+        "documento": "07373055000196"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Carlos Bolsonaro",
+      "partido_pagina": "PL",
+      "numero_pagina": 222,
+      "profissao": "Outros",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/IIitIB1y16vpEN1l8eBXWINz-Uk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/6/nJmkssRJmGV5aPWhTwQw/carlos-bolsonaro.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 61.050,00 Veiculo hb20x",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 11.000,00 Veiculo dafra city",
+        "Depósito bancário em conta corrente no país R$ 463.887,03 Depositorio bacario",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 144.000,00 Veículo nissan kicks",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 30.590,00 Veículo mt03",
+        "Outras participações societárias R$ 249,00 Participaçao societária - bolsonaro digital ltda",
+        "Outras aplicações e investimentos R$ 1.953.289,05 Investimentos diversos",
+        "Outras participações societárias R$ 120.000,00 Participação societária ¿ wf advvisory ltda"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Rafael Caleffi",
+      "suplente1_partido": "PL",
+      "suplente2_nome": "Balduino Rodrigues",
+      "suplente2_partido": "PL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Rafael Caleffi",
+          "nome_urna": "Rafael Caleffi",
+          "partido": "PL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Balduino Rodrigues",
+          "nome_urna": "Balduino Rodrigues",
+          "partido": "PL"
+        }
+      ],
+      "receitas_total": 4300000,
+      "despesas_total": 2950211.88,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 100,
+          "documento": "08517423000195"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "ventura estudio ltda",
+          "percentual": 33.9,
+          "documento": "23087346000174"
+        },
+        {
+          "nome": "exact industria e servicos de embalagens e rotulos ltda",
+          "percentual": 20.52,
+          "documento": "23412180000114"
+        },
+        {
+          "nome": "reditus comunicacao ltda",
+          "percentual": 16.95,
+          "documento": "31456921000197"
+        },
+        {
+          "nome": "forma consultoria em marketing ltda",
+          "percentual": 16.95,
+          "documento": "29859785000134"
+        },
+        {
+          "nome": "g p s consultoria, projetos e obras ltda",
+          "percentual": 5.08,
+          "documento": "07373055000196"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-sc-240002541935.jpeg",
+    "coletado_em": "2026-09-20T22:39:06.984Z"
+  },
+  {
+    "slug": "240002553005",
+    "nome": "Carol",
+    "partido": "PCO",
+    "numero": 290,
+    "cargo": "senador",
+    "uf": "SC",
+    "foto_arquivo": "senador-sc-240002553005",
+    "foto_url_original": "https://s2-g1.glbimg.com/xUbCX16enoxsVzZYl2NK3bErFA8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/q/ls4BeOSiyT7TmcFFIhSQ/carol.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/sc/240002553005.ghtml",
+    "profissao": "Professor de ensino fundamental",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Domingos",
+    "suplente1_partido": "PCO",
+    "suplente2_nome": "Gilberto Silveira",
+    "suplente2_partido": "PCO",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Domingos",
+        "nome_urna": "Domingos",
+        "partido": "PCO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Gilberto Silveira",
+        "nome_urna": "Gilberto Silveira",
+        "partido": "PCO"
+      }
+    ],
+    "patrimonio_total": 45000,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Partipação de 50% em imóvel residencial",
+        "valor": 45000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2022,
+        "cargo": "Senador",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Carol",
+      "partido_pagina": "PCO",
+      "numero_pagina": 290,
+      "profissao": "Professor de ensino fundamental",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/xUbCX16enoxsVzZYl2NK3bErFA8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/q/ls4BeOSiyT7TmcFFIhSQ/carol.jpeg",
+      "historico": [
+        {
+          "ano": 2022,
+          "cargo": "Senador",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Casa R$ 45.000,00 Partipação de 50% em imóvel residencial"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Domingos",
+      "suplente1_partido": "PCO",
+      "suplente2_nome": "Gilberto Silveira",
+      "suplente2_partido": "PCO",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Domingos",
+          "nome_urna": "Domingos",
+          "partido": "PCO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Gilberto Silveira",
+          "nome_urna": "Gilberto Silveira",
+          "partido": "PCO"
+        }
+      ],
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 4447201.54,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-sc-240002553005.jpeg",
+    "coletado_em": "2026-09-20T22:39:09.491Z"
+  },
+  {
+    "slug": "240002541931",
+    "nome": "Carol De Toni",
+    "partido": "PL",
+    "numero": 221,
+    "cargo": "senador",
+    "uf": "SC",
+    "foto_arquivo": "senador-sc-240002541931",
+    "foto_url_original": "https://s2-g1.glbimg.com/F2Dxmj859LhYC9fMtoaVlgbIQjc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/l/W4NlkETqeoc1Y8zMTkoA/carol-de-toni.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/sc/240002541931.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Geraldo Wetzel Neto",
+    "suplente1_partido": "NOVO",
+    "suplente2_nome": "Andrey Tomazi",
+    "suplente2_partido": "PL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Geraldo Wetzel Neto",
+        "nome_urna": "Geraldo Wetzel Neto",
+        "partido": "NOVO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Andrey Tomazi",
+        "nome_urna": "Andrey Tomazi",
+        "partido": "PL"
+      }
+    ],
+    "patrimonio_total": 1412309.5,
+    "receitas_total": 4720000,
+    "despesas_total": 2235836.34,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento 183,7 m2 bairro jardim italia, chapeco/sc",
+        "valor": 172058.98
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação banco do brasil",
+        "valor": 78000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Lote urbano - 26% lote urbano com 900m2, bairro jardim italia, chapeco/sc",
+        "valor": 260000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Adiantamento aumento de capital na empresa zancanaro viva park ltda",
+        "valor": 383459.76
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação banco do brasil cdb rende facil",
+        "valor": 5247.55
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa 400m2, bairro santo antonio, chapec0/sc",
+        "valor": 38000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Poupança banco do brasil",
+        "valor": 3007.37
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação banco do brasil",
+        "valor": 45035.84
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas - capital da empresa zancanaro viva park",
+        "valor": 20000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Lca pos cdi banco do brasil",
+        "valor": 400000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação banco do brasil cdb di",
+        "valor": 7500
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 91.1,
+        "documento": "08517423000195"
+      },
+      {
+        "nome": "Juliano Avila Custodio",
+        "percentual": 8.47,
+        "documento": "99576112087"
+      },
+      {
+        "nome": "Aquiles Pio Franceschette",
+        "percentual": 0.42,
+        "documento": "24529745015"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "ventura estudio ltda",
+        "percentual": 44.73,
+        "documento": "23087346000174"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 22.27,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "bernardi & wanderlinde advogados associados",
+        "percentual": 12.52,
+        "documento": "49479417000178"
+      },
+      {
+        "nome": "pd negocios ltda",
+        "percentual": 8.95,
+        "documento": "67588159000140"
+      },
+      {
+        "nome": "jaine pokomaier morokowski",
+        "percentual": 3.85,
+        "documento": "48933104000185"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Carol De Toni",
+      "partido_pagina": "PL",
+      "numero_pagina": 221,
+      "profissao": "Deputado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/F2Dxmj859LhYC9fMtoaVlgbIQjc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/l/W4NlkETqeoc1Y8zMTkoA/carol-de-toni.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 172.058,98 Apartamento 183,7 m2 bairro jardim italia, chapeco/sc",
+        "Outras aplicações e investimentos R$ 78.000,00 Aplicação banco do brasil",
+        "Outros bens imóveis R$ 260.000,00 Lote urbano - 26% lote urbano com 900m2, bairro jardim italia, chapeco/sc",
+        "Outras aplicações e investimentos R$ 383.459,76 Adiantamento aumento de capital na empresa zancanaro viva park ltda",
+        "Outras aplicações e investimentos R$ 5.247,55 Aplicação banco do brasil cdb rende facil",
+        "Casa R$ 38.000,00 Casa 400m2, bairro santo antonio, chapec0/sc",
+        "Outras aplicações e investimentos R$ 3.007,37 Poupança banco do brasil",
+        "Outras aplicações e investimentos R$ 45.035,84 Aplicação banco do brasil",
+        "Quotas ou quinhões de capital R$ 20.000,00 Quotas - capital da empresa zancanaro viva park",
+        "Outras aplicações e investimentos R$ 400.000,00 Lca pos cdi banco do brasil",
+        "Outras aplicações e investimentos R$ 7.500,00 Aplicação banco do brasil cdb di"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Geraldo Wetzel Neto",
+      "suplente1_partido": "NOVO",
+      "suplente2_nome": "Andrey Tomazi",
+      "suplente2_partido": "PL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Geraldo Wetzel Neto",
+          "nome_urna": "Geraldo Wetzel Neto",
+          "partido": "NOVO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Andrey Tomazi",
+          "nome_urna": "Andrey Tomazi",
+          "partido": "PL"
+        }
+      ],
+      "receitas_total": 4720000,
+      "despesas_total": 2235836.34,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 91.1,
+          "documento": "08517423000195"
+        },
+        {
+          "nome": "Juliano Avila Custodio",
+          "percentual": 8.47,
+          "documento": "99576112087"
+        },
+        {
+          "nome": "Aquiles Pio Franceschette",
+          "percentual": 0.42,
+          "documento": "24529745015"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "ventura estudio ltda",
+          "percentual": 44.73,
+          "documento": "23087346000174"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 22.27,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "bernardi & wanderlinde advogados associados",
+          "percentual": 12.52,
+          "documento": "49479417000178"
+        },
+        {
+          "nome": "pd negocios ltda",
+          "percentual": 8.95,
+          "documento": "67588159000140"
+        },
+        {
+          "nome": "jaine pokomaier morokowski",
+          "percentual": 3.85,
+          "documento": "48933104000185"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-sc-240002541931.jpeg",
+    "coletado_em": "2026-09-20T22:39:12.027Z"
+  },
+  {
+    "slug": "240002533898",
+    "nome": "Décio Lima",
+    "partido": "PT",
+    "numero": 133,
+    "cargo": "senador",
+    "uf": "SC",
+    "foto_arquivo": "senador-sc-240002533898",
+    "foto_url_original": "https://s2-g1.glbimg.com/Gyu2oi8UvVkxqWH-nhh5W2s5am0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/u/GdHi79RVmFZfmjTNRacg/decio-lima.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/sc/240002533898.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Elaine Berger",
+    "suplente1_partido": "PDT",
+    "suplente2_nome": "Fernanda Klitzke",
+    "suplente2_partido": "PT",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Elaine Berger",
+        "nome_urna": "Elaine Berger",
+        "partido": "PDT"
+      },
+      {
+        "ordem": 2,
+        "nome": "Fernanda Klitzke",
+        "nome_urna": "Fernanda Klitzke",
+        "partido": "PT"
+      }
+    ],
+    "patrimonio_total": 3173518.1799999997,
+    "receitas_total": 2268600.77,
+    "despesas_total": 1751801.98,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Créditos de contratos imobiliários",
+        "valor": 1550000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 98% de cotas de capital social",
+        "valor": 14850
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50% de apartamento",
+        "valor": 350000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 50% de cotas de capital social",
+        "valor": 725000
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ações",
+        "valor": 443.01
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente",
+        "valor": 1
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Fundo de investimento",
+        "valor": 67.7
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 50% de terreno",
+        "valor": 150000
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Fundo de investimento",
+        "valor": 178437.52
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Créditos de investimentos imobiliários",
+        "valor": 102954.63
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicações",
+        "valor": 98152.73
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Título de capitalização",
+        "valor": 3611.59
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 98.02,
+        "documento": "00676262000170"
+      },
+      {
+        "nome": "Djalma Vando Berger",
+        "percentual": 0.88,
+        "documento": "43667872968"
+      },
+      {
+        "nome": "Dario Elias Berger",
+        "percentual": 0.84,
+        "documento": "34195491991"
+      },
+      {
+        "nome": "Osni Vicente De Souza Junior",
+        "percentual": 0.26,
+        "documento": "72204761915"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "bhis comunicacao ltda",
+        "percentual": 51.38,
+        "documento": "34701618000109"
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 17.18,
+        "documento": "25021356000132"
+      },
+      {
+        "nome": "janine kamers serpa",
+        "percentual": 6.34,
+        "documento": "22271531000151"
+      },
+      {
+        "nome": "elbert editora grafica ltda",
+        "percentual": 5.04,
+        "documento": "05494613000146"
+      },
+      {
+        "nome": "lira contabilidade ltda",
+        "percentual": 2.74,
+        "documento": "14481919000159"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Décio Lima",
+      "partido_pagina": "PT",
+      "numero_pagina": 133,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/Gyu2oi8UvVkxqWH-nhh5W2s5am0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/u/GdHi79RVmFZfmjTNRacg/decio-lima.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros créditos e poupança vinculados R$ 1.550.000,00 Créditos de contratos imobiliários",
+        "Quotas ou quinhões de capital R$ 14.850,00 98% de cotas de capital social",
+        "Apartamento R$ 350.000,00 50% de apartamento",
+        "Quotas ou quinhões de capital R$ 725.000,00 50% de cotas de capital social",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 443,01 Ações",
+        "Depósito bancário em conta corrente no país R$ 1,00 Saldo em conta corrente",
+        "Outros fundos R$ 67,70 Fundo de investimento",
+        "Terreno R$ 150.000,00 50% de terreno",
+        "Outros fundos R$ 178.437,52 Fundo de investimento",
+        "Outros créditos e poupança vinculados R$ 102.954,63 Créditos de investimentos imobiliários",
+        "Outras aplicações e investimentos R$ 98.152,73 Aplicações",
+        "Outras aplicações e investimentos R$ 3.611,59 Título de capitalização"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Elaine Berger",
+      "suplente1_partido": "PDT",
+      "suplente2_nome": "Fernanda Klitzke",
+      "suplente2_partido": "PT",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Elaine Berger",
+          "nome_urna": "Elaine Berger",
+          "partido": "PDT"
+        },
+        {
+          "ordem": 2,
+          "nome": "Fernanda Klitzke",
+          "nome_urna": "Fernanda Klitzke",
+          "partido": "PT"
+        }
+      ],
+      "receitas_total": 2268600.77,
+      "despesas_total": 1751801.98,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 98.02,
+          "documento": "00676262000170"
+        },
+        {
+          "nome": "Djalma Vando Berger",
+          "percentual": 0.88,
+          "documento": "43667872968"
+        },
+        {
+          "nome": "Dario Elias Berger",
+          "percentual": 0.84,
+          "documento": "34195491991"
+        },
+        {
+          "nome": "Osni Vicente De Souza Junior",
+          "percentual": 0.26,
+          "documento": "72204761915"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "bhis comunicacao ltda",
+          "percentual": 51.38,
+          "documento": "34701618000109"
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 17.18,
+          "documento": "25021356000132"
+        },
+        {
+          "nome": "janine kamers serpa",
+          "percentual": 6.34,
+          "documento": "22271531000151"
+        },
+        {
+          "nome": "elbert editora grafica ltda",
+          "percentual": 5.04,
+          "documento": "05494613000146"
+        },
+        {
+          "nome": "lira contabilidade ltda",
+          "percentual": 2.74,
+          "documento": "14481919000159"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-sc-240002533898.jpeg",
+    "coletado_em": "2026-09-20T22:39:14.489Z"
+  },
+  {
+    "slug": "240002548632",
+    "nome": "Esperidião Amin",
+    "partido": "PP",
+    "numero": 111,
+    "cargo": "senador",
+    "uf": "SC",
+    "foto_arquivo": "senador-sc-240002548632",
+    "foto_url_original": "https://s2-g1.glbimg.com/hFbG60HSb8CnOyHxyL4U5F1I7E0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/d/j0XWKRRpARcxz4Xmmk6w/esperidiao-amin.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/sc/240002548632.ghtml",
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Volnei Weber",
+    "suplente1_partido": "MDB",
+    "suplente2_nome": "Eni Voltolini",
+    "suplente2_partido": "PP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Volnei Weber",
+        "nome_urna": "Volnei Weber",
+        "partido": "MDB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Eni Voltolini",
+        "nome_urna": "Eni Voltolini",
+        "partido": "PP"
+      }
+    ],
+    "patrimonio_total": 2542801,
+    "receitas_total": 3001217.72,
+    "despesas_total": 2193721.55,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Bb",
+        "valor": 1710
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 142 acoes pn da karsten s/a",
+        "valor": 34
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupbb",
+        "valor": 447
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Um imovel no bairro bom abrigo em florianópolis",
+        "valor": 69397
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Um veiculo volkswagem golf highline",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Um veiculo volkswagem golf highline 1,4 tsi 2018/2018,",
+        "valor": 111000
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Dispositivos informáticos",
+        "valor": 37412
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Um imóvel de 1.066 m2 em florianópolis",
+        "valor": 37106
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Um imóvel com 8,3 ha, em rancho queimado/sc",
+        "valor": 16655
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 200.000 acoes do badesc",
+        "valor": 613
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Um automovel volvo xc60 2.0 t5 mom",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Um automovel volvo xc60 2.0 t5 mom 2018/2019",
+        "valor": 234554
+      },
+      {
+        "tipo": "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. Obras de artes",
+        "descricao": "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. Obras de artes",
+        "valor": 30000
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 10.404 acoes ordinarias da incocesa industria e comercio ceramica s/a",
+        "valor": 3121
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Bb",
+        "valor": 14567
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Dois imóveis no bairro itacorubi em florianópolis/sc",
+        "valor": 20819
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa 1/9 de um imóvel em indaial/sc",
+        "valor": 55555
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Um automovel volvo xc60 2.0 t5 mom",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Um automovel volvo xc60 2.0 t5 mom 2018/2019",
+        "valor": 234554
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicacao ourocap",
+        "valor": 4595
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupanca ouro banco do brasil",
+        "valor": 9038
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 2.640 acoes do banco do brasil",
+        "valor": 69
+      },
+      {
+        "tipo": "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc)",
+        "descricao": "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc) Bb/di vip",
+        "valor": 60604
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto 1/4 de sala comercial no centro de florianópolis",
+        "valor": 50000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50,9% de apto no bairro trindade em florianópolis",
+        "valor": 280000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Residencial em ponta da canas florianópolis",
+        "valor": 248376
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Duas salas comerciais em florianópolis/sc",
+        "valor": 59987
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 8.243 acoes da teka - tecelagem kuenrich s/a",
+        "valor": 181
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 37% de um apto residencial com 2 garagens em florianópolis",
+        "valor": 384750
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Terreno com casa de alvenária em florianópolis",
+        "valor": 575645
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automovel jepy buggy",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automovel jepy buggy",
+        "valor": 1943
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) 2.045 acoes da cia. hemmer",
+        "valor": 69
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pp",
+        "percentual": 90.42,
+        "documento": "00887169000105"
+      },
+      {
+        "nome": "Nabil Nazir El Haje",
+        "percentual": 5,
+        "documento": "00296449172"
+      },
+      {
+        "nome": "Direção Estadual/distrital - Pp - Santa Catarina",
+        "percentual": 3.33,
+        "documento": "00931839000143"
+      },
+      {
+        "nome": "Miguel Abuhab",
+        "percentual": 0.33,
+        "documento": "01937227987"
+      },
+      {
+        "nome": "Thiago De Souza",
+        "percentual": 0.25,
+        "documento": "05668650928"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "philipps filmes ltda.",
+        "percentual": 34.64,
+        "documento": "43357653000135"
+      },
+      {
+        "nome": "menezes niebuhr sociedade de advogados",
+        "percentual": 10.21,
+        "documento": "07857617000177"
+      },
+      {
+        "nome": "letsrocket comunicacao digital ltda",
+        "percentual": 7.57,
+        "documento": "22507365000140"
+      },
+      {
+        "nome": "plastkolor ltda",
+        "percentual": 4.78,
+        "documento": "79003984000114"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 4.6,
+        "documento": "13347016000117"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Esperidião Amin",
+      "partido_pagina": "PP",
+      "numero_pagina": 111,
+      "profissao": "Professor de ensino superior",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/hFbG60HSb8CnOyHxyL4U5F1I7E0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/d/j0XWKRRpARcxz4Xmmk6w/esperidiao-amin.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Depósito bancário em conta corrente no país R$ 1.710,00 Bb",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 34,00 142 acoes pn da karsten s/a",
+        "Caderneta de poupança R$ 447,00 Poupbb",
+        "Terreno R$ 69.397,00 Um imovel no bairro bom abrigo em florianópolis",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 111.000,00 Um veiculo volkswagem golf highline 1,4 tsi 2018/2018,",
+        "Outros bens móveis R$ 37.412,00 Dispositivos informáticos",
+        "Terreno R$ 37.106,00 Um imóvel de 1.066 m2 em florianópolis",
+        "Terreno R$ 16.655,00 Um imóvel com 8,3 ha, em rancho queimado/sc",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 613,00 200.000 acoes do badesc",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 234.554,00 Um automovel volvo xc60 2.0 t5 mom 2018/2019",
+        "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. R$ 30.000,00 Obras de artes",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 3.121,00 10.404 acoes ordinarias da incocesa industria e comercio ceramica s/a",
+        "Depósito bancário em conta corrente no país R$ 14.567,00 Bb",
+        "Terreno R$ 20.819,00 Dois imóveis no bairro itacorubi em florianópolis/sc",
+        "Casa R$ 55.555,00 1/9 de um imóvel em indaial/sc",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 234.554,00 Um automovel volvo xc60 2.0 t5 mom 2018/2019",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 4.595,00 Aplicacao ourocap",
+        "Caderneta de poupança R$ 9.038,00 Poupanca ouro banco do brasil",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 69,00 2.640 acoes do banco do brasil",
+        "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc) R$ 60.604,00 Bb/di vip",
+        "Sala ou conjunto R$ 50.000,00 1/4 de sala comercial no centro de florianópolis",
+        "Apartamento R$ 280.000,00 50,9% de apto no bairro trindade em florianópolis",
+        "Casa R$ 248.376,00 Residencial em ponta da canas florianópolis",
+        "Sala ou conjunto R$ 59.987,00 Duas salas comerciais em florianópolis/sc",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 181,00 8.243 acoes da teka - tecelagem kuenrich s/a",
+        "Apartamento R$ 384.750,00 37% de um apto residencial com 2 garagens em florianópolis",
+        "Casa R$ 575.645,00 Terreno com casa de alvenária em florianópolis",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 1.943,00 Automovel jepy buggy",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 69,00 2.045 acoes da cia. hemmer"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Volnei Weber",
+      "suplente1_partido": "MDB",
+      "suplente2_nome": "Eni Voltolini",
+      "suplente2_partido": "PP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Volnei Weber",
+          "nome_urna": "Volnei Weber",
+          "partido": "MDB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Eni Voltolini",
+          "nome_urna": "Eni Voltolini",
+          "partido": "PP"
+        }
+      ],
+      "receitas_total": 3001217.72,
+      "despesas_total": 2193721.55,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pp",
+          "percentual": 90.42,
+          "documento": "00887169000105"
+        },
+        {
+          "nome": "Nabil Nazir El Haje",
+          "percentual": 5,
+          "documento": "00296449172"
+        },
+        {
+          "nome": "Direção Estadual/distrital - Pp - Santa Catarina",
+          "percentual": 3.33,
+          "documento": "00931839000143"
+        },
+        {
+          "nome": "Miguel Abuhab",
+          "percentual": 0.33,
+          "documento": "01937227987"
+        },
+        {
+          "nome": "Thiago De Souza",
+          "percentual": 0.25,
+          "documento": "05668650928"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "philipps filmes ltda.",
+          "percentual": 34.64,
+          "documento": "43357653000135"
+        },
+        {
+          "nome": "menezes niebuhr sociedade de advogados",
+          "percentual": 10.21,
+          "documento": "07857617000177"
+        },
+        {
+          "nome": "letsrocket comunicacao digital ltda",
+          "percentual": 7.57,
+          "documento": "22507365000140"
+        },
+        {
+          "nome": "plastkolor ltda",
+          "percentual": 4.78,
+          "documento": "79003984000114"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 4.6,
+          "documento": "13347016000117"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-sc-240002548632.jpeg",
+    "coletado_em": "2026-09-20T22:39:16.965Z"
+  },
+  {
+    "slug": "240002551377",
+    "nome": "Jeferson Rocha",
+    "partido": "PRD",
+    "numero": 250,
+    "cargo": "senador",
+    "uf": "SC",
+    "foto_arquivo": "senador-sc-240002551377",
+    "foto_url_original": "https://s2-g1.glbimg.com/o2RpJWC-G87j-0ZXxpDEAYqqVik=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/A/58EAdcReqTHcJ4DfWuaA/jeferson-rocha.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/sc/240002551377.ghtml",
+    "profissao": "Produtor agropecuário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Camila Zimmer",
+    "suplente1_partido": "SOLIDARIEDADE",
+    "suplente2_nome": "Jeann Lisboa",
+    "suplente2_partido": "SOLIDARIEDADE",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Camila Zimmer",
+        "nome_urna": "Camila Zimmer",
+        "partido": "SOLIDARIEDADE"
+      },
+      {
+        "ordem": 2,
+        "nome": "Jeann Lisboa",
+        "nome_urna": "Jeann Lisboa",
+        "partido": "SOLIDARIEDADE"
+      }
+    ],
+    "patrimonio_total": 14043458.47,
+    "receitas_total": 15000,
+    "despesas_total": 9295.17,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Plataforma de graos 20 pes single di",
+        "valor": 72800
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Drone dji agras 740",
+        "valor": 139200
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Tratador de semente grazmec",
+        "valor": 7800
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Sala comercial",
+        "valor": 195000
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Colheitadeira automotriz mod cr 5080",
+        "valor": 785160
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Drone dji agras",
+        "valor": 112500
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Pulverizador autopropelido 125j",
+        "valor": 706000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Plataforma milho supra mod. 5000",
+        "valor": 115000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Agrícolas plataforma milho supra mod. 5500",
+        "valor": 102000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicações financeiras",
+        "valor": 1191545
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Plantadeira de arrasto genius gdp 11045",
+        "valor": 114000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo gm silverado hc",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo gm silverado hc",
+        "valor": 471000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Part societaria precatorios",
+        "valor": 100000
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Trator agricola mf4292 4rm ano 2013",
+        "valor": 195699.85
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Pre misturador wk - 80 l t c/ bomba eletrica",
+        "valor": 12100
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Precatórios e direitos creditórios",
+        "valor": 2610705.86
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Classificador de semente cimisa",
+        "valor": 13000
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Trator agricola sobre rodas, mod elo bh180 git, marca valtra, ano 2014",
+        "valor": 285000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo audi a3",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo audi a3",
+        "valor": 26000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo ford ranger",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo ford ranger",
+        "valor": 351890
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Pistola glock",
+        "valor": 3800
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Fuzil 556 - t4 taurus",
+        "valor": 11000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Graneleiro marca jan tanker",
+        "valor": 100500
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Plataforma de graos 30 pes",
+        "valor": 100000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Pulverizador autopropelido",
+        "valor": 706000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Reservatorio horizontal 5.000 lts",
+        "valor": 11200
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Part societaria",
+        "valor": 100000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Agrícolas plantadeira de arrasto genius gdp 13050",
+        "valor": 112000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Agrícolas colheitadeira de graos case ih",
+        "valor": 1700000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Trator agricola modelo serie t, t250, marca valpra, serie 2250651711, ano/moo 2023",
+        "valor": 1000000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Pulverizador agricola de barras marca jacto",
+        "valor": 65500
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Plantadora/adubadora",
+        "valor": 580000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta",
+        "valor": 134512.05
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Trator agricola modelo t7.175, marca new holland, chassi:hccz7175pncm45586",
+        "valor": 700000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Part societaria",
+        "valor": 158000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Quadriciclo can na",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Quadriciclo can na 2020",
+        "valor": 38000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos 01st. adubo liquido del6000 rct c/pneu remol",
+        "valor": 48100
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Colhedora area total jf1900",
+        "valor": 250000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta",
+        "valor": 385445.71
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo utilitario ford ranger",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo utilitario ford ranger",
+        "valor": 223000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocross ttr230",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocross ttr230",
+        "valor": 10000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Jeferson Da Rocha",
+        "percentual": 100,
+        "documento": "00714120936"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "rede de comunicacao sc ltda",
+        "percentual": 75.52,
+        "documento": "04287014000199"
+      },
+      {
+        "nome": "nascidos para empreender editora ltda",
+        "percentual": 16.41,
+        "documento": "47575297000187"
+      },
+      {
+        "nome": "luis fernando stefenon 75543796900",
+        "percentual": 8.07,
+        "documento": "41422027000150"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Jeferson Rocha",
+      "partido_pagina": "PRD",
+      "numero_pagina": 250,
+      "profissao": "Produtor agropecuário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/o2RpJWC-G87j-0ZXxpDEAYqqVik=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/A/58EAdcReqTHcJ4DfWuaA/jeferson-rocha.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens móveis R$ 72.800,00 Plataforma de graos 20 pes single di",
+        "Outros bens e direitos R$ 139.200,00 Drone dji agras 740",
+        "Outros bens e direitos R$ 7.800,00 Tratador de semente grazmec",
+        "Sala ou conjunto R$ 195.000,00 Sala comercial",
+        "Outros bens móveis R$ 785.160,00 Colheitadeira automotriz mod cr 5080",
+        "Outros bens e direitos R$ 112.500,00 Drone dji agras",
+        "Outros bens e direitos R$ 706.000,00 Pulverizador autopropelido 125j",
+        "Outros bens e direitos R$ 115.000,00 Plataforma milho supra mod. 5000",
+        "Outros bens e direitos R$ 102.000,00 Agrícolas plataforma milho supra mod. 5500",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 1.191.545,00 Aplicações financeiras",
+        "Outros bens e direitos R$ 114.000,00 Plantadeira de arrasto genius gdp 11045",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 471.000,00 Veiculo gm silverado hc",
+        "Outras aplicações e investimentos R$ 100.000,00 Part societaria precatorios",
+        "Outros bens móveis R$ 195.699,85 Trator agricola mf4292 4rm ano 2013",
+        "Outros bens e direitos R$ 12.100,00 Pre misturador wk - 80 l t c/ bomba eletrica",
+        "Outras aplicações e investimentos R$ 2.610.705,86 Precatórios e direitos creditórios",
+        "Outros bens e direitos R$ 13.000,00 Classificador de semente cimisa",
+        "Outros bens móveis R$ 285.000,00 Trator agricola sobre rodas, mod elo bh180 git, marca valtra, ano 2014",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 26.000,00 Veículo audi a3",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 351.890,00 Veiculo ford ranger",
+        "Outros bens e direitos R$ 3.800,00 Pistola glock",
+        "Outros bens e direitos R$ 11.000,00 Fuzil 556 - t4 taurus",
+        "Outros bens e direitos R$ 100.500,00 Graneleiro marca jan tanker",
+        "Outros bens e direitos R$ 100.000,00 Plataforma de graos 30 pes",
+        "Outros bens e direitos R$ 706.000,00 Pulverizador autopropelido",
+        "Outros bens e direitos R$ 11.200,00 Reservatorio horizontal 5.000 lts",
+        "Outras participações societárias R$ 100.000,00 Part societaria",
+        "Outros bens e direitos R$ 112.000,00 Agrícolas plantadeira de arrasto genius gdp 13050",
+        "Outros bens e direitos R$ 1.700.000,00 Agrícolas colheitadeira de graos case ih",
+        "Outros bens imóveis R$ 1.000.000,00 Trator agricola modelo serie t, t250, marca valpra, serie 2250651711, ano/moo 2023",
+        "Outros bens e direitos R$ 65.500,00 Pulverizador agricola de barras marca jacto",
+        "Outros bens e direitos R$ 580.000,00 Plantadora/adubadora",
+        "Depósito bancário em conta corrente no país R$ 134.512,05 Saldo em conta",
+        "Outros bens móveis R$ 700.000,00 Trator agricola modelo t7.175, marca new holland, chassi:hccz7175pncm45586",
+        "Outras participações societárias R$ 158.000,00 Part societaria",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 38.000,00 Quadriciclo can na 2020",
+        "Outros bens e direitos R$ 48.100,00 01st. adubo liquido del6000 rct c/pneu remol",
+        "Outros bens e direitos R$ 250.000,00 Colhedora area total jf1900",
+        "Depósito bancário em conta corrente no país R$ 385.445,71 Saldo em conta",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 223.000,00 Veiculo utilitario ford ranger",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 10.000,00 Motocross ttr230"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Camila Zimmer",
+      "suplente1_partido": "SOLIDARIEDADE",
+      "suplente2_nome": "Jeann Lisboa",
+      "suplente2_partido": "SOLIDARIEDADE",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Camila Zimmer",
+          "nome_urna": "Camila Zimmer",
+          "partido": "SOLIDARIEDADE"
+        },
+        {
+          "ordem": 2,
+          "nome": "Jeann Lisboa",
+          "nome_urna": "Jeann Lisboa",
+          "partido": "SOLIDARIEDADE"
+        }
+      ],
+      "receitas_total": 15000,
+      "despesas_total": 9295.17,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Jeferson Da Rocha",
+          "percentual": 100,
+          "documento": "00714120936"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "rede de comunicacao sc ltda",
+          "percentual": 75.52,
+          "documento": "04287014000199"
+        },
+        {
+          "nome": "nascidos para empreender editora ltda",
+          "percentual": 16.41,
+          "documento": "47575297000187"
+        },
+        {
+          "nome": "luis fernando stefenon 75543796900",
+          "percentual": 8.07,
+          "documento": "41422027000150"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-sc-240002551377.jpeg",
+    "coletado_em": "2026-09-20T22:39:19.505Z"
+  },
+  {
+    "slug": "240002537632",
+    "nome": "Joaninha De Oliveira",
+    "partido": "PSTU",
+    "numero": 160,
+    "cargo": "senador",
+    "uf": "SC",
+    "foto_arquivo": "senador-sc-240002537632",
+    "foto_url_original": "https://s2-g1.glbimg.com/xTHBFGqcRyY6WB3X9e2TUyoW7TA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/Y/WjWG3wTBKXgyaDbBIPAA/joaninha-de-oliveira.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/sc/240002537632.ghtml",
+    "profissao": "Servidor público civil aposentado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Jocemir",
+    "suplente1_partido": "PSTU",
+    "suplente2_nome": "Adriana",
+    "suplente2_partido": "PSTU",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Jocemir",
+        "nome_urna": "Jocemir",
+        "partido": "PSTU"
+      },
+      {
+        "ordem": 2,
+        "nome": "Adriana",
+        "nome_urna": "Adriana",
+        "partido": "PSTU"
+      }
+    ],
+    "patrimonio_total": 200000,
+    "receitas_total": 12702,
+    "despesas_total": 6000,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imóvel urbano praia de jardim campo bom - jaguaruna/sc",
+        "valor": 200000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2010,
+        "cargo": "Senador",
+        "partido": "PSTU",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 100,
+        "documento": "73282907000164"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "caio augusto tadeu carvalho de almeida",
+        "percentual": 66.67,
+        "documento": "06632334610"
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 33.33,
+        "documento": "60157581000100"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Joaninha De Oliveira",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 160,
+      "profissao": "Servidor público civil aposentado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/xTHBFGqcRyY6WB3X9e2TUyoW7TA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/Y/WjWG3wTBKXgyaDbBIPAA/joaninha-de-oliveira.jpeg",
+      "historico": [
+        {
+          "ano": 2010,
+          "cargo": "Senador",
+          "partido": "PSTU",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Casa R$ 200.000,00 Imóvel urbano praia de jardim campo bom - jaguaruna/sc"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Jocemir",
+      "suplente1_partido": "PSTU",
+      "suplente2_nome": "Adriana",
+      "suplente2_partido": "PSTU",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Jocemir",
+          "nome_urna": "Jocemir",
+          "partido": "PSTU"
+        },
+        {
+          "ordem": 2,
+          "nome": "Adriana",
+          "nome_urna": "Adriana",
+          "partido": "PSTU"
+        }
+      ],
+      "receitas_total": 12702,
+      "despesas_total": 6000,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 100,
+          "documento": "73282907000164"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "caio augusto tadeu carvalho de almeida",
+          "percentual": 66.67,
+          "documento": "06632334610"
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 33.33,
+          "documento": "60157581000100"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-sc-240002537632.jpeg",
+    "coletado_em": "2026-09-20T22:39:21.889Z"
+  },
+  {
+    "slug": "240002548630",
+    "nome": "Lunelli",
+    "partido": "MDB",
+    "numero": 155,
+    "cargo": "senador",
+    "uf": "SC",
+    "foto_arquivo": "senador-sc-240002548630",
+    "foto_url_original": "https://s2-g1.glbimg.com/FGG_-docPshq43Xjr4Mm_-F6jJo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/z/tqNYwSRqOB8zSR9kxUog/lunelli.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/sc/240002548630.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Clenilton",
+    "suplente1_partido": "UNIÃO",
+    "suplente2_nome": "Genesio Spillere",
+    "suplente2_partido": "PP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Clenilton",
+        "nome_urna": "Clenilton",
+        "partido": "UNIÃO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Genesio Spillere",
+        "nome_urna": "Genesio Spillere",
+        "partido": "PP"
+      }
+    ],
+    "patrimonio_total": 613221297.87,
+    "receitas_total": 3075500,
+    "despesas_total": 1813733.51,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Fração de imóvel no município de corupá, sc",
+        "valor": 208985.06
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participações societárias em pessoas jurídicas",
+        "valor": 456576611.76
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Ford a",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Ford a",
+        "valor": 100000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Chevrolet trailblazer",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Chevrolet trailblazer",
+        "valor": 370000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Bens da atividade rural brasil",
+        "valor": 10196471.81
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Volvo xc90 t8 plus",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Volvo xc90 t8 plus",
+        "valor": 519950
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Ativos financeiros",
+        "valor": 145249279.24
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 81.29,
+        "documento": "00676213000138"
+      },
+      {
+        "nome": "Direção Nacional - União",
+        "percentual": 9.75,
+        "documento": "44551496000167"
+      },
+      {
+        "nome": "Antidio Aleixo Lunelli",
+        "percentual": 8.13,
+        "documento": "43863442920"
+      },
+      {
+        "nome": "Nilso Crespi",
+        "percentual": 0.29,
+        "documento": "06274164979"
+      },
+      {
+        "nome": "Emanuela Christian Wolff",
+        "percentual": 0.23,
+        "documento": "04293669906"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "tipotil - industria grafica ltda",
+        "percentual": 27.06,
+        "documento": "86375870000160"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 9.37,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "machadosa comunicacao visual ltda",
+        "percentual": 5.9,
+        "documento": "11800501000179"
+      },
+      {
+        "nome": "criativa audio produtora ltda",
+        "percentual": 3.68,
+        "documento": "14803451000171"
+      },
+      {
+        "nome": "gruner servicos contabeis s/s ltda",
+        "percentual": 1.65,
+        "documento": "11119646000109"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Lunelli",
+      "partido_pagina": "MDB",
+      "numero_pagina": 155,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/FGG_-docPshq43Xjr4Mm_-F6jJo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/z/tqNYwSRqOB8zSR9kxUog/lunelli.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 208.985,06 Fração de imóvel no município de corupá, sc",
+        "Quotas ou quinhões de capital R$ 456.576.611,76 Participações societárias em pessoas jurídicas",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 100.000,00 Ford a",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 370.000,00 Chevrolet trailblazer",
+        "Outros bens e direitos R$ 10.196.471,81 Bens da atividade rural brasil",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 519.950,00 Volvo xc90 t8 plus",
+        "Outras aplicações e investimentos R$ 145.249.279,24 Ativos financeiros"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Clenilton",
+      "suplente1_partido": "UNIÃO",
+      "suplente2_nome": "Genesio Spillere",
+      "suplente2_partido": "PP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Clenilton",
+          "nome_urna": "Clenilton",
+          "partido": "UNIÃO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Genesio Spillere",
+          "nome_urna": "Genesio Spillere",
+          "partido": "PP"
+        }
+      ],
+      "receitas_total": 3075500,
+      "despesas_total": 1813733.51,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 81.29,
+          "documento": "00676213000138"
+        },
+        {
+          "nome": "Direção Nacional - União",
+          "percentual": 9.75,
+          "documento": "44551496000167"
+        },
+        {
+          "nome": "Antidio Aleixo Lunelli",
+          "percentual": 8.13,
+          "documento": "43863442920"
+        },
+        {
+          "nome": "Nilso Crespi",
+          "percentual": 0.29,
+          "documento": "06274164979"
+        },
+        {
+          "nome": "Emanuela Christian Wolff",
+          "percentual": 0.23,
+          "documento": "04293669906"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "tipotil - industria grafica ltda",
+          "percentual": 27.06,
+          "documento": "86375870000160"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 9.37,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "machadosa comunicacao visual ltda",
+          "percentual": 5.9,
+          "documento": "11800501000179"
+        },
+        {
+          "nome": "criativa audio produtora ltda",
+          "percentual": 3.68,
+          "documento": "14803451000171"
+        },
+        {
+          "nome": "gruner servicos contabeis s/s ltda",
+          "percentual": 1.65,
+          "documento": "11119646000109"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-sc-240002548630.jpeg",
+    "coletado_em": "2026-09-20T22:39:24.349Z"
+  },
+  {
+    "slug": "240002537630",
+    "nome": "Marcos Dorval",
+    "partido": "PSTU",
+    "numero": 161,
+    "cargo": "senador",
+    "uf": "SC",
+    "foto_arquivo": "senador-sc-240002537630",
+    "foto_url_original": "https://s2-g1.glbimg.com/A8ZTQxrihqMwSEk0gxZUMHZHH7s=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/3/B3thcZTRuABbdKJlnnVA/marcos-dorval.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/sc/240002537630.ghtml",
+    "profissao": "Servidor público federal",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Marcos Becker",
+    "suplente1_partido": "PSTU",
+    "suplente2_nome": "Wagner Betto",
+    "suplente2_partido": "PSTU",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Marcos Becker",
+        "nome_urna": "Marcos Becker",
+        "partido": "PSTU"
+      },
+      {
+        "ordem": 2,
+        "nome": "Wagner Betto",
+        "nome_urna": "Wagner Betto",
+        "partido": "PSTU"
+      }
+    ],
+    "patrimonio_total": 998386.2799999999,
+    "receitas_total": 12852,
+    "despesas_total": 10700,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 02 apartamentos no bairro praia comprida em são josé/sc",
+        "valor": 340000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 99 cotas da mds - manutenção de ar condicionado climatização e refrigeração ltda",
+        "valor": 20000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote urbano no bairro sul do rio em santo amaro da imperatriz/sc",
+        "valor": 270000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo chevrolet montana",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo chevrolet montana 2019",
+        "valor": 51756
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Rf lp tesouro selic",
+        "valor": 136383.84
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Rf lp high",
+        "valor": 82991.88
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Rf lp tesouro selic",
+        "valor": 92252.59
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Rf ref di plus",
+        "valor": 5001.97
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 98.83,
+        "documento": "73282907000164"
+      },
+      {
+        "nome": "Marcos Dorval Schmitz",
+        "percentual": 1.17,
+        "documento": "94039941934"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "luis vitor costa de siqueira",
+        "percentual": 43.93,
+        "documento": "08470484117"
+      },
+      {
+        "nome": "caio augusto tadeu carvalho de almeida",
+        "percentual": 37.38,
+        "documento": "06632334610"
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 18.69,
+        "documento": "60157581000100"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Marcos Dorval",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 161,
+      "profissao": "Servidor público federal",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/A8ZTQxrihqMwSEk0gxZUMHZHH7s=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/3/B3thcZTRuABbdKJlnnVA/marcos-dorval.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 340.000,00 02 apartamentos no bairro praia comprida em são josé/sc",
+        "Quotas ou quinhões de capital R$ 20.000,00 99 cotas da mds - manutenção de ar condicionado climatização e refrigeração ltda",
+        "Terreno R$ 270.000,00 Lote urbano no bairro sul do rio em santo amaro da imperatriz/sc",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 51.756,00 Veículo chevrolet montana 2019",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 136.383,84 Rf lp tesouro selic",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 82.991,88 Rf lp high",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 92.252,59 Rf lp tesouro selic",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 5.001,97 Rf ref di plus"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Marcos Becker",
+      "suplente1_partido": "PSTU",
+      "suplente2_nome": "Wagner Betto",
+      "suplente2_partido": "PSTU",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Marcos Becker",
+          "nome_urna": "Marcos Becker",
+          "partido": "PSTU"
+        },
+        {
+          "ordem": 2,
+          "nome": "Wagner Betto",
+          "nome_urna": "Wagner Betto",
+          "partido": "PSTU"
+        }
+      ],
+      "receitas_total": 12852,
+      "despesas_total": 10700,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 98.83,
+          "documento": "73282907000164"
+        },
+        {
+          "nome": "Marcos Dorval Schmitz",
+          "percentual": 1.17,
+          "documento": "94039941934"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "luis vitor costa de siqueira",
+          "percentual": 43.93,
+          "documento": "08470484117"
+        },
+        {
+          "nome": "caio augusto tadeu carvalho de almeida",
+          "percentual": 37.38,
+          "documento": "06632334610"
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 18.69,
+          "documento": "60157581000100"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-sc-240002537630.jpeg",
+    "coletado_em": "2026-09-20T22:39:26.984Z"
+  },
+  {
+    "slug": "240002550218",
+    "nome": "Marlene Soccas",
+    "partido": "UP",
+    "numero": 808,
+    "cargo": "senador",
+    "uf": "SC",
+    "foto_arquivo": "senador-sc-240002550218",
+    "foto_url_original": "https://s2-g1.glbimg.com/rqS99m4gBceG7W9X2_1oKaV4XxU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/i/Zb9SMjSbCcXFMPbgBxrw/marlene-soccas.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/sc/240002550218.ghtml",
+    "profissao": "Odontólogo",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Adriana Rio",
+    "suplente1_partido": "UP",
+    "suplente2_nome": "Professor Jacson",
+    "suplente2_partido": "UP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Adriana Rio",
+        "nome_urna": "Adriana Rio",
+        "partido": "UP"
+      },
+      {
+        "ordem": 2,
+        "nome": "Professor Jacson",
+        "nome_urna": "Professor Jacson",
+        "partido": "UP"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 1000,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [],
+    "gastos": [
+      {
+        "nome": "monguilhott sociedade individual de advocacia",
+        "percentual": 50,
+        "documento": "22265337000163"
+      },
+      {
+        "nome": "demokratia contabilidade partidaria e eleitoral ltda",
+        "percentual": 50,
+        "documento": "55578476000104"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Marlene Soccas",
+      "partido_pagina": "UP",
+      "numero_pagina": 808,
+      "profissao": "Odontólogo",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/rqS99m4gBceG7W9X2_1oKaV4XxU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/i/Zb9SMjSbCcXFMPbgBxrw/marlene-soccas.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Adriana Rio",
+      "suplente1_partido": "UP",
+      "suplente2_nome": "Professor Jacson",
+      "suplente2_partido": "UP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Adriana Rio",
+          "nome_urna": "Adriana Rio",
+          "partido": "UP"
+        },
+        {
+          "ordem": 2,
+          "nome": "Professor Jacson",
+          "nome_urna": "Professor Jacson",
+          "partido": "UP"
+        }
+      ],
+      "receitas_total": 0,
+      "despesas_total": 1000,
+      "limite_gastos": 4447201.54,
+      "doadores": [],
+      "gastos": [
+        {
+          "nome": "monguilhott sociedade individual de advocacia",
+          "percentual": 50,
+          "documento": "22265337000163"
+        },
+        {
+          "nome": "demokratia contabilidade partidaria e eleitoral ltda",
+          "percentual": 50,
+          "documento": "55578476000104"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-sc-240002550218.jpeg",
+    "coletado_em": "2026-09-20T22:39:29.447Z"
+  },
+  {
+    "slug": "240002544094",
+    "nome": "Túlio De Amorim Pfuetzenreiter",
+    "partido": "MISSÃO",
+    "numero": 144,
+    "cargo": "senador",
+    "uf": "SC",
+    "foto_arquivo": "senador-sc-240002544094",
+    "foto_url_original": "https://s2-g1.glbimg.com/kb3OhDJvYN9V1bMuLj9UsdY9_Ys=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/9/ZI0Sj9TySOQAuFQZBy8Q/tulio-de-amorim-pfuetzenreiter.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/sc/240002544094.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Comandante Edupercio Pratts",
+    "suplente1_partido": "MISSÃO",
+    "suplente2_nome": "Diego Vieira",
+    "suplente2_partido": "MISSÃO",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Comandante Edupercio Pratts",
+        "nome_urna": "Comandante Edupercio Pratts",
+        "partido": "MISSÃO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Diego Vieira",
+        "nome_urna": "Diego Vieira",
+        "partido": "MISSÃO"
+      }
+    ],
+    "patrimonio_total": 667200,
+    "receitas_total": 76500,
+    "despesas_total": 64023,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa financiada valor de r$420.000,00, pagos em 2021 po valor der$21.989,74, pagos em 2022 r$54.099,25, pago r$54.099,25, pagos em 2023r$54.099,25",
+        "valor": 4200
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Fabricação de aparelhos eletrodomésticos e acessórios.",
+        "valor": 400000
+      },
+      {
+        "tipo": "Loja",
+        "descricao": "Loja 100% das cotas da empresa medi comercio artigos de embelezamento",
+        "valor": 260000
+      },
+      {
+        "tipo": "Loja",
+        "descricao": "Loja Cotas de capital da empresa maedi comercio deartigos de embelezamento ltdar cnn pj 18015091000102r$3.000,00",
+        "valor": 3000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Missão",
+        "percentual": 98.04,
+        "documento": "52924566000103"
+      },
+      {
+        "nome": "Arthur Otto Krause",
+        "percentual": 1.31,
+        "documento": "00871323974"
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 0.65,
+        "documento": "39586155000197"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "gean felipe barro",
+        "percentual": 23.43,
+        "documento": "06512315901"
+      },
+      {
+        "nome": "eduardo cezar mariano",
+        "percentual": 17.18,
+        "documento": "07672017950"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 15.62,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "alcebiades da silva bugiareki",
+        "percentual": 10.93,
+        "documento": "10061200921"
+      },
+      {
+        "nome": "rayssa salvador",
+        "percentual": 7.81,
+        "documento": "13418508979"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Túlio De Amorim Pfuetzenreiter",
+      "partido_pagina": "MISSÃO",
+      "numero_pagina": 144,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/kb3OhDJvYN9V1bMuLj9UsdY9_Ys=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/9/ZI0Sj9TySOQAuFQZBy8Q/tulio-de-amorim-pfuetzenreiter.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 4.200,00 Casa financiada valor de r$420.000,00, pagos em 2021 po valor der$21.989,74, pagos em 2022 r$54.099,25, pago r$54.099,25, pagos em 2023r$54.099,25",
+        "Outros bens e direitos R$ 400.000,00 Fabricação de aparelhos eletrodomésticos e acessórios.",
+        "Loja R$ 260.000,00 100% das cotas da empresa medi comercio artigos de embelezamento",
+        "Loja R$ 3.000,00 Cotas de capital da empresa maedi comercio deartigos de embelezamento ltdar cnn pj 18015091000102r$3.000,00"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Comandante Edupercio Pratts",
+      "suplente1_partido": "MISSÃO",
+      "suplente2_nome": "Diego Vieira",
+      "suplente2_partido": "MISSÃO",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Comandante Edupercio Pratts",
+          "nome_urna": "Comandante Edupercio Pratts",
+          "partido": "MISSÃO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Diego Vieira",
+          "nome_urna": "Diego Vieira",
+          "partido": "MISSÃO"
+        }
+      ],
+      "receitas_total": 76500,
+      "despesas_total": 64023,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Missão",
+          "percentual": 98.04,
+          "documento": "52924566000103"
+        },
+        {
+          "nome": "Arthur Otto Krause",
+          "percentual": 1.31,
+          "documento": "00871323974"
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 0.65,
+          "documento": "39586155000197"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "gean felipe barro",
+          "percentual": 23.43,
+          "documento": "06512315901"
+        },
+        {
+          "nome": "eduardo cezar mariano",
+          "percentual": 17.18,
+          "documento": "07672017950"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 15.62,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "alcebiades da silva bugiareki",
+          "percentual": 10.93,
+          "documento": "10061200921"
+        },
+        {
+          "nome": "rayssa salvador",
+          "percentual": 7.81,
+          "documento": "13418508979"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-sc-240002544094.jpeg",
+    "coletado_em": "2026-09-20T22:39:33.375Z"
+  }
+]

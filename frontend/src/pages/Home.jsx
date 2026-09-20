@@ -188,6 +188,27 @@ export default function Home() {
         />
       )}
 
+      {cargo === 'senador' && (
+        <div className="rounded-2xl border border-emerald-200 bg-gradient-to-r from-emerald-50 via-teal-50/60 to-white p-4 text-emerald-950 shadow-xs dark:border-emerald-900/60 dark:from-emerald-950/40 dark:via-slate-900 dark:to-slate-900 dark:text-emerald-200">
+          <div className="flex items-start gap-3">
+            <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-emerald-600 text-white font-bold text-lg shadow-2xs">
+              🏛️
+            </span>
+            <div className="space-y-1">
+              <h2 className="font-bold text-sm sm:text-base flex items-center flex-wrap gap-2">
+                <span>Eleições 2026: Renovação de 2/3 do Senado Federal (54 Vagas)</span>
+                <span className="rounded-full bg-emerald-200/80 px-2.5 py-0.5 text-[11px] font-extrabold text-emerald-900 dark:bg-emerald-900/80 dark:text-emerald-200">
+                  2 Votos por Eleitor
+                </span>
+              </h2>
+              <p className="text-xs text-emerald-900/85 dark:text-emerald-300/90 leading-relaxed">
+                Neste pleito, cada estado e o DF elegem <strong>dois senadores</strong> para um mandato de 8 anos (2027–2035). Na urna eletrônica, você votará em dois candidatos diferentes com números de <strong>3 dígitos</strong>. Cada titular concorre vinculado a uma <strong>dupla de suplentes (1º e 2º)</strong> que assume o mandato em caso de licença ou vacância.
+              </p>
+            </div>
+          </div>
+        </div>
+      )}
+
       <div className="flex flex-wrap items-end justify-between gap-3">
         <div>
           <h1 className="text-2xl font-bold flex items-center flex-wrap gap-2">

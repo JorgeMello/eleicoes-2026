@@ -1,0 +1,2400 @@
+[
+  {
+    "slug": "80002542401",
+    "nome": "Callegari",
+    "partido": "DC",
+    "numero": 277,
+    "cargo": "senador",
+    "uf": "ES",
+    "foto_arquivo": "senador-es-80002542401",
+    "foto_url_original": "https://s2-g1.glbimg.com/pwOdkOx9FyfFEtMyEXAzy3VQdck=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/x/6biKnAQC28BjDcWu8Ktw/callegari.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/es/80002542401.ghtml",
+    "profissao": "Servidor público estadual",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Bruno Lourenço",
+    "suplente1_partido": "PRD",
+    "suplente2_nome": "Priscila Ramos",
+    "suplente2_partido": "SOLIDARIEDADE",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Bruno Lourenço",
+        "nome_urna": "Bruno Lourenço",
+        "partido": "PRD"
+      },
+      {
+        "ordem": 2,
+        "nome": "Priscila Ramos",
+        "nome_urna": "Priscila Ramos",
+        "partido": "SOLIDARIEDADE"
+      }
+    ],
+    "patrimonio_total": 850000,
+    "receitas_total": 70709,
+    "despesas_total": 77358.5,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "15/09/2026 • Atualizado há 5 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno urbano dotado de construção residencial",
+        "valor": 850000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Wellington Callegari",
+        "percentual": 50.91,
+        "documento": "09590096719"
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 9.06,
+        "documento": "39586155000197"
+      },
+      {
+        "nome": "Renata De Souza Picoli Callegari",
+        "percentual": 8.49,
+        "documento": "11252817746"
+      },
+      {
+        "nome": "Luiz Dayr Dilon Junior",
+        "percentual": 7.07,
+        "documento": "00470631732"
+      },
+      {
+        "nome": "Amarildo Tognere Moreira",
+        "percentual": 6.08,
+        "documento": "89653459791"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "marchesi comunicacao visual ltda",
+        "percentual": 55.46,
+        "documento": "56430805000120"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 16.8,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "irmandade da santa casa de misericordia de vitoria",
+        "percentual": 11.27,
+        "documento": "28141190000690"
+      },
+      {
+        "nome": "itabira construtora ltda",
+        "percentual": 6.46,
+        "documento": "26715942000140"
+      },
+      {
+        "nome": "ereni almeida de souza",
+        "percentual": 5.17,
+        "documento": "02782527703"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Callegari",
+      "partido_pagina": "DC",
+      "numero_pagina": 277,
+      "profissao": "Servidor público estadual",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/pwOdkOx9FyfFEtMyEXAzy3VQdck=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/x/6biKnAQC28BjDcWu8Ktw/callegari.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 850.000,00 Terreno urbano dotado de construção residencial"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Bruno Lourenço",
+      "suplente1_partido": "PRD",
+      "suplente2_nome": "Priscila Ramos",
+      "suplente2_partido": "SOLIDARIEDADE",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Bruno Lourenço",
+          "nome_urna": "Bruno Lourenço",
+          "partido": "PRD"
+        },
+        {
+          "ordem": 2,
+          "nome": "Priscila Ramos",
+          "nome_urna": "Priscila Ramos",
+          "partido": "SOLIDARIEDADE"
+        }
+      ],
+      "receitas_total": 70709,
+      "despesas_total": 77358.5,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Wellington Callegari",
+          "percentual": 50.91,
+          "documento": "09590096719"
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 9.06,
+          "documento": "39586155000197"
+        },
+        {
+          "nome": "Renata De Souza Picoli Callegari",
+          "percentual": 8.49,
+          "documento": "11252817746"
+        },
+        {
+          "nome": "Luiz Dayr Dilon Junior",
+          "percentual": 7.07,
+          "documento": "00470631732"
+        },
+        {
+          "nome": "Amarildo Tognere Moreira",
+          "percentual": 6.08,
+          "documento": "89653459791"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "marchesi comunicacao visual ltda",
+          "percentual": 55.46,
+          "documento": "56430805000120"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 16.8,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "irmandade da santa casa de misericordia de vitoria",
+          "percentual": 11.27,
+          "documento": "28141190000690"
+        },
+        {
+          "nome": "itabira construtora ltda",
+          "percentual": 6.46,
+          "documento": "26715942000140"
+        },
+        {
+          "nome": "ereni almeida de souza",
+          "percentual": 5.17,
+          "documento": "02782527703"
+        }
+      ],
+      "fonte_atualizado_em": "15/09/2026 • Atualizado há 5 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-es-80002542401.jpeg",
+    "coletado_em": "2026-09-20T22:36:02.703Z"
+  },
+  {
+    "slug": "80002553265",
+    "nome": "Evair De Melo",
+    "partido": "REP",
+    "numero": 100,
+    "cargo": "senador",
+    "uf": "ES",
+    "foto_arquivo": "senador-es-80002553265",
+    "foto_url_original": "https://s2-g1.glbimg.com/kfewhd3dvhxIWGyHPyGze_egLBI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/m/1HEAtCTQA8Qw0tYRBJEQ/evair-de-melo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/es/80002553265.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Dant Nicchio",
+    "suplente1_partido": "PL",
+    "suplente2_nome": "Luiz Emanuel",
+    "suplente2_partido": "REPUBLICANOS",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Dant Nicchio",
+        "nome_urna": "Dant Nicchio",
+        "partido": "PL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Luiz Emanuel",
+        "nome_urna": "Luiz Emanuel",
+        "partido": "REPUBLICANOS"
+      }
+    ],
+    "patrimonio_total": 142777.32,
+    "receitas_total": 1500980,
+    "despesas_total": 1723093.47,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Cdb banestes",
+        "valor": 13502.89
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Depósito a prazo sicoob",
+        "valor": 20000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Banco do brasil",
+        "valor": 1202.07
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Ford ecosport ano/modelo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Ford ecosport ano/modelo 2015",
+        "valor": 52000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social sicoob",
+        "valor": 2206.24
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Sicoob",
+        "valor": 4140.71
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Banco do brasil",
+        "valor": 49725.41
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Republicanos",
+        "percentual": 83.28,
+        "documento": "07665132000181"
+      },
+      {
+        "nome": "Eutemar Antonio Venturim",
+        "percentual": 4,
+        "documento": "00530304783"
+      },
+      {
+        "nome": "Gustavo Probst",
+        "percentual": 3.33,
+        "documento": "01927898994"
+      },
+      {
+        "nome": "Jose Carlos Grossi",
+        "percentual": 2,
+        "documento": "53849582868"
+      },
+      {
+        "nome": "Ricardo Brunoro",
+        "percentual": 2,
+        "documento": "00147519764"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "mega comercio e servicos ltda",
+        "percentual": 46.43,
+        "documento": "11982842000102"
+      },
+      {
+        "nome": "ribeiro & sobreiro advogados",
+        "percentual": 17.41,
+        "documento": "17106223000130"
+      },
+      {
+        "nome": "adriano riva do carmo",
+        "percentual": 2.23,
+        "documento": "07727871745"
+      },
+      {
+        "nome": "plottec impressoes e projetos ltda",
+        "percentual": 2.18,
+        "documento": "49464815000110"
+      },
+      {
+        "nome": "11.492.990 jose grigorio de oliveira junior",
+        "percentual": 1.57,
+        "documento": "11492990000149"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Evair De Melo",
+      "partido_pagina": "REP",
+      "numero_pagina": 100,
+      "profissao": "Deputado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/kfewhd3dvhxIWGyHPyGze_egLBI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/m/1HEAtCTQA8Qw0tYRBJEQ/evair-de-melo.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 13.502,89 Cdb banestes",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 20.000,00 Depósito a prazo sicoob",
+        "Depósito bancário em conta corrente no país R$ 1.202,07 Banco do brasil",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 52.000,00 Ford ecosport ano/modelo 2015",
+        "Quotas ou quinhões de capital R$ 2.206,24 Capital social sicoob",
+        "Depósito bancário em conta corrente no país R$ 4.140,71 Sicoob",
+        "Vgbl - vida gerador de benefício livre R$ 49.725,41 Banco do brasil"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Dant Nicchio",
+      "suplente1_partido": "PL",
+      "suplente2_nome": "Luiz Emanuel",
+      "suplente2_partido": "REPUBLICANOS",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Dant Nicchio",
+          "nome_urna": "Dant Nicchio",
+          "partido": "PL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Luiz Emanuel",
+          "nome_urna": "Luiz Emanuel",
+          "partido": "REPUBLICANOS"
+        }
+      ],
+      "receitas_total": 1500980,
+      "despesas_total": 1723093.47,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Republicanos",
+          "percentual": 83.28,
+          "documento": "07665132000181"
+        },
+        {
+          "nome": "Eutemar Antonio Venturim",
+          "percentual": 4,
+          "documento": "00530304783"
+        },
+        {
+          "nome": "Gustavo Probst",
+          "percentual": 3.33,
+          "documento": "01927898994"
+        },
+        {
+          "nome": "Jose Carlos Grossi",
+          "percentual": 2,
+          "documento": "53849582868"
+        },
+        {
+          "nome": "Ricardo Brunoro",
+          "percentual": 2,
+          "documento": "00147519764"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "mega comercio e servicos ltda",
+          "percentual": 46.43,
+          "documento": "11982842000102"
+        },
+        {
+          "nome": "ribeiro & sobreiro advogados",
+          "percentual": 17.41,
+          "documento": "17106223000130"
+        },
+        {
+          "nome": "adriano riva do carmo",
+          "percentual": 2.23,
+          "documento": "07727871745"
+        },
+        {
+          "nome": "plottec impressoes e projetos ltda",
+          "percentual": 2.18,
+          "documento": "49464815000110"
+        },
+        {
+          "nome": "11.492.990 jose grigorio de oliveira junior",
+          "percentual": 1.57,
+          "documento": "11492990000149"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-es-80002553265.jpeg",
+    "coletado_em": "2026-09-20T22:36:05.529Z"
+  },
+  {
+    "slug": "80002550187",
+    "nome": "Fabiano Contarato",
+    "partido": "PT",
+    "numero": 133,
+    "cargo": "senador",
+    "uf": "ES",
+    "foto_arquivo": "senador-es-80002550187",
+    "foto_url_original": "https://s2-g1.glbimg.com/DCEMgG77dZkSlgMks_y8qtolcFY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/I/xZeQBPTOyZVLAKsCe07g/fabiano-contarato.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/es/80002550187.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Evani Gari",
+    "suplente1_partido": "PT",
+    "suplente2_nome": "Neio Lúcio",
+    "suplente2_partido": "PCDOB",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Evani Gari",
+        "nome_urna": "Evani Gari",
+        "partido": "PT"
+      },
+      {
+        "ordem": 2,
+        "nome": "Neio Lúcio",
+        "nome_urna": "Neio Lúcio",
+        "partido": "PCDOB"
+      }
+    ],
+    "patrimonio_total": 1497217.78,
+    "receitas_total": 2338000,
+    "despesas_total": 1390348.07,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consórcio adquirido de canopus adm de consorcios s/a",
+        "valor": 44627.74
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Saldo em titulo de capitalização",
+        "valor": 13655.97
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Saldo em vgbl na brasilprev",
+        "valor": 18463.86
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento em vila velha-es",
+        "valor": 580997.54
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em conta poupança na cef",
+        "valor": 554.77
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depósito em cc no banco do brasil",
+        "valor": 0.01
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Imovel rural em santa leopoldina-es",
+        "valor": 415000
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Consórcio adquirido de canopus adm de consorcios s/a",
+        "valor": 85524.46
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em conta poupança no banestes",
+        "valor": 16.68
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Saldo em renda fixa no bb",
+        "valor": 171166.97
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em conta poupança no banco do brasil",
+        "valor": 14.76
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Saldo em aplicação no banestes",
+        "valor": 31195.02
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel hyundai",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel hyundai",
+        "valor": 136000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2014,
+        "cargo": "Senador",
+        "partido": "PR",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Helder Ignacio Salomao",
+        "percentual": 54.11,
+        "documento": "68594638000131"
+      },
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 42.77,
+        "documento": "00676262000170"
+      },
+      {
+        "nome": "Joao Carlos Coser",
+        "percentual": 2.14,
+        "documento": "68545850000109"
+      },
+      {
+        "nome": "Alexandre Lemos Junior",
+        "percentual": 0.71,
+        "documento": "11686742711"
+      },
+      {
+        "nome": "Andre Nantes Borges",
+        "percentual": 0.07,
+        "documento": "00176921729"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "felipe gaburro barbosa",
+        "percentual": 21.58,
+        "documento": "15131165000170"
+      },
+      {
+        "nome": "kayo alves ribeiro sociedade individual de advocacia",
+        "percentual": 16.36,
+        "documento": "18196233000177"
+      },
+      {
+        "nome": "candela estrategia e comunicacao ltda",
+        "percentual": 14.38,
+        "documento": "38731601000147"
+      },
+      {
+        "nome": "tiago amorim nascimento",
+        "percentual": 9.57,
+        "documento": "10144178729"
+      },
+      {
+        "nome": "penedo gestora de ativos ltda",
+        "percentual": 8.27,
+        "documento": "50897421000135"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Fabiano Contarato",
+      "partido_pagina": "PT",
+      "numero_pagina": 133,
+      "profissao": "Senador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/DCEMgG77dZkSlgMks_y8qtolcFY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/I/xZeQBPTOyZVLAKsCe07g/fabiano-contarato.jpeg",
+      "historico": [
+        {
+          "ano": 2014,
+          "cargo": "Senador",
+          "partido": "PR",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Consórcio não contemplado R$ 44.627,74 Consórcio adquirido de canopus adm de consorcios s/a",
+        "Outras aplicações e investimentos R$ 13.655,97 Saldo em titulo de capitalização",
+        "Vgbl - vida gerador de benefício livre R$ 18.463,86 Saldo em vgbl na brasilprev",
+        "Apartamento R$ 580.997,54 Apartamento em vila velha-es",
+        "Caderneta de poupança R$ 554,77 Saldo em conta poupança na cef",
+        "Depósito bancário em conta corrente no país R$ 0,01 Depósito em cc no banco do brasil",
+        "Terreno R$ 415.000,00 Imovel rural em santa leopoldina-es",
+        "Consórcio não contemplado R$ 85.524,46 Consórcio adquirido de canopus adm de consorcios s/a",
+        "Caderneta de poupança R$ 16,68 Saldo em conta poupança no banestes",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 171.166,97 Saldo em renda fixa no bb",
+        "Caderneta de poupança R$ 14,76 Saldo em conta poupança no banco do brasil",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 31.195,02 Saldo em aplicação no banestes",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 136.000,00 Automóvel hyundai"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Evani Gari",
+      "suplente1_partido": "PT",
+      "suplente2_nome": "Neio Lúcio",
+      "suplente2_partido": "PCDOB",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Evani Gari",
+          "nome_urna": "Evani Gari",
+          "partido": "PT"
+        },
+        {
+          "ordem": 2,
+          "nome": "Neio Lúcio",
+          "nome_urna": "Neio Lúcio",
+          "partido": "PCDOB"
+        }
+      ],
+      "receitas_total": 2338000,
+      "despesas_total": 1390348.07,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Helder Ignacio Salomao",
+          "percentual": 54.11,
+          "documento": "68594638000131"
+        },
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 42.77,
+          "documento": "00676262000170"
+        },
+        {
+          "nome": "Joao Carlos Coser",
+          "percentual": 2.14,
+          "documento": "68545850000109"
+        },
+        {
+          "nome": "Alexandre Lemos Junior",
+          "percentual": 0.71,
+          "documento": "11686742711"
+        },
+        {
+          "nome": "Andre Nantes Borges",
+          "percentual": 0.07,
+          "documento": "00176921729"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "felipe gaburro barbosa",
+          "percentual": 21.58,
+          "documento": "15131165000170"
+        },
+        {
+          "nome": "kayo alves ribeiro sociedade individual de advocacia",
+          "percentual": 16.36,
+          "documento": "18196233000177"
+        },
+        {
+          "nome": "candela estrategia e comunicacao ltda",
+          "percentual": 14.38,
+          "documento": "38731601000147"
+        },
+        {
+          "nome": "tiago amorim nascimento",
+          "percentual": 9.57,
+          "documento": "10144178729"
+        },
+        {
+          "nome": "penedo gestora de ativos ltda",
+          "percentual": 8.27,
+          "documento": "50897421000135"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-es-80002550187.jpeg",
+    "coletado_em": "2026-09-20T22:36:08.016Z"
+  },
+  {
+    "slug": "80002530022",
+    "nome": "Leonardo Monjardim",
+    "partido": "NOVO",
+    "numero": 300,
+    "cargo": "senador",
+    "uf": "ES",
+    "foto_arquivo": "senador-es-80002530022",
+    "foto_url_original": "https://s2-g1.glbimg.com/K-z0Sa2upQIxZJQkEVEYiH9299A=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/t/dD8AnKSla3VM5KYWSAIQ/leonardo-monjardim.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/es/80002530022.ghtml",
+    "profissao": "Vereador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Kítia Perciano",
+    "suplente1_partido": "NOVO",
+    "suplente2_nome": "Dr. Vinícius Fregonazzi",
+    "suplente2_partido": "NOVO",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Kítia Perciano",
+        "nome_urna": "Kítia Perciano",
+        "partido": "NOVO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Dr. Vinícius Fregonazzi",
+        "nome_urna": "Dr. Vinícius Fregonazzi",
+        "partido": "NOVO"
+      }
+    ],
+    "patrimonio_total": 222000,
+    "receitas_total": 150000,
+    "despesas_total": 47120,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "19/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno localizado em manguinhos, no município de serra",
+        "valor": 25000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel chevrolet s10 1998/1998",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel chevrolet s10 1998/1998",
+        "valor": 12000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa localizada no bairro fradinhos, em vitória",
+        "valor": 75000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel kia sorento",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel kia sorento 2014/2014",
+        "valor": 60000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa localizada em manguinhos, no município de serra",
+        "valor": 50000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Kitia Coimbra Perciano",
+        "percentual": 100,
+        "documento": "87607697772"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "fontana artes graficas ltda",
+        "percentual": 31.03,
+        "documento": "31287667000140"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 25.47,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "orion marketing e publicidade ltda",
+        "percentual": 21.22,
+        "documento": "68313893000169"
+      },
+      {
+        "nome": "22.355.064 mary pereira martins dias",
+        "percentual": 8.49,
+        "documento": "22355064000148"
+      },
+      {
+        "nome": "fas contabilidade ltda",
+        "percentual": 7.43,
+        "documento": "27646951000199"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Leonardo Monjardim",
+      "partido_pagina": "NOVO",
+      "numero_pagina": 300,
+      "profissao": "Vereador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/K-z0Sa2upQIxZJQkEVEYiH9299A=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/t/dD8AnKSla3VM5KYWSAIQ/leonardo-monjardim.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 25.000,00 Terreno localizado em manguinhos, no município de serra",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 12.000,00 Automóvel chevrolet s10 1998/1998",
+        "Casa R$ 75.000,00 Casa localizada no bairro fradinhos, em vitória",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 60.000,00 Automóvel kia sorento 2014/2014",
+        "Casa R$ 50.000,00 Casa localizada em manguinhos, no município de serra"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Kítia Perciano",
+      "suplente1_partido": "NOVO",
+      "suplente2_nome": "Dr. Vinícius Fregonazzi",
+      "suplente2_partido": "NOVO",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Kítia Perciano",
+          "nome_urna": "Kítia Perciano",
+          "partido": "NOVO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Dr. Vinícius Fregonazzi",
+          "nome_urna": "Dr. Vinícius Fregonazzi",
+          "partido": "NOVO"
+        }
+      ],
+      "receitas_total": 150000,
+      "despesas_total": 47120,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Kitia Coimbra Perciano",
+          "percentual": 100,
+          "documento": "87607697772"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "fontana artes graficas ltda",
+          "percentual": 31.03,
+          "documento": "31287667000140"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 25.47,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "orion marketing e publicidade ltda",
+          "percentual": 21.22,
+          "documento": "68313893000169"
+        },
+        {
+          "nome": "22.355.064 mary pereira martins dias",
+          "percentual": 8.49,
+          "documento": "22355064000148"
+        },
+        {
+          "nome": "fas contabilidade ltda",
+          "percentual": 7.43,
+          "documento": "27646951000199"
+        }
+      ],
+      "fonte_atualizado_em": "19/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-es-80002530022.jpeg",
+    "coletado_em": "2026-09-20T22:36:10.636Z"
+  },
+  {
+    "slug": "80002553269",
+    "nome": "Maguinha Malta",
+    "partido": "PL",
+    "numero": 222,
+    "cargo": "senador",
+    "uf": "ES",
+    "foto_arquivo": "senador-es-80002553269",
+    "foto_url_original": "https://s2-g1.glbimg.com/xYkNbniBeHwWlz7Kp0oJnnmFbng=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/5/dALeEATeS700zV0btpKQ/maguinha-malta.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/es/80002553269.ghtml",
+    "profissao": "Publicitário",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Cabo Cassotto",
+    "suplente1_partido": "PL",
+    "suplente2_nome": "Nerleo Caus",
+    "suplente2_partido": "PL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Cabo Cassotto",
+        "nome_urna": "Cabo Cassotto",
+        "partido": "PL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Nerleo Caus",
+        "nome_urna": "Nerleo Caus",
+        "partido": "PL"
+      }
+    ],
+    "patrimonio_total": 116534.48,
+    "receitas_total": 3800000,
+    "despesas_total": 3461103.55,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Xp corporate light fic de fif renda fixa credito privado longo prazo",
+        "valor": 3298
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Acoes - bbas3 - banco do brasil",
+        "valor": 6417.4
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Kappa advisory fundo de investimento financeiro em cotas de fi multimercado",
+        "valor": 2743
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Acoes - mxrf11",
+        "valor": 1041.05
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação renda fixa banco inter",
+        "valor": 9042.06
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Hashdex bitcoin fundo de investimento multimercado",
+        "valor": 500
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Saldo conta corrente e vgbl - em reais",
+        "valor": 4574.29
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Acoes - itsa4 - itausa",
+        "valor": 2542.54
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro em espécie",
+        "valor": 15000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em poupança banco inter",
+        "valor": 12202.64
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Acoes - bbdc3 - bradesco",
+        "valor": 1125.5
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Cdb banco inter",
+        "valor": 53200
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Trend cash classe de investimento em cotas de classes renda fixa simples",
+        "valor": 4848
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 100,
+        "documento": "08517423000195"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "rock jones filmes ltda",
+        "percentual": 16.76,
+        "documento": "39850132000148"
+      },
+      {
+        "nome": "grafica e editora jep ltda",
+        "percentual": 14.9,
+        "documento": "27252147000125"
+      },
+      {
+        "nome": "acropole estrategia ltda",
+        "percentual": 14.45,
+        "documento": "37829437000142"
+      },
+      {
+        "nome": "h p b de queiroz",
+        "percentual": 14.34,
+        "documento": "22605631000177"
+      },
+      {
+        "nome": "felipe osorio sociedade individual de advocacia",
+        "percentual": 10.69,
+        "documento": "02488651000106"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Maguinha Malta",
+      "partido_pagina": "PL",
+      "numero_pagina": 222,
+      "profissao": "Publicitário",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/xYkNbniBeHwWlz7Kp0oJnnmFbng=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/5/dALeEATeS700zV0btpKQ/maguinha-malta.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 3.298,00 Xp corporate light fic de fif renda fixa credito privado longo prazo",
+        "Quotas ou quinhões de capital R$ 6.417,40 Acoes - bbas3 - banco do brasil",
+        "Outras aplicações e investimentos R$ 2.743,00 Kappa advisory fundo de investimento financeiro em cotas de fi multimercado",
+        "Quotas ou quinhões de capital R$ 1.041,05 Acoes - mxrf11",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 9.042,06 Aplicação renda fixa banco inter",
+        "Outras aplicações e investimentos R$ 500,00 Hashdex bitcoin fundo de investimento multimercado",
+        "Vgbl - vida gerador de benefício livre R$ 4.574,29 Saldo conta corrente e vgbl - em reais",
+        "Quotas ou quinhões de capital R$ 2.542,54 Acoes - itsa4 - itausa",
+        "Dinheiro em espécie - moeda nacional R$ 15.000,00 Dinheiro em espécie",
+        "Depósito bancário em conta corrente no país R$ 12.202,64 Saldo em poupança banco inter",
+        "Quotas ou quinhões de capital R$ 1.125,50 Acoes - bbdc3 - bradesco",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 53.200,00 Cdb banco inter",
+        "Outras aplicações e investimentos R$ 4.848,00 Trend cash classe de investimento em cotas de classes renda fixa simples"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Cabo Cassotto",
+      "suplente1_partido": "PL",
+      "suplente2_nome": "Nerleo Caus",
+      "suplente2_partido": "PL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Cabo Cassotto",
+          "nome_urna": "Cabo Cassotto",
+          "partido": "PL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Nerleo Caus",
+          "nome_urna": "Nerleo Caus",
+          "partido": "PL"
+        }
+      ],
+      "receitas_total": 3800000,
+      "despesas_total": 3461103.55,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 100,
+          "documento": "08517423000195"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "rock jones filmes ltda",
+          "percentual": 16.76,
+          "documento": "39850132000148"
+        },
+        {
+          "nome": "grafica e editora jep ltda",
+          "percentual": 14.9,
+          "documento": "27252147000125"
+        },
+        {
+          "nome": "acropole estrategia ltda",
+          "percentual": 14.45,
+          "documento": "37829437000142"
+        },
+        {
+          "nome": "h p b de queiroz",
+          "percentual": 14.34,
+          "documento": "22605631000177"
+        },
+        {
+          "nome": "felipe osorio sociedade individual de advocacia",
+          "percentual": 10.69,
+          "documento": "02488651000106"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-es-80002553269.jpeg",
+    "coletado_em": "2026-09-20T22:36:13.168Z"
+  },
+  {
+    "slug": "80002538202",
+    "nome": "Marcos Do Val",
+    "partido": "AVANTE",
+    "numero": 700,
+    "cargo": "senador",
+    "uf": "ES",
+    "foto_arquivo": "senador-es-80002538202",
+    "foto_url_original": "https://s2-g1.glbimg.com/3Qp6sQDYmI46_14R0BHNgKZ7zwc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/I/dVQBkQSbWQqvyoMOOO4Q/marcos-do-val.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/es/80002538202.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Silvia Suassuna",
+    "suplente1_partido": "AVANTE",
+    "suplente2_nome": "Sargento Goes",
+    "suplente2_partido": "AVANTE",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Silvia Suassuna",
+        "nome_urna": "Silvia Suassuna",
+        "partido": "AVANTE"
+      },
+      {
+        "ordem": 2,
+        "nome": "Sargento Goes",
+        "nome_urna": "Sargento Goes",
+        "partido": "AVANTE"
+      }
+    ],
+    "patrimonio_total": 584138,
+    "receitas_total": 58228.25,
+    "despesas_total": 179462.53,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação financeira no banco do brasil",
+        "valor": 26174
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação financeira banco do brasil",
+        "valor": 26271
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento financiado com 3 quartos sendo 1 suite, sala, varanda, cozinha, área de serviço, uma vaga de garagem",
+        "valor": 530000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente banco do brasil",
+        "valor": 1693
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Eduardo Pinheiro Monteiro",
+        "percentual": 51.52,
+        "documento": "68530842000199"
+      },
+      {
+        "nome": "Ricardo De Freitas Netto",
+        "percentual": 17.17,
+        "documento": "07218512747"
+      },
+      {
+        "nome": "Armando Monteiro Da Fonseca Junior",
+        "percentual": 17.17,
+        "documento": "21496152824"
+      },
+      {
+        "nome": "Valdeir Da Silva Reis",
+        "percentual": 1.79,
+        "documento": "73449598791"
+      },
+      {
+        "nome": "Nicolau Emilio Covre",
+        "percentual": 1.72,
+        "documento": "31782957715"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "fontana artes graficas ltda",
+        "percentual": 88.22,
+        "documento": "31287667000140"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 11.14,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "leonardo c. de melo confeccoes",
+        "percentual": 0.21,
+        "documento": "37572800000197"
+      },
+      {
+        "nome": "fast patch solucoes em artes ltda",
+        "percentual": 0.18,
+        "documento": "18163369000180"
+      },
+      {
+        "nome": "godfer ferramentas, utensilios e eletronicos ltda",
+        "percentual": 0.13,
+        "documento": "40159791000383"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Marcos Do Val",
+      "partido_pagina": "AVANTE",
+      "numero_pagina": 700,
+      "profissao": "Senador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/3Qp6sQDYmI46_14R0BHNgKZ7zwc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/I/dVQBkQSbWQqvyoMOOO4Q/marcos-do-val.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outras aplicações e investimentos R$ 26.174,00 Aplicação financeira no banco do brasil",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 26.271,00 Aplicação financeira banco do brasil",
+        "Apartamento R$ 530.000,00 Apartamento financiado com 3 quartos sendo 1 suite, sala, varanda, cozinha, área de serviço, uma vaga de garagem",
+        "Depósito bancário em conta corrente no país R$ 1.693,00 Conta corrente banco do brasil"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Silvia Suassuna",
+      "suplente1_partido": "AVANTE",
+      "suplente2_nome": "Sargento Goes",
+      "suplente2_partido": "AVANTE",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Silvia Suassuna",
+          "nome_urna": "Silvia Suassuna",
+          "partido": "AVANTE"
+        },
+        {
+          "ordem": 2,
+          "nome": "Sargento Goes",
+          "nome_urna": "Sargento Goes",
+          "partido": "AVANTE"
+        }
+      ],
+      "receitas_total": 58228.25,
+      "despesas_total": 179462.53,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Eduardo Pinheiro Monteiro",
+          "percentual": 51.52,
+          "documento": "68530842000199"
+        },
+        {
+          "nome": "Ricardo De Freitas Netto",
+          "percentual": 17.17,
+          "documento": "07218512747"
+        },
+        {
+          "nome": "Armando Monteiro Da Fonseca Junior",
+          "percentual": 17.17,
+          "documento": "21496152824"
+        },
+        {
+          "nome": "Valdeir Da Silva Reis",
+          "percentual": 1.79,
+          "documento": "73449598791"
+        },
+        {
+          "nome": "Nicolau Emilio Covre",
+          "percentual": 1.72,
+          "documento": "31782957715"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "fontana artes graficas ltda",
+          "percentual": 88.22,
+          "documento": "31287667000140"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 11.14,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "leonardo c. de melo confeccoes",
+          "percentual": 0.21,
+          "documento": "37572800000197"
+        },
+        {
+          "nome": "fast patch solucoes em artes ltda",
+          "percentual": 0.18,
+          "documento": "18163369000180"
+        },
+        {
+          "nome": "godfer ferramentas, utensilios e eletronicos ltda",
+          "percentual": 0.13,
+          "documento": "40159791000383"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-es-80002538202.jpeg",
+    "coletado_em": "2026-09-20T22:36:15.593Z"
+  },
+  {
+    "slug": "80002549404",
+    "nome": "Professor Fabian",
+    "partido": "PSOL",
+    "numero": 500,
+    "cargo": "senador",
+    "uf": "ES",
+    "foto_arquivo": "senador-es-80002549404",
+    "foto_url_original": "https://s2-g1.glbimg.com/qq7vxhOTebXw-3bX9iksPz22QIE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/A/AQhABeSxeDek2viVR46A/professor-fabian.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/es/80002549404.ghtml",
+    "profissao": "Professor de ensino fundamental",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Toni Cabano",
+    "suplente1_partido": "PSOL",
+    "suplente2_nome": "Wilson Jr",
+    "suplente2_partido": "PSOL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Toni Cabano",
+        "nome_urna": "Toni Cabano",
+        "partido": "PSOL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Wilson Jr",
+        "nome_urna": "Wilson Jr",
+        "partido": "PSOL"
+      }
+    ],
+    "patrimonio_total": 264795.32,
+    "receitas_total": 84501,
+    "despesas_total": 33045.3,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo chevrolet tracker lt",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo chevrolet tracker lt 1.4 turbo",
+        "valor": 64795.32
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa ¿ av. serafim derenze, nº 01, santo antônio, vitória/es",
+        "valor": 200000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 94.67,
+        "documento": "06954942000195"
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 3.02,
+        "documento": "39586155000197"
+      },
+      {
+        "nome": "Antonio Elias Miranda Gomes",
+        "percentual": 1.18,
+        "documento": "42529786291"
+      },
+      {
+        "nome": "Eustaquio Francisco Xavier",
+        "percentual": 0.59,
+        "documento": "73524018734"
+      },
+      {
+        "nome": "Isabel Cristina Torres Barreira",
+        "percentual": 0.12,
+        "documento": "05733128852"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "karoline soares de carvalho",
+        "percentual": 27.24,
+        "documento": "14924173789"
+      },
+      {
+        "nome": "anderson souza dos santos",
+        "percentual": 27.24,
+        "documento": "05599693767"
+      },
+      {
+        "nome": "suely tavares de freitas",
+        "percentual": 12.1,
+        "documento": "05202513771"
+      },
+      {
+        "nome": "fabricio de souza zucoloto",
+        "percentual": 9.08,
+        "documento": "07094233736"
+      },
+      {
+        "nome": "helio maldonado jorge advogados associados",
+        "percentual": 7.26,
+        "documento": "21658404000147"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Professor Fabian",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 500,
+      "profissao": "Professor de ensino fundamental",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/qq7vxhOTebXw-3bX9iksPz22QIE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/A/AQhABeSxeDek2viVR46A/professor-fabian.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 64.795,32 Veículo chevrolet tracker lt 1.4 turbo",
+        "Casa R$ 200.000,00 Casa ¿ av. serafim derenze, nº 01, santo antônio, vitória/es"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Toni Cabano",
+      "suplente1_partido": "PSOL",
+      "suplente2_nome": "Wilson Jr",
+      "suplente2_partido": "PSOL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Toni Cabano",
+          "nome_urna": "Toni Cabano",
+          "partido": "PSOL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Wilson Jr",
+          "nome_urna": "Wilson Jr",
+          "partido": "PSOL"
+        }
+      ],
+      "receitas_total": 84501,
+      "despesas_total": 33045.3,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 94.67,
+          "documento": "06954942000195"
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 3.02,
+          "documento": "39586155000197"
+        },
+        {
+          "nome": "Antonio Elias Miranda Gomes",
+          "percentual": 1.18,
+          "documento": "42529786291"
+        },
+        {
+          "nome": "Eustaquio Francisco Xavier",
+          "percentual": 0.59,
+          "documento": "73524018734"
+        },
+        {
+          "nome": "Isabel Cristina Torres Barreira",
+          "percentual": 0.12,
+          "documento": "05733128852"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "karoline soares de carvalho",
+          "percentual": 27.24,
+          "documento": "14924173789"
+        },
+        {
+          "nome": "anderson souza dos santos",
+          "percentual": 27.24,
+          "documento": "05599693767"
+        },
+        {
+          "nome": "suely tavares de freitas",
+          "percentual": 12.1,
+          "documento": "05202513771"
+        },
+        {
+          "nome": "fabricio de souza zucoloto",
+          "percentual": 9.08,
+          "documento": "07094233736"
+        },
+        {
+          "nome": "helio maldonado jorge advogados associados",
+          "percentual": 7.26,
+          "documento": "21658404000147"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-es-80002549404.jpeg",
+    "coletado_em": "2026-09-20T22:36:18.121Z"
+  },
+  {
+    "slug": "80002551370",
+    "nome": "Renato Casagrande",
+    "partido": "PSB",
+    "numero": 400,
+    "cargo": "senador",
+    "uf": "ES",
+    "foto_arquivo": "senador-es-80002551370",
+    "foto_url_original": "https://s2-g1.glbimg.com/J_czzCjqQeu1pbjYh5K4v9Os__Q=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/J/QvBtA1SHq5jPDNWMo7PQ/renato-casagrande.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/es/80002551370.ghtml",
+    "profissao": "Engenheiro",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Marcelo Coelho",
+    "suplente1_partido": "PP",
+    "suplente2_nome": "Pastor Marcelo",
+    "suplente2_partido": "PDT",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Marcelo Coelho",
+        "nome_urna": "Marcelo Coelho",
+        "partido": "PP"
+      },
+      {
+        "ordem": 2,
+        "nome": "Pastor Marcelo",
+        "nome_urna": "Pastor Marcelo",
+        "partido": "PDT"
+      }
+    ],
+    "patrimonio_total": 3068203.91,
+    "receitas_total": 2579031.84,
+    "despesas_total": 2538822.53,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Participação 1/7",
+        "valor": 220714.28
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 1581884.25
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Outras aplicações e investimentos renda fixaq",
+        "valor": 164619.76
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Outras participações",
+        "valor": 1500
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 1099485.62
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psb",
+        "percentual": 93.12,
+        "documento": "01421697000137"
+      },
+      {
+        "nome": "Ricardo De Rezende Ferraco",
+        "percentual": 1.63,
+        "documento": "68599459000197"
+      },
+      {
+        "nome": "Camilo Cola Neto",
+        "percentual": 0.97,
+        "documento": "82179859104"
+      },
+      {
+        "nome": "Eutemar Antonio Venturim",
+        "percentual": 0.78,
+        "documento": "00530304783"
+      },
+      {
+        "nome": "Adilio Anholete",
+        "percentual": 0.39,
+        "documento": "12652531700"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "on content filmes ltda",
+        "percentual": 17.72,
+        "documento": "28548077000110"
+      },
+      {
+        "nome": "farol consultoria em publicidade ltda",
+        "percentual": 11.82,
+        "documento": "29813266000135"
+      },
+      {
+        "nome": "ribeiro & sobreiro advogados",
+        "percentual": 11.82,
+        "documento": "17106223000130"
+      },
+      {
+        "nome": "contexto - consultoria e pesquisa ltda.",
+        "percentual": 11.82,
+        "documento": "08264331000140"
+      },
+      {
+        "nome": "comunicacao visual art color ltda",
+        "percentual": 6.07,
+        "documento": "22054529000120"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Renato Casagrande",
+      "partido_pagina": "PSB",
+      "numero_pagina": 400,
+      "profissao": "Engenheiro",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/J_czzCjqQeu1pbjYh5K4v9Os__Q=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/J/QvBtA1SHq5jPDNWMo7PQ/renato-casagrande.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 220.714,28 Participação 1/7",
+        "Apartamento R$ 1.581.884,25 Apartamento",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 164.619,76 Outras aplicações e investimentos renda fixaq",
+        "Outras participações societárias R$ 1.500,00 Outras participações",
+        "Apartamento R$ 1.099.485,62 Apartamento"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Marcelo Coelho",
+      "suplente1_partido": "PP",
+      "suplente2_nome": "Pastor Marcelo",
+      "suplente2_partido": "PDT",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Marcelo Coelho",
+          "nome_urna": "Marcelo Coelho",
+          "partido": "PP"
+        },
+        {
+          "ordem": 2,
+          "nome": "Pastor Marcelo",
+          "nome_urna": "Pastor Marcelo",
+          "partido": "PDT"
+        }
+      ],
+      "receitas_total": 2579031.84,
+      "despesas_total": 2538822.53,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psb",
+          "percentual": 93.12,
+          "documento": "01421697000137"
+        },
+        {
+          "nome": "Ricardo De Rezende Ferraco",
+          "percentual": 1.63,
+          "documento": "68599459000197"
+        },
+        {
+          "nome": "Camilo Cola Neto",
+          "percentual": 0.97,
+          "documento": "82179859104"
+        },
+        {
+          "nome": "Eutemar Antonio Venturim",
+          "percentual": 0.78,
+          "documento": "00530304783"
+        },
+        {
+          "nome": "Adilio Anholete",
+          "percentual": 0.39,
+          "documento": "12652531700"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "on content filmes ltda",
+          "percentual": 17.72,
+          "documento": "28548077000110"
+        },
+        {
+          "nome": "farol consultoria em publicidade ltda",
+          "percentual": 11.82,
+          "documento": "29813266000135"
+        },
+        {
+          "nome": "ribeiro & sobreiro advogados",
+          "percentual": 11.82,
+          "documento": "17106223000130"
+        },
+        {
+          "nome": "contexto - consultoria e pesquisa ltda.",
+          "percentual": 11.82,
+          "documento": "08264331000140"
+        },
+        {
+          "nome": "comunicacao visual art color ltda",
+          "percentual": 6.07,
+          "documento": "22054529000120"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-es-80002551370.jpeg",
+    "coletado_em": "2026-09-20T22:36:20.583Z"
+  },
+  {
+    "slug": "80002552373",
+    "nome": "Rodney Miranda",
+    "partido": "PRTB",
+    "numero": 280,
+    "cargo": "senador",
+    "uf": "ES",
+    "foto_arquivo": "senador-es-80002552373",
+    "foto_url_original": "https://s2-g1.glbimg.com/QY6a_Fi1KshRbCxoJF1LX03d_T8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/T/5LfS8nTbm4mvfSYHqRBA/rodney-miranda.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/es/80002552373.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Patricia Neitzl",
+    "suplente1_partido": "PRTB",
+    "suplente2_nome": "Rodrigo Rodrigues",
+    "suplente2_partido": "PRTB",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Patricia Neitzl",
+        "nome_urna": "Patricia Neitzl",
+        "partido": "PRTB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Rodrigo Rodrigues",
+        "nome_urna": "Rodrigo Rodrigues",
+        "partido": "PRTB"
+      }
+    ],
+    "patrimonio_total": 4594177.63,
+    "receitas_total": 165000,
+    "despesas_total": 0,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote residencial - goiânia - go",
+        "valor": 832819.45
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo - ford ka - 2019",
+        "valor": 51865
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. 50%",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. 50% - veiculo - l200 triton - 2017/2018",
+        "valor": 67250
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote residencial - brasília - df",
+        "valor": 256882.63
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento chalé - maragogi - al",
+        "valor": 79285
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo - jeep - 1951",
+        "valor": 25000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo - nissan frontier - 2021",
+        "valor": 230000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 50% de imóvel rural - faina - go",
+        "valor": 1668048.5
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento financiado - vila velha - es",
+        "valor": 1289327.05
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital social de empresa",
+        "valor": 93700
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Prtb",
+        "percentual": 100,
+        "documento": "01272982000133"
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Rodney Miranda",
+      "partido_pagina": "PRTB",
+      "numero_pagina": 280,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/QY6a_Fi1KshRbCxoJF1LX03d_T8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/T/5LfS8nTbm4mvfSYHqRBA/rodney-miranda.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 832.819,45 Lote residencial - goiânia - go",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 51.865,00 Veículo - ford ka - 2019",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 67.250,00 50% - veiculo - l200 triton - 2017/2018",
+        "Terreno R$ 256.882,63 Lote residencial - brasília - df",
+        "Apartamento R$ 79.285,00 Apartamento chalé - maragogi - al",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 25.000,00 Veiculo - jeep - 1951",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 230.000,00 Veiculo - nissan frontier - 2021",
+        "Outros bens imóveis R$ 1.668.048,50 50% de imóvel rural - faina - go",
+        "Apartamento R$ 1.289.327,05 Apartamento financiado - vila velha - es",
+        "Quotas ou quinhões de capital R$ 93.700,00 Quotas de capital social de empresa"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Patricia Neitzl",
+      "suplente1_partido": "PRTB",
+      "suplente2_nome": "Rodrigo Rodrigues",
+      "suplente2_partido": "PRTB",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Patricia Neitzl",
+          "nome_urna": "Patricia Neitzl",
+          "partido": "PRTB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Rodrigo Rodrigues",
+          "nome_urna": "Rodrigo Rodrigues",
+          "partido": "PRTB"
+        }
+      ],
+      "receitas_total": 165000,
+      "despesas_total": 0,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Prtb",
+          "percentual": 100,
+          "documento": "01272982000133"
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-es-80002552373.jpeg",
+    "coletado_em": "2026-09-20T22:36:23.432Z"
+  },
+  {
+    "slug": "80002551368",
+    "nome": "Rose De Freitas",
+    "partido": "MDB",
+    "numero": 156,
+    "cargo": "senador",
+    "uf": "ES",
+    "foto_arquivo": "senador-es-80002551368",
+    "foto_url_original": "https://s2-g1.glbimg.com/qB2sbq5yGqCRkVMVip5FbN5DlxE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/M/RFMGdLTKA4B3vpaHBdRg/rose-de-freitas.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/es/80002551368.ghtml",
+    "profissao": "Produtor agropecuário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Erico",
+    "suplente1_partido": "MDB",
+    "suplente2_nome": "Marcus Vicente",
+    "suplente2_partido": "PP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Erico",
+        "nome_urna": "Erico",
+        "partido": "MDB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Marcus Vicente",
+        "nome_urna": "Marcus Vicente",
+        "partido": "PP"
+      }
+    ],
+    "patrimonio_total": 1110945.72,
+    "receitas_total": 3850000,
+    "despesas_total": 1805877.49,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Em fradinhos",
+        "valor": 160000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote em fradinhos",
+        "valor": 16376
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Banestes",
+        "valor": 1183.82
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Jeep",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Jeep",
+        "valor": 161000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento em são paulo",
+        "valor": 116774.36
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa em meaipe",
+        "valor": 44752
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta banco do brasil",
+        "valor": 0.25
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Tracker",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Tracker",
+        "valor": 91000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Consorcio não contemplado",
+        "valor": 67208.71
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Montana",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Montana",
+        "valor": 14786.74
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Sitio em domingos martins região do galo",
+        "valor": 30000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Caixa",
+        "valor": 2.02
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Sitio em domingos martins",
+        "valor": 112909.13
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Sala comercial",
+        "valor": 294952.69
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 100,
+        "documento": "00676213000138"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "marchesi comunicacao visual ltda",
+        "percentual": 27.71,
+        "documento": "56430805000120"
+      },
+      {
+        "nome": "grafitusa ltda",
+        "percentual": 5.36,
+        "documento": "05461408000184"
+      },
+      {
+        "nome": "66.400.428 rodrigo dos santos braganca",
+        "percentual": 5.33,
+        "documento": "66400428000130"
+      },
+      {
+        "nome": "lucas eduardo guimaraes campostrini vasconcelos",
+        "percentual": 2.77,
+        "documento": "11503684709"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 2.77,
+        "documento": "13347016000117"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Rose De Freitas",
+      "partido_pagina": "MDB",
+      "numero_pagina": 156,
+      "profissao": "Produtor agropecuário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/qB2sbq5yGqCRkVMVip5FbN5DlxE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/M/RFMGdLTKA4B3vpaHBdRg/rose-de-freitas.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 160.000,00 Em fradinhos",
+        "Terreno R$ 16.376,00 Lote em fradinhos",
+        "Depósito bancário em conta corrente no país R$ 1.183,82 Banestes",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 161.000,00 Jeep",
+        "Apartamento R$ 116.774,36 Apartamento em são paulo",
+        "Casa R$ 44.752,00 Casa em meaipe",
+        "Depósito bancário em conta corrente no país R$ 0,25 Conta banco do brasil",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 91.000,00 Tracker",
+        "Outras aplicações e investimentos R$ 67.208,71 Consorcio não contemplado",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 14.786,74 Montana",
+        "Outros bens imóveis R$ 30.000,00 Sitio em domingos martins região do galo",
+        "Depósito bancário em conta corrente no país R$ 2,02 Caixa",
+        "Outros bens imóveis R$ 112.909,13 Sitio em domingos martins",
+        "Sala ou conjunto R$ 294.952,69 Sala comercial"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Erico",
+      "suplente1_partido": "MDB",
+      "suplente2_nome": "Marcus Vicente",
+      "suplente2_partido": "PP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Erico",
+          "nome_urna": "Erico",
+          "partido": "MDB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Marcus Vicente",
+          "nome_urna": "Marcus Vicente",
+          "partido": "PP"
+        }
+      ],
+      "receitas_total": 3850000,
+      "despesas_total": 1805877.49,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 100,
+          "documento": "00676213000138"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "marchesi comunicacao visual ltda",
+          "percentual": 27.71,
+          "documento": "56430805000120"
+        },
+        {
+          "nome": "grafitusa ltda",
+          "percentual": 5.36,
+          "documento": "05461408000184"
+        },
+        {
+          "nome": "66.400.428 rodrigo dos santos braganca",
+          "percentual": 5.33,
+          "documento": "66400428000130"
+        },
+        {
+          "nome": "lucas eduardo guimaraes campostrini vasconcelos",
+          "percentual": 2.77,
+          "documento": "11503684709"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 2.77,
+          "documento": "13347016000117"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-es-80002551368.jpeg",
+    "coletado_em": "2026-09-20T22:36:25.981Z"
+  },
+  {
+    "slug": "80002552692",
+    "nome": "Sergio Meneguelli",
+    "partido": "PSD",
+    "numero": 556,
+    "cargo": "senador",
+    "uf": "ES",
+    "foto_arquivo": "senador-es-80002552692",
+    "foto_url_original": "https://s2-g1.glbimg.com/KVpQDnHnBRK4SBNwJtM4lcraUMk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/N/x8xdSPT0iHInwyGIYSlw/sergio-meneguelli.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/es/80002552692.ghtml",
+    "profissao": "Aposentado (exceto servidor público)",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Dr Pagotto",
+    "suplente1_partido": "PSD",
+    "suplente2_nome": "Dr Rogerio Resende",
+    "suplente2_partido": "PSD",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Dr Pagotto",
+        "nome_urna": "Dr Pagotto",
+        "partido": "PSD"
+      },
+      {
+        "ordem": 2,
+        "nome": "Dr Rogerio Resende",
+        "nome_urna": "Dr Rogerio Resende",
+        "partido": "PSD"
+      }
+    ],
+    "patrimonio_total": 1288865.04,
+    "receitas_total": 44314.96,
+    "despesas_total": 113804.96,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "19/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Kitnet no bairro glória - vila velha (bem recebido por herança)",
+        "valor": 80850
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro em espécie",
+        "valor": 30000
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis 17% de participação em 02 lojas em vila velha (participação recebida por herança)",
+        "valor": 64474.88
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento nº 402, localizado no edifício nossa senhora da penha, situado na rua adamastor salvador, nº 277, centro, colatina/es, inscrição municipal (iptu) nº 010109905110008",
+        "valor": 100000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em poupança",
+        "valor": 209853.99
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote no bairro adélia giulbert",
+        "valor": 50686.17
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Fiat strada ranch",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Fiat strada ranch",
+        "valor": 128000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento no bairro barro vermelho",
+        "valor": 625000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2010,
+        "cargo": "Deputado estadual",
+        "partido": "PSDB",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Antonio Carlos Favarato",
+        "percentual": 16.92,
+        "documento": "01977627781"
+      },
+      {
+        "nome": "Americo Rossi Netto",
+        "percentual": 15.38,
+        "documento": "04210338788"
+      },
+      {
+        "nome": "Jose Jorge Miranda Goncalves",
+        "percentual": 13.54,
+        "documento": "49316842700"
+      },
+      {
+        "nome": "Antonio Tadeu Guimaraes",
+        "percentual": 13.54,
+        "documento": "45125651753"
+      },
+      {
+        "nome": "Jose Paulo Da Costa",
+        "percentual": 11.28,
+        "documento": "85373605700"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "vt gargaro filmes ltda",
+        "percentual": 35.15,
+        "documento": "26349364000175"
+      },
+      {
+        "nome": "grafica sao silvano ltda",
+        "percentual": 17.57,
+        "documento": "36397026000162"
+      },
+      {
+        "nome": "amasv zarpa transmissao e armazenamento de dados s.a.",
+        "percentual": 10.33,
+        "documento": "20664790000117"
+      },
+      {
+        "nome": "11.787.170 emerson rogerio rebuli",
+        "percentual": 8.74,
+        "documento": "11787170000184"
+      },
+      {
+        "nome": "antonio carlos favarato",
+        "percentual": 6.59,
+        "documento": "01977627781"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Sergio Meneguelli",
+      "partido_pagina": "PSD",
+      "numero_pagina": 556,
+      "profissao": "Aposentado (exceto servidor público)",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/KVpQDnHnBRK4SBNwJtM4lcraUMk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/N/x8xdSPT0iHInwyGIYSlw/sergio-meneguelli.jpeg",
+      "historico": [
+        {
+          "ano": 2010,
+          "cargo": "Deputado estadual",
+          "partido": "PSDB",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Apartamento R$ 80.850,00 Kitnet no bairro glória - vila velha (bem recebido por herança)",
+        "Dinheiro em espécie - moeda nacional R$ 30.000,00 Dinheiro em espécie",
+        "Outros bens móveis R$ 64.474,88 17% de participação em 02 lojas em vila velha (participação recebida por herança)",
+        "Apartamento R$ 100.000,00 Apartamento nº 402, localizado no edifício nossa senhora da penha, situado na rua adamastor salvador, nº 277, centro, colatina/es, inscrição municipal (iptu) nº 010109905110008",
+        "Caderneta de poupança R$ 209.853,99 Saldo em poupança",
+        "Terreno R$ 50.686,17 Lote no bairro adélia giulbert",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 128.000,00 Fiat strada ranch",
+        "Apartamento R$ 625.000,00 Apartamento no bairro barro vermelho"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Dr Pagotto",
+      "suplente1_partido": "PSD",
+      "suplente2_nome": "Dr Rogerio Resende",
+      "suplente2_partido": "PSD",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Dr Pagotto",
+          "nome_urna": "Dr Pagotto",
+          "partido": "PSD"
+        },
+        {
+          "ordem": 2,
+          "nome": "Dr Rogerio Resende",
+          "nome_urna": "Dr Rogerio Resende",
+          "partido": "PSD"
+        }
+      ],
+      "receitas_total": 44314.96,
+      "despesas_total": 113804.96,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Antonio Carlos Favarato",
+          "percentual": 16.92,
+          "documento": "01977627781"
+        },
+        {
+          "nome": "Americo Rossi Netto",
+          "percentual": 15.38,
+          "documento": "04210338788"
+        },
+        {
+          "nome": "Jose Jorge Miranda Goncalves",
+          "percentual": 13.54,
+          "documento": "49316842700"
+        },
+        {
+          "nome": "Antonio Tadeu Guimaraes",
+          "percentual": 13.54,
+          "documento": "45125651753"
+        },
+        {
+          "nome": "Jose Paulo Da Costa",
+          "percentual": 11.28,
+          "documento": "85373605700"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "vt gargaro filmes ltda",
+          "percentual": 35.15,
+          "documento": "26349364000175"
+        },
+        {
+          "nome": "grafica sao silvano ltda",
+          "percentual": 17.57,
+          "documento": "36397026000162"
+        },
+        {
+          "nome": "amasv zarpa transmissao e armazenamento de dados s.a.",
+          "percentual": 10.33,
+          "documento": "20664790000117"
+        },
+        {
+          "nome": "11.787.170 emerson rogerio rebuli",
+          "percentual": 8.74,
+          "documento": "11787170000184"
+        },
+        {
+          "nome": "antonio carlos favarato",
+          "percentual": 6.59,
+          "documento": "01977627781"
+        }
+      ],
+      "fonte_atualizado_em": "19/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-es-80002552692.jpeg",
+    "coletado_em": "2026-09-20T22:36:28.507Z"
+  }
+]

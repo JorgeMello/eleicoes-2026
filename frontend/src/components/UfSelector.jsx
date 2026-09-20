@@ -79,9 +79,13 @@ export default function UfSelector({
             </div>
             <p className="text-xs text-slate-500 dark:text-slate-400">
               {ufSelecionada
-                ? `Candidaturas ao governo estadual registradas no ${ufSelecionada}`
+                ? cargo === 'senador'
+                  ? `Candidaturas ao Senado Federal registradas em ${ufSelecionada} (2 vagas em disputa)`
+                  : `Candidaturas ao governo estadual registradas no ${ufSelecionada}`
                 : regiaoAtiva !== 'Todas'
                 ? `Estatísticas e candidaturas consolidadas nos ${ufsFiltradas.length} estados da Região ${regiaoAtiva}`
+                : cargo === 'senador'
+                ? 'Selecione uma região ou estado para auditar as 54 vagas de Senador e seus suplentes'
                 : 'Selecione uma região ou estado para auditar as contas e bens locais'}
             </p>
           </div>

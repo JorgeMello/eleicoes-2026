@@ -9,11 +9,14 @@ Esta plataforma pública e sem fins lucrativos consolida, audita e apresenta dad
 
 ## Acesso Web (Rotas Públicas da Interface)
 - Home / Candidatos Presidência: https://eleicoes.osidosos.com.br/
+- Governadores por Estado (27 UFs): https://eleicoes.osidosos.com.br/governador?uf={UF}
+- Senadores por Estado (Renovação de 2/3 · 54 Vagas): https://eleicoes.osidosos.com.br/senador?uf={UF}
 - Perfil do Candidato: https://eleicoes.osidosos.com.br/candidato/{slug}
+  - Card da Chapa: Titular e Vice (Executivo) ou Titular + 1º e 2º Suplentes (Senado Federal)
   - Aba Bens: Declaração oficial de bens entregue ao TSE
-  - Aba Contas: Limites legais de gastos, doadores e despesas
-- Comparador Direto de Candidatos: https://eleicoes.osidosos.com.br/presidente/comparar?a={slugA}&b={slugB}
-- Rankings Gerais de Patrimônio e Finanças: https://eleicoes.osidosos.com.br/rankings
+  - Aba Contas: Limites legais de gastos por UF, doadores, despesas e Card de Origem dos Recursos
+- Comparador Direto de Candidatos: https://eleicoes.osidosos.com.br/{cargo}/comparar?uf={UF}&a={slugA}&b={slugB}
+- Rankings Gerais de Patrimônio e Finanças: https://eleicoes.osidosos.com.br/rankings?cargo={cargo}&uf={UF}
 - Pesquisas de Opinião Registradas: https://eleicoes.osidosos.com.br/pesquisas
 - Manual do Cidadão e Auditoria TSE: https://eleicoes.osidosos.com.br/manual
 
@@ -21,9 +24,11 @@ Esta plataforma pública e sem fins lucrativos consolida, audita e apresenta dad
 A API responde com cabeçalhos CORS liberados, Cache-Control e formatação JSON padronizada:
 
 ### 1. Listagem de Candidatos
-GET https://eleicoes.osidosos.com.br/backend/public/index.php/api/candidatos?cargo=presidente
+GET https://eleicoes.osidosos.com.br/backend/public/index.php/api/candidatos?cargo={cargo}&uf={UF}
 Parâmetros aceitos:
 - cargo: presidente | governador | senador | dep-federal | dep-estadual
+- uf: sigla da Unidade Federativa (ex: SP, RJ, RS, MG, BA)
+- regiao: Macrorregião (Sudeste, Sul, Nordeste, Centro-Oeste, Norte)
 - busca: termo textual (nome ou número de urna)
 - partido: sigla da legenda partidária (ex: PT, PL, NOVO, DC, AVANTE)
 - ordenar: nome | numero | patrimonio_desc | patrimonio_asc
@@ -32,7 +37,9 @@ Parâmetros aceitos:
 ### 2. Detalhes do Candidato, Auditoria TSE e Contas
 GET https://eleicoes.osidosos.com.br/backend/public/index.php/api/candidatos/{slug}
 Retorna:
-- candidato: dados cadastrais (nome, partido, número, vice, plano de governo, limites legais)
+- candidato: dados cadastrais (nome, partido, número, vice, ocupação, limites legais)
+- suplentes: relação do 1º e 2º suplentes de senador (ordem, nome, partido, ocupação)
+- chapa: objeto estruturado com titular e suplentes/vice
 - tse: auditoria oficial homologada (status geral, situação do registro, CNPJ da campanha)
 - bens: lista completa de itens patrimoniais declarados
 - historico: candidaturas anteriores (anos, cargos, partidos e resultados)

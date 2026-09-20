@@ -47,13 +47,35 @@ export async function coletarPerfil(page, item) {
       .filter(Boolean)
       .filter((t) => t.length > 3 && t.length < 300 && !/Ver perfil|Ver mais|Destaques|Pesquisas/i.test(t));
 
-    // Vice
+    // Vice (Presidente ou Governador)
     let vice_nome = null;
     let vice_partido = null;
-    const viceM = body.match(/Vice-presidente\s+([A-Za-zÀ-ú .]+?)\s+([A-ZÇÃÕÉ]{2,15})/);
+    const viceM = body.match(/Vice-(?:presidente|governador)\s+([A-Za-zÀ-ú .'-]+?)\s+([A-ZÇÃÕÉ]{2,15})/i);
     if (viceM) {
       vice_nome = viceM[1].trim();
       vice_partido = viceM[2].trim();
+    }
+
+    // Suplentes (Senador: 1º e 2º Suplentes)
+    let suplente1_nome = null;
+    let suplente1_partido = null;
+    let suplente2_nome = null;
+    let suplente2_partido = null;
+
+    const sup1M =
+      body.match(/1[º°]\s*Suplente\s*[\n\r]+\s*([^\n\r]+?)\s*[\n\r]+\s*([A-ZÇÃÕÉ]{2,15})/i) ||
+      body.match(/1[º°]\s*Suplente\s+([A-Za-zÀ-ú .'-]+?)\s+([A-ZÇÃÕÉ]{2,15})/i);
+    if (sup1M) {
+      suplente1_nome = sup1M[1].trim();
+      suplente1_partido = sup1M[2].trim();
+    }
+
+    const sup2M =
+      body.match(/2[º°]\s*Suplente\s*[\n\r]+\s*([^\n\r]+?)\s*[\n\r]+\s*([A-ZÇÃÕÉ]{2,15})/i) ||
+      body.match(/2[º°]\s*Suplente\s+([A-Za-zÀ-ú .'-]+?)\s+([A-ZÇÃÕÉ]{2,15})/i);
+    if (sup2M) {
+      suplente2_nome = sup2M[1].trim();
+      suplente2_partido = sup2M[2].trim();
     }
 
     // Rankings: bloco "Nome [quebra] CNPJ/CPF nº [quebra] R$ valor (pct%)".
@@ -139,6 +161,14 @@ export async function coletarPerfil(page, item) {
       bens_brutos: bensLis.slice(0, 60),
       vice_nome,
       vice_partido,
+      suplente1_nome,
+      suplente1_partido,
+      suplente2_nome,
+      suplente2_partido,
+      suplentes: [
+        ...(suplente1_nome ? [{ ordem: 1, nome: suplente1_nome, nome_urna: suplente1_nome, partido: suplente1_partido }] : []),
+        ...(suplente2_nome ? [{ ordem: 2, nome: suplente2_nome, nome_urna: suplente2_nome, partido: suplente2_partido }] : []),
+      ],
       receitas_total,
       despesas_total,
       limite_gastos,
@@ -175,6 +205,11 @@ export async function coletarPerfil(page, item) {
     plano_governo_url: dados.plano_governo_url,
     vice_nome: dados.vice_nome,
     vice_partido: dados.vice_partido,
+    suplente1_nome: dados.suplente1_nome,
+    suplente1_partido: dados.suplente1_partido,
+    suplente2_nome: dados.suplente2_nome,
+    suplente2_partido: dados.suplente2_partido,
+    suplentes: dados.suplentes || [],
     patrimonio_total, // soma dos bens (G1); TSE pode refinar via enriquecimento
     receitas_total: dados.receitas_total,
     despesas_total: dados.despesas_total,

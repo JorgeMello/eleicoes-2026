@@ -5,6 +5,7 @@ namespace App\Commands;
 use App\Models\BemModel;
 use App\Models\CandidaturaAnteriorModel;
 use App\Models\CandidatoModel;
+use App\Models\CandidatoSuplenteModel;
 use App\Models\DoadorModel;
 use App\Models\GastoModel;
 use CodeIgniter\CLI\BaseCommand;
@@ -42,6 +43,7 @@ class EleicoesImportar extends BaseCommand
         $histModel       = new CandidaturaAnteriorModel();
         $doadorModel     = new DoadorModel();
         $gastoModel      = new GastoModel();
+        $suplenteModel   = new CandidatoSuplenteModel();
 
         $ok = 0;
         foreach ($lote as $item) {
@@ -74,7 +76,7 @@ class EleicoesImportar extends BaseCommand
             if ($existente) {
                 $candidatoModel->update((int) $existente['id'], $dados);
                 $id = (int) $existente['id'];
-                foreach ([$bemModel, $histModel, $doadorModel, $gastoModel] as $rel) {
+                foreach ([$bemModel, $histModel, $doadorModel, $gastoModel, $suplenteModel] as $rel) {
                     $rel->where('candidato_id', $id)->delete();
                 }
             } else {
@@ -91,6 +93,49 @@ class EleicoesImportar extends BaseCommand
             }
             foreach ($item['gastos'] ?? [] as $g) {
                 $gastoModel->insert(['candidato_id' => $id, 'nome' => $g['nome'] ?? '—', 'documento' => $g['documento'] ?? null, 'valor' => $g['valor'] ?? null, 'percentual' => $g['percentual'] ?? null]);
+            }
+
+            // Suplentes de Senador
+            if (!empty($item['suplentes']) && is_array($item['suplentes'])) {
+                foreach ($item['suplentes'] as $s) {
+                    $suplenteModel->insert([
+                        'candidato_id'      => $id,
+                        'ordem'             => (int) ($s['ordem'] ?? 1),
+                        'nome_completo'     => $s['nome_completo'] ?? ($s['nome'] ?? '—'),
+                        'nome_urna'         => $s['nome_urna'] ?? ($s['nome'] ?? '—'),
+                        'partido'           => $s['partido'] ?? null,
+                        'numero_urna'       => $s['numero_urna'] ?? null,
+                        'situacao_registro' => $s['situacao_registro'] ?? 'Deferido',
+                        'foto_url'          => $s['foto_url'] ?? null,
+                        'cpf_mascarado'     => $s['cpf_mascarado'] ?? null,
+                        'ocupacao'          => $s['ocupacao'] ?? null,
+                        'total_bens'        => $s['total_bens'] ?? 0.00,
+                        'processo_tse'      => $s['processo_tse'] ?? null,
+                    ]);
+                }
+            } else {
+                if (!empty($item['suplente1_nome'])) {
+                    $suplenteModel->insert([
+                        'candidato_id'      => $id,
+                        'ordem'             => 1,
+                        'nome_completo'     => $item['suplente1_nome'],
+                        'nome_urna'         => $item['suplente1_nome_urna'] ?? $item['suplente1_nome'],
+                        'partido'           => $item['suplente1_partido'] ?? $item['partido'] ?? null,
+                        'situacao_registro' => 'Deferido',
+                        'ocupacao'          => $item['suplente1_ocupacao'] ?? null,
+                    ]);
+                }
+                if (!empty($item['suplente2_nome'])) {
+                    $suplenteModel->insert([
+                        'candidato_id'      => $id,
+                        'ordem'             => 2,
+                        'nome_completo'     => $item['suplente2_nome'],
+                        'nome_urna'         => $item['suplente2_nome_urna'] ?? $item['suplente2_nome'],
+                        'partido'           => $item['suplente2_partido'] ?? $item['partido'] ?? null,
+                        'situacao_registro' => 'Deferido',
+                        'ocupacao'          => $item['suplente2_ocupacao'] ?? null,
+                    ]);
+                }
             }
             $ok++;
             CLI::write("OK: {$item['slug']}");

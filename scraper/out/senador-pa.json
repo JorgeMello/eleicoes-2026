@@ -1,0 +1,2554 @@
+[
+  {
+    "slug": "140002553852",
+    "nome": "Breno Guimarães",
+    "partido": "MOB",
+    "numero": 333,
+    "cargo": "senador",
+    "uf": "PA",
+    "foto_arquivo": "senador-pa-140002553852",
+    "foto_url_original": "https://s2-g1.glbimg.com/0MKTaMygxex-7HdaA9O8pCv2uCk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/P/QCBfv0RKSA7KBT0cZ7lg/breno-guimaraes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pa/140002553852.ghtml",
+    "profissao": "Servidor público estadual",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Dr Telmo Marinho",
+    "suplente1_partido": "MOBILIZA",
+    "suplente2_nome": "Roseli Malcher",
+    "suplente2_partido": "MOBILIZA",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Dr Telmo Marinho",
+        "nome_urna": "Dr Telmo Marinho",
+        "partido": "MOBILIZA"
+      },
+      {
+        "ordem": 2,
+        "nome": "Roseli Malcher",
+        "nome_urna": "Roseli Malcher",
+        "partido": "MOBILIZA"
+      }
+    ],
+    "patrimonio_total": 561000,
+    "receitas_total": 3900,
+    "despesas_total": 6355.24,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Aplicação + saldo bancario banpara",
+        "valor": 45000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno não edificado na cidade de salinopolis-pa",
+        "valor": 100000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hyundai/creta com alienação fiduciária",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Hyundai/creta com alienação fiduciária",
+        "valor": 111000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento financiado no condominio rio das pedras3",
+        "valor": 300000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Aplicação mais saldo banco itau",
+        "valor": 5000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Breno Ramos Guimaraes Martins",
+        "percentual": 100,
+        "documento": "66562449200"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "luiz paulo ramos guimaraes",
+        "percentual": 25.65,
+        "documento": "08886776268"
+      },
+      {
+        "nome": "marcos antonio da silva",
+        "percentual": 25.51,
+        "documento": "31956858253"
+      },
+      {
+        "nome": "alex marcelo marques",
+        "percentual": 25.51,
+        "documento": "69469261291"
+      },
+      {
+        "nome": "e q s comercio e servicos ltda",
+        "percentual": 16.52,
+        "documento": "55948322000159"
+      },
+      {
+        "nome": "elyon solucoes graficas ltda",
+        "percentual": 6.78,
+        "documento": "07046094000189"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Breno Guimarães",
+      "partido_pagina": "MOB",
+      "numero_pagina": 333,
+      "profissao": "Servidor público estadual",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/0MKTaMygxex-7HdaA9O8pCv2uCk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/P/QCBfv0RKSA7KBT0cZ7lg/breno-guimaraes.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Depósito bancário em conta corrente no país R$ 45.000,00 Aplicação + saldo bancario banpara",
+        "Terreno R$ 100.000,00 Terreno não edificado na cidade de salinopolis-pa",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 111.000,00 Hyundai/creta com alienação fiduciária",
+        "Apartamento R$ 300.000,00 Apartamento financiado no condominio rio das pedras3",
+        "Depósito bancário em conta corrente no país R$ 5.000,00 Aplicação mais saldo banco itau"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Dr Telmo Marinho",
+      "suplente1_partido": "MOBILIZA",
+      "suplente2_nome": "Roseli Malcher",
+      "suplente2_partido": "MOBILIZA",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Dr Telmo Marinho",
+          "nome_urna": "Dr Telmo Marinho",
+          "partido": "MOBILIZA"
+        },
+        {
+          "ordem": 2,
+          "nome": "Roseli Malcher",
+          "nome_urna": "Roseli Malcher",
+          "partido": "MOBILIZA"
+        }
+      ],
+      "receitas_total": 3900,
+      "despesas_total": 6355.24,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Breno Ramos Guimaraes Martins",
+          "percentual": 100,
+          "documento": "66562449200"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "luiz paulo ramos guimaraes",
+          "percentual": 25.65,
+          "documento": "08886776268"
+        },
+        {
+          "nome": "marcos antonio da silva",
+          "percentual": 25.51,
+          "documento": "31956858253"
+        },
+        {
+          "nome": "alex marcelo marques",
+          "percentual": 25.51,
+          "documento": "69469261291"
+        },
+        {
+          "nome": "e q s comercio e servicos ltda",
+          "percentual": 16.52,
+          "documento": "55948322000159"
+        },
+        {
+          "nome": "elyon solucoes graficas ltda",
+          "percentual": 6.78,
+          "documento": "07046094000189"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pa-140002553852.jpeg",
+    "coletado_em": "2026-09-20T22:36:59.758Z"
+  },
+  {
+    "slug": "140002538404",
+    "nome": "Celso Sabino",
+    "partido": "PDT",
+    "numero": 123,
+    "cargo": "senador",
+    "uf": "PA",
+    "foto_arquivo": "senador-pa-140002538404",
+    "foto_url_original": "https://s2-g1.glbimg.com/fmxSn9dJUyXyrQepApfc44T3Ihw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/p/aAamA3RjiECBMcPXLT5g/celso-sabino.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pa/140002538404.ghtml",
+    "profissao": "Servidor público estadual",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Italo Mácola",
+    "suplente1_partido": "PDT",
+    "suplente2_nome": "Nei Teixeira",
+    "suplente2_partido": "PDT",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Italo Mácola",
+        "nome_urna": "Italo Mácola",
+        "partido": "PDT"
+      },
+      {
+        "ordem": 2,
+        "nome": "Nei Teixeira",
+        "nome_urna": "Nei Teixeira",
+        "partido": "PDT"
+      }
+    ],
+    "patrimonio_total": 7356806.89,
+    "receitas_total": 3529121,
+    "despesas_total": 1302748.6,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. sw4 24/24",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. sw4 24/24 - renavam xxxxxxxxxxx",
+        "valor": 350000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Ap ed way batista campos - rua timbiras, bairro batista campos, belém/pa",
+        "valor": 230000
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Xpin11 - xp industrial fdo inv imob - fii",
+        "valor": 27313.4
+      },
+      {
+        "tipo": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado",
+        "descricao": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado Trend inb fundo de investimento em cotas de fi renda fixa simples",
+        "valor": 3410.76
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros) cdb",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) cdb - banco do brasil",
+        "valor": 1147261.07
+      },
+      {
+        "tipo": "Outros bens imóveis fazenda/sítio, zona rural, inhangapi/pa (área",
+        "descricao": "Outros bens imóveis fazenda/sítio, zona rural, inhangapi/pa (área 28,2 ha)",
+        "valor": 100000
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário brcr11",
+        "descricao": "Fundo de investimento imobiliário brcr11 - fdo inv imob fii btg pactual corp. office fund",
+        "valor": 28603.26
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país informado por cnpj",
+        "descricao": "Depósito bancário em conta corrente no país informado por cnpj 33.264.668/0001-03",
+        "valor": 3166.24
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Sala comercial - av. gov. josé malcher, centro emp. acrópoli, nazaré, belém/pa",
+        "valor": 200000
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Sapr11 - cia saneamento do paraná (sanepar)",
+        "valor": 18060
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Snci11 - suno recebíveis imobiliários fdo inv imob",
+        "valor": 57008.34
+      },
+      {
+        "tipo": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado",
+        "descricao": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado Caixa fundo mutuo de privatizacao - fgts vale do rio doce i",
+        "valor": 641
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Sala comercial cond. rogelio fernandez - trav. quintino bocaiúva, cremação, belém/pa",
+        "valor": 167763.04
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Multiplo capital ltda",
+        "valor": 1100000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Chacaras construtora status - rod. augusto montenegro, parque verde, belém/pa",
+        "valor": 122000
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Xplg11 - xp log fdo inv imob - fii",
+        "valor": 60835.12
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Ap ed way batista campos - rua timbiras, bairro batista campos, belém - pará",
+        "valor": 230000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Quota terreno cidade nova - estrada da vila nova, ananindeua/pa",
+        "valor": 30000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Xp investimentos cctvm s/a - ag. xxx, conta xxxxxx-x",
+        "valor": 4185.09
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda estrangeira Moeda estrangeira",
+        "valor": 22000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Ed way batista campos - rua timbiras, bairro batista campos, belém/pa",
+        "valor": 230000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Quota terreno icui - av. independência, icuí-guajará, ananindeua/pa",
+        "valor": 30000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Ed piaza dei lacqua - trav. apinagés, batista campos, belém/pa",
+        "valor": 1140000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Caixa - conta xxxxxxxxxxxx-x (recuperado da conta antiga)",
+        "valor": 2543.45
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Sala comercial - rod. augusto montenegro, parque office, parque verde, belém/pa",
+        "valor": 235000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota sw4 preta",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota sw4 preta 2021/2021 - renavam xxxxxxxxxxx",
+        "valor": 300000
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Petr4 - petróleo brasileiro s.a. (petrobras)",
+        "valor": 171.5
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Sala comercial - rod. br-316, living next office, atalaia, ananindeua/pa",
+        "valor": 135430.42
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Sala comercial cond. rogelio fernandez (erika) - trav. quintino bocaiúva, cremação, belém/pa",
+        "valor": 167000
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Vale3 - vale s.a.",
+        "valor": 106211.6
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Disb34 - the walt disney company (bdr)",
+        "valor": 8202.6
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Chacara benfica - cond. marina jaguari, benevides/pa",
+        "valor": 1000000
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Especie - dinheiro em caixa",
+        "valor": 100000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pdt",
+        "percentual": 85.01,
+        "documento": "00719575000169"
+      },
+      {
+        "nome": "Cleomar Carneiro De Moura",
+        "percentual": 5.67,
+        "documento": "06340237215"
+      },
+      {
+        "nome": "Flavio Heleno Pereira De Sousa",
+        "percentual": 2.83,
+        "documento": "62534327291"
+      },
+      {
+        "nome": "Marcos Alberto Pereira Santos",
+        "percentual": 1.98,
+        "documento": "96067845172"
+      },
+      {
+        "nome": "Etelvana Alvarez Paulino Iacovacci",
+        "percentual": 0.99,
+        "documento": "48700690163"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "c. a. lopes de sousa ltda",
+        "percentual": 23.03,
+        "documento": "40821516000111"
+      },
+      {
+        "nome": "airmedplan servicos ltda",
+        "percentual": 17.81,
+        "documento": "15709998000175"
+      },
+      {
+        "nome": "c. kzan",
+        "percentual": 17.04,
+        "documento": "17940670000190"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 9.98,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "five filmes & producoes ltda",
+        "percentual": 9.21,
+        "documento": "18918947000141"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Celso Sabino",
+      "partido_pagina": "PDT",
+      "numero_pagina": 123,
+      "profissao": "Servidor público estadual",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/fmxSn9dJUyXyrQepApfc44T3Ihw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/p/aAamA3RjiECBMcPXLT5g/celso-sabino.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 350.000,00 sw4 24/24 - renavam xxxxxxxxxxx",
+        "Apartamento R$ 230.000,00 Ap ed way batista campos - rua timbiras, bairro batista campos, belém/pa",
+        "Fundo de investimento imobiliário R$ 27.313,40 Xpin11 - xp industrial fdo inv imob - fii",
+        "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado R$ 3.410,76 Trend inb fundo de investimento em cotas de fi renda fixa simples",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 1.147.261,07 cdb - banco do brasil",
+        "Outros bens imóveis R$ 100.000,00 fazenda/sítio, zona rural, inhangapi/pa (área 28,2 ha)",
+        "Fundo de investimento imobiliário R$ 28.603,26 brcr11 - fdo inv imob fii btg pactual corp. office fund",
+        "Depósito bancário em conta corrente no país R$ 3.166,24 informado por cnpj 33.264.668/0001-03",
+        "Outros bens imóveis R$ 200.000,00 Sala comercial - av. gov. josé malcher, centro emp. acrópoli, nazaré, belém/pa",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 18.060,00 Sapr11 - cia saneamento do paraná (sanepar)",
+        "Fundo de investimento imobiliário R$ 57.008,34 Snci11 - suno recebíveis imobiliários fdo inv imob",
+        "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado R$ 641,00 Caixa fundo mutuo de privatizacao - fgts vale do rio doce i",
+        "Outros bens imóveis R$ 167.763,04 Sala comercial cond. rogelio fernandez - trav. quintino bocaiúva, cremação, belém/pa",
+        "Quotas ou quinhões de capital R$ 1.100.000,00 Multiplo capital ltda",
+        "Outros bens imóveis R$ 122.000,00 Chacaras construtora status - rod. augusto montenegro, parque verde, belém/pa",
+        "Fundo de investimento imobiliário R$ 60.835,12 Xplg11 - xp log fdo inv imob - fii",
+        "Apartamento R$ 230.000,00 Ap ed way batista campos - rua timbiras, bairro batista campos, belém - pará",
+        "Outros bens imóveis R$ 30.000,00 Quota terreno cidade nova - estrada da vila nova, ananindeua/pa",
+        "Depósito bancário em conta corrente no país R$ 4.185,09 Xp investimentos cctvm s/a - ag. xxx, conta xxxxxx-x",
+        "Dinheiro em espécie - moeda estrangeira R$ 22.000,00 Moeda estrangeira",
+        "Apartamento R$ 230.000,00 Ed way batista campos - rua timbiras, bairro batista campos, belém/pa",
+        "Outros bens imóveis R$ 30.000,00 Quota terreno icui - av. independência, icuí-guajará, ananindeua/pa",
+        "Apartamento R$ 1.140.000,00 Ed piaza dei lacqua - trav. apinagés, batista campos, belém/pa",
+        "Depósito bancário em conta corrente no país R$ 2.543,45 Caixa - conta xxxxxxxxxxxx-x (recuperado da conta antiga)",
+        "Outros bens imóveis R$ 235.000,00 Sala comercial - rod. augusto montenegro, parque office, parque verde, belém/pa",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 300.000,00 Toyota sw4 preta 2021/2021 - renavam xxxxxxxxxxx",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 171,50 Petr4 - petróleo brasileiro s.a. (petrobras)",
+        "Outros bens imóveis R$ 135.430,42 Sala comercial - rod. br-316, living next office, atalaia, ananindeua/pa",
+        "Outros bens imóveis R$ 167.000,00 Sala comercial cond. rogelio fernandez (erika) - trav. quintino bocaiúva, cremação, belém/pa",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 106.211,60 Vale3 - vale s.a.",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 8.202,60 Disb34 - the walt disney company (bdr)",
+        "Outros bens imóveis R$ 1.000.000,00 Chacara benfica - cond. marina jaguari, benevides/pa",
+        "Dinheiro em espécie - moeda nacional R$ 100.000,00 Especie - dinheiro em caixa"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Italo Mácola",
+      "suplente1_partido": "PDT",
+      "suplente2_nome": "Nei Teixeira",
+      "suplente2_partido": "PDT",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Italo Mácola",
+          "nome_urna": "Italo Mácola",
+          "partido": "PDT"
+        },
+        {
+          "ordem": 2,
+          "nome": "Nei Teixeira",
+          "nome_urna": "Nei Teixeira",
+          "partido": "PDT"
+        }
+      ],
+      "receitas_total": 3529121,
+      "despesas_total": 1302748.6,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pdt",
+          "percentual": 85.01,
+          "documento": "00719575000169"
+        },
+        {
+          "nome": "Cleomar Carneiro De Moura",
+          "percentual": 5.67,
+          "documento": "06340237215"
+        },
+        {
+          "nome": "Flavio Heleno Pereira De Sousa",
+          "percentual": 2.83,
+          "documento": "62534327291"
+        },
+        {
+          "nome": "Marcos Alberto Pereira Santos",
+          "percentual": 1.98,
+          "documento": "96067845172"
+        },
+        {
+          "nome": "Etelvana Alvarez Paulino Iacovacci",
+          "percentual": 0.99,
+          "documento": "48700690163"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "c. a. lopes de sousa ltda",
+          "percentual": 23.03,
+          "documento": "40821516000111"
+        },
+        {
+          "nome": "airmedplan servicos ltda",
+          "percentual": 17.81,
+          "documento": "15709998000175"
+        },
+        {
+          "nome": "c. kzan",
+          "percentual": 17.04,
+          "documento": "17940670000190"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 9.98,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "five filmes & producoes ltda",
+          "percentual": 9.21,
+          "documento": "18918947000141"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pa-140002538404.jpeg",
+    "coletado_em": "2026-09-20T22:37:02.359Z"
+  },
+  {
+    "slug": "140002550780",
+    "nome": "Chicão",
+    "partido": "UNIÃO",
+    "numero": 444,
+    "cargo": "senador",
+    "uf": "PA",
+    "foto_arquivo": "senador-pa-140002550780",
+    "foto_url_original": "https://s2-g1.glbimg.com/WFOVbUvA50XNv_V5xV1j8cwb6dU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/L/8gSY93R4O540yUwH2ZrA/chicao.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pa/140002550780.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Joel Lobato",
+    "suplente1_partido": "MDB",
+    "suplente2_nome": "Pastor Ibanês",
+    "suplente2_partido": "UNIÃO",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Joel Lobato",
+        "nome_urna": "Joel Lobato",
+        "partido": "MDB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Pastor Ibanês",
+        "nome_urna": "Pastor Ibanês",
+        "partido": "UNIÃO"
+      }
+    ],
+    "patrimonio_total": 6475103.949999999,
+    "receitas_total": 2418039.52,
+    "despesas_total": 1024482.86,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "17/09/2026 • Atualizado há 3 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Floriano¿polis/sc",
+        "valor": 377764
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Ananindeua/pa",
+        "valor": 7000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicaça¿o ¿¿inanceira renda fixa",
+        "valor": 1372.94
+      },
+      {
+        "tipo": "Consórcio não contemplado",
+        "descricao": "Consórcio não contemplado Conso¿rcio carta de cre¿dito sicoob",
+        "valor": 32426.79
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Previde¿ncia privada - vgbl bradesco",
+        "valor": 1068597
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Ananindeua/pa",
+        "valor": 176405
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social em cooperativa",
+        "valor": 20583.58
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Salino¿polis/pa",
+        "valor": 156553
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicaça¿o financeira renda fixa",
+        "valor": 81600
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Ananindeua/pa",
+        "valor": 130096
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 50% terreno em acara¿/pa",
+        "valor": 18000
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Ananindeua/pa",
+        "valor": 193952
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Financiada em ananindeua/pa",
+        "valor": 290000
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Bele¿m/pa",
+        "valor": 164020
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente ¿ sicoob",
+        "valor": 1903.3
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Ananindeua/pa",
+        "valor": 550000
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Bele¿m/pa",
+        "valor": 164020
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participaça¿o societa¿ria 50% - cnpj: 51.322.831/0001-10",
+        "valor": 25000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Ananindeua/pa",
+        "valor": 130096
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Bele¿m/pa",
+        "valor": 172094
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Bele¿m/pa",
+        "valor": 98268
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Ananindeua/pa",
+        "valor": 15000
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Bele¿m/pa",
+        "valor": 97546
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participaça¿o societa¿ria 50% - cnpj: 34.307.872/0001-19",
+        "valor": 250000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participaça¿o societa¿ria 40% - cnpj: 54.715.857/0001-17",
+        "valor": 40000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imovel rural primavera/pa",
+        "valor": 434000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Marituba/pa",
+        "valor": 400000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participaça¿o societa¿ria 50% - cnpj: 10.633.426/0001-36",
+        "valor": 500000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Ananindeua/pa",
+        "valor": 30000
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Bele¿m/pa",
+        "valor": 118155
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno edificado ananindeua/pa",
+        "valor": 131000
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Ananindeua/pa",
+        "valor": 179364
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Ananindeua/pa",
+        "valor": 15000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Ananindeua/pa",
+        "valor": 116493
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicaça¿o financeira cdb bradesco",
+        "valor": 288794.34
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - União",
+        "percentual": 95.27,
+        "documento": "44551496000167"
+      },
+      {
+        "nome": "Maria Do Socorro Rodrigues Bezerra Silva",
+        "percentual": 1.65,
+        "documento": "28688406200"
+      },
+      {
+        "nome": "Anizio Abdon Bestene Junior",
+        "percentual": 0.83,
+        "documento": "12787523234"
+      },
+      {
+        "nome": "Gabriel Salzer Bestene",
+        "percentual": 0.83,
+        "documento": "84244275215"
+      },
+      {
+        "nome": "Mauricio Santos Da Silva",
+        "percentual": 0.41,
+        "documento": "64162702268"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "cmbc publicidade e comunicacao ltda",
+        "percentual": 39.04,
+        "documento": "30644922000100"
+      },
+      {
+        "nome": "helimarte taxi aereo ltda",
+        "percentual": 13.32,
+        "documento": "03330048000156"
+      },
+      {
+        "nome": "consult-escritorio de contabilidade ltda",
+        "percentual": 11.71,
+        "documento": "00805055000179"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 11.71,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "yuri pompeu sociedade individual de advocacia",
+        "percentual": 7.81,
+        "documento": "61536293000110"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Chicão",
+      "partido_pagina": "UNIÃO",
+      "numero_pagina": 444,
+      "profissao": "Deputado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/WFOVbUvA50XNv_V5xV1j8cwb6dU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/L/8gSY93R4O540yUwH2ZrA/chicao.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 377.764,00 Floriano¿polis/sc",
+        "Casa R$ 7.000,00 Ananindeua/pa",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 1.372,94 Aplicaça¿o ¿¿inanceira renda fixa",
+        "Consórcio não contemplado R$ 32.426,79 Conso¿rcio carta de cre¿dito sicoob",
+        "Vgbl - vida gerador de benefício livre R$ 1.068.597,00 Previde¿ncia privada - vgbl bradesco",
+        "Terreno R$ 176.405,00 Ananindeua/pa",
+        "Quotas ou quinhões de capital R$ 20.583,58 Capital social em cooperativa",
+        "Terreno R$ 156.553,00 Salino¿polis/pa",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 81.600,00 Aplicaça¿o financeira renda fixa",
+        "Terreno R$ 130.096,00 Ananindeua/pa",
+        "Terreno R$ 18.000,00 50% terreno em acara¿/pa",
+        "Sala ou conjunto R$ 193.952,00 Ananindeua/pa",
+        "Casa R$ 290.000,00 Financiada em ananindeua/pa",
+        "Sala ou conjunto R$ 164.020,00 Bele¿m/pa",
+        "Depósito bancário em conta corrente no país R$ 1.903,30 Conta corrente ¿ sicoob",
+        "Casa R$ 550.000,00 Ananindeua/pa",
+        "Sala ou conjunto R$ 164.020,00 Bele¿m/pa",
+        "Quotas ou quinhões de capital R$ 25.000,00 Participaça¿o societa¿ria 50% - cnpj: 51.322.831/0001-10",
+        "Terreno R$ 130.096,00 Ananindeua/pa",
+        "Sala ou conjunto R$ 172.094,00 Bele¿m/pa",
+        "Sala ou conjunto R$ 98.268,00 Bele¿m/pa",
+        "Terreno R$ 15.000,00 Ananindeua/pa",
+        "Sala ou conjunto R$ 97.546,00 Bele¿m/pa",
+        "Quotas ou quinhões de capital R$ 250.000,00 Participaça¿o societa¿ria 50% - cnpj: 34.307.872/0001-19",
+        "Quotas ou quinhões de capital R$ 40.000,00 Participaça¿o societa¿ria 40% - cnpj: 54.715.857/0001-17",
+        "Casa R$ 434.000,00 Imovel rural primavera/pa",
+        "Casa R$ 400.000,00 Marituba/pa",
+        "Quotas ou quinhões de capital R$ 500.000,00 Participaça¿o societa¿ria 50% - cnpj: 10.633.426/0001-36",
+        "Terreno R$ 30.000,00 Ananindeua/pa",
+        "Sala ou conjunto R$ 118.155,00 Bele¿m/pa",
+        "Terreno R$ 131.000,00 Terreno edificado ananindeua/pa",
+        "Sala ou conjunto R$ 179.364,00 Ananindeua/pa",
+        "Terreno R$ 15.000,00 Ananindeua/pa",
+        "Terreno R$ 116.493,00 Ananindeua/pa",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 288.794,34 Aplicaça¿o financeira cdb bradesco"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Joel Lobato",
+      "suplente1_partido": "MDB",
+      "suplente2_nome": "Pastor Ibanês",
+      "suplente2_partido": "UNIÃO",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Joel Lobato",
+          "nome_urna": "Joel Lobato",
+          "partido": "MDB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Pastor Ibanês",
+          "nome_urna": "Pastor Ibanês",
+          "partido": "UNIÃO"
+        }
+      ],
+      "receitas_total": 2418039.52,
+      "despesas_total": 1024482.86,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - União",
+          "percentual": 95.27,
+          "documento": "44551496000167"
+        },
+        {
+          "nome": "Maria Do Socorro Rodrigues Bezerra Silva",
+          "percentual": 1.65,
+          "documento": "28688406200"
+        },
+        {
+          "nome": "Anizio Abdon Bestene Junior",
+          "percentual": 0.83,
+          "documento": "12787523234"
+        },
+        {
+          "nome": "Gabriel Salzer Bestene",
+          "percentual": 0.83,
+          "documento": "84244275215"
+        },
+        {
+          "nome": "Mauricio Santos Da Silva",
+          "percentual": 0.41,
+          "documento": "64162702268"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "cmbc publicidade e comunicacao ltda",
+          "percentual": 39.04,
+          "documento": "30644922000100"
+        },
+        {
+          "nome": "helimarte taxi aereo ltda",
+          "percentual": 13.32,
+          "documento": "03330048000156"
+        },
+        {
+          "nome": "consult-escritorio de contabilidade ltda",
+          "percentual": 11.71,
+          "documento": "00805055000179"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 11.71,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "yuri pompeu sociedade individual de advocacia",
+          "percentual": 7.81,
+          "documento": "61536293000110"
+        }
+      ],
+      "fonte_atualizado_em": "17/09/2026 • Atualizado há 3 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pa-140002550780.jpeg",
+    "coletado_em": "2026-09-20T22:37:04.838Z"
+  },
+  {
+    "slug": "140002545674",
+    "nome": "Conti",
+    "partido": "PSOL",
+    "numero": 500,
+    "cargo": "senador",
+    "uf": "PA",
+    "foto_arquivo": "senador-pa-140002545674",
+    "foto_url_original": "https://s2-g1.glbimg.com/SZ1E0qwLfVRys9mftr7EbLDPL8s=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/e/QpYBX7RxqjtwYp7RtT3g/conti.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pa/140002545674.ghtml",
+    "profissao": "Servidor público federal",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Maria Luisa Farias",
+    "suplente1_partido": "PSOL",
+    "suplente2_nome": "Joana Da Economia Solidária",
+    "suplente2_partido": "PSOL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Maria Luisa Farias",
+        "nome_urna": "Maria Luisa Farias",
+        "partido": "PSOL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Joana Da Economia Solidária",
+        "nome_urna": "Joana Da Economia Solidária",
+        "partido": "PSOL"
+      }
+    ],
+    "patrimonio_total": 416583.98,
+    "receitas_total": 100000,
+    "despesas_total": 47879.12,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa Área do lote (m ): 220,00 testada: 11,00; área da construção (m ): 77,00 padrão: mínimo",
+        "descricao": "Casa Área do lote (m ): 220,00 testada: 11,00; área da construção (m ): 77,00 padrão: mínimo",
+        "valor": 51351
+      },
+      {
+        "tipo": "Casa Área do lote (m ): 500,00 testada: 10,00 casa em construção",
+        "descricao": "Casa Área do lote (m ): 500,00 testada: 10,00 casa em construção",
+        "valor": 200000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Jeep compass sport ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Jeep compass sport ano 2018/2018",
+        "valor": 70000
+      },
+      {
+        "tipo": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado",
+        "descricao": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado Fundo de investimento",
+        "valor": 10232.98
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automovel mmc/l200 triton3.2 2013",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automovel mmc/l200 triton3.2 2013",
+        "valor": 50000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automovel volkswagen novo fox cl sb",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automovel volkswagen novo fox cl sb 2015/2016",
+        "valor": 35000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 92.5,
+        "documento": "06954942000195"
+      },
+      {
+        "nome": "Direção Estadual/distrital - Psol - Pará",
+        "percentual": 7.5,
+        "documento": "08537999000114"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "multprint servicos graficos ltda",
+        "percentual": 25.3,
+        "documento": "25272486000148"
+      },
+      {
+        "nome": "samara palmira nunes pantoja",
+        "percentual": 14.62,
+        "documento": "01540192245"
+      },
+      {
+        "nome": "carlos josé mesquita da silva",
+        "percentual": 13.58,
+        "documento": "75739070287"
+      },
+      {
+        "nome": "aline do socorro pinto faria couto",
+        "percentual": 13.58,
+        "documento": "72364505291"
+      },
+      {
+        "nome": "emanuelle ferreira raiol",
+        "percentual": 8.35,
+        "documento": "02402176245"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Conti",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 500,
+      "profissao": "Servidor público federal",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/SZ1E0qwLfVRys9mftr7EbLDPL8s=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/e/QpYBX7RxqjtwYp7RtT3g/conti.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 51.351,00 Área do lote (m ): 220,00 testada: 11,00; área da construção (m ): 77,00 padrão: mínimo",
+        "Casa R$ 200.000,00 Área do lote (m ): 500,00 testada: 10,00 casa em construção",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 70.000,00 Jeep compass sport ano 2018/2018",
+        "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado R$ 10.232,98 Fundo de investimento",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 50.000,00 Automovel mmc/l200 triton3.2 2013",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 35.000,00 Automovel volkswagen novo fox cl sb 2015/2016"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Maria Luisa Farias",
+      "suplente1_partido": "PSOL",
+      "suplente2_nome": "Joana Da Economia Solidária",
+      "suplente2_partido": "PSOL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Maria Luisa Farias",
+          "nome_urna": "Maria Luisa Farias",
+          "partido": "PSOL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Joana Da Economia Solidária",
+          "nome_urna": "Joana Da Economia Solidária",
+          "partido": "PSOL"
+        }
+      ],
+      "receitas_total": 100000,
+      "despesas_total": 47879.12,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 92.5,
+          "documento": "06954942000195"
+        },
+        {
+          "nome": "Direção Estadual/distrital - Psol - Pará",
+          "percentual": 7.5,
+          "documento": "08537999000114"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "multprint servicos graficos ltda",
+          "percentual": 25.3,
+          "documento": "25272486000148"
+        },
+        {
+          "nome": "samara palmira nunes pantoja",
+          "percentual": 14.62,
+          "documento": "01540192245"
+        },
+        {
+          "nome": "carlos josé mesquita da silva",
+          "percentual": 13.58,
+          "documento": "75739070287"
+        },
+        {
+          "nome": "aline do socorro pinto faria couto",
+          "percentual": 13.58,
+          "documento": "72364505291"
+        },
+        {
+          "nome": "emanuelle ferreira raiol",
+          "percentual": 8.35,
+          "documento": "02402176245"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pa-140002545674.jpeg",
+    "coletado_em": "2026-09-20T22:37:07.262Z"
+  },
+  {
+    "slug": "140002554209",
+    "nome": "Coronel Jonildo",
+    "partido": "DC",
+    "numero": 277,
+    "cargo": "senador",
+    "uf": "PA",
+    "foto_arquivo": "senador-pa-140002554209",
+    "foto_url_original": "https://s2-g1.glbimg.com/MD16zLRL6ufZxbZ40KgA-9chpJw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/l/3j7ALxQLSv9yFphnWKNA/coronel-jonildo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pa/140002554209.ghtml",
+    "profissao": "Policial militar",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Sandro Oliveira",
+    "suplente1_partido": "DC",
+    "suplente2_nome": "Marcilio Ferreira",
+    "suplente2_partido": "DC",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Sandro Oliveira",
+        "nome_urna": "Sandro Oliveira",
+        "partido": "DC"
+      },
+      {
+        "ordem": 2,
+        "nome": "Marcilio Ferreira",
+        "nome_urna": "Marcilio Ferreira",
+        "partido": "DC"
+      }
+    ],
+    "patrimonio_total": 147000,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo placa sza1j44, marca caoachery/tiggo5x, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo placa sza1j44, marca caoachery/tiggo5x, ano 2024/2025",
+        "valor": 147000
+      }
+    ],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Coronel Jonildo",
+      "partido_pagina": "DC",
+      "numero_pagina": 277,
+      "profissao": "Policial militar",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/MD16zLRL6ufZxbZ40KgA-9chpJw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/l/3j7ALxQLSv9yFphnWKNA/coronel-jonildo.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 147.000,00 Veiculo placa sza1j44, marca caoachery/tiggo5x, ano 2024/2025"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Sandro Oliveira",
+      "suplente1_partido": "DC",
+      "suplente2_nome": "Marcilio Ferreira",
+      "suplente2_partido": "DC",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Sandro Oliveira",
+          "nome_urna": "Sandro Oliveira",
+          "partido": "DC"
+        },
+        {
+          "ordem": 2,
+          "nome": "Marcilio Ferreira",
+          "nome_urna": "Marcilio Ferreira",
+          "partido": "DC"
+        }
+      ],
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 4447201.54,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pa-140002554209.jpeg",
+    "coletado_em": "2026-09-20T22:37:09.830Z"
+  },
+  {
+    "slug": "140002544855",
+    "nome": "Delegado Éder Mauro",
+    "partido": "PL",
+    "numero": 222,
+    "cargo": "senador",
+    "uf": "PA",
+    "foto_arquivo": "senador-pa-140002544855",
+    "foto_url_original": "https://s2-g1.glbimg.com/TCA8bJ7pOw_O6Pk1UhwVAEhKauc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/B/rAkJ8jRVKhq29T42TqnQ/delegado-eder-mauro.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pa/140002544855.ghtml",
+    "profissao": "Servidor público estadual",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Alex Lima",
+    "suplente1_partido": "PL",
+    "suplente2_nome": "Alessandra Sá",
+    "suplente2_partido": "PL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Alex Lima",
+        "nome_urna": "Alex Lima",
+        "partido": "PL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Alessandra Sá",
+        "nome_urna": "Alessandra Sá",
+        "partido": "PL"
+      }
+    ],
+    "patrimonio_total": 2681931.0700000003,
+    "receitas_total": 4347000,
+    "despesas_total": 1436494.19,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo automotor",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo automotor",
+        "valor": 160000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo automotor",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo automotor",
+        "valor": 449756
+      },
+      {
+        "tipo": "Construção",
+        "descricao": "Construção Edificação em alvenaria",
+        "valor": 25000
+      },
+      {
+        "tipo": "Prédio comercial",
+        "descricao": "Prédio comercial Imóvel comercial",
+        "valor": 102500
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente",
+        "valor": 27531.45
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo automotor",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo automotor - ano 2012/2012",
+        "valor": 20000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno/lote",
+        "valor": 35000
+      },
+      {
+        "tipo": "Prédio residencial",
+        "descricao": "Prédio residencial Imóvel residencial",
+        "valor": 370000
+      },
+      {
+        "tipo": "Prédio residencial",
+        "descricao": "Prédio residencial Imóvel residencial",
+        "valor": 162702.25
+      },
+      {
+        "tipo": "Prédio residencial",
+        "descricao": "Prédio residencial Apartamento",
+        "valor": 265900
+      },
+      {
+        "tipo": "Prédio residencial",
+        "descricao": "Prédio residencial Imóvel residencial",
+        "valor": 80000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 330000
+      },
+      {
+        "tipo": "Prédio comercial",
+        "descricao": "Prédio comercial Imóvel comercial",
+        "valor": 75000
+      },
+      {
+        "tipo": "Prédio comercial",
+        "descricao": "Prédio comercial Imóvel comercial",
+        "valor": 175916.12
+      },
+      {
+        "tipo": "Prédio comercial",
+        "descricao": "Prédio comercial Imóvel comercial",
+        "valor": 208822.73
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicações/investimentos",
+        "valor": 168802.52
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno/lote",
+        "valor": 25000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 98.92,
+        "documento": "08517423000195"
+      },
+      {
+        "nome": "Eder Mauro Cardoso Barra",
+        "percentual": 1.08,
+        "documento": "13405551234"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "grafica sexto sentido ltda",
+        "percentual": 17.46,
+        "documento": "20979922000108"
+      },
+      {
+        "nome": "c b ribeiro comercio e servico ltda",
+        "percentual": 16.06,
+        "documento": "64090989000154"
+      },
+      {
+        "nome": "transbelcar transporte de veiculos ltda",
+        "percentual": 12.35,
+        "documento": "27327288000160"
+      },
+      {
+        "nome": "amanda lima figueiredo sociedade individual de advocacia",
+        "percentual": 8.35,
+        "documento": "17284669000155"
+      },
+      {
+        "nome": "a m s comercio e servicos ltda",
+        "percentual": 7.74,
+        "documento": "22019065000111"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Delegado Éder Mauro",
+      "partido_pagina": "PL",
+      "numero_pagina": 222,
+      "profissao": "Servidor público estadual",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/TCA8bJ7pOw_O6Pk1UhwVAEhKauc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/B/rAkJ8jRVKhq29T42TqnQ/delegado-eder-mauro.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 160.000,00 Veiculo automotor",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 449.756,00 Veiculo automotor",
+        "Construção R$ 25.000,00 Edificação em alvenaria",
+        "Prédio comercial R$ 102.500,00 Imóvel comercial",
+        "Depósito bancário em conta corrente no país R$ 27.531,45 Conta corrente",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 20.000,00 Veiculo automotor - ano 2012/2012",
+        "Terreno R$ 35.000,00 Terreno/lote",
+        "Prédio residencial R$ 370.000,00 Imóvel residencial",
+        "Prédio residencial R$ 162.702,25 Imóvel residencial",
+        "Prédio residencial R$ 265.900,00 Apartamento",
+        "Prédio residencial R$ 80.000,00 Imóvel residencial",
+        "Terreno R$ 330.000,00 Terreno",
+        "Prédio comercial R$ 75.000,00 Imóvel comercial",
+        "Prédio comercial R$ 175.916,12 Imóvel comercial",
+        "Prédio comercial R$ 208.822,73 Imóvel comercial",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 168.802,52 Aplicações/investimentos",
+        "Terreno R$ 25.000,00 Terreno/lote"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Alex Lima",
+      "suplente1_partido": "PL",
+      "suplente2_nome": "Alessandra Sá",
+      "suplente2_partido": "PL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Alex Lima",
+          "nome_urna": "Alex Lima",
+          "partido": "PL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Alessandra Sá",
+          "nome_urna": "Alessandra Sá",
+          "partido": "PL"
+        }
+      ],
+      "receitas_total": 4347000,
+      "despesas_total": 1436494.19,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 98.92,
+          "documento": "08517423000195"
+        },
+        {
+          "nome": "Eder Mauro Cardoso Barra",
+          "percentual": 1.08,
+          "documento": "13405551234"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "grafica sexto sentido ltda",
+          "percentual": 17.46,
+          "documento": "20979922000108"
+        },
+        {
+          "nome": "c b ribeiro comercio e servico ltda",
+          "percentual": 16.06,
+          "documento": "64090989000154"
+        },
+        {
+          "nome": "transbelcar transporte de veiculos ltda",
+          "percentual": 12.35,
+          "documento": "27327288000160"
+        },
+        {
+          "nome": "amanda lima figueiredo sociedade individual de advocacia",
+          "percentual": 8.35,
+          "documento": "17284669000155"
+        },
+        {
+          "nome": "a m s comercio e servicos ltda",
+          "percentual": 7.74,
+          "documento": "22019065000111"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pa-140002544855.jpeg",
+    "coletado_em": "2026-09-20T22:37:13.364Z"
+  },
+  {
+    "slug": "140002548150",
+    "nome": "Edlaine Rodrigues",
+    "partido": "DEMOCRATA",
+    "numero": 355,
+    "cargo": "senador",
+    "uf": "PA",
+    "foto_arquivo": "senador-pa-140002548150",
+    "foto_url_original": "https://s2-g1.glbimg.com/Wp8gdnOu3rPQp3m0vligrg05ew4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/2/xmlB6SRBCYVjTzLnNqFw/edlaine-rodrigues.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pa/140002548150.ghtml",
+    "profissao": "Contador",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Ruth Reis",
+    "suplente1_partido": "DEMOCRATA",
+    "suplente2_nome": "Olinto Cei",
+    "suplente2_partido": "DEMOCRATA",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Ruth Reis",
+        "nome_urna": "Ruth Reis",
+        "partido": "DEMOCRATA"
+      },
+      {
+        "ordem": 2,
+        "nome": "Olinto Cei",
+        "nome_urna": "Olinto Cei",
+        "partido": "DEMOCRATA"
+      }
+    ],
+    "patrimonio_total": 867152.2100000001,
+    "receitas_total": 8613,
+    "despesas_total": 8273.5,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Informado por cnpj 00.416.968/0001-01",
+        "valor": 241
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Constituicao em 04/09/2014 da empresa edlaine g s rodrigues-me, de nome fantasia feet comfort,",
+        "valor": 200000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa 50% de uma casa adiquirida com seu esposo paulo sezar moraes rodrigues cpf: 236.399.972-04,",
+        "valor": 150000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Moto",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Moto",
+        "valor": 13000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Informado por cnpj 60.746.948/0001-12",
+        "valor": 655.04
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social da empesa correta servico de engenharia ltda, com 100% do total das cotas registradas",
+        "valor": 500000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Informado por cnpj 33.264.668/0001-03",
+        "valor": 3256.17
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Ruth Helena Ferreira Reis",
+        "percentual": 95.97,
+        "documento": "27750515291"
+      },
+      {
+        "nome": "Jose Lucivaldo Moita",
+        "percentual": 2.09,
+        "documento": "20660120259"
+      },
+      {
+        "nome": "Edlaine Guimaraes Santos Rodrigues",
+        "percentual": 1.47,
+        "documento": "75325721291"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "grafica ponto de arte ltda",
+        "percentual": 96.69,
+        "documento": "15329607000197"
+      },
+      {
+        "nome": "impra industria grafica ltda",
+        "percentual": 2.02,
+        "documento": "28045354000252"
+      },
+      {
+        "nome": "its - importacao, tecnologia e servicos ltda",
+        "percentual": 1.28,
+        "documento": "22281507000284"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Edlaine Rodrigues",
+      "partido_pagina": "DEMOCRATA",
+      "numero_pagina": 355,
+      "profissao": "Contador",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/Wp8gdnOu3rPQp3m0vligrg05ew4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/2/xmlB6SRBCYVjTzLnNqFw/edlaine-rodrigues.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Depósito bancário em conta corrente no país R$ 241,00 Informado por cnpj 00.416.968/0001-01",
+        "Quotas ou quinhões de capital R$ 200.000,00 Constituicao em 04/09/2014 da empresa edlaine g s rodrigues-me, de nome fantasia feet comfort,",
+        "Casa R$ 150.000,00 50% de uma casa adiquirida com seu esposo paulo sezar moraes rodrigues cpf: 236.399.972-04,",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 13.000,00 Moto",
+        "Caderneta de poupança R$ 655,04 Informado por cnpj 60.746.948/0001-12",
+        "Quotas ou quinhões de capital R$ 500.000,00 Capital social da empesa correta servico de engenharia ltda, com 100% do total das cotas registradas",
+        "Depósito bancário em conta corrente no país R$ 3.256,17 Informado por cnpj 33.264.668/0001-03"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Ruth Reis",
+      "suplente1_partido": "DEMOCRATA",
+      "suplente2_nome": "Olinto Cei",
+      "suplente2_partido": "DEMOCRATA",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Ruth Reis",
+          "nome_urna": "Ruth Reis",
+          "partido": "DEMOCRATA"
+        },
+        {
+          "ordem": 2,
+          "nome": "Olinto Cei",
+          "nome_urna": "Olinto Cei",
+          "partido": "DEMOCRATA"
+        }
+      ],
+      "receitas_total": 8613,
+      "despesas_total": 8273.5,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Ruth Helena Ferreira Reis",
+          "percentual": 95.97,
+          "documento": "27750515291"
+        },
+        {
+          "nome": "Jose Lucivaldo Moita",
+          "percentual": 2.09,
+          "documento": "20660120259"
+        },
+        {
+          "nome": "Edlaine Guimaraes Santos Rodrigues",
+          "percentual": 1.47,
+          "documento": "75325721291"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "grafica ponto de arte ltda",
+          "percentual": 96.69,
+          "documento": "15329607000197"
+        },
+        {
+          "nome": "impra industria grafica ltda",
+          "percentual": 2.02,
+          "documento": "28045354000252"
+        },
+        {
+          "nome": "its - importacao, tecnologia e servicos ltda",
+          "percentual": 1.28,
+          "documento": "22281507000284"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pa-140002548150.jpeg",
+    "coletado_em": "2026-09-20T22:37:17.434Z"
+  },
+  {
+    "slug": "140002548387",
+    "nome": "Fernanda Lopes",
+    "partido": "UP",
+    "numero": 800,
+    "cargo": "senador",
+    "uf": "PA",
+    "foto_arquivo": "senador-pa-140002548387",
+    "foto_url_original": "https://s2-g1.glbimg.com/eC6rOWIQBNMfO42ltg2BU8h5vBk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/R/4QDiqMTGOsMFZnRUkvRQ/fernanda-lopes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pa/140002548387.ghtml",
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Socorro Bayma",
+    "suplente1_partido": "UP",
+    "suplente2_nome": "Lucilene Oliveira",
+    "suplente2_partido": "UP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Socorro Bayma",
+        "nome_urna": "Socorro Bayma",
+        "partido": "UP"
+      },
+      {
+        "ordem": 2,
+        "nome": "Lucilene Oliveira",
+        "nome_urna": "Lucilene Oliveira",
+        "partido": "UP"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Fernanda Lopes",
+      "partido_pagina": "UP",
+      "numero_pagina": 800,
+      "profissao": "Professor de ensino médio",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/eC6rOWIQBNMfO42ltg2BU8h5vBk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/R/4QDiqMTGOsMFZnRUkvRQ/fernanda-lopes.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Socorro Bayma",
+      "suplente1_partido": "UP",
+      "suplente2_nome": "Lucilene Oliveira",
+      "suplente2_partido": "UP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Socorro Bayma",
+          "nome_urna": "Socorro Bayma",
+          "partido": "UP"
+        },
+        {
+          "ordem": 2,
+          "nome": "Lucilene Oliveira",
+          "nome_urna": "Lucilene Oliveira",
+          "partido": "UP"
+        }
+      ],
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 4447201.54,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pa-140002548387.jpeg",
+    "coletado_em": "2026-09-20T22:37:20.056Z"
+  },
+  {
+    "slug": "140002545671",
+    "nome": "Gizelle Freitas",
+    "partido": "PSOL",
+    "numero": 505,
+    "cargo": "senador",
+    "uf": "PA",
+    "foto_arquivo": "senador-pa-140002545671",
+    "foto_url_original": "https://s2-g1.glbimg.com/uWgeyzmHYu2cPw3MF5C7ZPjfWMw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/P/ccMduuTF6xJQcFbEoWVA/gizelle-freitas.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pa/140002545671.ghtml",
+    "profissao": "Assistente social",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Naide Cordeiro Pacheco",
+    "suplente1_partido": "PSOL",
+    "suplente2_nome": "Edna Gouvêa",
+    "suplente2_partido": "PSOL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Naide Cordeiro Pacheco",
+        "nome_urna": "Naide Cordeiro Pacheco",
+        "partido": "PSOL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Edna Gouvêa",
+        "nome_urna": "Edna Gouvêa",
+        "partido": "PSOL"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 104000,
+    "despesas_total": 60073.5,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psol",
+        "percentual": 88.94,
+        "documento": "06954942000195"
+      },
+      {
+        "nome": "Direção Estadual/distrital - Psol - Pará",
+        "percentual": 11.06,
+        "documento": "08537999000114"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "urucum agencia de marketing ltda",
+        "percentual": 66.59,
+        "documento": "43178321000193"
+      },
+      {
+        "nome": "42.682.102 andre luis ramos gouvea",
+        "percentual": 23.3,
+        "documento": "42682102000184"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 8.32,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "63.650.306 raimundo nonato cardoso valente",
+        "percentual": 1.36,
+        "documento": "63650306000103"
+      },
+      {
+        "nome": "18.472.130 nilton monteiro de lima",
+        "percentual": 0.42,
+        "documento": "18472130000192"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Gizelle Freitas",
+      "partido_pagina": "PSOL",
+      "numero_pagina": 505,
+      "profissao": "Assistente social",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/uWgeyzmHYu2cPw3MF5C7ZPjfWMw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/P/ccMduuTF6xJQcFbEoWVA/gizelle-freitas.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Naide Cordeiro Pacheco",
+      "suplente1_partido": "PSOL",
+      "suplente2_nome": "Edna Gouvêa",
+      "suplente2_partido": "PSOL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Naide Cordeiro Pacheco",
+          "nome_urna": "Naide Cordeiro Pacheco",
+          "partido": "PSOL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Edna Gouvêa",
+          "nome_urna": "Edna Gouvêa",
+          "partido": "PSOL"
+        }
+      ],
+      "receitas_total": 104000,
+      "despesas_total": 60073.5,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psol",
+          "percentual": 88.94,
+          "documento": "06954942000195"
+        },
+        {
+          "nome": "Direção Estadual/distrital - Psol - Pará",
+          "percentual": 11.06,
+          "documento": "08537999000114"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "urucum agencia de marketing ltda",
+          "percentual": 66.59,
+          "documento": "43178321000193"
+        },
+        {
+          "nome": "42.682.102 andre luis ramos gouvea",
+          "percentual": 23.3,
+          "documento": "42682102000184"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 8.32,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "63.650.306 raimundo nonato cardoso valente",
+          "percentual": 1.36,
+          "documento": "63650306000103"
+        },
+        {
+          "nome": "18.472.130 nilton monteiro de lima",
+          "percentual": 0.42,
+          "documento": "18472130000192"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pa-140002545671.jpeg",
+    "coletado_em": "2026-09-20T22:37:22.801Z"
+  },
+  {
+    "slug": "140002550779",
+    "nome": "Helder",
+    "partido": "MDB",
+    "numero": 151,
+    "cargo": "senador",
+    "uf": "PA",
+    "foto_arquivo": "senador-pa-140002550779",
+    "foto_url_original": "https://s2-g1.glbimg.com/B93x16HJ3oeGOuVdO1C5_gk1Hsc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/y/sTmQqcQXaSlzN05irLdw/helder.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pa/140002550779.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Jader Barbalho",
+    "suplente1_partido": "MDB",
+    "suplente2_nome": "Samuel Camara",
+    "suplente2_partido": "REPUBLICANOS",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Jader Barbalho",
+        "nome_urna": "Jader Barbalho",
+        "partido": "MDB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Samuel Camara",
+        "nome_urna": "Samuel Camara",
+        "partido": "REPUBLICANOS"
+      }
+    ],
+    "patrimonio_total": 15490795.670000002,
+    "receitas_total": 4052006,
+    "despesas_total": 395117.16,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas do capital social da snc ¿ sistema norte de comunicação ltda",
+        "valor": 12500
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Participação societária: ações preferenciais (código telb4) da telecomunicações brasileiras s.a. ¿ telebras",
+        "valor": 33618
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Depósito em caderneta de poupança ¿ banco do brasil s.a.",
+        "valor": 1554.53
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Conta corrente ¿ banco do brasil s.a.",
+        "valor": 15162.76
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Conta corrente ¿ banco da amazônia s.a. (basa)",
+        "valor": 266018.5
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação societária na agropecuária rio branco ltda (50% do capital social)",
+        "valor": 1854000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas do capital social da carajás fm ltda",
+        "valor": 148500
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Conta corrente ¿ caixa econômica federal",
+        "valor": 28017.62
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas do capital social da rádio clube do pará prc-5 ltda",
+        "valor": 112200
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas do capital social da rba ¿ rede brasil amazônia de tv ltda",
+        "valor": 375000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas do capital social da telecomp telecomunicações e serviços ltda",
+        "valor": 7500
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Cotas do bb renda fixa referenciado di social 50 ¿ fundo de investimento",
+        "valor": 231.61
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Saldo em conta corrente da atividade pecuária ¿ banco do estado do pará s.a. (banpará)",
+        "valor": 1042434.37
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação em renda fixa ¿ banco do estado do pará s.a. (banpará",
+        "valor": 537810.72
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas do capital social da itelcom informações e telecomunicações ltda",
+        "valor": 6000
+      },
+      {
+        "tipo": "Prédio residencial",
+        "descricao": "Prédio residencial Terrenos com edificação, condomínio lago azul",
+        "valor": 1540598.2
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas do capital social da diários do pará ltda",
+        "valor": 240000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas do capital social da sistema clube do pará de comunicação ltda",
+        "valor": 75000
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Saldo em conta corrente da atividade agrícola ¿ banco do estado do pará s.a. (banpará)",
+        "valor": 2379752.54
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas do capital social da dol intermediação de negócios e portal de internet ltda",
+        "valor": 300000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Cotas do bb ações alocação etf ¿ fundo de investimento em ações",
+        "valor": 225.28
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Gado bovino (1.371 cabeças)",
+        "valor": 6514671.54
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 98.72,
+        "documento": "00676213000138"
+      },
+      {
+        "nome": "Direção Estadual/distrital - Mdb - Pará",
+        "percentual": 1.23,
+        "documento": "83369082000173"
+      },
+      {
+        "nome": "Renilce Conceicao Nicodemos De Albuquerque",
+        "percentual": 0.05,
+        "documento": "68455973000159"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 44.29,
+        "documento": "25021356000132"
+      },
+      {
+        "nome": "helimarte taxi aereo ltda",
+        "percentual": 24.4,
+        "documento": "03330048000156"
+      },
+      {
+        "nome": "taxi aereo hercules ltda.",
+        "percentual": 16.15,
+        "documento": "74046731000104"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 12.65,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "norte locadora de veiculos ltda",
+        "percentual": 2.51,
+        "documento": "08949785000155"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Helder",
+      "partido_pagina": "MDB",
+      "numero_pagina": 151,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/B93x16HJ3oeGOuVdO1C5_gk1Hsc=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/y/sTmQqcQXaSlzN05irLdw/helder.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Quotas ou quinhões de capital R$ 12.500,00 Quotas do capital social da snc ¿ sistema norte de comunicação ltda",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 33.618,00 Participação societária: ações preferenciais (código telb4) da telecomunicações brasileiras s.a. ¿ telebras",
+        "Outros créditos e poupança vinculados R$ 1.554,53 Depósito em caderneta de poupança ¿ banco do brasil s.a.",
+        "Outros créditos e poupança vinculados R$ 15.162,76 Conta corrente ¿ banco do brasil s.a.",
+        "Outros créditos e poupança vinculados R$ 266.018,50 Conta corrente ¿ banco da amazônia s.a. (basa)",
+        "Quotas ou quinhões de capital R$ 1.854.000,00 Participação societária na agropecuária rio branco ltda (50% do capital social)",
+        "Quotas ou quinhões de capital R$ 148.500,00 Quotas do capital social da carajás fm ltda",
+        "Outros créditos e poupança vinculados R$ 28.017,62 Conta corrente ¿ caixa econômica federal",
+        "Quotas ou quinhões de capital R$ 112.200,00 Quotas do capital social da rádio clube do pará prc-5 ltda",
+        "Quotas ou quinhões de capital R$ 375.000,00 Quotas do capital social da rba ¿ rede brasil amazônia de tv ltda",
+        "Quotas ou quinhões de capital R$ 7.500,00 Quotas do capital social da telecomp telecomunicações e serviços ltda",
+        "Outras aplicações e investimentos R$ 231,61 Cotas do bb renda fixa referenciado di social 50 ¿ fundo de investimento",
+        "Outros créditos e poupança vinculados R$ 1.042.434,37 Saldo em conta corrente da atividade pecuária ¿ banco do estado do pará s.a. (banpará)",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 537.810,72 Aplicação em renda fixa ¿ banco do estado do pará s.a. (banpará",
+        "Quotas ou quinhões de capital R$ 6.000,00 Quotas do capital social da itelcom informações e telecomunicações ltda",
+        "Prédio residencial R$ 1.540.598,20 Terrenos com edificação, condomínio lago azul",
+        "Quotas ou quinhões de capital R$ 240.000,00 Quotas do capital social da diários do pará ltda",
+        "Quotas ou quinhões de capital R$ 75.000,00 Quotas do capital social da sistema clube do pará de comunicação ltda",
+        "Outros créditos e poupança vinculados R$ 2.379.752,54 Saldo em conta corrente da atividade agrícola ¿ banco do estado do pará s.a. (banpará)",
+        "Quotas ou quinhões de capital R$ 300.000,00 Quotas do capital social da dol intermediação de negócios e portal de internet ltda",
+        "Outras aplicações e investimentos R$ 225,28 Cotas do bb ações alocação etf ¿ fundo de investimento em ações",
+        "Outros bens e direitos R$ 6.514.671,54 Gado bovino (1.371 cabeças)"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Jader Barbalho",
+      "suplente1_partido": "MDB",
+      "suplente2_nome": "Samuel Camara",
+      "suplente2_partido": "REPUBLICANOS",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Jader Barbalho",
+          "nome_urna": "Jader Barbalho",
+          "partido": "MDB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Samuel Camara",
+          "nome_urna": "Samuel Camara",
+          "partido": "REPUBLICANOS"
+        }
+      ],
+      "receitas_total": 4052006,
+      "despesas_total": 395117.16,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 98.72,
+          "documento": "00676213000138"
+        },
+        {
+          "nome": "Direção Estadual/distrital - Mdb - Pará",
+          "percentual": 1.23,
+          "documento": "83369082000173"
+        },
+        {
+          "nome": "Renilce Conceicao Nicodemos De Albuquerque",
+          "percentual": 0.05,
+          "documento": "68455973000159"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 44.29,
+          "documento": "25021356000132"
+        },
+        {
+          "nome": "helimarte taxi aereo ltda",
+          "percentual": 24.4,
+          "documento": "03330048000156"
+        },
+        {
+          "nome": "taxi aereo hercules ltda.",
+          "percentual": 16.15,
+          "documento": "74046731000104"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 12.65,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "norte locadora de veiculos ltda",
+          "percentual": 2.51,
+          "documento": "08949785000155"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pa-140002550779.jpeg",
+    "coletado_em": "2026-09-20T22:37:25.282Z"
+  },
+  {
+    "slug": "140002553952",
+    "nome": "Livia Noronha",
+    "partido": "SD",
+    "numero": 777,
+    "cargo": "senador",
+    "uf": "PA",
+    "foto_arquivo": "senador-pa-140002553952",
+    "foto_url_original": "https://s2-g1.glbimg.com/ngtfMGbvwIgOWd2n2Pc6KOL13p0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/f/MBLCIBTEavuDJkpZo7Gw/livia-noronha.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pa/140002553952.ghtml",
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Ian Blois Pinheiro",
+    "suplente1_partido": "SOLIDARIEDADE",
+    "suplente2_nome": "Marcelo Pinheiro",
+    "suplente2_partido": "SOLIDARIEDADE",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Ian Blois Pinheiro",
+        "nome_urna": "Ian Blois Pinheiro",
+        "partido": "SOLIDARIEDADE"
+      },
+      {
+        "ordem": 2,
+        "nome": "Marcelo Pinheiro",
+        "nome_urna": "Marcelo Pinheiro",
+        "partido": "SOLIDARIEDADE"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 10000,
+    "despesas_total": 0,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Brena Sousa De Miranda Alvino",
+        "percentual": 100,
+        "documento": "83427830225"
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Livia Noronha",
+      "partido_pagina": "SD",
+      "numero_pagina": 777,
+      "profissao": "Professor de ensino superior",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/ngtfMGbvwIgOWd2n2Pc6KOL13p0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/f/MBLCIBTEavuDJkpZo7Gw/livia-noronha.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Ian Blois Pinheiro",
+      "suplente1_partido": "SOLIDARIEDADE",
+      "suplente2_nome": "Marcelo Pinheiro",
+      "suplente2_partido": "SOLIDARIEDADE",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Ian Blois Pinheiro",
+          "nome_urna": "Ian Blois Pinheiro",
+          "partido": "SOLIDARIEDADE"
+        },
+        {
+          "ordem": 2,
+          "nome": "Marcelo Pinheiro",
+          "nome_urna": "Marcelo Pinheiro",
+          "partido": "SOLIDARIEDADE"
+        }
+      ],
+      "receitas_total": 10000,
+      "despesas_total": 0,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Brena Sousa De Miranda Alvino",
+          "percentual": 100,
+          "documento": "83427830225"
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pa-140002553952.jpeg",
+    "coletado_em": "2026-09-20T22:37:27.725Z"
+  },
+  {
+    "slug": "140002542691",
+    "nome": "Zequinha Marinho",
+    "partido": "PODE",
+    "numero": 200,
+    "cargo": "senador",
+    "uf": "PA",
+    "foto_arquivo": "senador-pa-140002542691",
+    "foto_url_original": "https://s2-g1.glbimg.com/hG0bgWO9wp1o2WQA6hmPVMRyceo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/B/w3h2gERVGQqNW0zEg0GA/zequinha-marinho.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pa/140002542691.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Burin",
+    "suplente1_partido": "PODE",
+    "suplente2_nome": "Pr. Fenelon",
+    "suplente2_partido": "PODE",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Burin",
+        "nome_urna": "Burin",
+        "partido": "PODE"
+      },
+      {
+        "ordem": 2,
+        "nome": "Pr. Fenelon",
+        "nome_urna": "Pr. Fenelon",
+        "partido": "PODE"
+      }
+    ],
+    "patrimonio_total": 2975287.5100000002,
+    "receitas_total": 2801000,
+    "despesas_total": 1867566.45,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Area rural de 305,8 hectares sendo a compra e venda de terreno/ fração adquirido em 01/07/2022.",
+        "valor": 1275006.63
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Brasil prev s/a",
+        "valor": 300000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Caixa de previdencia complementar do banco da amazonia",
+        "valor": 111417.05
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa em construção sobre terreno localizado na av. independente noberto lima, setor araguia, sub urbano, com dimensão de 5.511m, conceição do araguaia.",
+        "valor": 132000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Redimentos recebidos de pessoa juridica - senado federal",
+        "valor": 554036.61
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa residencial - av. yamada, rua biobao, qda i lote 07, tapana - belém (cond. jardim espanha)",
+        "valor": 399300
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bb renda fixa longo prazo high fundo de investimento em cotas de fif responsabilidade limitada.",
+        "valor": 203527.22
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pode",
+        "percentual": 99.96,
+        "documento": "01248362000169"
+      },
+      {
+        "nome": "Joaquim Nonato Teixeira Da Silva",
+        "percentual": 0.04,
+        "documento": "70510318215"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "royal comercio e servicos ltda",
+        "percentual": 53.59,
+        "documento": "42292768000126"
+      },
+      {
+        "nome": "rec filmes ltda",
+        "percentual": 16.06,
+        "documento": "14799901000108"
+      },
+      {
+        "nome": "jonas farias borges",
+        "percentual": 4.02,
+        "documento": "07067780225"
+      },
+      {
+        "nome": "localiza rent a car sa",
+        "percentual": 3.64,
+        "documento": "16670085002360"
+      },
+      {
+        "nome": "sociedade de advogado melo e portal",
+        "percentual": 2.68,
+        "documento": "41505123000161"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Zequinha Marinho",
+      "partido_pagina": "PODE",
+      "numero_pagina": 200,
+      "profissao": "Senador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/hG0bgWO9wp1o2WQA6hmPVMRyceo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/B/w3h2gERVGQqNW0zEg0GA/zequinha-marinho.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 1.275.006,63 Area rural de 305,8 hectares sendo a compra e venda de terreno/ fração adquirido em 01/07/2022.",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 300.000,00 Brasil prev s/a",
+        "Outros bens e direitos R$ 111.417,05 Caixa de previdencia complementar do banco da amazonia",
+        "Casa R$ 132.000,00 Casa em construção sobre terreno localizado na av. independente noberto lima, setor araguia, sub urbano, com dimensão de 5.511m, conceição do araguaia.",
+        "Outros bens e direitos R$ 554.036,61 Redimentos recebidos de pessoa juridica - senado federal",
+        "Casa R$ 399.300,00 Casa residencial - av. yamada, rua biobao, qda i lote 07, tapana - belém (cond. jardim espanha)",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 203.527,22 Bb renda fixa longo prazo high fundo de investimento em cotas de fif responsabilidade limitada."
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Burin",
+      "suplente1_partido": "PODE",
+      "suplente2_nome": "Pr. Fenelon",
+      "suplente2_partido": "PODE",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Burin",
+          "nome_urna": "Burin",
+          "partido": "PODE"
+        },
+        {
+          "ordem": 2,
+          "nome": "Pr. Fenelon",
+          "nome_urna": "Pr. Fenelon",
+          "partido": "PODE"
+        }
+      ],
+      "receitas_total": 2801000,
+      "despesas_total": 1867566.45,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pode",
+          "percentual": 99.96,
+          "documento": "01248362000169"
+        },
+        {
+          "nome": "Joaquim Nonato Teixeira Da Silva",
+          "percentual": 0.04,
+          "documento": "70510318215"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "royal comercio e servicos ltda",
+          "percentual": 53.59,
+          "documento": "42292768000126"
+        },
+        {
+          "nome": "rec filmes ltda",
+          "percentual": 16.06,
+          "documento": "14799901000108"
+        },
+        {
+          "nome": "jonas farias borges",
+          "percentual": 4.02,
+          "documento": "07067780225"
+        },
+        {
+          "nome": "localiza rent a car sa",
+          "percentual": 3.64,
+          "documento": "16670085002360"
+        },
+        {
+          "nome": "sociedade de advogado melo e portal",
+          "percentual": 2.68,
+          "documento": "41505123000161"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pa-140002542691.jpeg",
+    "coletado_em": "2026-09-20T22:37:30.189Z"
+  }
+]

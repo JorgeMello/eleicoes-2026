@@ -6,6 +6,7 @@ import TseBadge from '../components/TseBadge.jsx';
 import TseContasBanner from '../components/TseContasBanner.jsx';
 import TseBensBanner from '../components/TseBensBanner.jsx';
 import ChapaPresidencialCard from '../components/ChapaPresidencialCard.jsx';
+import ChapaSenadoCard from '../components/ChapaSenadoCard.jsx';
 import PlanoGovernoCard from '../components/PlanoGovernoCard.jsx';
 import ExportButton from '../components/ExportButton.jsx';
 import OrigemRecursosCard from '../components/OrigemRecursosCard.jsx';
@@ -217,7 +218,7 @@ export default function Perfil() {
   if (erro) return <p className="text-sm text-red-700 dark:text-red-400">Erro: {erro}</p>;
   if (!d) return <p className="text-sm text-slate-500 dark:text-slate-400">Carregando perfil…</p>;
 
-  const { candidato: c, tse, bens, historico, doadores, gastos } = d;
+  const { candidato: c, tse, bens, historico, doadores, gastos, suplentes = [] } = d;
   const foto = fotoUrl(c);
 
   const patrimonioTotalRef = Number(tse?.patrimonio_declarado || c?.patrimonio_total || 0);
@@ -399,8 +400,12 @@ export default function Perfil() {
       {/* Aba: Geral */}
       {aba === 'geral' && (
         <div className="space-y-4">
-          {/* Card Oficial da Chapa Presidencial */}
-          <ChapaPresidencialCard c={c} tse={tse} onAbrirModal={() => setModalChapa(true)} />
+          {/* Card Oficial da Chapa */}
+          {c.cargo === 'senador' ? (
+            <ChapaSenadoCard c={c} tse={tse} suplentes={suplentes} onAbrirModal={() => setModalChapa(true)} />
+          ) : (
+            <ChapaPresidencialCard c={c} tse={tse} onAbrirModal={() => setModalChapa(true)} />
+          )}
 
           {/* Card do Plano de Governo Oficial do TSE */}
           <PlanoGovernoCard c={c} tse={tse} />
@@ -970,14 +975,16 @@ export default function Perfil() {
             <div className="flex items-center justify-between border-b border-slate-100 p-4 dark:border-slate-800 bg-gradient-to-r from-blue-50/50 to-white dark:from-slate-800/50 dark:to-slate-900">
               <div className="flex items-center gap-2.5">
                 <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-blue-600 text-white font-bold text-sm shadow-xs dark:bg-blue-500">
-                  🤝
+                  {c.cargo === 'senador' ? '🏛️' : '🤝'}
                 </span>
                 <div>
                   <h3 className="font-bold text-base text-slate-900 dark:text-white">
-                    Auditoria da Chapa Presidencial Oficial
+                    {c.cargo === 'senador' ? 'Auditoria da Chapa ao Senado Federal' : 'Auditoria da Chapa Majoritária Oficial'}
                   </h3>
                   <p className="text-[11px] text-slate-500 dark:text-slate-400">
-                    Composição majoritária registrada no TSE · Eleições 2026
+                    {c.cargo === 'senador'
+                      ? 'Composição tripartite registrada perante a Justiça Eleitoral (CF/88, art. 46, § 3º)'
+                      : 'Composição majoritária registrada no TSE · Eleições 2026'}
                   </p>
                 </div>
               </div>
@@ -1007,50 +1014,106 @@ export default function Perfil() {
                 </div>
               </div>
 
-              {/* Comparativo Titular e Vice */}
-              <div className="grid gap-3 sm:grid-cols-2">
-                <div className="rounded-xl border border-slate-200 p-3 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-800/50">
-                  <span className="text-[10px] font-bold text-blue-700 uppercase tracking-wider block mb-1">
-                    Candidato a Presidente
-                  </span>
-                  <strong className="text-sm block text-slate-900 dark:text-white">{c.nome}</strong>
-                  <p className="text-[11px] text-slate-500 mt-1">
-                    Partido: <strong>{c.partido}</strong> · Nº <strong>{c.numero}</strong>
-                  </p>
-                  <p className="text-[11px] text-slate-500">
-                    Patrimônio: <strong>{brl(c.patrimonio_total)}</strong>
-                  </p>
-                </div>
+              {/* Detalhes da Chapa */}
+              {c.cargo === 'senador' ? (
+                <div className="grid gap-3 sm:grid-cols-3">
+                  <div className="rounded-xl border border-slate-200 p-3 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-800/50">
+                    <span className="text-[10px] font-bold text-emerald-700 uppercase tracking-wider block mb-1">
+                      Titular · Senador
+                    </span>
+                    <strong className="text-sm block text-slate-900 dark:text-white truncate">{c.nome}</strong>
+                    <p className="text-[11px] text-slate-500 mt-1">
+                      {c.partido} · Nº <strong>{c.numero}</strong>
+                    </p>
+                    <p className="text-[11px] text-slate-500">
+                      Bens: <strong>{brl(c.patrimonio_total)}</strong>
+                    </p>
+                  </div>
 
-                <div className="rounded-xl border border-slate-200 p-3 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-800/50">
-                  <span className="text-[10px] font-bold text-purple-700 uppercase tracking-wider block mb-1">
-                    Candidato a Vice-Presidente
-                  </span>
-                  <strong className="text-sm block text-slate-900 dark:text-white">{c.vice_nome ?? 'A definir'}</strong>
-                  <p className="text-[11px] text-slate-500 mt-1">
-                    Partido: <strong>{c.vice_partido || c.partido}</strong>
-                  </p>
-                  <p className="text-[11px] text-slate-500">
-                    Vínculo: <strong>Chapa Indivisível (CF/88)</strong>
-                  </p>
+                  <div className="rounded-xl border border-slate-200 p-3 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-800/50">
+                    <span className="text-[10px] font-bold text-blue-700 uppercase tracking-wider block mb-1">
+                      1º Suplente
+                    </span>
+                    <strong className="text-sm block text-slate-900 dark:text-white truncate">
+                      {suplentes.find((s) => Number(s.ordem) === 1)?.nome_urna || c.suplente1_nome || 'A definir'}
+                    </strong>
+                    <p className="text-[11px] text-slate-500 mt-1">
+                      {suplentes.find((s) => Number(s.ordem) === 1)?.partido || c.suplente1_partido || c.partido}
+                    </p>
+                    <p className="text-[11px] text-slate-500">Sucessão Direta</p>
+                  </div>
+
+                  <div className="rounded-xl border border-slate-200 p-3 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-800/50">
+                    <span className="text-[10px] font-bold text-purple-700 uppercase tracking-wider block mb-1">
+                      2º Suplente
+                    </span>
+                    <strong className="text-sm block text-slate-900 dark:text-white truncate">
+                      {suplentes.find((s) => Number(s.ordem) === 2)?.nome_urna || c.suplente2_nome || 'A definir'}
+                    </strong>
+                    <p className="text-[11px] text-slate-500 mt-1">
+                      {suplentes.find((s) => Number(s.ordem) === 2)?.partido || c.suplente2_partido || c.partido}
+                    </p>
+                    <p className="text-[11px] text-slate-500">Sucessão Secundária</p>
+                  </div>
                 </div>
-              </div>
+              ) : (
+                <div className="grid gap-3 sm:grid-cols-2">
+                  <div className="rounded-xl border border-slate-200 p-3 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-800/50">
+                    <span className="text-[10px] font-bold text-blue-700 uppercase tracking-wider block mb-1">
+                      Candidato a {c.cargo === 'governador' ? 'Governador' : 'Presidente'}
+                    </span>
+                    <strong className="text-sm block text-slate-900 dark:text-white">{c.nome}</strong>
+                    <p className="text-[11px] text-slate-500 mt-1">
+                      Partido: <strong>{c.partido}</strong> · Nº <strong>{c.numero}</strong>
+                    </p>
+                    <p className="text-[11px] text-slate-500">
+                      Patrimônio: <strong>{brl(c.patrimonio_total)}</strong>
+                    </p>
+                  </div>
+
+                  <div className="rounded-xl border border-slate-200 p-3 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-800/50">
+                    <span className="text-[10px] font-bold text-purple-700 uppercase tracking-wider block mb-1">
+                      Candidato a {c.cargo === 'governador' ? 'Vice-Governador' : 'Vice-Presidente'}
+                    </span>
+                    <strong className="text-sm block text-slate-900 dark:text-white">{c.vice_nome ?? 'A definir'}</strong>
+                    <p className="text-[11px] text-slate-500 mt-1">
+                      Partido: <strong>{c.vice_partido || c.partido}</strong>
+                    </p>
+                    <p className="text-[11px] text-slate-500">
+                      Vínculo: <strong>Chapa Indivisível (CF/88)</strong>
+                    </p>
+                  </div>
+                </div>
+              )}
 
               {/* Fundamentação Legal */}
               <div className="rounded-xl bg-slate-50 p-3.5 space-y-2 dark:bg-slate-800/60 text-slate-600 dark:text-slate-400 leading-relaxed">
                 <strong className="text-slate-800 dark:text-slate-200 block text-xs">
-                  ⚖️ Regras Constitucionais da Chapa Presidencial:
+                  ⚖️ Regras Constitucionais {c.cargo === 'senador' ? 'do Senado Federal' : 'da Chapa Majoritária'}:
                 </strong>
                 <ul className="list-disc list-inside space-y-1">
-                  <li>
-                    <strong>Princípio da Indivisibilidade:</strong> A eleição do Presidente importa a do Vice-Presidente com ele registrado (art. 77, § 1º, da Constituição Federal).
-                  </li>
-                  <li>
-                    <strong>Substituição e Sucessão:</strong> O Vice-Presidente substitui o Presidente no caso de impedimento e sucede-lhe no de vaga (art. 79 da CF/88).
-                  </li>
-                  <li>
-                    <strong>Número Único de Urna:</strong> Não há dígito separado para o vice; a digitação do número {c.numero} na urna confirma o voto para ambos os integrantes da chapa.
-                  </li>
+                  {c.cargo === 'senador' ? (
+                    <>
+                      <li>
+                        <strong>Dupla Suplência Obrigatória:</strong> Cada Senador é eleito conjuntamente com dois suplentes registrados (art. 46, § 3º, da Constituição Federal).
+                      </li>
+                      <li>
+                        <strong>Mandato de 8 Anos:</strong> A chapa é eleita para a legislatura de 8 anos (2027–2035). Os suplentes assumem em definitivo em caso de vacância ou temporariamente em licenças superiores a 120 dias (art. 56 da CF/88).
+                      </li>
+                      <li>
+                        <strong>Voto Unificado:</strong> A votação no número {c.numero} na urna eletrônica confirma automaticamente o candidato titular e ambos os suplentes da chapa.
+                      </li>
+                    </>
+                  ) : (
+                    <>
+                      <li>
+                        <strong>Princípio da Indivisibilidade:</strong> A eleição do titular importa a do Vice registrado na chapa (art. 77 da CF/88).
+                      </li>
+                      <li>
+                        <strong>Substituição e Sucessão:</strong> O Vice substitui o titular nos impedimentos e sucede-lhe no caso de vaga (art. 79 da CF/88).
+                      </li>
+                    </>
+                  )}
                 </ul>
               </div>
 

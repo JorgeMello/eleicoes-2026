@@ -3,35 +3,61 @@ import { useParams, useSearchParams } from 'react-router-dom';
 import { Bar, BarChart, LabelList, Legend, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import { api, brl, fotoUrl, UFS, UFS_DATA } from '../lib/api.js';
 
-const LINHAS = [
-  { label: 'Partido', get: (c) => c.partido, ajuda: 'Legenda pela qual o candidato concorre em 2026 (fonte: TSE via G1).',
-    sobre: 'O partido é a legenda pela qual o candidato disputa a eleição. Ele define o número de urna, o acesso a recursos de campanha (como o Fundo Eleitoral) e, em cargos proporcionais, influencia o cálculo das vagas. Aqui comparamos apenas a sigla de cada candidato.' },
-  { label: 'Número', get: (c) => c.numero, ajuda: 'Número digitado na urna eletrônica (2 dígitos para presidente e governador).',
-    sobre: 'É o número que o eleitor digita na urna eletrônica. Presidente e governador usam 2 dígitos; senador usa 3; deputado federal 4; estadual 5. Os dois primeiros dígitos de deputados indicam o partido.' },
-  { label: 'Profissão', get: (c) => c.profissao ?? '—', ajuda: 'Ocupação declarada pelo candidato no registro do TSE.',
-    sobre: 'A ocupação que o candidato declarou ao registrar a candidatura no TSE. Ajuda a conhecer a origem profissional de cada um — de torneiro mecânico a empresário — mas não mede preparo para o cargo.' },
-  { label: 'Instrução', get: (c) => c.grau_instrucao ?? '—', ajuda: 'Grau de instrução declarado no registro do TSE.',
-    sobre: 'O nível de escolaridade declarado pelo candidato, do ensino fundamental à pós-graduação. Não há exigência de escolaridade mínima para concorrer: o que vale é a escolha do eleitor.' },
-  { label: 'Cor/etnia', get: (c) => c.cor_etnia ?? '—', ajuda: 'Autodeclaração de cor/etnia do registro do TSE.',
-    sobre: 'Como o próprio candidato se declara (branca, preta, parda, amarela ou indígena). É um dado de representatividade: mostra a diversidade — ou a falta dela — entre quem disputa o poder.' },
-  { label: 'Vice', get: (c) => `${c.vice_nome ?? '—'}${c.vice_partido ? ` (${c.vice_partido})` : ''}`, ajuda: 'Companheiro de chapa (vice-presidente/vice-governador) declarado ao TSE.',
-    sobre: 'Nas eleições majoritárias (presidente e governador), cada candidato concorre em chapa com um vice, que assume em caso de ausência ou impedimento. O partido do vice costuma sinalizar as alianças da candidatura.' },
-  { label: 'Patrimônio', get: (c) => brl(c.patrimonio_total), ajuda: 'Soma dos valores dos bens declarados ao TSE. Pode estar parcial se algum bem veio sem valor.',
-    sobre: 'A soma de tudo que o candidato declarou possuir: imóveis, veículos, aplicações, empresas e outros bens. É fiscalizado pela Justiça Eleitoral e permite comparar a situação econômica dos candidatos.',
-    num: (c) => c.patrimonio_total !== null && c.patrimonio_total !== undefined ? Number(c.patrimonio_total) : null, moeda: true },
-  { label: 'Receitas', get: (c) => brl(c.receitas_total), ajuda: 'Total arrecadado pela campanha em 2026 (prestação de contas ao TSE).',
-    sobre: 'Todo o dinheiro que entrou no caixa da campanha: doações de pessoas, recursos do partido, Fundo Eleitoral e financiamento coletivo. Campanhas com mais receita conseguem mais propaganda, viagens e estrutura.',
-    num: (c) => c.receitas_total !== null && c.receitas_total !== undefined ? Number(c.receitas_total) : null, moeda: true },
-  { label: 'Despesas', get: (c) => brl(c.despesas_total), ajuda: 'Total gasto pela campanha em 2026 (prestação de contas ao TSE).',
-    sobre: 'Tudo que a campanha gastou: publicidade, pessoal, deslocamentos, material e serviços. A lei impõe um teto de gastos por cargo; estourar o limite pode cassar o mandato.',
-    num: (c) => c.despesas_total !== null && c.despesas_total !== undefined ? Number(c.despesas_total) : null, moeda: true },
-  { label: 'Nº bens', get: (c, extra) => extra?.bens?.length ?? '—', ajuda: 'Quantidade de itens na lista de bens declarados ao TSE.',
-    sobre: 'Quantos itens compõem a declaração de bens. Um número alto não significa riqueza (pode ser muitos bens baratos); vale olhar junto com o valor total do patrimônio.',
-    num: (c, extra) => extra?.bens?.length ?? null },
-  { label: 'Eleições disputadas', get: (c, extra) => extra?.historico?.length ?? '—', ajuda: 'Candidaturas anteriores encontradas no histórico do candidato.',
-    sobre: 'Quantas eleições o candidato já disputou segundo os registros. Indica experiência eleitoral: estreantes contra nomes que já venceram ou perderam outras disputas.',
-    num: (c, extra) => extra?.historico?.length ?? null },
-];
+function getLinhas(cargo = 'presidente') {
+  const ehSenador = cargo === 'senador';
+  return [
+    { label: 'Partido', get: (c) => c.partido, ajuda: 'Legenda pela qual o candidato concorre em 2026 (fonte: TSE via G1).',
+      sobre: 'O partido é a legenda pela qual o candidato disputa a eleição. Ele define o número de urna, o acesso a recursos de campanha (como o Fundo Eleitoral) e, em cargos proporcionais, influencia o cálculo das vagas. Aqui comparamos apenas a sigla de cada candidato.' },
+    { label: 'Número', get: (c) => c.numero, ajuda: 'Número digitado na urna eletrônica (2 dígitos para presidente e governador; 3 para senador).',
+      sobre: 'É o número que o eleitor digita na urna eletrônica. Presidente e governador usam 2 dígitos; senador usa 3; deputado federal 4; estadual 5. Os dois primeiros dígitos de deputados indicam o partido.' },
+    { label: 'Profissão', get: (c) => c.profissao ?? '—', ajuda: 'Ocupação declarada pelo candidato no registro do TSE.',
+      sobre: 'A ocupação que o candidato declarou ao registrar a candidatura no TSE. Ajuda a conhecer a origem profissional de cada um — de torneiro mecânico a empresário — mas não mede preparo para o cargo.' },
+    { label: 'Instrução', get: (c) => c.grau_instrucao ?? '—', ajuda: 'Grau de instrução declarado no registro do TSE.',
+      sobre: 'O nível de escolaridade declarado pelo candidato, do ensino fundamental à pós-graduação. Não há exigência de escolaridade mínima para concorrer: o que vale é a escolha do eleitor.' },
+    { label: 'Cor/etnia', get: (c) => c.cor_etnia ?? '—', ajuda: 'Autodeclaração de cor/etnia do registro do TSE.',
+      sobre: 'Como o próprio candidato se declara (branca, preta, parda, amarela ou indígena). É um dado de representatividade: mostra a diversidade — ou a falta dela — entre quem disputa o poder.' },
+    ehSenador
+      ? {
+          label: 'Suplentes',
+          get: (c, extra) => {
+            const s1 =
+              extra?.suplentes?.find((s) => Number(s.ordem) === 1) ||
+              (c.suplente1_nome ? { nome: c.suplente1_nome, partido: c.suplente1_partido } : null);
+            const s2 =
+              extra?.suplentes?.find((s) => Number(s.ordem) === 2) ||
+              (c.suplente2_nome ? { nome: c.suplente2_nome, partido: c.suplente2_partido } : null);
+            const t1 = s1 ? `1º: ${s1.nome_urna || s1.nome} (${s1.partido || c.partido})` : null;
+            const t2 = s2 ? `2º: ${s2.nome_urna || s2.nome} (${s2.partido || c.partido})` : null;
+            return [t1, t2].filter(Boolean).join(' · ') || '—';
+          },
+          ajuda: '1º e 2º Suplentes registrados na chapa do Senado perante o TSE.',
+          sobre:
+            'No Senado Federal, cada candidatura ao mandato de 8 anos concorre com dois suplentes registrados, que assumem a titularidade nos casos de licença (como ministérios) ou vacância do cargo.',
+        }
+      : {
+          label: 'Vice',
+          get: (c) => `${c.vice_nome ?? '—'}${c.vice_partido ? ` (${c.vice_partido})` : ''}`,
+          ajuda: 'Companheiro de chapa (vice-presidente/vice-governador) declarado ao TSE.',
+          sobre:
+            'Nas eleições majoritárias (presidente e governador), cada candidato concorre em chapa com um vice, que assume em caso de ausência ou impedimento. O partido do vice costuma sinalizar as alianças da candidatura.',
+        },
+    { label: 'Patrimônio', get: (c) => brl(c.patrimonio_total), ajuda: 'Soma dos valores dos bens declarados ao TSE. Pode estar parcial se algum bem veio sem valor.',
+      sobre: 'A soma de tudo que o candidato declarou possuir: imóveis, veículos, aplicações, empresas e outros bens. É fiscalizado pela Justiça Eleitoral e permite comparar a situação econômica dos candidatos.',
+      num: (c) => c.patrimonio_total !== null && c.patrimonio_total !== undefined ? Number(c.patrimonio_total) : null, moeda: true },
+    { label: 'Receitas', get: (c) => brl(c.receitas_total), ajuda: 'Total arrecadado pela campanha em 2026 (prestação de contas ao TSE).',
+      sobre: 'Todo o dinheiro que entrou no caixa da campanha: doações de pessoas, recursos do partido, Fundo Eleitoral e financiamento coletivo. Campanhas com mais receita conseguem mais propaganda, viagens e estrutura.',
+      num: (c) => c.receitas_total !== null && c.receitas_total !== undefined ? Number(c.receitas_total) : null, moeda: true },
+    { label: 'Despesas', get: (c) => brl(c.despesas_total), ajuda: 'Total gasto pela campanha em 2026 (prestação de contas ao TSE).',
+      sobre: 'Tudo que a campanha gastou: publicidade, pessoal, deslocamentos, material e serviços. A lei impõe um teto de gastos por cargo; estourar o limite pode cassar o mandato.',
+      num: (c) => c.despesas_total !== null && c.despesas_total !== undefined ? Number(c.despesas_total) : null, moeda: true },
+    { label: 'Nº bens', get: (c, extra) => extra?.bens?.length ?? '—', ajuda: 'Quantidade de itens na lista de bens declarados ao TSE.',
+      sobre: 'Quantos itens compõem a declaração de bens. Um número alto não significa riqueza (pode ser muitos bens baratos); vale olhar junto com o valor total do patrimônio.',
+      num: (c, extra) => extra?.bens?.length ?? null },
+    { label: 'Eleições disputadas', get: (c, extra) => extra?.historico?.length ?? '—', ajuda: 'Candidaturas anteriores encontradas no histórico do candidato.',
+      sobre: 'Quantas eleições o candidato já disputou segundo os registros. Indica experiência eleitoral: estreantes contra nomes que já venceram ou perderam outras disputas.',
+      num: (c, extra) => extra?.historico?.length ?? null },
+  ];
+}
 
 /** Monta a análise pronta dos dados comparados para o modal.
  *  Retorna [{ foto, texto }] — foto é a URL do candidato ou null (linhas-resumo). */
@@ -158,7 +184,8 @@ export default function Comparador() {
     setSp(n);
   };
 
-  const itemSel = LINHAS.find((l) => l.label === ajudaSel?.label) ?? null;
+  const linhas = getLinhas(cargo);
+  const itemSel = linhas.find((l) => l.label === ajudaSel?.label) ?? null;
 
   // Fecha o modal com ESC e trava o scroll do body enquanto aberto
   useEffect(() => {
@@ -315,7 +342,7 @@ export default function Comparador() {
               </tr>
             </thead>
             <tbody>
-              {LINHAS.map(({ label: k, get: fn, ajuda }) => (
+              {linhas.map(({ label: k, get: fn, ajuda }) => (
                 <tr key={k} className="border-t dark:border-slate-700">
                   <td className="px-3 py-1.5 text-slate-500 dark:text-slate-400">
                     <span className="inline-flex items-center gap-1">

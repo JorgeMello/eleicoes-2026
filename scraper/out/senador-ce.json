@@ -1,0 +1,1412 @@
+[
+  {
+    "slug": "60002540754",
+    "nome": "Alcides Fernandes",
+    "partido": "PL",
+    "numero": 222,
+    "cargo": "senador",
+    "uf": "CE",
+    "foto_arquivo": "senador-ce-60002540754",
+    "foto_url_original": "https://s2-g1.glbimg.com/kuOotIEuH9UboQz4AAqIhi-HUKI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/I/VVxvLZSti4dAVZAKHfgw/alcides-fernandes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ce/60002540754.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "João Barroso",
+    "suplente1_partido": "PSDB",
+    "suplente2_nome": "Denísio Pinheiro",
+    "suplente2_partido": "PSDB",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "João Barroso",
+        "nome_urna": "João Barroso",
+        "partido": "PSDB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Denísio Pinheiro",
+        "nome_urna": "Denísio Pinheiro",
+        "partido": "PSDB"
+      }
+    ],
+    "patrimonio_total": 648334.44,
+    "receitas_total": 4446000,
+    "despesas_total": 3676957.5,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa meação",
+        "valor": 193855.7
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno meação",
+        "valor": 110000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno meação",
+        "valor": 21000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em poupança",
+        "valor": 40000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento - meação",
+        "valor": 260000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em cc",
+        "valor": 23478.74
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 99.87,
+        "documento": "08517423000195"
+      },
+      {
+        "nome": "Rodrigo Higino Farias Paz",
+        "percentual": 0.13,
+        "documento": "73131857315"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "santana & associados marketing e propaganda ltda",
+        "percentual": 54.39,
+        "documento": "05060706000162"
+      },
+      {
+        "nome": "contservice contabilidade e servicos ltda",
+        "percentual": 12.78,
+        "documento": "15110774000142"
+      },
+      {
+        "nome": "pedro teixeira cavalcante neto advocacia",
+        "percentual": 8.16,
+        "documento": "13328959000100"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 4.24,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 4.08,
+        "documento": "25021356000132"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Alcides Fernandes",
+      "partido_pagina": "PL",
+      "numero_pagina": 222,
+      "profissao": "Deputado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/kuOotIEuH9UboQz4AAqIhi-HUKI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/I/VVxvLZSti4dAVZAKHfgw/alcides-fernandes.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 193.855,70 Casa meação",
+        "Terreno R$ 110.000,00 Terreno meação",
+        "Terreno R$ 21.000,00 Terreno meação",
+        "Caderneta de poupança R$ 40.000,00 Saldo em poupança",
+        "Apartamento R$ 260.000,00 Apartamento - meação",
+        "Depósito bancário em conta corrente no país R$ 23.478,74 Saldo em cc"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "João Barroso",
+      "suplente1_partido": "PSDB",
+      "suplente2_nome": "Denísio Pinheiro",
+      "suplente2_partido": "PSDB",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "João Barroso",
+          "nome_urna": "João Barroso",
+          "partido": "PSDB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Denísio Pinheiro",
+          "nome_urna": "Denísio Pinheiro",
+          "partido": "PSDB"
+        }
+      ],
+      "receitas_total": 4446000,
+      "despesas_total": 3676957.5,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 99.87,
+          "documento": "08517423000195"
+        },
+        {
+          "nome": "Rodrigo Higino Farias Paz",
+          "percentual": 0.13,
+          "documento": "73131857315"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "santana & associados marketing e propaganda ltda",
+          "percentual": 54.39,
+          "documento": "05060706000162"
+        },
+        {
+          "nome": "contservice contabilidade e servicos ltda",
+          "percentual": 12.78,
+          "documento": "15110774000142"
+        },
+        {
+          "nome": "pedro teixeira cavalcante neto advocacia",
+          "percentual": 8.16,
+          "documento": "13328959000100"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 4.24,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 4.08,
+          "documento": "25021356000132"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ce-60002540754.jpeg",
+    "coletado_em": "2026-09-20T22:35:40.880Z"
+  },
+  {
+    "slug": "60002540753",
+    "nome": "Capitão Wagner",
+    "partido": "UNIÃO",
+    "numero": 445,
+    "cargo": "senador",
+    "uf": "CE",
+    "foto_arquivo": "senador-ce-60002540753",
+    "foto_url_original": "https://s2-g1.glbimg.com/6oYD2h5ZS2LALr_u47I4t8SBMEo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/m/AOEFNCR86QNE9Upl1h0g/capitao-wagner.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ce/60002540753.ghtml",
+    "profissao": "Policial militar",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Prisco Bezerra",
+    "suplente1_partido": "UNIÃO",
+    "suplente2_nome": "Lucio Gomes",
+    "suplente2_partido": "PSDB",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Prisco Bezerra",
+        "nome_urna": "Prisco Bezerra",
+        "partido": "UNIÃO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Lucio Gomes",
+        "nome_urna": "Lucio Gomes",
+        "partido": "PSDB"
+      }
+    ],
+    "patrimonio_total": 2390938.36,
+    "receitas_total": 3857420,
+    "despesas_total": 3140792.61,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Um apartamento em fortaleza/ce",
+        "valor": 380000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Uma casa em cascavel/ce",
+        "valor": 230000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança",
+        "valor": 3607.87
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Uma casa em fortaleza/ce",
+        "valor": 150000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança",
+        "valor": 36038.23
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Hiperfundo bradesco",
+        "valor": 318.76
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Um terreno no eusébio/ce",
+        "valor": 1240973.5
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Um apartamento em fortaleza/ce",
+        "valor": 350000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - União",
+        "percentual": 95.92,
+        "documento": "44551496000167"
+      },
+      {
+        "nome": "Prisco Rodrigues Bezerra",
+        "percentual": 2.59,
+        "documento": "42748496353"
+      },
+      {
+        "nome": "Wagner Sousa Gomes",
+        "percentual": 0.78,
+        "documento": "61496880382"
+      },
+      {
+        "nome": "Maria Claudia Da Costa Bittencout",
+        "percentual": 0.48,
+        "documento": "85299251300"
+      },
+      {
+        "nome": "Dagila Maria Inacio Da Silva",
+        "percentual": 0.08,
+        "documento": "04397160392"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "santana & associados marketing e propaganda ltda",
+        "percentual": 63.68,
+        "documento": "05060706000162"
+      },
+      {
+        "nome": "ebanx pagamentos ltda",
+        "percentual": 10.83,
+        "documento": "24080493000185"
+      },
+      {
+        "nome": "qualigraf - editora e grafica ltda",
+        "percentual": 6.8,
+        "documento": "02933302000148"
+      },
+      {
+        "nome": "master tag rotulos etiquetas e comunicacao visual ltda",
+        "percentual": 5.01,
+        "documento": "50156346000151"
+      },
+      {
+        "nome": "tenorio, menezes & freitas advogados",
+        "percentual": 2.55,
+        "documento": "26717584000104"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Capitão Wagner",
+      "partido_pagina": "UNIÃO",
+      "numero_pagina": 445,
+      "profissao": "Policial militar",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/6oYD2h5ZS2LALr_u47I4t8SBMEo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/m/AOEFNCR86QNE9Upl1h0g/capitao-wagner.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 380.000,00 Um apartamento em fortaleza/ce",
+        "Casa R$ 230.000,00 Uma casa em cascavel/ce",
+        "Caderneta de poupança R$ 3.607,87 Poupança",
+        "Casa R$ 150.000,00 Uma casa em fortaleza/ce",
+        "Caderneta de poupança R$ 36.038,23 Poupança",
+        "Outras aplicações e investimentos R$ 318,76 Hiperfundo bradesco",
+        "Terreno R$ 1.240.973,50 Um terreno no eusébio/ce",
+        "Apartamento R$ 350.000,00 Um apartamento em fortaleza/ce"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Prisco Bezerra",
+      "suplente1_partido": "UNIÃO",
+      "suplente2_nome": "Lucio Gomes",
+      "suplente2_partido": "PSDB",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Prisco Bezerra",
+          "nome_urna": "Prisco Bezerra",
+          "partido": "UNIÃO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Lucio Gomes",
+          "nome_urna": "Lucio Gomes",
+          "partido": "PSDB"
+        }
+      ],
+      "receitas_total": 3857420,
+      "despesas_total": 3140792.61,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - União",
+          "percentual": 95.92,
+          "documento": "44551496000167"
+        },
+        {
+          "nome": "Prisco Rodrigues Bezerra",
+          "percentual": 2.59,
+          "documento": "42748496353"
+        },
+        {
+          "nome": "Wagner Sousa Gomes",
+          "percentual": 0.78,
+          "documento": "61496880382"
+        },
+        {
+          "nome": "Maria Claudia Da Costa Bittencout",
+          "percentual": 0.48,
+          "documento": "85299251300"
+        },
+        {
+          "nome": "Dagila Maria Inacio Da Silva",
+          "percentual": 0.08,
+          "documento": "04397160392"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "santana & associados marketing e propaganda ltda",
+          "percentual": 63.68,
+          "documento": "05060706000162"
+        },
+        {
+          "nome": "ebanx pagamentos ltda",
+          "percentual": 10.83,
+          "documento": "24080493000185"
+        },
+        {
+          "nome": "qualigraf - editora e grafica ltda",
+          "percentual": 6.8,
+          "documento": "02933302000148"
+        },
+        {
+          "nome": "master tag rotulos etiquetas e comunicacao visual ltda",
+          "percentual": 5.01,
+          "documento": "50156346000151"
+        },
+        {
+          "nome": "tenorio, menezes & freitas advogados",
+          "percentual": 2.55,
+          "documento": "26717584000104"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ce-60002540753.jpeg",
+    "coletado_em": "2026-09-20T22:35:43.381Z"
+  },
+  {
+    "slug": "60002533959",
+    "nome": "Catarina Matos",
+    "partido": "UP",
+    "numero": 800,
+    "cargo": "senador",
+    "uf": "CE",
+    "foto_arquivo": "senador-ce-60002533959",
+    "foto_url_original": "https://s2-g1.glbimg.com/prJA1hUx2zxzejO3ZMa_5ElKz-E=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/8/1lA4yUQ7aXwBDRFkS6Pw/catarina-matos.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ce/60002533959.ghtml",
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Emanuel Menezes",
+    "suplente1_partido": "UP",
+    "suplente2_nome": "Carlos Feitosa",
+    "suplente2_partido": "UP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Emanuel Menezes",
+        "nome_urna": "Emanuel Menezes",
+        "partido": "UP"
+      },
+      {
+        "ordem": 2,
+        "nome": "Carlos Feitosa",
+        "nome_urna": "Carlos Feitosa",
+        "partido": "UP"
+      }
+    ],
+    "patrimonio_total": 10435.33,
+    "receitas_total": 11863,
+    "despesas_total": 8001.61,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicações",
+        "valor": 10435.33
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Up - Ceará",
+        "percentual": 72.33,
+        "documento": "37073789000110"
+      },
+      {
+        "nome": "Joao Marcelo Almeida Matos",
+        "percentual": 12.64,
+        "documento": "04485983374"
+      },
+      {
+        "nome": "Gerlylson Rubens Dos Santos Silva",
+        "percentual": 2.11,
+        "documento": "04222128309"
+      },
+      {
+        "nome": "Lucas De Sousa Ribeiro",
+        "percentual": 1.69,
+        "documento": "03480478352"
+      },
+      {
+        "nome": "Carolina De Fatima Almeida Matos",
+        "percentual": 1.69,
+        "documento": "67320627353"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "fábio andrade de araújo",
+        "percentual": 99.98,
+        "documento": "04226920341"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Catarina Matos",
+      "partido_pagina": "UP",
+      "numero_pagina": 800,
+      "profissao": "Professor de ensino médio",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/prJA1hUx2zxzejO3ZMa_5ElKz-E=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/8/1lA4yUQ7aXwBDRFkS6Pw/catarina-matos.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outras aplicações e investimentos R$ 10.435,33 Aplicações"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Emanuel Menezes",
+      "suplente1_partido": "UP",
+      "suplente2_nome": "Carlos Feitosa",
+      "suplente2_partido": "UP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Emanuel Menezes",
+          "nome_urna": "Emanuel Menezes",
+          "partido": "UP"
+        },
+        {
+          "ordem": 2,
+          "nome": "Carlos Feitosa",
+          "nome_urna": "Carlos Feitosa",
+          "partido": "UP"
+        }
+      ],
+      "receitas_total": 11863,
+      "despesas_total": 8001.61,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Up - Ceará",
+          "percentual": 72.33,
+          "documento": "37073789000110"
+        },
+        {
+          "nome": "Joao Marcelo Almeida Matos",
+          "percentual": 12.64,
+          "documento": "04485983374"
+        },
+        {
+          "nome": "Gerlylson Rubens Dos Santos Silva",
+          "percentual": 2.11,
+          "documento": "04222128309"
+        },
+        {
+          "nome": "Lucas De Sousa Ribeiro",
+          "percentual": 1.69,
+          "documento": "03480478352"
+        },
+        {
+          "nome": "Carolina De Fatima Almeida Matos",
+          "percentual": 1.69,
+          "documento": "67320627353"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "fábio andrade de araújo",
+          "percentual": 99.98,
+          "documento": "04226920341"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ce-60002533959.jpeg",
+    "coletado_em": "2026-09-20T22:35:45.872Z"
+  },
+  {
+    "slug": "60002542479",
+    "nome": "Cid Gomes",
+    "partido": "PSB",
+    "numero": 400,
+    "cargo": "senador",
+    "uf": "CE",
+    "foto_arquivo": "senador-ce-60002542479",
+    "foto_url_original": "https://s2-g1.glbimg.com/FUhFLwh7NYe7FBGEKXgXHVIRzTk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/1/qIRYIiSXKTOJkI36MdNw/cid-gomes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ce/60002542479.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Junior Mano",
+    "suplente1_partido": "PSB",
+    "suplente2_nome": "Julio Ventura",
+    "suplente2_partido": "PSB",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Junior Mano",
+        "nome_urna": "Junior Mano",
+        "partido": "PSB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Julio Ventura",
+        "nome_urna": "Julio Ventura",
+        "partido": "PSB"
+      }
+    ],
+    "patrimonio_total": 1595202.78,
+    "receitas_total": 3248304.88,
+    "despesas_total": 1474634.14,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em poupança no banco do brasil s/a",
+        "valor": 3271.66
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no exterior",
+        "descricao": "Depósito bancário em conta corrente no exterior Conta corrente no exterior no banco bradesco",
+        "valor": 37100
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imovel urbano sitio são paulo",
+        "valor": 300000
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Brasilprev vgbl",
+        "valor": 13123.84
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento no meireles",
+        "valor": 230000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 50% do capital social da empresa condominio terra nova comunicações",
+        "valor": 120000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente no banco bradesco",
+        "valor": 1
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 95% do capital social da empresa corte oito e empreendimento ltda",
+        "valor": 560500
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lotes rua sdo. bairro colina da boa vista, em sobral - ce",
+        "valor": 25714.28
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lotes no bairro da coelce em sobral",
+        "valor": 22500
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Disponibilidade financeira em moeda corrente nacional",
+        "valor": 92640
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 51.11% de participação na sociedade hidro comunicação ltda",
+        "valor": 30352
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 1/5(um quinto) imovel situado no boulevard cel. joão barbosa",
+        "valor": 160000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psb",
+        "percentual": 34.96,
+        "documento": "01421697000137"
+      },
+      {
+        "nome": "Pedro Grendene Bartelle",
+        "percentual": 15.39,
+        "documento": "09864784072"
+      },
+      {
+        "nome": "Rose Aline Matos Ferreira De Freitas Guimaraes",
+        "percentual": 15.39,
+        "documento": "62248480334"
+      },
+      {
+        "nome": "Alexandre Grendene Bartelle",
+        "percentual": 15.39,
+        "documento": "09867597087"
+      },
+      {
+        "nome": "Maria Consuelo Saraiva Leao Dias Branco",
+        "percentual": 15.39,
+        "documento": "27289885368"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "contacto relacoes publicas ltda",
+        "percentual": 67.81,
+        "documento": "04405470000196"
+      },
+      {
+        "nome": "solar taxi aereo ltda",
+        "percentual": 15.94,
+        "documento": "13087728000144"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 6.78,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "solution assessoria, planejamento e servicos ltda",
+        "percentual": 3.39,
+        "documento": "04549133000172"
+      },
+      {
+        "nome": "adventseven servicos, gestao e desenvolvimento gerencial ltda",
+        "percentual": 2.2,
+        "documento": "07167712000149"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Cid Gomes",
+      "partido_pagina": "PSB",
+      "numero_pagina": 400,
+      "profissao": "Senador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/FUhFLwh7NYe7FBGEKXgXHVIRzTk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/1/qIRYIiSXKTOJkI36MdNw/cid-gomes.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 3.271,66 Saldo em poupança no banco do brasil s/a",
+        "Depósito bancário em conta corrente no exterior R$ 37.100,00 Conta corrente no exterior no banco bradesco",
+        "Casa R$ 300.000,00 Imovel urbano sitio são paulo",
+        "Vgbl - vida gerador de benefício livre R$ 13.123,84 Brasilprev vgbl",
+        "Apartamento R$ 230.000,00 Apartamento no meireles",
+        "Quotas ou quinhões de capital R$ 120.000,00 50% do capital social da empresa condominio terra nova comunicações",
+        "Depósito bancário em conta corrente no país R$ 1,00 Conta corrente no banco bradesco",
+        "Quotas ou quinhões de capital R$ 560.500,00 95% do capital social da empresa corte oito e empreendimento ltda",
+        "Terreno R$ 25.714,28 Lotes rua sdo. bairro colina da boa vista, em sobral - ce",
+        "Terreno R$ 22.500,00 Lotes no bairro da coelce em sobral",
+        "Outros bens e direitos R$ 92.640,00 Disponibilidade financeira em moeda corrente nacional",
+        "Quotas ou quinhões de capital R$ 30.352,00 51.11% de participação na sociedade hidro comunicação ltda",
+        "Apartamento R$ 160.000,00 1/5(um quinto) imovel situado no boulevard cel. joão barbosa"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Junior Mano",
+      "suplente1_partido": "PSB",
+      "suplente2_nome": "Julio Ventura",
+      "suplente2_partido": "PSB",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Junior Mano",
+          "nome_urna": "Junior Mano",
+          "partido": "PSB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Julio Ventura",
+          "nome_urna": "Julio Ventura",
+          "partido": "PSB"
+        }
+      ],
+      "receitas_total": 3248304.88,
+      "despesas_total": 1474634.14,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psb",
+          "percentual": 34.96,
+          "documento": "01421697000137"
+        },
+        {
+          "nome": "Pedro Grendene Bartelle",
+          "percentual": 15.39,
+          "documento": "09864784072"
+        },
+        {
+          "nome": "Rose Aline Matos Ferreira De Freitas Guimaraes",
+          "percentual": 15.39,
+          "documento": "62248480334"
+        },
+        {
+          "nome": "Alexandre Grendene Bartelle",
+          "percentual": 15.39,
+          "documento": "09867597087"
+        },
+        {
+          "nome": "Maria Consuelo Saraiva Leao Dias Branco",
+          "percentual": 15.39,
+          "documento": "27289885368"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "contacto relacoes publicas ltda",
+          "percentual": 67.81,
+          "documento": "04405470000196"
+        },
+        {
+          "nome": "solar taxi aereo ltda",
+          "percentual": 15.94,
+          "documento": "13087728000144"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 6.78,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "solution assessoria, planejamento e servicos ltda",
+          "percentual": 3.39,
+          "documento": "04549133000172"
+        },
+        {
+          "nome": "adventseven servicos, gestao e desenvolvimento gerencial ltda",
+          "percentual": 2.2,
+          "documento": "07167712000149"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ce-60002542479.jpeg",
+    "coletado_em": "2026-09-20T22:35:49.218Z"
+  },
+  {
+    "slug": "60002539687",
+    "nome": "Guilherme Theophilo",
+    "partido": "NOVO",
+    "numero": 300,
+    "cargo": "senador",
+    "uf": "CE",
+    "foto_arquivo": "senador-ce-60002539687",
+    "foto_url_original": "https://s2-g1.glbimg.com/MJfWPh9vbOaup25F62Kn79IpRAQ=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/e/8dOKZyQduWC26CLueNjQ/guilherme-theophilo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ce/60002539687.ghtml",
+    "profissao": "Militar reformado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Dra. Verônica Amaral",
+    "suplente1_partido": "NOVO",
+    "suplente2_nome": "Capelli",
+    "suplente2_partido": "NOVO",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Dra. Verônica Amaral",
+        "nome_urna": "Dra. Verônica Amaral",
+        "partido": "NOVO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Capelli",
+        "nome_urna": "Capelli",
+        "partido": "NOVO"
+      }
+    ],
+    "patrimonio_total": 6160000,
+    "receitas_total": 50241.5,
+    "despesas_total": 0,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "valor": 100000
+      },
+      {
+        "tipo": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado",
+        "descricao": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado",
+        "valor": 3000000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 3000000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "valor": 60000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Novo",
+        "percentual": 99.52,
+        "documento": "13405866000124"
+      },
+      {
+        "nome": "Direção Estadual/distrital - Novo - Ceará",
+        "percentual": 0.48,
+        "documento": "29790732000104"
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Guilherme Theophilo",
+      "partido_pagina": "NOVO",
+      "numero_pagina": 300,
+      "profissao": "Militar reformado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/MJfWPh9vbOaup25F62Kn79IpRAQ=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/e/8dOKZyQduWC26CLueNjQ/guilherme-theophilo.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 100.000,00 Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado R$ 3.000.000,00 Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado",
+        "Apartamento R$ 3.000.000,00 Apartamento",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 60.000,00 Veículo automotor terrestre: caminhão, automóvel, moto, etc."
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Dra. Verônica Amaral",
+      "suplente1_partido": "NOVO",
+      "suplente2_nome": "Capelli",
+      "suplente2_partido": "NOVO",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Dra. Verônica Amaral",
+          "nome_urna": "Dra. Verônica Amaral",
+          "partido": "NOVO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Capelli",
+          "nome_urna": "Capelli",
+          "partido": "NOVO"
+        }
+      ],
+      "receitas_total": 50241.5,
+      "despesas_total": 0,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Novo",
+          "percentual": 99.52,
+          "documento": "13405866000124"
+        },
+        {
+          "nome": "Direção Estadual/distrital - Novo - Ceará",
+          "percentual": 0.48,
+          "documento": "29790732000104"
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ce-60002539687.jpeg",
+    "coletado_em": "2026-09-20T22:35:51.766Z"
+  },
+  {
+    "slug": "60002551397",
+    "nome": "Lino Alves",
+    "partido": "PCO",
+    "numero": 290,
+    "cargo": "senador",
+    "uf": "CE",
+    "foto_arquivo": "senador-ce-60002551397",
+    "foto_url_original": "https://s2-g1.glbimg.com/fD9-waohoZLE1LMY1iVJj0RavfI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/f/toLmY7S8Aj9DAGfnNEUw/lino-alves.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ce/60002551397.ghtml",
+    "profissao": "Engenheiro",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": "PCO",
+    "vice_partido": "Inapto",
+    "suplente1_nome": "Tiago Ferreira",
+    "suplente1_partido": "PCO",
+    "suplente2_nome": "Estevam",
+    "suplente2_partido": "PCO",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Tiago Ferreira",
+        "nome_urna": "Tiago Ferreira",
+        "partido": "PCO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Estevam",
+        "nome_urna": "Estevam",
+        "partido": "PCO"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [
+      {
+        "ano": 2024,
+        "cargo": "Prefeito",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2020,
+        "cargo": "Vereador",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Lino Alves",
+      "partido_pagina": "PCO",
+      "numero_pagina": 290,
+      "profissao": "Engenheiro",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/fD9-waohoZLE1LMY1iVJj0RavfI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/f/toLmY7S8Aj9DAGfnNEUw/lino-alves.jpeg",
+      "historico": [
+        {
+          "ano": 2024,
+          "cargo": "Prefeito",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2020,
+          "cargo": "Vereador",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [],
+      "vice_nome": "PCO",
+      "vice_partido": "Inapto",
+      "suplente1_nome": "Tiago Ferreira",
+      "suplente1_partido": "PCO",
+      "suplente2_nome": "Estevam",
+      "suplente2_partido": "PCO",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Tiago Ferreira",
+          "nome_urna": "Tiago Ferreira",
+          "partido": "PCO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Estevam",
+          "nome_urna": "Estevam",
+          "partido": "PCO"
+        }
+      ],
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 4447201.54,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ce-60002551397.jpeg",
+    "coletado_em": "2026-09-20T22:35:54.325Z"
+  },
+  {
+    "slug": "60002542476",
+    "nome": "Luizianne",
+    "partido": "REDE",
+    "numero": 180,
+    "cargo": "senador",
+    "uf": "CE",
+    "foto_arquivo": "senador-ce-60002542476",
+    "foto_url_original": "https://s2-g1.glbimg.com/2oYu8qBy2pg8qbSeBdb9gUhZzko=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/C/HAM37nTSO8KIyiuziZOA/luizianne.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ce/60002542476.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Chagas Vieira",
+    "suplente1_partido": "PDT",
+    "suplente2_nome": "Rodrigo Oliveira",
+    "suplente2_partido": "MDB",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Chagas Vieira",
+        "nome_urna": "Chagas Vieira",
+        "partido": "PDT"
+      },
+      {
+        "ordem": 2,
+        "nome": "Rodrigo Oliveira",
+        "nome_urna": "Rodrigo Oliveira",
+        "partido": "MDB"
+      }
+    ],
+    "patrimonio_total": 333284.84,
+    "receitas_total": 2220000,
+    "despesas_total": 2278955.45,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "14/09/2026 • Atualizado há 6 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em c.c",
+        "valor": 95160.33
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento no bairro aldeota, fortaleza-ce",
+        "valor": 228124.51
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Fusca",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Fusca 1969",
+        "valor": 10000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Rede",
+        "percentual": 99.1,
+        "documento": "17981188000107"
+      },
+      {
+        "nome": "Wellington Rocha Leitao Filho",
+        "percentual": 0.9,
+        "documento": "21083380397"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "contacto relacoes publicas ltda",
+        "percentual": 43.88,
+        "documento": "04405470000196"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 24.09,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "adventseven servicos, gestao e desenvolvimento gerencial ltda",
+        "percentual": 10.53,
+        "documento": "07167712000149"
+      },
+      {
+        "nome": "executive air taxi aereo ltda",
+        "percentual": 10.31,
+        "documento": "13333253000129"
+      },
+      {
+        "nome": "solution assessoria, planejamento e servicos ltda",
+        "percentual": 2.19,
+        "documento": "04549133000172"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Luizianne",
+      "partido_pagina": "REDE",
+      "numero_pagina": 180,
+      "profissao": "Deputado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/2oYu8qBy2pg8qbSeBdb9gUhZzko=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/C/HAM37nTSO8KIyiuziZOA/luizianne.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Depósito bancário em conta corrente no país R$ 95.160,33 Saldo em c.c",
+        "Apartamento R$ 228.124,51 Apartamento no bairro aldeota, fortaleza-ce",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 10.000,00 Fusca 1969"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Chagas Vieira",
+      "suplente1_partido": "PDT",
+      "suplente2_nome": "Rodrigo Oliveira",
+      "suplente2_partido": "MDB",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Chagas Vieira",
+          "nome_urna": "Chagas Vieira",
+          "partido": "PDT"
+        },
+        {
+          "ordem": 2,
+          "nome": "Rodrigo Oliveira",
+          "nome_urna": "Rodrigo Oliveira",
+          "partido": "MDB"
+        }
+      ],
+      "receitas_total": 2220000,
+      "despesas_total": 2278955.45,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Rede",
+          "percentual": 99.1,
+          "documento": "17981188000107"
+        },
+        {
+          "nome": "Wellington Rocha Leitao Filho",
+          "percentual": 0.9,
+          "documento": "21083380397"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "contacto relacoes publicas ltda",
+          "percentual": 43.88,
+          "documento": "04405470000196"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 24.09,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "adventseven servicos, gestao e desenvolvimento gerencial ltda",
+          "percentual": 10.53,
+          "documento": "07167712000149"
+        },
+        {
+          "nome": "executive air taxi aereo ltda",
+          "percentual": 10.31,
+          "documento": "13333253000129"
+        },
+        {
+          "nome": "solution assessoria, planejamento e servicos ltda",
+          "percentual": 2.19,
+          "documento": "04549133000172"
+        }
+      ],
+      "fonte_atualizado_em": "14/09/2026 • Atualizado há 6 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ce-60002542476.jpeg",
+    "coletado_em": "2026-09-20T22:35:56.909Z"
+  },
+  {
+    "slug": "60002550748",
+    "nome": "Reginaldo",
+    "partido": "PSTU",
+    "numero": 162,
+    "cargo": "senador",
+    "uf": "CE",
+    "foto_arquivo": "senador-ce-60002550748",
+    "foto_url_original": "https://s2-g1.glbimg.com/W_INYWv4HWDkLUrbjK62nyXSEY0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/w/q0K0aNTvm1lRtBcidV3w/reginaldo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ce/60002550748.ghtml",
+    "profissao": "Servidor público municipal",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Prof. Félix",
+    "suplente1_partido": "PSTU",
+    "suplente2_nome": "Magela",
+    "suplente2_partido": "PSTU",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Prof. Félix",
+        "nome_urna": "Prof. Félix",
+        "partido": "PSTU"
+      },
+      {
+        "ordem": 2,
+        "nome": "Magela",
+        "nome_urna": "Magela",
+        "partido": "PSTU"
+      }
+    ],
+    "patrimonio_total": 212000,
+    "receitas_total": 15702,
+    "despesas_total": 5500,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Uma casa",
+        "valor": 200000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Uma moto bizz",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Uma moto bizz",
+        "valor": 12000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 100,
+        "documento": "73282907000164"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "anacely de jesus rodrigues",
+        "percentual": 63.64,
+        "documento": "12402893249"
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 36.36,
+        "documento": "60157581000100"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Reginaldo",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 162,
+      "profissao": "Servidor público municipal",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/W_INYWv4HWDkLUrbjK62nyXSEY0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/w/q0K0aNTvm1lRtBcidV3w/reginaldo.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 200.000,00 Uma casa",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 12.000,00 Uma moto bizz"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Prof. Félix",
+      "suplente1_partido": "PSTU",
+      "suplente2_nome": "Magela",
+      "suplente2_partido": "PSTU",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Prof. Félix",
+          "nome_urna": "Prof. Félix",
+          "partido": "PSTU"
+        },
+        {
+          "ordem": 2,
+          "nome": "Magela",
+          "nome_urna": "Magela",
+          "partido": "PSTU"
+        }
+      ],
+      "receitas_total": 15702,
+      "despesas_total": 5500,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 100,
+          "documento": "73282907000164"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "anacely de jesus rodrigues",
+          "percentual": 63.64,
+          "documento": "12402893249"
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 36.36,
+          "documento": "60157581000100"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ce-60002550748.jpeg",
+    "coletado_em": "2026-09-20T22:35:59.423Z"
+  }
+]

@@ -1,0 +1,1702 @@
+[
+  {
+    "slug": "20002540197",
+    "nome": "Alexandre Fleming",
+    "partido": "UP",
+    "numero": 800,
+    "cargo": "senador",
+    "uf": "AL",
+    "foto_arquivo": "senador-al-20002540197",
+    "foto_url_original": "https://s2-g1.glbimg.com/9yasv-zkRJPOHoLWHb9WqSxs4mo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/V/Vhwc1FRLaVi6Vj8A0vYw/alexandre-fleming.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/al/20002540197.ghtml",
+    "profissao": "Servidor público federal",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Liliane Pereira",
+    "suplente1_partido": "UP",
+    "suplente2_nome": "Professor Nivaldo Mota",
+    "suplente2_partido": "UP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Liliane Pereira",
+        "nome_urna": "Liliane Pereira",
+        "partido": "UP"
+      },
+      {
+        "ordem": 2,
+        "nome": "Professor Nivaldo Mota",
+        "nome_urna": "Professor Nivaldo Mota",
+        "partido": "UP"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 11857.67,
+    "despesas_total": 7147.67,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Up - Alagoas",
+        "percentual": 39.72,
+        "documento": "36930541000166"
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 37.79,
+        "documento": "39586155000197"
+      },
+      {
+        "nome": "Alexandre Fleming Vasques Bastos",
+        "percentual": 22.49,
+        "documento": "02795707403"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "62.767.043 clisson dos santos moura",
+        "percentual": 23.78,
+        "documento": "62767043000154"
+      },
+      {
+        "nome": "grafica e editora speedgraf ltda",
+        "percentual": 13.52,
+        "documento": "11062146000188"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 12.59,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 1.39,
+        "documento": "39586155000197"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Alexandre Fleming",
+      "partido_pagina": "UP",
+      "numero_pagina": 800,
+      "profissao": "Servidor público federal",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/9yasv-zkRJPOHoLWHb9WqSxs4mo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/V/Vhwc1FRLaVi6Vj8A0vYw/alexandre-fleming.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Liliane Pereira",
+      "suplente1_partido": "UP",
+      "suplente2_nome": "Professor Nivaldo Mota",
+      "suplente2_partido": "UP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Liliane Pereira",
+          "nome_urna": "Liliane Pereira",
+          "partido": "UP"
+        },
+        {
+          "ordem": 2,
+          "nome": "Professor Nivaldo Mota",
+          "nome_urna": "Professor Nivaldo Mota",
+          "partido": "UP"
+        }
+      ],
+      "receitas_total": 11857.67,
+      "despesas_total": 7147.67,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Up - Alagoas",
+          "percentual": 39.72,
+          "documento": "36930541000166"
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 37.79,
+          "documento": "39586155000197"
+        },
+        {
+          "nome": "Alexandre Fleming Vasques Bastos",
+          "percentual": 22.49,
+          "documento": "02795707403"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "62.767.043 clisson dos santos moura",
+          "percentual": 23.78,
+          "documento": "62767043000154"
+        },
+        {
+          "nome": "grafica e editora speedgraf ltda",
+          "percentual": 13.52,
+          "documento": "11062146000188"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 12.59,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 1.39,
+          "documento": "39586155000197"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-al-20002540197.jpeg",
+    "coletado_em": "2026-09-20T22:35:15.612Z"
+  },
+  {
+    "slug": "20002553272",
+    "nome": "Arthur Lira",
+    "partido": "PP",
+    "numero": 111,
+    "cargo": "senador",
+    "uf": "AL",
+    "foto_arquivo": "senador-al-20002553272",
+    "foto_url_original": "https://s2-g1.glbimg.com/kIsSXj8EEdYcrmR1u6Q_rm7a10Y=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/K/Q2miYCToKov5A05K6YHw/arthur-lira.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/al/20002553272.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Luiz Romero",
+    "suplente1_partido": "PL",
+    "suplente2_nome": "Gustavo Feijó",
+    "suplente2_partido": "PP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Luiz Romero",
+        "nome_urna": "Luiz Romero",
+        "partido": "PL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Gustavo Feijó",
+        "nome_urna": "Gustavo Feijó",
+        "partido": "PP"
+      }
+    ],
+    "patrimonio_total": 25961089.419999998,
+    "receitas_total": 3833207.02,
+    "despesas_total": 1659328.89,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Fração de imovel rural em pilar-al",
+        "valor": 30156
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Metade de imovel rural são sebastião-al - havido por doação em adiantamento de legitima",
+        "valor": 104000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa em instituição bancaria",
+        "valor": 833472.43
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automotor terrestre",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automotor terrestre",
+        "valor": 520000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente no pais",
+        "valor": 1564.76
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel rural quipapá-pe - imovel financiado",
+        "valor": 273380
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel rural são benedito do sul/pe - imovl financiado",
+        "valor": 628483
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Fundo de investimento em renda fixa",
+        "valor": 37002.46
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente no pais",
+        "valor": 63029.98
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel rural quipapá-pe - imovel financiado",
+        "valor": 3664714
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Ações de sociedade anonima-integralização parcelada",
+        "valor": 300000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lotes de terreno maceio-al",
+        "valor": 508000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Fundo de investimento em renda fixa",
+        "valor": 2562424.4
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Residencial barra-maceio-al",
+        "valor": 706852.2
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital social de sociedade ltda",
+        "valor": 391320.39
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel rural - quipapá-pe",
+        "valor": 300000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente no pais",
+        "valor": 869.99
+      },
+      {
+        "tipo": "Embarcação",
+        "descricao": "Embarcação Embarcação 50%",
+        "valor": 100000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente no pais",
+        "valor": 614744.18
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel rural girau do ponciano-al - imovel parcelado",
+        "valor": 700000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Residencial - barra de são miguel al - imovel financiado",
+        "valor": 1580000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel rural quipapá-pe - imovel financiado",
+        "valor": 914832
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel rural quipapá-pe - imovel financiado",
+        "valor": 861591
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel rural - são sebastião-al - imovel parcelado",
+        "valor": 230000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Metade de imovel rural são sebastião-al - havido por doação em adiantamento de legitima",
+        "valor": 15000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Fundo de investimento em renda fixa",
+        "valor": 172.69
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Residencial maceio-al",
+        "valor": 40000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital social de sociedade ltda",
+        "valor": 10000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno urbano maceio-al",
+        "valor": 1639742.87
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Cessão de direitos sobre imovel rural(50%) em quipapá-pe",
+        "valor": 300000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel urbano barra de são miguel-al",
+        "valor": 175000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente no pais",
+        "valor": 1
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Fundo de investimento em renda fixa",
+        "valor": 3571781.5
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente no pais",
+        "valor": 1
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Residencial - brasilia-df imovel financiado",
+        "valor": 2123269.51
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel rural- são sebastião-al",
+        "valor": 600000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Cessão de direitos sobre imovel rural(50%) em quipapá-pe",
+        "valor": 160000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automotor terrestre",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automotor terrestre",
+        "valor": 88070
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação financeira em instituição bancaria",
+        "valor": 1310708.41
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação financeira em instituição bancaria",
+        "valor": 905.65
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pp",
+        "percentual": 99.44,
+        "documento": "00887169000105"
+      },
+      {
+        "nome": "Arthur Cesar Pereira De Lira",
+        "percentual": 0.28,
+        "documento": "67821090425"
+      },
+      {
+        "nome": "Jose Eurico Beltrao Coelho Da Paz Junior",
+        "percentual": 0.22,
+        "documento": "03390291458"
+      },
+      {
+        "nome": "Rosenberg Nascimento Santos",
+        "percentual": 0.04,
+        "documento": "02568435461"
+      },
+      {
+        "nome": "Fabiano Santos Da Silva",
+        "percentual": 0.01,
+        "documento": "07532277461"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "fast sign ltda",
+        "percentual": 23.24,
+        "documento": "49973524000158"
+      },
+      {
+        "nome": "gomes pereira advogados",
+        "percentual": 15.07,
+        "documento": "07270919000144"
+      },
+      {
+        "nome": "ips paper rotulos e etiquetas ltda",
+        "percentual": 8.32,
+        "documento": "60743244000196"
+      },
+      {
+        "nome": "nogueira, albuquerque e freire associados s/s",
+        "percentual": 7.23,
+        "documento": "14876708000115"
+      },
+      {
+        "nome": "grafmarques industria editora e servicos ltda",
+        "percentual": 6.15,
+        "documento": "00887925000104"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Arthur Lira",
+      "partido_pagina": "PP",
+      "numero_pagina": 111,
+      "profissao": "Advogado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/kIsSXj8EEdYcrmR1u6Q_rm7a10Y=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/K/Q2miYCToKov5A05K6YHw/arthur-lira.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens e direitos R$ 30.156,00 Fração de imovel rural em pilar-al",
+        "Outros bens e direitos R$ 104.000,00 Metade de imovel rural são sebastião-al - havido por doação em adiantamento de legitima",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 833.472,43 Aplicação de renda fixa em instituição bancaria",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 520.000,00 Automotor terrestre",
+        "Depósito bancário em conta corrente no país R$ 1.564,76 Saldo em conta corrente no pais",
+        "Outros bens imóveis R$ 273.380,00 Imovel rural quipapá-pe - imovel financiado",
+        "Outros bens imóveis R$ 628.483,00 Imovel rural são benedito do sul/pe - imovl financiado",
+        "Outros bens e direitos R$ 37.002,46 Fundo de investimento em renda fixa",
+        "Depósito bancário em conta corrente no país R$ 63.029,98 Saldo em conta corrente no pais",
+        "Outros bens imóveis R$ 3.664.714,00 Imovel rural quipapá-pe - imovel financiado",
+        "Outros bens e direitos R$ 300.000,00 Ações de sociedade anonima-integralização parcelada",
+        "Terreno R$ 508.000,00 Lotes de terreno maceio-al",
+        "Outros bens e direitos R$ 2.562.424,40 Fundo de investimento em renda fixa",
+        "Apartamento R$ 706.852,20 Residencial barra-maceio-al",
+        "Quotas ou quinhões de capital R$ 391.320,39 Quotas de capital social de sociedade ltda",
+        "Outros bens imóveis R$ 300.000,00 Imovel rural - quipapá-pe",
+        "Depósito bancário em conta corrente no país R$ 869,99 Saldo em conta corrente no pais",
+        "Embarcação R$ 100.000,00 Embarcação 50%",
+        "Depósito bancário em conta corrente no país R$ 614.744,18 Saldo em conta corrente no pais",
+        "Outros bens imóveis R$ 700.000,00 Imovel rural girau do ponciano-al - imovel parcelado",
+        "Casa R$ 1.580.000,00 Residencial - barra de são miguel al - imovel financiado",
+        "Outros bens imóveis R$ 914.832,00 Imovel rural quipapá-pe - imovel financiado",
+        "Outros bens imóveis R$ 861.591,00 Imovel rural quipapá-pe - imovel financiado",
+        "Outros bens imóveis R$ 230.000,00 Imovel rural - são sebastião-al - imovel parcelado",
+        "Outros bens e direitos R$ 15.000,00 Metade de imovel rural são sebastião-al - havido por doação em adiantamento de legitima",
+        "Outros bens e direitos R$ 172,69 Fundo de investimento em renda fixa",
+        "Casa R$ 40.000,00 Residencial maceio-al",
+        "Quotas ou quinhões de capital R$ 10.000,00 Quotas de capital social de sociedade ltda",
+        "Terreno R$ 1.639.742,87 Terreno urbano maceio-al",
+        "Outros bens e direitos R$ 300.000,00 Cessão de direitos sobre imovel rural(50%) em quipapá-pe",
+        "Outros bens imóveis R$ 175.000,00 Imovel urbano barra de são miguel-al",
+        "Depósito bancário em conta corrente no país R$ 1,00 Saldo em conta corrente no pais",
+        "Outros bens e direitos R$ 3.571.781,50 Fundo de investimento em renda fixa",
+        "Depósito bancário em conta corrente no país R$ 1,00 Saldo em conta corrente no pais",
+        "Casa R$ 2.123.269,51 Residencial - brasilia-df imovel financiado",
+        "Outros bens imóveis R$ 600.000,00 Imovel rural- são sebastião-al",
+        "Outros bens e direitos R$ 160.000,00 Cessão de direitos sobre imovel rural(50%) em quipapá-pe",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 88.070,00 Automotor terrestre",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 1.310.708,41 Aplicação financeira em instituição bancaria",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 905,65 Aplicação financeira em instituição bancaria"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Luiz Romero",
+      "suplente1_partido": "PL",
+      "suplente2_nome": "Gustavo Feijó",
+      "suplente2_partido": "PP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Luiz Romero",
+          "nome_urna": "Luiz Romero",
+          "partido": "PL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Gustavo Feijó",
+          "nome_urna": "Gustavo Feijó",
+          "partido": "PP"
+        }
+      ],
+      "receitas_total": 3833207.02,
+      "despesas_total": 1659328.89,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pp",
+          "percentual": 99.44,
+          "documento": "00887169000105"
+        },
+        {
+          "nome": "Arthur Cesar Pereira De Lira",
+          "percentual": 0.28,
+          "documento": "67821090425"
+        },
+        {
+          "nome": "Jose Eurico Beltrao Coelho Da Paz Junior",
+          "percentual": 0.22,
+          "documento": "03390291458"
+        },
+        {
+          "nome": "Rosenberg Nascimento Santos",
+          "percentual": 0.04,
+          "documento": "02568435461"
+        },
+        {
+          "nome": "Fabiano Santos Da Silva",
+          "percentual": 0.01,
+          "documento": "07532277461"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "fast sign ltda",
+          "percentual": 23.24,
+          "documento": "49973524000158"
+        },
+        {
+          "nome": "gomes pereira advogados",
+          "percentual": 15.07,
+          "documento": "07270919000144"
+        },
+        {
+          "nome": "ips paper rotulos e etiquetas ltda",
+          "percentual": 8.32,
+          "documento": "60743244000196"
+        },
+        {
+          "nome": "nogueira, albuquerque e freire associados s/s",
+          "percentual": 7.23,
+          "documento": "14876708000115"
+        },
+        {
+          "nome": "grafmarques industria editora e servicos ltda",
+          "percentual": 6.15,
+          "documento": "00887925000104"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-al-20002553272.jpeg",
+    "coletado_em": "2026-09-20T22:35:18.259Z"
+  },
+  {
+    "slug": "20002548147",
+    "nome": "Davi Davino Filho",
+    "partido": "REP",
+    "numero": 100,
+    "cargo": "senador",
+    "uf": "AL",
+    "foto_arquivo": "senador-al-20002548147",
+    "foto_url_original": "https://s2-g1.glbimg.com/qJwyPxROkw6zGJ2mjP8Q05xASPA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/E/2bLLAGRxaAjLcmPCjB3g/davi-davino-filho.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/al/20002548147.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Arthur Albuquerque",
+    "suplente1_partido": "REPUBLICANOS",
+    "suplente2_nome": "Dra. Kamila",
+    "suplente2_partido": "REPUBLICANOS",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Arthur Albuquerque",
+        "nome_urna": "Arthur Albuquerque",
+        "partido": "REPUBLICANOS"
+      },
+      {
+        "ordem": 2,
+        "nome": "Dra. Kamila",
+        "nome_urna": "Dra. Kamila",
+        "partido": "REPUBLICANOS"
+      }
+    ],
+    "patrimonio_total": 1412868.8799999997,
+    "receitas_total": 1914281.12,
+    "despesas_total": 1096024.33,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Suitena record offices & suites no valor original do contrato: r$ 145.367,87 financiado com a projeto 118 spe ltda cnpj: 09.260.643/0001-49.",
+        "valor": 155939.68
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Rdb/cdb banco itau unibanco s.a",
+        "valor": 15141.44
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Take - two interactive soft ware inc",
+        "valor": 36960.26
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Cod. de neg. ibit, empresa: ishares bitcoin trust etf, quantidade: 78,55608, custo de aquisição: us$ 5,000.00, ptax de aquisição: r$ 5,4458",
+        "valor": 27228.98
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento no edificio residencial beiriz , da construart ltda cnpj: 12.945.994/0001-06 por r$ 800.000,00 (parcelado).",
+        "valor": 800000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos 4.500 dolares (cotacao do dolar 5,48) - dinheiro guardado em cofre",
+        "valor": 24660
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Banco inter - tributado",
+        "valor": 5436.64
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Conta corrente banco inter - global account",
+        "valor": 29158.05
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Banco inter - aplicacoes automatica - tributado",
+        "valor": 1028.08
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Intel corp",
+        "valor": 684.6
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Conta banco inter - global de investimentos",
+        "valor": 3900.72
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Nvidia corporation",
+        "valor": 18958.69
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participacao de 30% do capital social da empresa tulemon industria, comercio e representacoes ltda, cnpj: 00.740.510/0001-03.",
+        "valor": 4500
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Conta corrente caixa economica federal - conta 0005842460854 - recuperado da conta antiga 00100024967-0",
+        "valor": 7616.92
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Dinheiro guardado em cofre ref a saldo das doacoes do sr davi cabral davino cpf: 153.966.904-10 e da sra rosemary miranda davino cpf: 603.231.677-72.",
+        "valor": 180000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Apple, inc.",
+        "valor": 44050.91
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Netflix, inc",
+        "valor": 53603.91
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Banco inter - isento",
+        "valor": 4000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Republicanos",
+        "percentual": 95.43,
+        "documento": "07665132000181"
+      },
+      {
+        "nome": "Thiago Da Cruz Albernaz",
+        "percentual": 1.57,
+        "documento": "10242968732"
+      },
+      {
+        "nome": "Fernando Jorge Cabral Davino",
+        "percentual": 0.73,
+        "documento": "07320752468"
+      },
+      {
+        "nome": "Direção Estadual/distrital - Republicanos - Alagoas",
+        "percentual": 0.52,
+        "documento": "07891527000100"
+      },
+      {
+        "nome": "Fernando Cezar De Almeida Lins",
+        "percentual": 0.52,
+        "documento": "18505724453"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "galileo_1701 ltda",
+        "percentual": 27.37,
+        "documento": "68380833000169"
+      },
+      {
+        "nome": "dvp servicos ltda",
+        "percentual": 27.37,
+        "documento": "48285680000163"
+      },
+      {
+        "nome": "brabo magalhaes advogados",
+        "percentual": 13.69,
+        "documento": "03893033000104"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 12.77,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "fast sign ltda",
+        "percentual": 5.56,
+        "documento": "49973524000158"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Davi Davino Filho",
+      "partido_pagina": "REP",
+      "numero_pagina": 100,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/qJwyPxROkw6zGJ2mjP8Q05xASPA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/E/2bLLAGRxaAjLcmPCjB3g/davi-davino-filho.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 155.939,68 Suitena record offices & suites no valor original do contrato: r$ 145.367,87 financiado com a projeto 118 spe ltda cnpj: 09.260.643/0001-49.",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 15.141,44 Rdb/cdb banco itau unibanco s.a",
+        "Outras participações societárias R$ 36.960,26 Take - two interactive soft ware inc",
+        "Outras aplicações e investimentos R$ 27.228,98 Cod. de neg. ibit, empresa: ishares bitcoin trust etf, quantidade: 78,55608, custo de aquisição: us$ 5,000.00, ptax de aquisição: r$ 5,4458",
+        "Apartamento R$ 800.000,00 Apartamento no edificio residencial beiriz , da construart ltda cnpj: 12.945.994/0001-06 por r$ 800.000,00 (parcelado).",
+        "Outros bens e direitos R$ 24.660,00 4.500 dolares (cotacao do dolar 5,48) - dinheiro guardado em cofre",
+        "Outras aplicações e investimentos R$ 5.436,64 Banco inter - tributado",
+        "Outras aplicações e investimentos R$ 29.158,05 Conta corrente banco inter - global account",
+        "Outras aplicações e investimentos R$ 1.028,08 Banco inter - aplicacoes automatica - tributado",
+        "Outras participações societárias R$ 684,60 Intel corp",
+        "Outras aplicações e investimentos R$ 3.900,72 Conta banco inter - global de investimentos",
+        "Outras participações societárias R$ 18.958,69 Nvidia corporation",
+        "Outras participações societárias R$ 4.500,00 Participacao de 30% do capital social da empresa tulemon industria, comercio e representacoes ltda, cnpj: 00.740.510/0001-03.",
+        "Outras aplicações e investimentos R$ 7.616,92 Conta corrente caixa economica federal - conta 0005842460854 - recuperado da conta antiga 00100024967-0",
+        "Outros bens e direitos R$ 180.000,00 Dinheiro guardado em cofre ref a saldo das doacoes do sr davi cabral davino cpf: 153.966.904-10 e da sra rosemary miranda davino cpf: 603.231.677-72.",
+        "Outras participações societárias R$ 44.050,91 Apple, inc.",
+        "Outras participações societárias R$ 53.603,91 Netflix, inc",
+        "Outras aplicações e investimentos R$ 4.000,00 Banco inter - isento"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Arthur Albuquerque",
+      "suplente1_partido": "REPUBLICANOS",
+      "suplente2_nome": "Dra. Kamila",
+      "suplente2_partido": "REPUBLICANOS",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Arthur Albuquerque",
+          "nome_urna": "Arthur Albuquerque",
+          "partido": "REPUBLICANOS"
+        },
+        {
+          "ordem": 2,
+          "nome": "Dra. Kamila",
+          "nome_urna": "Dra. Kamila",
+          "partido": "REPUBLICANOS"
+        }
+      ],
+      "receitas_total": 1914281.12,
+      "despesas_total": 1096024.33,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Republicanos",
+          "percentual": 95.43,
+          "documento": "07665132000181"
+        },
+        {
+          "nome": "Thiago Da Cruz Albernaz",
+          "percentual": 1.57,
+          "documento": "10242968732"
+        },
+        {
+          "nome": "Fernando Jorge Cabral Davino",
+          "percentual": 0.73,
+          "documento": "07320752468"
+        },
+        {
+          "nome": "Direção Estadual/distrital - Republicanos - Alagoas",
+          "percentual": 0.52,
+          "documento": "07891527000100"
+        },
+        {
+          "nome": "Fernando Cezar De Almeida Lins",
+          "percentual": 0.52,
+          "documento": "18505724453"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "galileo_1701 ltda",
+          "percentual": 27.37,
+          "documento": "68380833000169"
+        },
+        {
+          "nome": "dvp servicos ltda",
+          "percentual": 27.37,
+          "documento": "48285680000163"
+        },
+        {
+          "nome": "brabo magalhaes advogados",
+          "percentual": 13.69,
+          "documento": "03893033000104"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 12.77,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "fast sign ltda",
+          "percentual": 5.56,
+          "documento": "49973524000158"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-al-20002548147.jpeg",
+    "coletado_em": "2026-09-20T22:35:20.920Z"
+  },
+  {
+    "slug": "20002553726",
+    "nome": "Dr. Wanderley",
+    "partido": "MDB",
+    "numero": 156,
+    "cargo": "senador",
+    "uf": "AL",
+    "foto_arquivo": "senador-al-20002553726",
+    "foto_url_original": "https://s2-g1.glbimg.com/KpbYlaIgb8M5sBrYC6O8v6AcC2E=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/A/XgSpwHR2CyPah70fPtBg/dr.-wanderley.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/al/20002553726.ghtml",
+    "profissao": "Médico",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Robertson",
+    "suplente1_partido": "MDB",
+    "suplente2_nome": "Rafael Tenório",
+    "suplente2_partido": "MDB",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Robertson",
+        "nome_urna": "Robertson",
+        "partido": "MDB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Rafael Tenório",
+        "nome_urna": "Rafael Tenório",
+        "partido": "MDB"
+      }
+    ],
+    "patrimonio_total": 3532799.4000000004,
+    "receitas_total": 2054100,
+    "despesas_total": 1709372,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Caderneta de poupança - b.brasil",
+        "valor": 1737.8
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento residencial - maceió/al",
+        "valor": 179746.58
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa residencial - maceió/al",
+        "valor": 111035.65
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Dois lotes urbanos - coruripe/al",
+        "valor": 2775.93
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta corrente - cef",
+        "valor": 33498.16
+      },
+      {
+        "tipo": "Linha telefônica",
+        "descricao": "Linha telefônica Linha telefônica adquirida em 1979",
+        "valor": 1873.72
+      },
+      {
+        "tipo": "Outros depósitos à vista e numerário",
+        "descricao": "Outros depósitos à vista e numerário Saldo em cartão pré-pago - b.brasil",
+        "valor": 442.57
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Fundo de investimento - cef",
+        "valor": 6593.78
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Fundo de investimento - cef",
+        "valor": 121947.64
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital em cooperativa de trabalho médico",
+        "valor": 151936.29
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 1/5 do lote urbano 360,0 m2 - maceió/al",
+        "valor": 86666.67
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa - b.brasil",
+        "valor": 1099.51
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 1/5 de lote urbano 255,0 m2 - maceió/al",
+        "valor": 86666.67
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 1/5 do lote urbano 360,0 m2 - maceió/al",
+        "valor": 86666.66
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Vgbl - cef",
+        "valor": 850000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação automática em cooperativa de crédito",
+        "valor": 95226.79
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Conta investimento em cooperativa de crédito",
+        "valor": 37370.29
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação de 50% do capital de sociedade médica",
+        "valor": 1250
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 5000 quotas do capital social de clínica de cardiologia",
+        "valor": 5000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Adiantamento a incorporadora ref. imóvel - maceió/al",
+        "valor": 702264.69
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Letras de renda fixa (lci e lca)- cef",
+        "valor": 969000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 97.37,
+        "documento": "00676213000138"
+      },
+      {
+        "nome": "Direção Estadual/distrital - Mdb - Alagoas",
+        "percentual": 2.63,
+        "documento": "01308052000192"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "adru comunicacao ltda",
+        "percentual": 67.28,
+        "documento": "10698245000198"
+      },
+      {
+        "nome": "grafmarques industria editora e servicos ltda",
+        "percentual": 9.83,
+        "documento": "00887925000104"
+      },
+      {
+        "nome": "matheus campelo guimaraes da silva ltda",
+        "percentual": 6.81,
+        "documento": "48390856000147"
+      },
+      {
+        "nome": "tayrone films comunicacao e solucoes digitais ltda",
+        "percentual": 5.85,
+        "documento": "08771210000195"
+      },
+      {
+        "nome": "franco & cordeiro sociedade de advogados",
+        "percentual": 3.51,
+        "documento": "38332354000106"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Dr. Wanderley",
+      "partido_pagina": "MDB",
+      "numero_pagina": 156,
+      "profissao": "Médico",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/KpbYlaIgb8M5sBrYC6O8v6AcC2E=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/A/XgSpwHR2CyPah70fPtBg/dr.-wanderley.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 1.737,80 Caderneta de poupança - b.brasil",
+        "Apartamento R$ 179.746,58 Apartamento residencial - maceió/al",
+        "Casa R$ 111.035,65 Casa residencial - maceió/al",
+        "Terreno R$ 2.775,93 Dois lotes urbanos - coruripe/al",
+        "Depósito bancário em conta corrente no país R$ 33.498,16 Saldo em conta corrente - cef",
+        "Linha telefônica R$ 1.873,72 Linha telefônica adquirida em 1979",
+        "Outros depósitos à vista e numerário R$ 442,57 Saldo em cartão pré-pago - b.brasil",
+        "Outros fundos R$ 6.593,78 Fundo de investimento - cef",
+        "Outros fundos R$ 121.947,64 Fundo de investimento - cef",
+        "Quotas ou quinhões de capital R$ 151.936,29 Quotas de capital em cooperativa de trabalho médico",
+        "Terreno R$ 86.666,67 1/5 do lote urbano 360,0 m2 - maceió/al",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 1.099,51 Aplicação de renda fixa - b.brasil",
+        "Terreno R$ 86.666,67 1/5 de lote urbano 255,0 m2 - maceió/al",
+        "Terreno R$ 86.666,66 1/5 do lote urbano 360,0 m2 - maceió/al",
+        "Vgbl - vida gerador de benefício livre R$ 850.000,00 Vgbl - cef",
+        "Outras aplicações e investimentos R$ 95.226,79 Aplicação automática em cooperativa de crédito",
+        "Outras aplicações e investimentos R$ 37.370,29 Conta investimento em cooperativa de crédito",
+        "Quotas ou quinhões de capital R$ 1.250,00 Participação de 50% do capital de sociedade médica",
+        "Quotas ou quinhões de capital R$ 5.000,00 5000 quotas do capital social de clínica de cardiologia",
+        "Outros bens e direitos R$ 702.264,69 Adiantamento a incorporadora ref. imóvel - maceió/al",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 969.000,00 Letras de renda fixa (lci e lca)- cef"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Robertson",
+      "suplente1_partido": "MDB",
+      "suplente2_nome": "Rafael Tenório",
+      "suplente2_partido": "MDB",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Robertson",
+          "nome_urna": "Robertson",
+          "partido": "MDB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Rafael Tenório",
+          "nome_urna": "Rafael Tenório",
+          "partido": "MDB"
+        }
+      ],
+      "receitas_total": 2054100,
+      "despesas_total": 1709372,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 97.37,
+          "documento": "00676213000138"
+        },
+        {
+          "nome": "Direção Estadual/distrital - Mdb - Alagoas",
+          "percentual": 2.63,
+          "documento": "01308052000192"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "adru comunicacao ltda",
+          "percentual": 67.28,
+          "documento": "10698245000198"
+        },
+        {
+          "nome": "grafmarques industria editora e servicos ltda",
+          "percentual": 9.83,
+          "documento": "00887925000104"
+        },
+        {
+          "nome": "matheus campelo guimaraes da silva ltda",
+          "percentual": 6.81,
+          "documento": "48390856000147"
+        },
+        {
+          "nome": "tayrone films comunicacao e solucoes digitais ltda",
+          "percentual": 5.85,
+          "documento": "08771210000195"
+        },
+        {
+          "nome": "franco & cordeiro sociedade de advogados",
+          "percentual": 3.51,
+          "documento": "38332354000106"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-al-20002553726.jpeg",
+    "coletado_em": "2026-09-20T22:35:23.968Z"
+  },
+  {
+    "slug": "20002552524",
+    "nome": "Mariedson",
+    "partido": "DEMOCRATA",
+    "numero": 355,
+    "cargo": "senador",
+    "uf": "AL",
+    "foto_arquivo": "senador-al-20002552524",
+    "foto_url_original": "https://s2-g1.glbimg.com/1uv4xrjkWt20jHzuR-45-cW1-fk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/X/0OOaBvQEe5PYOvdyi21w/mariedson.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/al/20002552524.ghtml",
+    "profissao": "Vigilante",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio incompleto",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Adriana Nunes",
+    "suplente1_partido": "DEMOCRATA",
+    "suplente2_nome": "Jeferson Gonçalves",
+    "suplente2_partido": "DEMOCRATA",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Adriana Nunes",
+        "nome_urna": "Adriana Nunes",
+        "partido": "DEMOCRATA"
+      },
+      {
+        "ordem": 2,
+        "nome": "Jeferson Gonçalves",
+        "nome_urna": "Jeferson Gonçalves",
+        "partido": "DEMOCRATA"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Mariedson",
+      "partido_pagina": "DEMOCRATA",
+      "numero_pagina": 355,
+      "profissao": "Vigilante",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio incompleto",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/1uv4xrjkWt20jHzuR-45-cW1-fk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/X/0OOaBvQEe5PYOvdyi21w/mariedson.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Adriana Nunes",
+      "suplente1_partido": "DEMOCRATA",
+      "suplente2_nome": "Jeferson Gonçalves",
+      "suplente2_partido": "DEMOCRATA",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Adriana Nunes",
+          "nome_urna": "Adriana Nunes",
+          "partido": "DEMOCRATA"
+        },
+        {
+          "ordem": 2,
+          "nome": "Jeferson Gonçalves",
+          "nome_urna": "Jeferson Gonçalves",
+          "partido": "DEMOCRATA"
+        }
+      ],
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 3811887.03,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-al-20002552524.jpeg",
+    "coletado_em": "2026-09-20T22:35:26.574Z"
+  },
+  {
+    "slug": "20002553711",
+    "nome": "Marina Jhc",
+    "partido": "PSDB",
+    "numero": 456,
+    "cargo": "senador",
+    "uf": "AL",
+    "foto_arquivo": "senador-al-20002553711",
+    "foto_url_original": "https://s2-g1.glbimg.com/GD-o5OJstCsfn6xWGzKqaKFLWHA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/m/8lfTA3Sdamr6zaQsYj9w/marina-jhc.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/al/20002553711.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Dra. Eudocia",
+    "suplente1_partido": "PSDB",
+    "suplente2_nome": "Jurandir Boia",
+    "suplente2_partido": "PDT",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Dra. Eudocia",
+        "nome_urna": "Dra. Eudocia",
+        "partido": "PSDB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Jurandir Boia",
+        "nome_urna": "Jurandir Boia",
+        "partido": "PDT"
+      }
+    ],
+    "patrimonio_total": 47041164.18000001,
+    "receitas_total": 1615000,
+    "despesas_total": 1174334.3,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50% apartamento situado em são paulo/sp",
+        "valor": 725000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Unidade imobiliária residencial em maceió/al",
+        "valor": 67978.7
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Motocicleta",
+        "valor": 20322
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participações societárias",
+        "valor": 42028955
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre",
+        "valor": 355000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento residencial em maceió/al",
+        "valor": 600000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50% de um apartamento situado em maceió/al",
+        "valor": 1530315.17
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento residencial - maceió/al",
+        "valor": 600000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicações e investimentos",
+        "valor": 412151.76
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro em espécie",
+        "valor": 180000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Créditos e outros direitos",
+        "valor": 124462.85
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre",
+        "valor": 329000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Unidade imobiliária residencial em maceió/al",
+        "valor": 67978.7
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Cidadania",
+        "percentual": 92.88,
+        "documento": "29417359000140"
+      },
+      {
+        "nome": "Mario Roberto Candia De Figueiredo",
+        "percentual": 6.19,
+        "documento": "29843502787"
+      },
+      {
+        "nome": "Direção Estadual/distrital - Psdb - Alagoas",
+        "percentual": 0.93,
+        "documento": "69981769000134"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 20.44,
+        "documento": "25021356000132"
+      },
+      {
+        "nome": "twobunker producoes ltda",
+        "percentual": 17.03,
+        "documento": "45573353000119"
+      },
+      {
+        "nome": "grafpel ind grafica ltda",
+        "percentual": 10.9,
+        "documento": "01301040000136"
+      },
+      {
+        "nome": "bomfim & jatoba advogados associados",
+        "percentual": 8.52,
+        "documento": "07042588000195"
+      },
+      {
+        "nome": "g c r lima ltda",
+        "percentual": 8.52,
+        "documento": "35830555000145"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Marina Jhc",
+      "partido_pagina": "PSDB",
+      "numero_pagina": 456,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/GD-o5OJstCsfn6xWGzKqaKFLWHA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/m/8lfTA3Sdamr6zaQsYj9w/marina-jhc.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 725.000,00 50% apartamento situado em são paulo/sp",
+        "Apartamento R$ 67.978,70 Unidade imobiliária residencial em maceió/al",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 20.322,00 Motocicleta",
+        "Outras participações societárias R$ 42.028.955,00 Participações societárias",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 355.000,00 Veículo automotor terrestre",
+        "Apartamento R$ 600.000,00 Apartamento residencial em maceió/al",
+        "Apartamento R$ 1.530.315,17 50% de um apartamento situado em maceió/al",
+        "Apartamento R$ 600.000,00 Apartamento residencial - maceió/al",
+        "Outras aplicações e investimentos R$ 412.151,76 Aplicações e investimentos",
+        "Dinheiro em espécie - moeda nacional R$ 180.000,00 Dinheiro em espécie",
+        "Outros bens e direitos R$ 124.462,85 Créditos e outros direitos",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 329.000,00 Veículo automotor terrestre",
+        "Apartamento R$ 67.978,70 Unidade imobiliária residencial em maceió/al"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Dra. Eudocia",
+      "suplente1_partido": "PSDB",
+      "suplente2_nome": "Jurandir Boia",
+      "suplente2_partido": "PDT",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Dra. Eudocia",
+          "nome_urna": "Dra. Eudocia",
+          "partido": "PSDB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Jurandir Boia",
+          "nome_urna": "Jurandir Boia",
+          "partido": "PDT"
+        }
+      ],
+      "receitas_total": 1615000,
+      "despesas_total": 1174334.3,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Cidadania",
+          "percentual": 92.88,
+          "documento": "29417359000140"
+        },
+        {
+          "nome": "Mario Roberto Candia De Figueiredo",
+          "percentual": 6.19,
+          "documento": "29843502787"
+        },
+        {
+          "nome": "Direção Estadual/distrital - Psdb - Alagoas",
+          "percentual": 0.93,
+          "documento": "69981769000134"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 20.44,
+          "documento": "25021356000132"
+        },
+        {
+          "nome": "twobunker producoes ltda",
+          "percentual": 17.03,
+          "documento": "45573353000119"
+        },
+        {
+          "nome": "grafpel ind grafica ltda",
+          "percentual": 10.9,
+          "documento": "01301040000136"
+        },
+        {
+          "nome": "bomfim & jatoba advogados associados",
+          "percentual": 8.52,
+          "documento": "07042588000195"
+        },
+        {
+          "nome": "g c r lima ltda",
+          "percentual": 8.52,
+          "documento": "35830555000145"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-al-20002553711.jpeg",
+    "coletado_em": "2026-09-20T22:35:29.238Z"
+  },
+  {
+    "slug": "20002553727",
+    "nome": "Renan",
+    "partido": "MDB",
+    "numero": 151,
+    "cargo": "senador",
+    "uf": "AL",
+    "foto_arquivo": "senador-al-20002553727",
+    "foto_url_original": "https://s2-g1.glbimg.com/FQB6eUTo8d9WJKlYfAXMYVy6auw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/Z/hKm7WqT8iZa5lPgZq8dw/renan.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/al/20002553727.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Paulo",
+    "suplente1_partido": "MDB",
+    "suplente2_nome": "Gustavo Henrique",
+    "suplente2_partido": "PSD",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Paulo",
+        "nome_urna": "Paulo",
+        "partido": "MDB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Gustavo Henrique",
+        "nome_urna": "Gustavo Henrique",
+        "partido": "PSD"
+      }
+    ],
+    "patrimonio_total": 3548379.77,
+    "receitas_total": 3811000,
+    "despesas_total": 2106830.08,
+    "limite_gastos": 3811887.03,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo",
+        "valor": 844601.17
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento - maceió/al",
+        "valor": 195000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 49% da empresa agropecuária alagoas ltda",
+        "valor": 702500
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa e benfeitorias realizadas",
+        "valor": 866278.6
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Automóvel",
+        "valor": 190000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imóvel rural",
+        "valor": 750000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 94.46,
+        "documento": "00676213000138"
+      },
+      {
+        "nome": "Direção Estadual/distrital - Mdb - Alagoas",
+        "percentual": 5.54,
+        "documento": "01308052000192"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "f7 comunicacao ltda",
+        "percentual": 39.4,
+        "documento": "04986141000186"
+      },
+      {
+        "nome": "vero filmes ltda",
+        "percentual": 13.29,
+        "documento": "48989015000150"
+      },
+      {
+        "nome": "grafmarques industria editora e servicos ltda",
+        "percentual": 12.22,
+        "documento": "00887925000104"
+      },
+      {
+        "nome": "matheus campelo guimaraes da silva ltda",
+        "percentual": 8.24,
+        "documento": "48390856000147"
+      },
+      {
+        "nome": "paulo fernandes pedreira de oliveira",
+        "percentual": 6.65,
+        "documento": "29285711000131"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Renan",
+      "partido_pagina": "MDB",
+      "numero_pagina": 151,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/FQB6eUTo8d9WJKlYfAXMYVy6auw=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/Z/hKm7WqT8iZa5lPgZq8dw/renan.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Depósito bancário em conta corrente no país R$ 844.601,17 Saldo",
+        "Apartamento R$ 195.000,00 Apartamento - maceió/al",
+        "Quotas ou quinhões de capital R$ 702.500,00 49% da empresa agropecuária alagoas ltda",
+        "Casa R$ 866.278,60 Casa e benfeitorias realizadas",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 190.000,00 Automóvel",
+        "Outros bens imóveis R$ 750.000,00 Imóvel rural"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Paulo",
+      "suplente1_partido": "MDB",
+      "suplente2_nome": "Gustavo Henrique",
+      "suplente2_partido": "PSD",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Paulo",
+          "nome_urna": "Paulo",
+          "partido": "MDB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Gustavo Henrique",
+          "nome_urna": "Gustavo Henrique",
+          "partido": "PSD"
+        }
+      ],
+      "receitas_total": 3811000,
+      "despesas_total": 2106830.08,
+      "limite_gastos": 3811887.03,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 94.46,
+          "documento": "00676213000138"
+        },
+        {
+          "nome": "Direção Estadual/distrital - Mdb - Alagoas",
+          "percentual": 5.54,
+          "documento": "01308052000192"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "f7 comunicacao ltda",
+          "percentual": 39.4,
+          "documento": "04986141000186"
+        },
+        {
+          "nome": "vero filmes ltda",
+          "percentual": 13.29,
+          "documento": "48989015000150"
+        },
+        {
+          "nome": "grafmarques industria editora e servicos ltda",
+          "percentual": 12.22,
+          "documento": "00887925000104"
+        },
+        {
+          "nome": "matheus campelo guimaraes da silva ltda",
+          "percentual": 8.24,
+          "documento": "48390856000147"
+        },
+        {
+          "nome": "paulo fernandes pedreira de oliveira",
+          "percentual": 6.65,
+          "documento": "29285711000131"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-al-20002553727.jpeg",
+    "coletado_em": "2026-09-20T22:35:31.763Z"
+  }
+]

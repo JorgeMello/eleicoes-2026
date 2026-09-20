@@ -1,0 +1,1626 @@
+[
+  {
+    "slug": "30002549911",
+    "nome": "Acácio Favacho",
+    "partido": "MDB",
+    "numero": 151,
+    "cargo": "senador",
+    "uf": "AP",
+    "foto_arquivo": "senador-ap-30002549911",
+    "foto_url_original": "https://s2-g1.glbimg.com/zNb9rEEYtV5ZjWlncFjPMoKghyM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/L/mxUZ39Rx6dvbVyxueEjQ/acacio-favacho.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ap/30002549911.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Elisangela Timbiras",
+    "suplente1_partido": "MDB",
+    "suplente2_nome": "Abdias",
+    "suplente2_partido": "MDB",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Elisangela Timbiras",
+        "nome_urna": "Elisangela Timbiras",
+        "partido": "MDB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Abdias",
+        "nome_urna": "Abdias",
+        "partido": "MDB"
+      }
+    ],
+    "patrimonio_total": 500000,
+    "receitas_total": 2545858.33,
+    "despesas_total": 1644515.43,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 05 lotes urbanos no loteamento oasis residence em macapá/ap",
+        "valor": 500000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2014,
+        "cargo": "Deputado estadual",
+        "partido": "PMDB",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Mdb",
+        "percentual": 87.59,
+        "documento": "00676213000138"
+      },
+      {
+        "nome": "Abdias Eduardo Pontes",
+        "percentual": 11.78,
+        "documento": "41880374153"
+      },
+      {
+        "nome": "Francisca Ferreira Favacho",
+        "percentual": 0.43,
+        "documento": "68545436000108"
+      },
+      {
+        "nome": "Alzair Eduardo Pontes",
+        "percentual": 0.2,
+        "documento": "48113140697"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "r m r de almeida ltda",
+        "percentual": 25.6,
+        "documento": "02747184000183"
+      },
+      {
+        "nome": "ivo amaral publicidade ltda",
+        "percentual": 12.16,
+        "documento": "05082615000128"
+      },
+      {
+        "nome": "eduardo rodrigues sociedade individual de advocacia",
+        "percentual": 9.73,
+        "documento": "45942705000166"
+      },
+      {
+        "nome": "azevedo contabilidade ltda",
+        "percentual": 9.73,
+        "documento": "56222985000154"
+      },
+      {
+        "nome": "frota martins ltda",
+        "percentual": 6.57,
+        "documento": "83734418000150"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Acácio Favacho",
+      "partido_pagina": "MDB",
+      "numero_pagina": 151,
+      "profissao": "Deputado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/zNb9rEEYtV5ZjWlncFjPMoKghyM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/L/mxUZ39Rx6dvbVyxueEjQ/acacio-favacho.jpeg",
+      "historico": [
+        {
+          "ano": 2014,
+          "cargo": "Deputado estadual",
+          "partido": "PMDB",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Terreno R$ 500.000,00 05 lotes urbanos no loteamento oasis residence em macapá/ap"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Elisangela Timbiras",
+      "suplente1_partido": "MDB",
+      "suplente2_nome": "Abdias",
+      "suplente2_partido": "MDB",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Elisangela Timbiras",
+          "nome_urna": "Elisangela Timbiras",
+          "partido": "MDB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Abdias",
+          "nome_urna": "Abdias",
+          "partido": "MDB"
+        }
+      ],
+      "receitas_total": 2545858.33,
+      "despesas_total": 1644515.43,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Mdb",
+          "percentual": 87.59,
+          "documento": "00676213000138"
+        },
+        {
+          "nome": "Abdias Eduardo Pontes",
+          "percentual": 11.78,
+          "documento": "41880374153"
+        },
+        {
+          "nome": "Francisca Ferreira Favacho",
+          "percentual": 0.43,
+          "documento": "68545436000108"
+        },
+        {
+          "nome": "Alzair Eduardo Pontes",
+          "percentual": 0.2,
+          "documento": "48113140697"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "r m r de almeida ltda",
+          "percentual": 25.6,
+          "documento": "02747184000183"
+        },
+        {
+          "nome": "ivo amaral publicidade ltda",
+          "percentual": 12.16,
+          "documento": "05082615000128"
+        },
+        {
+          "nome": "eduardo rodrigues sociedade individual de advocacia",
+          "percentual": 9.73,
+          "documento": "45942705000166"
+        },
+        {
+          "nome": "azevedo contabilidade ltda",
+          "percentual": 9.73,
+          "documento": "56222985000154"
+        },
+        {
+          "nome": "frota martins ltda",
+          "percentual": 6.57,
+          "documento": "83734418000150"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ap-30002549911.jpeg",
+    "coletado_em": "2026-09-20T22:35:15.561Z"
+  },
+  {
+    "slug": "30002551576",
+    "nome": "Alliny Serrão",
+    "partido": "UNIÃO",
+    "numero": 444,
+    "cargo": "senador",
+    "uf": "AP",
+    "foto_arquivo": "senador-ap-30002551576",
+    "foto_url_original": "https://s2-g1.glbimg.com/OL_GffowpeSjUx1GcyQv9TZb-so=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/r/35cvCaQROx1V5dZuBwKQ/alliny-serrao.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ap/30002551576.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Jaime Nunes",
+    "suplente1_partido": "AGIR",
+    "suplente2_nome": "Pastor Miguel",
+    "suplente2_partido": "UNIÃO",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Jaime Nunes",
+        "nome_urna": "Jaime Nunes",
+        "partido": "AGIR"
+      },
+      {
+        "ordem": 2,
+        "nome": "Pastor Miguel",
+        "nome_urna": "Pastor Miguel",
+        "partido": "UNIÃO"
+      }
+    ],
+    "patrimonio_total": 500000,
+    "receitas_total": 2642572.13,
+    "despesas_total": 1830333.08,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Rancho cowboy, área estimada de 100ha no municipio de laranjal do jarí",
+        "valor": 50000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa de alvenaria na avenida tancredo neves, bairro sarney no municipio de laranjal do jari",
+        "valor": 250000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa de alvenaria com terreno medindo 10x30, na rua alvorada, bairro agreste no laranjal do jarí",
+        "valor": 200000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - União",
+        "percentual": 99.62,
+        "documento": "44551496000167"
+      },
+      {
+        "nome": "Antonio Aparecido Da Silva",
+        "percentual": 0.38,
+        "documento": "03249837601"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "duozz comunicacao e estrategia ltda",
+        "percentual": 21.85,
+        "documento": "40365580000135"
+      },
+      {
+        "nome": "talento digital ltda",
+        "percentual": 14.9,
+        "documento": "10990394000126"
+      },
+      {
+        "nome": "alpha gmcv ltda",
+        "percentual": 11.3,
+        "documento": "23103822000101"
+      },
+      {
+        "nome": "noez servicos de consultoria em campanhas de marketing ltda",
+        "percentual": 10.93,
+        "documento": "47128288000148"
+      },
+      {
+        "nome": "criasi servicos de consultoria e marketing ltda",
+        "percentual": 10.93,
+        "documento": "68370982000147"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Alliny Serrão",
+      "partido_pagina": "UNIÃO",
+      "numero_pagina": 444,
+      "profissao": "Deputado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/OL_GffowpeSjUx1GcyQv9TZb-so=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/r/35cvCaQROx1V5dZuBwKQ/alliny-serrao.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 50.000,00 Rancho cowboy, área estimada de 100ha no municipio de laranjal do jarí",
+        "Casa R$ 250.000,00 Casa de alvenaria na avenida tancredo neves, bairro sarney no municipio de laranjal do jari",
+        "Casa R$ 200.000,00 Casa de alvenaria com terreno medindo 10x30, na rua alvorada, bairro agreste no laranjal do jarí"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Jaime Nunes",
+      "suplente1_partido": "AGIR",
+      "suplente2_nome": "Pastor Miguel",
+      "suplente2_partido": "UNIÃO",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Jaime Nunes",
+          "nome_urna": "Jaime Nunes",
+          "partido": "AGIR"
+        },
+        {
+          "ordem": 2,
+          "nome": "Pastor Miguel",
+          "nome_urna": "Pastor Miguel",
+          "partido": "UNIÃO"
+        }
+      ],
+      "receitas_total": 2642572.13,
+      "despesas_total": 1830333.08,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - União",
+          "percentual": 99.62,
+          "documento": "44551496000167"
+        },
+        {
+          "nome": "Antonio Aparecido Da Silva",
+          "percentual": 0.38,
+          "documento": "03249837601"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "duozz comunicacao e estrategia ltda",
+          "percentual": 21.85,
+          "documento": "40365580000135"
+        },
+        {
+          "nome": "talento digital ltda",
+          "percentual": 14.9,
+          "documento": "10990394000126"
+        },
+        {
+          "nome": "alpha gmcv ltda",
+          "percentual": 11.3,
+          "documento": "23103822000101"
+        },
+        {
+          "nome": "noez servicos de consultoria em campanhas de marketing ltda",
+          "percentual": 10.93,
+          "documento": "47128288000148"
+        },
+        {
+          "nome": "criasi servicos de consultoria e marketing ltda",
+          "percentual": 10.93,
+          "documento": "68370982000147"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ap-30002551576.jpeg",
+    "coletado_em": "2026-09-20T22:35:18.328Z"
+  },
+  {
+    "slug": "30002550229",
+    "nome": "Capi",
+    "partido": "PSB",
+    "numero": 401,
+    "cargo": "senador",
+    "uf": "AP",
+    "foto_arquivo": "senador-ap-30002550229",
+    "foto_url_original": "https://s2-g1.glbimg.com/dqefrrAZrg4gz5GMLmJ5GDYYriY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/m/Wf7eYPT6a5FMZzhWiKgA/capi.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ap/30002550229.ghtml",
+    "profissao": "Outros",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Jose Ramalho",
+    "suplente1_partido": "PSB",
+    "suplente2_nome": "Prof Halda",
+    "suplente2_partido": "PSB",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Jose Ramalho",
+        "nome_urna": "Jose Ramalho",
+        "partido": "PSB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Prof Halda",
+        "nome_urna": "Prof Halda",
+        "partido": "PSB"
+      }
+    ],
+    "patrimonio_total": 186404.66,
+    "receitas_total": 13900,
+    "despesas_total": 6579.13,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno rural localizado a margem do rio curiau",
+        "valor": 11103.55
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa residencial em madeira",
+        "valor": 15301.11
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Rural",
+        "valor": 10000
+      },
+      {
+        "tipo": "Casa Área urbana macapá",
+        "descricao": "Casa Área urbana macapá",
+        "valor": 150000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Janete Maria Goes Capiberibe",
+        "percentual": 35.97,
+        "documento": "18085830272"
+      },
+      {
+        "nome": "Raimundo Das Gracas Rodrigues Capiberibe",
+        "percentual": 14.39,
+        "documento": "04173570287"
+      },
+      {
+        "nome": "Maria Nilza De Lima Negrao",
+        "percentual": 7.19,
+        "documento": "14646005115"
+      },
+      {
+        "nome": "Eugenio Jose Zoqui",
+        "percentual": 7.19,
+        "documento": "05892029875"
+      },
+      {
+        "nome": "Eliete Ferrer Cebrian",
+        "percentual": 7.19,
+        "documento": "23647744700"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "fcx empreendimentos ltda",
+        "percentual": 42.18,
+        "documento": "50485376000101"
+      },
+      {
+        "nome": "r m r de almeida ltda",
+        "percentual": 26.6,
+        "documento": "02747184000183"
+      },
+      {
+        "nome": "sandro ferreira valente",
+        "percentual": 16,
+        "documento": "00327333219"
+      },
+      {
+        "nome": "juscelino de deus e silva",
+        "percentual": 15.2,
+        "documento": "04169948820"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Capi",
+      "partido_pagina": "PSB",
+      "numero_pagina": 401,
+      "profissao": "Outros",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/dqefrrAZrg4gz5GMLmJ5GDYYriY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/m/Wf7eYPT6a5FMZzhWiKgA/capi.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 11.103,55 Terreno rural localizado a margem do rio curiau",
+        "Casa R$ 15.301,11 Casa residencial em madeira",
+        "Casa R$ 10.000,00 Rural",
+        "Casa R$ 150.000,00 Área urbana macapá"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Jose Ramalho",
+      "suplente1_partido": "PSB",
+      "suplente2_nome": "Prof Halda",
+      "suplente2_partido": "PSB",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Jose Ramalho",
+          "nome_urna": "Jose Ramalho",
+          "partido": "PSB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Prof Halda",
+          "nome_urna": "Prof Halda",
+          "partido": "PSB"
+        }
+      ],
+      "receitas_total": 13900,
+      "despesas_total": 6579.13,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Janete Maria Goes Capiberibe",
+          "percentual": 35.97,
+          "documento": "18085830272"
+        },
+        {
+          "nome": "Raimundo Das Gracas Rodrigues Capiberibe",
+          "percentual": 14.39,
+          "documento": "04173570287"
+        },
+        {
+          "nome": "Maria Nilza De Lima Negrao",
+          "percentual": 7.19,
+          "documento": "14646005115"
+        },
+        {
+          "nome": "Eugenio Jose Zoqui",
+          "percentual": 7.19,
+          "documento": "05892029875"
+        },
+        {
+          "nome": "Eliete Ferrer Cebrian",
+          "percentual": 7.19,
+          "documento": "23647744700"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "fcx empreendimentos ltda",
+          "percentual": 42.18,
+          "documento": "50485376000101"
+        },
+        {
+          "nome": "r m r de almeida ltda",
+          "percentual": 26.6,
+          "documento": "02747184000183"
+        },
+        {
+          "nome": "sandro ferreira valente",
+          "percentual": 16,
+          "documento": "00327333219"
+        },
+        {
+          "nome": "juscelino de deus e silva",
+          "percentual": 15.2,
+          "documento": "04169948820"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ap-30002550229.jpeg",
+    "coletado_em": "2026-09-20T22:35:20.836Z"
+  },
+  {
+    "slug": "30002553708",
+    "nome": "Helio Silva",
+    "partido": "PCO",
+    "numero": 290,
+    "cargo": "senador",
+    "uf": "AP",
+    "foto_arquivo": "senador-ap-30002553708",
+    "foto_url_original": "https://s2-g1.glbimg.com/uMuJrmt2a_EABTpttqVtSQtJrFI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/S/lt11ZiRfiyrFM6y8R5ww/helio-silva.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ap/30002553708.ghtml",
+    "profissao": "Aposentado (exceto servidor público)",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Iris Silva",
+    "suplente1_partido": "PCO",
+    "suplente2_nome": "Jaziel Souza",
+    "suplente2_partido": "PCO",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Iris Silva",
+        "nome_urna": "Iris Silva",
+        "partido": "PCO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Jaziel Souza",
+        "nome_urna": "Jaziel Souza",
+        "partido": "PCO"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Helio Silva",
+      "partido_pagina": "PCO",
+      "numero_pagina": 290,
+      "profissao": "Aposentado (exceto servidor público)",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/uMuJrmt2a_EABTpttqVtSQtJrFI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/S/lt11ZiRfiyrFM6y8R5ww/helio-silva.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Iris Silva",
+      "suplente1_partido": "PCO",
+      "suplente2_nome": "Jaziel Souza",
+      "suplente2_partido": "PCO",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Iris Silva",
+          "nome_urna": "Iris Silva",
+          "partido": "PCO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Jaziel Souza",
+          "nome_urna": "Jaziel Souza",
+          "partido": "PCO"
+        }
+      ],
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 3176572.53,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ap-30002553708.jpeg",
+    "coletado_em": "2026-09-20T22:35:24.084Z"
+  },
+  {
+    "slug": "30002551382",
+    "nome": "Juíza Jô",
+    "partido": "DC",
+    "numero": 277,
+    "cargo": "senador",
+    "uf": "AP",
+    "foto_arquivo": "senador-ap-30002551382",
+    "foto_url_original": "https://s2-g1.glbimg.com/lxNv0Xy40gx_tfJPE4iuYihPLIk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/d/5KBsO3RBWAKm4MsyyaVQ/juiza-jo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ap/30002551382.ghtml",
+    "profissao": "Servidor público civil aposentado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Tobias",
+    "suplente1_partido": "DC",
+    "suplente2_nome": "Vilmar",
+    "suplente2_partido": "DC",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Tobias",
+        "nome_urna": "Tobias",
+        "partido": "DC"
+      },
+      {
+        "ordem": 2,
+        "nome": "Vilmar",
+        "nome_urna": "Vilmar",
+        "partido": "DC"
+      }
+    ],
+    "patrimonio_total": 480000,
+    "receitas_total": 49613,
+    "despesas_total": 15501.5,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. I/nissan versa excl cvt",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. I/nissan versa excl cvt",
+        "valor": 80000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Toda em alvenaria",
+        "valor": 400000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Joenilda Lobato Silva Lenzi",
+        "percentual": 50.81,
+        "documento": "43207464220"
+      },
+      {
+        "nome": "Direção Estadual/distrital - Dc - Amapá",
+        "percentual": 30.23,
+        "documento": "11517805000123"
+      },
+      {
+        "nome": "Joab Silva Lenzi",
+        "percentual": 16.93,
+        "documento": "01319214282"
+      },
+      {
+        "nome": "Ana Maria Souza Dos Anjos",
+        "percentual": 1.01,
+        "documento": "43267319234"
+      },
+      {
+        "nome": "Jimmy Negrao Maciel",
+        "percentual": 0.6,
+        "documento": "38835410282"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "58.659.260 mauricio augusto sousa de oliveira",
+        "percentual": 48.38,
+        "documento": "58659260000153"
+      },
+      {
+        "nome": "l. b. andrade",
+        "percentual": 32.25,
+        "documento": "28116439000101"
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 19.35,
+        "documento": "25021356000132"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Juíza Jô",
+      "partido_pagina": "DC",
+      "numero_pagina": 277,
+      "profissao": "Servidor público civil aposentado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/lxNv0Xy40gx_tfJPE4iuYihPLIk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/d/5KBsO3RBWAKm4MsyyaVQ/juiza-jo.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 80.000,00 I/nissan versa excl cvt",
+        "Casa R$ 400.000,00 Toda em alvenaria"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Tobias",
+      "suplente1_partido": "DC",
+      "suplente2_nome": "Vilmar",
+      "suplente2_partido": "DC",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Tobias",
+          "nome_urna": "Tobias",
+          "partido": "DC"
+        },
+        {
+          "ordem": 2,
+          "nome": "Vilmar",
+          "nome_urna": "Vilmar",
+          "partido": "DC"
+        }
+      ],
+      "receitas_total": 49613,
+      "despesas_total": 15501.5,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Joenilda Lobato Silva Lenzi",
+          "percentual": 50.81,
+          "documento": "43207464220"
+        },
+        {
+          "nome": "Direção Estadual/distrital - Dc - Amapá",
+          "percentual": 30.23,
+          "documento": "11517805000123"
+        },
+        {
+          "nome": "Joab Silva Lenzi",
+          "percentual": 16.93,
+          "documento": "01319214282"
+        },
+        {
+          "nome": "Ana Maria Souza Dos Anjos",
+          "percentual": 1.01,
+          "documento": "43267319234"
+        },
+        {
+          "nome": "Jimmy Negrao Maciel",
+          "percentual": 0.6,
+          "documento": "38835410282"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "58.659.260 mauricio augusto sousa de oliveira",
+          "percentual": 48.38,
+          "documento": "58659260000153"
+        },
+        {
+          "nome": "l. b. andrade",
+          "percentual": 32.25,
+          "documento": "28116439000101"
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 19.35,
+          "documento": "25021356000132"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ap-30002551382.jpeg",
+    "coletado_em": "2026-09-20T22:35:26.528Z"
+  },
+  {
+    "slug": "30002530069",
+    "nome": "Lucas Barreto",
+    "partido": "PSD",
+    "numero": 555,
+    "cargo": "senador",
+    "uf": "AP",
+    "foto_arquivo": "senador-ap-30002530069",
+    "foto_url_original": "https://s2-g1.glbimg.com/HKHr6L14Ld3i0G1R0rSCFBVdYK0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/P/K7DlBRTbmdFmqcwlTHHQ/lucas-barreto.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ap/30002530069.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": null,
+    "vice_nome": "PTB",
+    "vice_partido": "Total",
+    "suplente1_nome": "Paulo Albuquerque",
+    "suplente1_partido": "PSD",
+    "suplente2_nome": "Diogo Grunho",
+    "suplente2_partido": "PSD",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Paulo Albuquerque",
+        "nome_urna": "Paulo Albuquerque",
+        "partido": "PSD"
+      },
+      {
+        "ordem": 2,
+        "nome": "Diogo Grunho",
+        "nome_urna": "Diogo Grunho",
+        "partido": "PSD"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 2019111.1,
+    "despesas_total": 1886918.27,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [
+      {
+        "ano": 2010,
+        "cargo": "Governador",
+        "partido": "PTB",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 99.05,
+        "documento": "13629827000100"
+      },
+      {
+        "nome": "Antonio Paulo De Oliveira Furlan",
+        "percentual": 0.55,
+        "documento": "68139621000194"
+      },
+      {
+        "nome": "Raimunda De Nazare Cantuaria Barreto",
+        "percentual": 0.15,
+        "documento": "51918595291"
+      },
+      {
+        "nome": "Ricardo Augusto Brito Da Graça",
+        "percentual": 0.12,
+        "documento": "01296004236"
+      },
+      {
+        "nome": "Eider Roger Frazao Da Costa",
+        "percentual": 0.12,
+        "documento": "82577439253"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "agencia bex ltda",
+        "percentual": 31.27,
+        "documento": "26804515000138"
+      },
+      {
+        "nome": "mesquita & william advogados associados",
+        "percentual": 16.43,
+        "documento": "37687121000163"
+      },
+      {
+        "nome": "j araujo marketing e comunicacao ltda",
+        "percentual": 7.95,
+        "documento": "56145208000153"
+      },
+      {
+        "nome": "cp3 ltda",
+        "percentual": 7.95,
+        "documento": "09489958000162"
+      },
+      {
+        "nome": "ubirajara & assis empreendimentos ltda",
+        "percentual": 6.34,
+        "documento": "07995919000101"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Lucas Barreto",
+      "partido_pagina": "PSD",
+      "numero_pagina": 555,
+      "profissao": "Senador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/HKHr6L14Ld3i0G1R0rSCFBVdYK0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/P/K7DlBRTbmdFmqcwlTHHQ/lucas-barreto.jpeg",
+      "historico": [
+        {
+          "ano": 2010,
+          "cargo": "Governador",
+          "partido": "PTB",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [],
+      "vice_nome": "PTB",
+      "vice_partido": "Total",
+      "suplente1_nome": "Paulo Albuquerque",
+      "suplente1_partido": "PSD",
+      "suplente2_nome": "Diogo Grunho",
+      "suplente2_partido": "PSD",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Paulo Albuquerque",
+          "nome_urna": "Paulo Albuquerque",
+          "partido": "PSD"
+        },
+        {
+          "ordem": 2,
+          "nome": "Diogo Grunho",
+          "nome_urna": "Diogo Grunho",
+          "partido": "PSD"
+        }
+      ],
+      "receitas_total": 2019111.1,
+      "despesas_total": 1886918.27,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 99.05,
+          "documento": "13629827000100"
+        },
+        {
+          "nome": "Antonio Paulo De Oliveira Furlan",
+          "percentual": 0.55,
+          "documento": "68139621000194"
+        },
+        {
+          "nome": "Raimunda De Nazare Cantuaria Barreto",
+          "percentual": 0.15,
+          "documento": "51918595291"
+        },
+        {
+          "nome": "Ricardo Augusto Brito Da Graça",
+          "percentual": 0.12,
+          "documento": "01296004236"
+        },
+        {
+          "nome": "Eider Roger Frazao Da Costa",
+          "percentual": 0.12,
+          "documento": "82577439253"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "agencia bex ltda",
+          "percentual": 31.27,
+          "documento": "26804515000138"
+        },
+        {
+          "nome": "mesquita & william advogados associados",
+          "percentual": 16.43,
+          "documento": "37687121000163"
+        },
+        {
+          "nome": "j araujo marketing e comunicacao ltda",
+          "percentual": 7.95,
+          "documento": "56145208000153"
+        },
+        {
+          "nome": "cp3 ltda",
+          "percentual": 7.95,
+          "documento": "09489958000162"
+        },
+        {
+          "nome": "ubirajara & assis empreendimentos ltda",
+          "percentual": 6.34,
+          "documento": "07995919000101"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ap-30002530069.jpeg",
+    "coletado_em": "2026-09-20T22:35:29.178Z"
+  },
+  {
+    "slug": "30002551381",
+    "nome": "Professor Uzian Pinto",
+    "partido": "DC",
+    "numero": 272,
+    "cargo": "senador",
+    "uf": "AP",
+    "foto_arquivo": "senador-ap-30002551381",
+    "foto_url_original": "https://s2-g1.glbimg.com/QRlSXobZgSWpyw9mCPQ3Zg3goLM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/s/jbEAPTQqqWKqZxepSz7Q/professor-uzian-pinto.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ap/30002551381.ghtml",
+    "profissao": "Fiscal",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Hélio Flávio",
+    "suplente1_partido": "DC",
+    "suplente2_nome": "Gilberto Pena",
+    "suplente2_partido": "DC",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Hélio Flávio",
+        "nome_urna": "Hélio Flávio",
+        "partido": "DC"
+      },
+      {
+        "ordem": 2,
+        "nome": "Gilberto Pena",
+        "nome_urna": "Gilberto Pena",
+        "partido": "DC"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 3200,
+    "despesas_total": 3198.49,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Uzian Pinto Machado",
+        "percentual": 84.38,
+        "documento": "70021503249"
+      },
+      {
+        "nome": "Gabriel Brito De Freitas",
+        "percentual": 15.63,
+        "documento": "03201288225"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 92.23,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "fcx empreendimentos ltda",
+        "percentual": 6.52,
+        "documento": "50485376000101"
+      },
+      {
+        "nome": "hostinger brasil hospedagem de sites ltda",
+        "percentual": 1.25,
+        "documento": "20758286000186"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Professor Uzian Pinto",
+      "partido_pagina": "DC",
+      "numero_pagina": 272,
+      "profissao": "Fiscal",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/QRlSXobZgSWpyw9mCPQ3Zg3goLM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/s/jbEAPTQqqWKqZxepSz7Q/professor-uzian-pinto.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Hélio Flávio",
+      "suplente1_partido": "DC",
+      "suplente2_nome": "Gilberto Pena",
+      "suplente2_partido": "DC",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Hélio Flávio",
+          "nome_urna": "Hélio Flávio",
+          "partido": "DC"
+        },
+        {
+          "ordem": 2,
+          "nome": "Gilberto Pena",
+          "nome_urna": "Gilberto Pena",
+          "partido": "DC"
+        }
+      ],
+      "receitas_total": 3200,
+      "despesas_total": 3198.49,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Uzian Pinto Machado",
+          "percentual": 84.38,
+          "documento": "70021503249"
+        },
+        {
+          "nome": "Gabriel Brito De Freitas",
+          "percentual": 15.63,
+          "documento": "03201288225"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 92.23,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "fcx empreendimentos ltda",
+          "percentual": 6.52,
+          "documento": "50485376000101"
+        },
+        {
+          "nome": "hostinger brasil hospedagem de sites ltda",
+          "percentual": 1.25,
+          "documento": "20758286000186"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ap-30002551381.jpeg",
+    "coletado_em": "2026-09-20T22:35:31.760Z"
+  },
+  {
+    "slug": "30002549909",
+    "nome": "Randolfe",
+    "partido": "PT",
+    "numero": 130,
+    "cargo": "senador",
+    "uf": "AP",
+    "foto_arquivo": "senador-ap-30002549909",
+    "foto_url_original": "https://s2-g1.glbimg.com/rTbe318lulo83tFalKmWqkMjqoI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/C/wWpIzMSqm1QUubW68Wrw/randolfe.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ap/30002549909.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Gabriel Andrade",
+    "suplente1_partido": "PDT",
+    "suplente2_nome": "Jessyca Mais Saude",
+    "suplente2_partido": "REPUBLICANOS",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Gabriel Andrade",
+        "nome_urna": "Gabriel Andrade",
+        "partido": "PDT"
+      },
+      {
+        "ordem": 2,
+        "nome": "Jessyca Mais Saude",
+        "nome_urna": "Jessyca Mais Saude",
+        "partido": "REPUBLICANOS"
+      }
+    ],
+    "patrimonio_total": 1083914.94,
+    "receitas_total": 1846767.34,
+    "despesas_total": 1094757.08,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança",
+        "valor": 1380.98
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Titulo de renda fixa pelo banco do brasil",
+        "valor": 989000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Serviço de investimento automático do banco do brasil",
+        "valor": 93533.96
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2010,
+        "cargo": "Senador",
+        "partido": "PSOL",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 96.83,
+        "documento": "00676262000170"
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 1.64,
+        "documento": "39586155000197"
+      },
+      {
+        "nome": "Randolph Frederich Rodrigues Alves",
+        "percentual": 0.3,
+        "documento": "43187943268"
+      },
+      {
+        "nome": "Giselly Paz Septimio",
+        "percentual": 0.09,
+        "documento": "03925754261"
+      },
+      {
+        "nome": "Barbara Pietrina Macedo Santos",
+        "percentual": 0.09,
+        "documento": "06056376281"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "agir ltda",
+        "percentual": 36.54,
+        "documento": "46879914000175"
+      },
+      {
+        "nome": "mareco comercio e servico ltda",
+        "percentual": 16.97,
+        "documento": "24340049000151"
+      },
+      {
+        "nome": "m.d. prestadora de servicos ltda",
+        "percentual": 13.69,
+        "documento": "12238090000132"
+      },
+      {
+        "nome": "lr contabilidade ltda",
+        "percentual": 8.68,
+        "documento": "65345521000126"
+      },
+      {
+        "nome": "j rayol de oliveira",
+        "percentual": 8.36,
+        "documento": "33715131000104"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Randolfe",
+      "partido_pagina": "PT",
+      "numero_pagina": 130,
+      "profissao": "Senador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/rTbe318lulo83tFalKmWqkMjqoI=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/C/wWpIzMSqm1QUubW68Wrw/randolfe.jpeg",
+      "historico": [
+        {
+          "ano": 2010,
+          "cargo": "Senador",
+          "partido": "PSOL",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [
+        "Caderneta de poupança R$ 1.380,98 Poupança",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 989.000,00 Titulo de renda fixa pelo banco do brasil",
+        "Outras aplicações e investimentos R$ 93.533,96 Serviço de investimento automático do banco do brasil"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Gabriel Andrade",
+      "suplente1_partido": "PDT",
+      "suplente2_nome": "Jessyca Mais Saude",
+      "suplente2_partido": "REPUBLICANOS",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Gabriel Andrade",
+          "nome_urna": "Gabriel Andrade",
+          "partido": "PDT"
+        },
+        {
+          "ordem": 2,
+          "nome": "Jessyca Mais Saude",
+          "nome_urna": "Jessyca Mais Saude",
+          "partido": "REPUBLICANOS"
+        }
+      ],
+      "receitas_total": 1846767.34,
+      "despesas_total": 1094757.08,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 96.83,
+          "documento": "00676262000170"
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 1.64,
+          "documento": "39586155000197"
+        },
+        {
+          "nome": "Randolph Frederich Rodrigues Alves",
+          "percentual": 0.3,
+          "documento": "43187943268"
+        },
+        {
+          "nome": "Giselly Paz Septimio",
+          "percentual": 0.09,
+          "documento": "03925754261"
+        },
+        {
+          "nome": "Barbara Pietrina Macedo Santos",
+          "percentual": 0.09,
+          "documento": "06056376281"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "agir ltda",
+          "percentual": 36.54,
+          "documento": "46879914000175"
+        },
+        {
+          "nome": "mareco comercio e servico ltda",
+          "percentual": 16.97,
+          "documento": "24340049000151"
+        },
+        {
+          "nome": "m.d. prestadora de servicos ltda",
+          "percentual": 13.69,
+          "documento": "12238090000132"
+        },
+        {
+          "nome": "lr contabilidade ltda",
+          "percentual": 8.68,
+          "documento": "65345521000126"
+        },
+        {
+          "nome": "j rayol de oliveira",
+          "percentual": 8.36,
+          "documento": "33715131000104"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ap-30002549909.jpeg",
+    "coletado_em": "2026-09-20T22:35:34.931Z"
+  },
+  {
+    "slug": "30002530071",
+    "nome": "Rayssa Furlan",
+    "partido": "PODE",
+    "numero": 200,
+    "cargo": "senador",
+    "uf": "AP",
+    "foto_arquivo": "senador-ap-30002530071",
+    "foto_url_original": "https://s2-g1.glbimg.com/TNWzNqrVLRyJYfIvQVo6bRGw2HE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/8/zyJgcORnCGlZxfXZKAoQ/rayssa-furlan.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/ap/30002530071.ghtml",
+    "profissao": "Médico",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Neto Furlan",
+    "suplente1_partido": "PODE",
+    "suplente2_nome": "Marlucia Sullyvan",
+    "suplente2_partido": "PODE",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Neto Furlan",
+        "nome_urna": "Neto Furlan",
+        "partido": "PODE"
+      },
+      {
+        "ordem": 2,
+        "nome": "Marlucia Sullyvan",
+        "nome_urna": "Marlucia Sullyvan",
+        "partido": "PODE"
+      }
+    ],
+    "patrimonio_total": 1374700,
+    "receitas_total": 2732166.66,
+    "despesas_total": 1692593.87,
+    "limite_gastos": 3176572.53,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 06 lotes de terra n s",
+        "valor": 480000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota hilux swsrxa4rd",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Toyota hilux swsrxa4rd 24/25",
+        "valor": 369700
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imovel urbano",
+        "valor": 500000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Participacao de 45% no capital social da neurocor",
+        "valor": 25000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pode",
+        "percentual": 97.72,
+        "documento": "01248362000169"
+      },
+      {
+        "nome": "Rayssa Cadena Furlan",
+        "percentual": 0.92,
+        "documento": "87340852204"
+      },
+      {
+        "nome": "Antonio Paulo De Oliveira Furlan",
+        "percentual": 0.61,
+        "documento": "68139621000194"
+      },
+      {
+        "nome": "Antonio Paulo De Oliveira Furlan",
+        "percentual": 0.38,
+        "documento": "40250350220"
+      },
+      {
+        "nome": "Miguel Caetano De Almeida",
+        "percentual": 0.37,
+        "documento": "21274614104"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "alo producao ltda",
+        "percentual": 29.54,
+        "documento": "17165675000193"
+      },
+      {
+        "nome": "t. p. montenegro grafica ltda",
+        "percentual": 11.82,
+        "documento": "17620604000133"
+      },
+      {
+        "nome": "omega print comunicacao visual ltda",
+        "percentual": 8.26,
+        "documento": "65792367000130"
+      },
+      {
+        "nome": "amado licari marketing e politica ltda",
+        "percentual": 7.68,
+        "documento": "54561735000113"
+      },
+      {
+        "nome": "amanda lima figueiredo sociedade individual de advocacia",
+        "percentual": 7.09,
+        "documento": "17284669000155"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Rayssa Furlan",
+      "partido_pagina": "PODE",
+      "numero_pagina": 200,
+      "profissao": "Médico",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/TNWzNqrVLRyJYfIvQVo6bRGw2HE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/8/zyJgcORnCGlZxfXZKAoQ/rayssa-furlan.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens imóveis R$ 480.000,00 06 lotes de terra n s",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 369.700,00 Toyota hilux swsrxa4rd 24/25",
+        "Outros bens imóveis R$ 500.000,00 Imovel urbano",
+        "Outras participações societárias R$ 25.000,00 Participacao de 45% no capital social da neurocor"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Neto Furlan",
+      "suplente1_partido": "PODE",
+      "suplente2_nome": "Marlucia Sullyvan",
+      "suplente2_partido": "PODE",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Neto Furlan",
+          "nome_urna": "Neto Furlan",
+          "partido": "PODE"
+        },
+        {
+          "ordem": 2,
+          "nome": "Marlucia Sullyvan",
+          "nome_urna": "Marlucia Sullyvan",
+          "partido": "PODE"
+        }
+      ],
+      "receitas_total": 2732166.66,
+      "despesas_total": 1692593.87,
+      "limite_gastos": 3176572.53,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pode",
+          "percentual": 97.72,
+          "documento": "01248362000169"
+        },
+        {
+          "nome": "Rayssa Cadena Furlan",
+          "percentual": 0.92,
+          "documento": "87340852204"
+        },
+        {
+          "nome": "Antonio Paulo De Oliveira Furlan",
+          "percentual": 0.61,
+          "documento": "68139621000194"
+        },
+        {
+          "nome": "Antonio Paulo De Oliveira Furlan",
+          "percentual": 0.38,
+          "documento": "40250350220"
+        },
+        {
+          "nome": "Miguel Caetano De Almeida",
+          "percentual": 0.37,
+          "documento": "21274614104"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "alo producao ltda",
+          "percentual": 29.54,
+          "documento": "17165675000193"
+        },
+        {
+          "nome": "t. p. montenegro grafica ltda",
+          "percentual": 11.82,
+          "documento": "17620604000133"
+        },
+        {
+          "nome": "omega print comunicacao visual ltda",
+          "percentual": 8.26,
+          "documento": "65792367000130"
+        },
+        {
+          "nome": "amado licari marketing e politica ltda",
+          "percentual": 7.68,
+          "documento": "54561735000113"
+        },
+        {
+          "nome": "amanda lima figueiredo sociedade individual de advocacia",
+          "percentual": 7.09,
+          "documento": "17284669000155"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-ap-30002530071.jpeg",
+    "coletado_em": "2026-09-20T22:35:37.471Z"
+  }
+]

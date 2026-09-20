@@ -1,0 +1,2070 @@
+[
+  {
+    "slug": "170002530097",
+    "nome": "Carlos Sant'anna",
+    "partido": "NOVO",
+    "numero": 300,
+    "cargo": "senador",
+    "uf": "PE",
+    "foto_arquivo": "senador-pe-170002530097",
+    "foto_url_original": "https://s2-g1.glbimg.com/0tgYSh0m0kimw1-gDuHhXzYn0ns=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/f/6d9nSLSSiMToQVJyzqnQ/carlos-santanna.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pe/170002530097.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Carla Pinheiro",
+    "suplente1_partido": "NOVO",
+    "suplente2_nome": "Hermes Alves",
+    "suplente2_partido": "NOVO",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Carla Pinheiro",
+        "nome_urna": "Carla Pinheiro",
+        "partido": "NOVO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Hermes Alves",
+        "nome_urna": "Hermes Alves",
+        "partido": "NOVO"
+      }
+    ],
+    "patrimonio_total": 889100,
+    "receitas_total": 1383000,
+    "despesas_total": 1238402.7,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 35000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 21000
+      },
+      {
+        "tipo": "Prédio comercial",
+        "descricao": "Prédio comercial Prédio comercial",
+        "valor": 46500
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "valor": 115000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa",
+        "valor": 400000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Outras participações societárias",
+        "valor": 7600
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Outras participações societárias",
+        "valor": 4000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "valor": 135000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "valor": 125000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Novo",
+        "percentual": 98.34,
+        "documento": "13405866000124"
+      },
+      {
+        "nome": "Carlos Soares Sant Anna",
+        "percentual": 1.66,
+        "documento": "99537559491"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "mais brasil comercio e servico ltda",
+        "percentual": 24.2,
+        "documento": "50946097000106"
+      },
+      {
+        "nome": "11.345.668 ltda",
+        "percentual": 11.07,
+        "documento": "11345668000197"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 3.07,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "malharia atlantico ltda",
+        "percentual": 2.89,
+        "documento": "03892344000140"
+      },
+      {
+        "nome": "letsrocket comunicacao digital ltda",
+        "percentual": 2.58,
+        "documento": "22507365000140"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Carlos Sant'anna",
+      "partido_pagina": "NOVO",
+      "numero_pagina": 300,
+      "profissao": "Advogado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/0tgYSh0m0kimw1-gDuHhXzYn0ns=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/f/6d9nSLSSiMToQVJyzqnQ/carlos-santanna.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Terreno R$ 35.000,00 Terreno",
+        "Terreno R$ 21.000,00 Terreno",
+        "Prédio comercial R$ 46.500,00 Prédio comercial",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 115.000,00 Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "Casa R$ 400.000,00 Casa",
+        "Outras participações societárias R$ 7.600,00 Outras participações societárias",
+        "Outras participações societárias R$ 4.000,00 Outras participações societárias",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 135.000,00 Veículo automotor terrestre: caminhão, automóvel, moto, etc.",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 125.000,00 Veículo automotor terrestre: caminhão, automóvel, moto, etc."
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Carla Pinheiro",
+      "suplente1_partido": "NOVO",
+      "suplente2_nome": "Hermes Alves",
+      "suplente2_partido": "NOVO",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Carla Pinheiro",
+          "nome_urna": "Carla Pinheiro",
+          "partido": "NOVO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Hermes Alves",
+          "nome_urna": "Hermes Alves",
+          "partido": "NOVO"
+        }
+      ],
+      "receitas_total": 1383000,
+      "despesas_total": 1238402.7,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Novo",
+          "percentual": 98.34,
+          "documento": "13405866000124"
+        },
+        {
+          "nome": "Carlos Soares Sant Anna",
+          "percentual": 1.66,
+          "documento": "99537559491"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "mais brasil comercio e servico ltda",
+          "percentual": 24.2,
+          "documento": "50946097000106"
+        },
+        {
+          "nome": "11.345.668 ltda",
+          "percentual": 11.07,
+          "documento": "11345668000197"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 3.07,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "malharia atlantico ltda",
+          "percentual": 2.89,
+          "documento": "03892344000140"
+        },
+        {
+          "nome": "letsrocket comunicacao digital ltda",
+          "percentual": 2.58,
+          "documento": "22507365000140"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pe-170002530097.jpeg",
+    "coletado_em": "2026-09-20T22:37:33.630Z"
+  },
+  {
+    "slug": "170002552102",
+    "nome": "Eduardo Da Fonte",
+    "partido": "PP",
+    "numero": 111,
+    "cargo": "senador",
+    "uf": "PE",
+    "foto_arquivo": "senador-pe-170002552102",
+    "foto_url_original": "https://s2-g1.glbimg.com/_EuNp0pEfCRJLjI57gPU1jLUH_E=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/U/5aTDt5QNOA0VP3nkyn9w/eduardo-da-fonte.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pe/170002552102.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Carlos Andrade De Lima",
+    "suplente1_partido": "UNIÃO",
+    "suplente2_nome": "Jane Santos",
+    "suplente2_partido": "PP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Carlos Andrade De Lima",
+        "nome_urna": "Carlos Andrade De Lima",
+        "partido": "UNIÃO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Jane Santos",
+        "nome_urna": "Jane Santos",
+        "partido": "PP"
+      }
+    ],
+    "patrimonio_total": 842200,
+    "receitas_total": 3433000,
+    "despesas_total": 3134050.25,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital de empresas",
+        "valor": 798900
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Animal cavalo quarto de milha",
+        "valor": 2000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Lote igarassu/pe",
+        "valor": 15000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em contas bancárias",
+        "valor": 26300
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pp",
+        "percentual": 99.91,
+        "documento": "00887169000105"
+      },
+      {
+        "nome": "Elias Manoel Da Silva",
+        "percentual": 0.09,
+        "documento": "28337050420"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 31.91,
+        "documento": "25021356000132"
+      },
+      {
+        "nome": "mxm grafica e embalagens ltda",
+        "percentual": 12.33,
+        "documento": "00758606000190"
+      },
+      {
+        "nome": "d&f pack embalagens flexiveis ltda",
+        "percentual": 11.68,
+        "documento": "26625056000125"
+      },
+      {
+        "nome": "farol consultoria em publicidade ltda",
+        "percentual": 10.57,
+        "documento": "29813266000135"
+      },
+      {
+        "nome": "virtual comunicacao ltda",
+        "percentual": 5.55,
+        "documento": "05577975000109"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Eduardo Da Fonte",
+      "partido_pagina": "PP",
+      "numero_pagina": 111,
+      "profissao": "Deputado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/_EuNp0pEfCRJLjI57gPU1jLUH_E=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/U/5aTDt5QNOA0VP3nkyn9w/eduardo-da-fonte.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Quotas ou quinhões de capital R$ 798.900,00 Quotas de capital de empresas",
+        "Outros bens móveis R$ 2.000,00 Animal cavalo quarto de milha",
+        "Terreno R$ 15.000,00 Lote igarassu/pe",
+        "Caderneta de poupança R$ 26.300,00 Saldo em contas bancárias"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Carlos Andrade De Lima",
+      "suplente1_partido": "UNIÃO",
+      "suplente2_nome": "Jane Santos",
+      "suplente2_partido": "PP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Carlos Andrade De Lima",
+          "nome_urna": "Carlos Andrade De Lima",
+          "partido": "UNIÃO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Jane Santos",
+          "nome_urna": "Jane Santos",
+          "partido": "PP"
+        }
+      ],
+      "receitas_total": 3433000,
+      "despesas_total": 3134050.25,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pp",
+          "percentual": 99.91,
+          "documento": "00887169000105"
+        },
+        {
+          "nome": "Elias Manoel Da Silva",
+          "percentual": 0.09,
+          "documento": "28337050420"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 31.91,
+          "documento": "25021356000132"
+        },
+        {
+          "nome": "mxm grafica e embalagens ltda",
+          "percentual": 12.33,
+          "documento": "00758606000190"
+        },
+        {
+          "nome": "d&f pack embalagens flexiveis ltda",
+          "percentual": 11.68,
+          "documento": "26625056000125"
+        },
+        {
+          "nome": "farol consultoria em publicidade ltda",
+          "percentual": 10.57,
+          "documento": "29813266000135"
+        },
+        {
+          "nome": "virtual comunicacao ltda",
+          "percentual": 5.55,
+          "documento": "05577975000109"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pe-170002552102.jpeg",
+    "coletado_em": "2026-09-20T22:37:36.100Z"
+  },
+  {
+    "slug": "170002537335",
+    "nome": "Gorett Bitu",
+    "partido": "UP",
+    "numero": 801,
+    "cargo": "senador",
+    "uf": "PE",
+    "foto_arquivo": "senador-pe-170002537335",
+    "foto_url_original": "https://s2-g1.glbimg.com/DIdj7VzMSQhcox3XAVIBHfh8AF4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/r/MJ1W1HSgiYiNANQCjq6g/gorett-bitu.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pe/170002537335.ghtml",
+    "profissao": "Aposentado (exceto servidor público)",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Professor Natanael Sarmento",
+    "suplente1_partido": "UP",
+    "suplente2_nome": "Sandra Ramos",
+    "suplente2_partido": "UP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Professor Natanael Sarmento",
+        "nome_urna": "Professor Natanael Sarmento",
+        "partido": "UP"
+      },
+      {
+        "ordem": 2,
+        "nome": "Sandra Ramos",
+        "nome_urna": "Sandra Ramos",
+        "partido": "UP"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 4140,
+    "despesas_total": 0,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Up - Pernambuco",
+        "percentual": 67.63,
+        "documento": "36321802000140"
+      },
+      {
+        "nome": "Maria Camila Da Silva Falcao",
+        "percentual": 32.37,
+        "documento": "68403696000130"
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Gorett Bitu",
+      "partido_pagina": "UP",
+      "numero_pagina": 801,
+      "profissao": "Aposentado (exceto servidor público)",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/DIdj7VzMSQhcox3XAVIBHfh8AF4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/r/MJ1W1HSgiYiNANQCjq6g/gorett-bitu.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Professor Natanael Sarmento",
+      "suplente1_partido": "UP",
+      "suplente2_nome": "Sandra Ramos",
+      "suplente2_partido": "UP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Professor Natanael Sarmento",
+          "nome_urna": "Professor Natanael Sarmento",
+          "partido": "UP"
+        },
+        {
+          "ordem": 2,
+          "nome": "Sandra Ramos",
+          "nome_urna": "Sandra Ramos",
+          "partido": "UP"
+        }
+      ],
+      "receitas_total": 4140,
+      "despesas_total": 0,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Up - Pernambuco",
+          "percentual": 67.63,
+          "documento": "36321802000140"
+        },
+        {
+          "nome": "Maria Camila Da Silva Falcao",
+          "percentual": 32.37,
+          "documento": "68403696000130"
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pe-170002537335.jpeg",
+    "coletado_em": "2026-09-20T22:37:38.595Z"
+  },
+  {
+    "slug": "170002547773",
+    "nome": "Humberto Costa",
+    "partido": "PT",
+    "numero": 130,
+    "cargo": "senador",
+    "uf": "PE",
+    "foto_arquivo": "senador-pe-170002547773",
+    "foto_url_original": "https://s2-g1.glbimg.com/F-J6Ay0GiDWQBlZuTwDHbubzn0w=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/8iBbpTQGOMELUIhPcIAQ/humberto-costa.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pe/170002547773.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Luciano Bivar",
+    "suplente1_partido": "MDB",
+    "suplente2_nome": "Professor Manoel Moraes",
+    "suplente2_partido": "PT",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Luciano Bivar",
+        "nome_urna": "Luciano Bivar",
+        "partido": "MDB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Professor Manoel Moraes",
+        "nome_urna": "Professor Manoel Moraes",
+        "partido": "PT"
+      }
+    ],
+    "patrimonio_total": 960956.06,
+    "receitas_total": 3652887.47,
+    "despesas_total": 3363446.21,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa (cdb, rdb e outros)",
+        "valor": 64500
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento residencial",
+        "valor": 407189.44
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa (cdb, rdb e outros)",
+        "valor": 2708.97
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa (cdb, rdb e outros)",
+        "valor": 66566.19
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento residencial",
+        "valor": 419991.46
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 88.25,
+        "documento": "00676262000170"
+      },
+      {
+        "nome": "Direção Estadual/distrital - Pt - Pernambuco",
+        "percentual": 9.91,
+        "documento": "08089633000120"
+      },
+      {
+        "nome": "Francisco Ferreira Alexandre",
+        "percentual": 0.68,
+        "documento": "30147948487"
+      },
+      {
+        "nome": "Jose Ricardo Sasseron",
+        "percentual": 0.55,
+        "documento": "00340455896"
+      },
+      {
+        "nome": "Joao Luiz Fukunaga",
+        "percentual": 0.27,
+        "documento": "32444514890"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "media steak producoes ltda.",
+        "percentual": 29.73,
+        "documento": "15787024000100"
+      },
+      {
+        "nome": "9cr live - streaming media ltda",
+        "percentual": 17.94,
+        "documento": "37874679000158"
+      },
+      {
+        "nome": "grafica j b ltda",
+        "percentual": 9.33,
+        "documento": "08540403000135"
+      },
+      {
+        "nome": "fabio de souza lima sociedade individual de advocacia",
+        "percentual": 7.43,
+        "documento": "53402967000166"
+      },
+      {
+        "nome": "paulo roberto de santana silva",
+        "percentual": 6.99,
+        "documento": "42427420000107"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Humberto Costa",
+      "partido_pagina": "PT",
+      "numero_pagina": 130,
+      "profissao": "Senador",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/F-J6Ay0GiDWQBlZuTwDHbubzn0w=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/8iBbpTQGOMELUIhPcIAQ/humberto-costa.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 64.500,00 Aplicação de renda fixa (cdb, rdb e outros)",
+        "Apartamento R$ 407.189,44 Apartamento residencial",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 2.708,97 Aplicação de renda fixa (cdb, rdb e outros)",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 66.566,19 Aplicação de renda fixa (cdb, rdb e outros)",
+        "Apartamento R$ 419.991,46 Apartamento residencial"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Luciano Bivar",
+      "suplente1_partido": "MDB",
+      "suplente2_nome": "Professor Manoel Moraes",
+      "suplente2_partido": "PT",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Luciano Bivar",
+          "nome_urna": "Luciano Bivar",
+          "partido": "MDB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Professor Manoel Moraes",
+          "nome_urna": "Professor Manoel Moraes",
+          "partido": "PT"
+        }
+      ],
+      "receitas_total": 3652887.47,
+      "despesas_total": 3363446.21,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 88.25,
+          "documento": "00676262000170"
+        },
+        {
+          "nome": "Direção Estadual/distrital - Pt - Pernambuco",
+          "percentual": 9.91,
+          "documento": "08089633000120"
+        },
+        {
+          "nome": "Francisco Ferreira Alexandre",
+          "percentual": 0.68,
+          "documento": "30147948487"
+        },
+        {
+          "nome": "Jose Ricardo Sasseron",
+          "percentual": 0.55,
+          "documento": "00340455896"
+        },
+        {
+          "nome": "Joao Luiz Fukunaga",
+          "percentual": 0.27,
+          "documento": "32444514890"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "media steak producoes ltda.",
+          "percentual": 29.73,
+          "documento": "15787024000100"
+        },
+        {
+          "nome": "9cr live - streaming media ltda",
+          "percentual": 17.94,
+          "documento": "37874679000158"
+        },
+        {
+          "nome": "grafica j b ltda",
+          "percentual": 9.33,
+          "documento": "08540403000135"
+        },
+        {
+          "nome": "fabio de souza lima sociedade individual de advocacia",
+          "percentual": 7.43,
+          "documento": "53402967000166"
+        },
+        {
+          "nome": "paulo roberto de santana silva",
+          "percentual": 6.99,
+          "documento": "42427420000107"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pe-170002547773.jpeg",
+    "coletado_em": "2026-09-20T22:37:41.153Z"
+  },
+  {
+    "slug": "170002552943",
+    "nome": "Mailson Da Silva Neto",
+    "partido": "PCO",
+    "numero": 290,
+    "cargo": "senador",
+    "uf": "PE",
+    "foto_arquivo": "senador-pe-170002552943",
+    "foto_url_original": "https://s2-g1.glbimg.com/DqABiQPZNPOazbuAGUf2r4zplOM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/2/L2ZHLfT7KTT7QStz2Wvg/mailson-da-silva-neto.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pe/170002552943.ghtml",
+    "profissao": "Engenheiro",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Estelita Medeiros",
+    "suplente1_partido": "PCO",
+    "suplente2_nome": "Gilberto Silva",
+    "suplente2_partido": "PCO",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Estelita Medeiros",
+        "nome_urna": "Estelita Medeiros",
+        "partido": "PCO"
+      },
+      {
+        "ordem": 2,
+        "nome": "Gilberto Silva",
+        "nome_urna": "Gilberto Silva",
+        "partido": "PCO"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Mailson Da Silva Neto",
+      "partido_pagina": "PCO",
+      "numero_pagina": 290,
+      "profissao": "Engenheiro",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/DqABiQPZNPOazbuAGUf2r4zplOM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/2/L2ZHLfT7KTT7QStz2Wvg/mailson-da-silva-neto.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Estelita Medeiros",
+      "suplente1_partido": "PCO",
+      "suplente2_nome": "Gilberto Silva",
+      "suplente2_partido": "PCO",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Estelita Medeiros",
+          "nome_urna": "Estelita Medeiros",
+          "partido": "PCO"
+        },
+        {
+          "ordem": 2,
+          "nome": "Gilberto Silva",
+          "nome_urna": "Gilberto Silva",
+          "partido": "PCO"
+        }
+      ],
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 4447201.54,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pe-170002552943.jpeg",
+    "coletado_em": "2026-09-20T22:37:43.683Z"
+  },
+  {
+    "slug": "170002537418",
+    "nome": "Mariano Macedo",
+    "partido": "PSTU",
+    "numero": 161,
+    "cargo": "senador",
+    "uf": "PE",
+    "foto_arquivo": "senador-pe-170002537418",
+    "foto_url_original": "https://s2-g1.glbimg.com/pjuVZD7PY122VaYaC_QwV9IPVZU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/o/35uaf9QTuMHhdeA80Xag/mariano-macedo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pe/170002537418.ghtml",
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Jonas Ferreira",
+    "suplente1_partido": "PSTU",
+    "suplente2_nome": "Marcelo",
+    "suplente2_partido": "PSTU",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Jonas Ferreira",
+        "nome_urna": "Jonas Ferreira",
+        "partido": "PSTU"
+      },
+      {
+        "ordem": 2,
+        "nome": "Marcelo",
+        "nome_urna": "Marcelo",
+        "partido": "PSTU"
+      }
+    ],
+    "patrimonio_total": 60000,
+    "receitas_total": 15702,
+    "despesas_total": 12900,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Renaut sandero step way",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Renaut sandero step way 2024",
+        "valor": 60000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 100,
+        "documento": "73282907000164"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "romerito vieira pontes",
+        "percentual": 40.31,
+        "documento": "38918421800"
+      },
+      {
+        "nome": "anacely de jesus rodrigues",
+        "percentual": 31.01,
+        "documento": "12402893249"
+      },
+      {
+        "nome": "dw contabilidade e assessoria ltda",
+        "percentual": 15.5,
+        "documento": "60157581000100"
+      },
+      {
+        "nome": "carlos elias andrade",
+        "percentual": 13.18,
+        "documento": "66804418468"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Mariano Macedo",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 161,
+      "profissao": "Professor de ensino médio",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/pjuVZD7PY122VaYaC_QwV9IPVZU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/o/35uaf9QTuMHhdeA80Xag/mariano-macedo.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 60.000,00 Renaut sandero step way 2024"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Jonas Ferreira",
+      "suplente1_partido": "PSTU",
+      "suplente2_nome": "Marcelo",
+      "suplente2_partido": "PSTU",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Jonas Ferreira",
+          "nome_urna": "Jonas Ferreira",
+          "partido": "PSTU"
+        },
+        {
+          "ordem": 2,
+          "nome": "Marcelo",
+          "nome_urna": "Marcelo",
+          "partido": "PSTU"
+        }
+      ],
+      "receitas_total": 15702,
+      "despesas_total": 12900,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 100,
+          "documento": "73282907000164"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "romerito vieira pontes",
+          "percentual": 40.31,
+          "documento": "38918421800"
+        },
+        {
+          "nome": "anacely de jesus rodrigues",
+          "percentual": 31.01,
+          "documento": "12402893249"
+        },
+        {
+          "nome": "dw contabilidade e assessoria ltda",
+          "percentual": 15.5,
+          "documento": "60157581000100"
+        },
+        {
+          "nome": "carlos elias andrade",
+          "percentual": 13.18,
+          "documento": "66804418468"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pe-170002537418.jpeg",
+    "coletado_em": "2026-09-20T22:37:46.249Z"
+  },
+  {
+    "slug": "170002547771",
+    "nome": "Marília Arraes",
+    "partido": "PDT",
+    "numero": 123,
+    "cargo": "senador",
+    "uf": "PE",
+    "foto_arquivo": "senador-pe-170002547771",
+    "foto_url_original": "https://s2-g1.glbimg.com/8hblnQ4czBFC9qtjzEx2FrD2WSo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/1/5KOgb8QaOXiQwkRtLAGQ/marilia-arraes.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pe/170002547771.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Abel Neto",
+    "suplente1_partido": "PSB",
+    "suplente2_nome": "Edjane Figueiredo",
+    "suplente2_partido": "PSB",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Abel Neto",
+        "nome_urna": "Abel Neto",
+        "partido": "PSB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Edjane Figueiredo",
+        "nome_urna": "Edjane Figueiredo",
+        "partido": "PSB"
+      }
+    ],
+    "patrimonio_total": 2606626.55,
+    "receitas_total": 4057000,
+    "despesas_total": 2652367,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Ações em bolsa",
+        "valor": 7000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Em recife",
+        "valor": 1700000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Renda fixa longo prazo",
+        "valor": 81313.98
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Na cidade de tamandaré",
+        "valor": 600000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social em empresa",
+        "valor": 21000
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro em espécie referente a lucro distribuido",
+        "valor": 100000
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Renda fixa longo prazo",
+        "valor": 47312.57
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social em empresa",
+        "valor": 50000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pdt",
+        "percentual": 98.6,
+        "documento": "00719575000169"
+      },
+      {
+        "nome": "Abel Antonio Dos Santos Neto",
+        "percentual": 0.99,
+        "documento": "02635411425"
+      },
+      {
+        "nome": "Direção Estadual/distrital - Pdt - Pernambuco",
+        "percentual": 0.3,
+        "documento": "08089690000109"
+      },
+      {
+        "nome": "Luiz Humberto Cordeiro Cruz",
+        "percentual": 0.12,
+        "documento": "02283539471"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "nahsom video producoes ltda",
+        "percentual": 17.72,
+        "documento": "03227771000295"
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 9.05,
+        "documento": "25021356000132"
+      },
+      {
+        "nome": "angelica c pereira",
+        "percentual": 8.45,
+        "documento": "27279467000179"
+      },
+      {
+        "nome": "ipespe inst de pesquisas sociais politicas e economicas",
+        "percentual": 7.54,
+        "documento": "11849437000110"
+      },
+      {
+        "nome": "vdl empreendimentos e servicos ltda",
+        "percentual": 4.23,
+        "documento": "13292885000191"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Marília Arraes",
+      "partido_pagina": "PDT",
+      "numero_pagina": 123,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/8hblnQ4czBFC9qtjzEx2FrD2WSo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/1/5KOgb8QaOXiQwkRtLAGQ/marilia-arraes.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outras aplicações e investimentos R$ 7.000,00 Ações em bolsa",
+        "Apartamento R$ 1.700.000,00 Em recife",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 81.313,98 Renda fixa longo prazo",
+        "Casa R$ 600.000,00 Na cidade de tamandaré",
+        "Quotas ou quinhões de capital R$ 21.000,00 Capital social em empresa",
+        "Dinheiro em espécie - moeda nacional R$ 100.000,00 Dinheiro em espécie referente a lucro distribuido",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 47.312,57 Renda fixa longo prazo",
+        "Quotas ou quinhões de capital R$ 50.000,00 Capital social em empresa"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Abel Neto",
+      "suplente1_partido": "PSB",
+      "suplente2_nome": "Edjane Figueiredo",
+      "suplente2_partido": "PSB",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Abel Neto",
+          "nome_urna": "Abel Neto",
+          "partido": "PSB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Edjane Figueiredo",
+          "nome_urna": "Edjane Figueiredo",
+          "partido": "PSB"
+        }
+      ],
+      "receitas_total": 4057000,
+      "despesas_total": 2652367,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pdt",
+          "percentual": 98.6,
+          "documento": "00719575000169"
+        },
+        {
+          "nome": "Abel Antonio Dos Santos Neto",
+          "percentual": 0.99,
+          "documento": "02635411425"
+        },
+        {
+          "nome": "Direção Estadual/distrital - Pdt - Pernambuco",
+          "percentual": 0.3,
+          "documento": "08089690000109"
+        },
+        {
+          "nome": "Luiz Humberto Cordeiro Cruz",
+          "percentual": 0.12,
+          "documento": "02283539471"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "nahsom video producoes ltda",
+          "percentual": 17.72,
+          "documento": "03227771000295"
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 9.05,
+          "documento": "25021356000132"
+        },
+        {
+          "nome": "angelica c pereira",
+          "percentual": 8.45,
+          "documento": "27279467000179"
+        },
+        {
+          "nome": "ipespe inst de pesquisas sociais politicas e economicas",
+          "percentual": 7.54,
+          "documento": "11849437000110"
+        },
+        {
+          "nome": "vdl empreendimentos e servicos ltda",
+          "percentual": 4.23,
+          "documento": "13292885000191"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pe-170002547771.jpeg",
+    "coletado_em": "2026-09-20T22:37:48.747Z"
+  },
+  {
+    "slug": "170002539456",
+    "nome": "Mendonça Filho",
+    "partido": "PL",
+    "numero": 222,
+    "cargo": "senador",
+    "uf": "PE",
+    "foto_arquivo": "senador-pe-170002539456",
+    "foto_url_original": "https://s2-g1.glbimg.com/-zHcJb7jhMkHzSeiZbJkYp_3D7U=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/P/iqAvU7Qhe8y7vMuVpBuw/mendonca-filho.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pe/170002539456.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Adriana Ferreira",
+    "suplente1_partido": "PL",
+    "suplente2_nome": "Alcides Cardoso",
+    "suplente2_partido": "PL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Adriana Ferreira",
+        "nome_urna": "Adriana Ferreira",
+        "partido": "PL"
+      },
+      {
+        "ordem": 2,
+        "nome": "Alcides Cardoso",
+        "nome_urna": "Alcides Cardoso",
+        "partido": "PL"
+      }
+    ],
+    "patrimonio_total": 2207323.92,
+    "receitas_total": 4198002.72,
+    "despesas_total": 3958894.16,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa",
+        "valor": 160000
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Saldo banco do brasil - conta corrente",
+        "valor": 26624.92
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas do capital social da vale do cumbe paticipações ltda 03742869/0001-08",
+        "valor": 701272
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Saldo banco bradesco - conta corrente",
+        "valor": 1427
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 1208000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 1/6 da fazenda ingá no município de são bento do una/pe",
+        "valor": 100000
+      },
+      {
+        "tipo": "Dinheiro em espécie",
+        "descricao": "Dinheiro em espécie - moeda nacional Dinheiro",
+        "valor": 10000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 23.82,
+        "documento": "08517423000195"
+      },
+      {
+        "nome": "Sergio Viana Moura",
+        "percentual": 5.96,
+        "documento": "09527877415"
+      },
+      {
+        "nome": "Edson Viana Moura",
+        "percentual": 5.96,
+        "documento": "12373575434"
+      },
+      {
+        "nome": "Pedro Ivo Viana Moura",
+        "percentual": 5.96,
+        "documento": "16537661404"
+      },
+      {
+        "nome": "Maria Da Conceicao Moura Sales",
+        "percentual": 5.96,
+        "documento": "16787315449"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "grafica nmc ltda",
+        "percentual": 17.43,
+        "documento": "35659497000139"
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 10.08,
+        "documento": "13347016000117"
+      },
+      {
+        "nome": "estudio criativo unipessoal ltda",
+        "percentual": 7.58,
+        "documento": "51384049000126"
+      },
+      {
+        "nome": "matheus campelo guimaraes da silva ltda",
+        "percentual": 7.58,
+        "documento": "48390856000147"
+      },
+      {
+        "nome": "bl comunicacao, marketing e publicidade ltda",
+        "percentual": 7.58,
+        "documento": "38200255000170"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Mendonça Filho",
+      "partido_pagina": "PL",
+      "numero_pagina": 222,
+      "profissao": "Deputado",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/-zHcJb7jhMkHzSeiZbJkYp_3D7U=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/P/iqAvU7Qhe8y7vMuVpBuw/mendonca-filho.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 160.000,00 Casa",
+        "Outros créditos e poupança vinculados R$ 26.624,92 Saldo banco do brasil - conta corrente",
+        "Quotas ou quinhões de capital R$ 701.272,00 Quotas do capital social da vale do cumbe paticipações ltda 03742869/0001-08",
+        "Outros créditos e poupança vinculados R$ 1.427,00 Saldo banco bradesco - conta corrente",
+        "Apartamento R$ 1.208.000,00 Apartamento",
+        "Outros bens imóveis R$ 100.000,00 1/6 da fazenda ingá no município de são bento do una/pe",
+        "Dinheiro em espécie - moeda nacional R$ 10.000,00 Dinheiro"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Adriana Ferreira",
+      "suplente1_partido": "PL",
+      "suplente2_nome": "Alcides Cardoso",
+      "suplente2_partido": "PL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Adriana Ferreira",
+          "nome_urna": "Adriana Ferreira",
+          "partido": "PL"
+        },
+        {
+          "ordem": 2,
+          "nome": "Alcides Cardoso",
+          "nome_urna": "Alcides Cardoso",
+          "partido": "PL"
+        }
+      ],
+      "receitas_total": 4198002.72,
+      "despesas_total": 3958894.16,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 23.82,
+          "documento": "08517423000195"
+        },
+        {
+          "nome": "Sergio Viana Moura",
+          "percentual": 5.96,
+          "documento": "09527877415"
+        },
+        {
+          "nome": "Edson Viana Moura",
+          "percentual": 5.96,
+          "documento": "12373575434"
+        },
+        {
+          "nome": "Pedro Ivo Viana Moura",
+          "percentual": 5.96,
+          "documento": "16537661404"
+        },
+        {
+          "nome": "Maria Da Conceicao Moura Sales",
+          "percentual": 5.96,
+          "documento": "16787315449"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "grafica nmc ltda",
+          "percentual": 17.43,
+          "documento": "35659497000139"
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 10.08,
+          "documento": "13347016000117"
+        },
+        {
+          "nome": "estudio criativo unipessoal ltda",
+          "percentual": 7.58,
+          "documento": "51384049000126"
+        },
+        {
+          "nome": "matheus campelo guimaraes da silva ltda",
+          "percentual": 7.58,
+          "documento": "48390856000147"
+        },
+        {
+          "nome": "bl comunicacao, marketing e publicidade ltda",
+          "percentual": 7.58,
+          "documento": "38200255000170"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pe-170002539456.jpeg",
+    "coletado_em": "2026-09-20T22:37:51.245Z"
+  },
+  {
+    "slug": "170002540420",
+    "nome": "Pastor Gilvan Costa",
+    "partido": "DEMOCRATA",
+    "numero": 355,
+    "cargo": "senador",
+    "uf": "PE",
+    "foto_arquivo": "senador-pe-170002540420",
+    "foto_url_original": "https://s2-g1.glbimg.com/abTd4tZA2uzYlxUJTFXqiKcti9g=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/s/CeedA5TIiyQzBnIwFtUA/pastor-gilvan-costa.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pe/170002540420.ghtml",
+    "profissao": "Outros",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Laelson Costa",
+    "suplente1_partido": "DEMOCRATA",
+    "suplente2_nome": "Pastora Simea Carvalho",
+    "suplente2_partido": "DEMOCRATA",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Laelson Costa",
+        "nome_urna": "Laelson Costa",
+        "partido": "DEMOCRATA"
+      },
+      {
+        "ordem": 2,
+        "nome": "Pastora Simea Carvalho",
+        "nome_urna": "Pastora Simea Carvalho",
+        "partido": "DEMOCRATA"
+      }
+    ],
+    "patrimonio_total": null,
+    "receitas_total": 3000,
+    "despesas_total": 1400,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Josinaldo Soares Da Silva",
+        "percentual": 33.33,
+        "documento": "96170590459"
+      },
+      {
+        "nome": "Zeneide Maria De Souza Costa",
+        "percentual": 33.33,
+        "documento": "59303492404"
+      },
+      {
+        "nome": "Alef Cleiton Collins Aguiar Goncalves",
+        "percentual": 33.33,
+        "documento": "14489810423"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 100,
+        "documento": "13347016000117"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Pastor Gilvan Costa",
+      "partido_pagina": "DEMOCRATA",
+      "numero_pagina": 355,
+      "profissao": "Outros",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/abTd4tZA2uzYlxUJTFXqiKcti9g=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/s/CeedA5TIiyQzBnIwFtUA/pastor-gilvan-costa.jpeg",
+      "historico": [],
+      "bens_brutos": [],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Laelson Costa",
+      "suplente1_partido": "DEMOCRATA",
+      "suplente2_nome": "Pastora Simea Carvalho",
+      "suplente2_partido": "DEMOCRATA",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Laelson Costa",
+          "nome_urna": "Laelson Costa",
+          "partido": "DEMOCRATA"
+        },
+        {
+          "ordem": 2,
+          "nome": "Pastora Simea Carvalho",
+          "nome_urna": "Pastora Simea Carvalho",
+          "partido": "DEMOCRATA"
+        }
+      ],
+      "receitas_total": 3000,
+      "despesas_total": 1400,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Josinaldo Soares Da Silva",
+          "percentual": 33.33,
+          "documento": "96170590459"
+        },
+        {
+          "nome": "Zeneide Maria De Souza Costa",
+          "percentual": 33.33,
+          "documento": "59303492404"
+        },
+        {
+          "nome": "Alef Cleiton Collins Aguiar Goncalves",
+          "percentual": 33.33,
+          "documento": "14489810423"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 100,
+          "documento": "13347016000117"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pe-170002540420.jpeg",
+    "coletado_em": "2026-09-20T22:37:53.823Z"
+  },
+  {
+    "slug": "170002549655",
+    "nome": "Paulo Rubem Santiago",
+    "partido": "REDE",
+    "numero": 180,
+    "cargo": "senador",
+    "uf": "PE",
+    "foto_arquivo": "senador-pe-170002549655",
+    "foto_url_original": "https://s2-g1.glbimg.com/La3vb2IXSnGsxGmjx-db2Jl_Zl0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/w/2VkogeRMORsLFoqCIuJw/paulo-rubem-santiago.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pe/170002549655.ghtml",
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Cristiano Romão",
+    "suplente1_partido": "PCB",
+    "suplente2_nome": "Rafaela Ramos",
+    "suplente2_partido": "PSOL",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Cristiano Romão",
+        "nome_urna": "Cristiano Romão",
+        "partido": "PCB"
+      },
+      {
+        "ordem": 2,
+        "nome": "Rafaela Ramos",
+        "nome_urna": "Rafaela Ramos",
+        "partido": "PSOL"
+      }
+    ],
+    "patrimonio_total": 319551.69999999995,
+    "receitas_total": 17521,
+    "despesas_total": 7572.64,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo ford ka, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo ford ka, ano 2018, 1.0.",
+        "valor": 36000
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento 202, rua arthur wanderley 495, cep: 50740-310 -várzea\u0002recife-pe, com usufruto vitalício por sentença judicial de divórcio",
+        "valor": 200000
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Caixa econômica federal agência 0678 cc 596594658-5",
+        "valor": 2292.93
+      },
+      {
+        "tipo": "Outros bens e direitos ¼ do apartamento",
+        "descricao": "Outros bens e direitos ¼ do apartamento 505, sito à avenida conselheiro aguiar 4221-boa viagem, cep: 51.021-020, por espólio de rubem ferreira e maria laura santiago ferreira.",
+        "valor": 75000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Conta poupança caixa econômica federal agencia 0678 cc/cp 596594658-5",
+        "valor": 3800.8
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Aplicação financeira: banco do brasil: ag.2802-9 cc 80.700-1",
+        "valor": 940
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Banco do brasil, ag.2802-9 cc 80.700-1",
+        "valor": 1517.97
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Paulo Rubem Santiago Ferreira",
+        "percentual": 41.33,
+        "documento": "11344024491"
+      },
+      {
+        "nome": "Antonio Carlos Silva Biscaia",
+        "percentual": 22.83,
+        "documento": "01945556749"
+      },
+      {
+        "nome": "Alfredo Macedo Gomes",
+        "percentual": 11.41,
+        "documento": "41972074415"
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 5.14,
+        "documento": "39586155000197"
+      },
+      {
+        "nome": "Ana Claudia",
+        "percentual": 2.85,
+        "documento": "49795716468"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "rodrigo ferreira vieira medeiros de aquino",
+        "percentual": 52.82,
+        "documento": "06053605450"
+      },
+      {
+        "nome": "amasv zarpa transmissao e armazenamento de dados s.a.",
+        "percentual": 31.69,
+        "documento": "20664790000117"
+      },
+      {
+        "nome": "vicente henrique marques ribeiro",
+        "percentual": 9.9,
+        "documento": "70629251444"
+      },
+      {
+        "nome": "posto sao sebastiao ltda",
+        "percentual": 2.74,
+        "documento": "11188133000150"
+      },
+      {
+        "nome": "posto apipucos ltda",
+        "percentual": 2.52,
+        "documento": "08986176000338"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Paulo Rubem Santiago",
+      "partido_pagina": "REDE",
+      "numero_pagina": 180,
+      "profissao": "Professor de ensino superior",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/La3vb2IXSnGsxGmjx-db2Jl_Zl0=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/w/2VkogeRMORsLFoqCIuJw/paulo-rubem-santiago.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 36.000,00 Veículo ford ka, ano 2018, 1.0.",
+        "Apartamento R$ 200.000,00 Apartamento 202, rua arthur wanderley 495, cep: 50740-310 -várzea\u0002recife-pe, com usufruto vitalício por sentença judicial de divórcio",
+        "Outros bens e direitos R$ 2.292,93 Caixa econômica federal agência 0678 cc 596594658-5",
+        "Outros bens e direitos R$ 75.000,00 ¼ do apartamento 505, sito à avenida conselheiro aguiar 4221-boa viagem, cep: 51.021-020, por espólio de rubem ferreira e maria laura santiago ferreira.",
+        "Caderneta de poupança R$ 3.800,80 Conta poupança caixa econômica federal agencia 0678 cc/cp 596594658-5",
+        "Outros bens e direitos R$ 940,00 Aplicação financeira: banco do brasil: ag.2802-9 cc 80.700-1",
+        "Outros bens e direitos R$ 1.517,97 Banco do brasil, ag.2802-9 cc 80.700-1"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Cristiano Romão",
+      "suplente1_partido": "PCB",
+      "suplente2_nome": "Rafaela Ramos",
+      "suplente2_partido": "PSOL",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Cristiano Romão",
+          "nome_urna": "Cristiano Romão",
+          "partido": "PCB"
+        },
+        {
+          "ordem": 2,
+          "nome": "Rafaela Ramos",
+          "nome_urna": "Rafaela Ramos",
+          "partido": "PSOL"
+        }
+      ],
+      "receitas_total": 17521,
+      "despesas_total": 7572.64,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Paulo Rubem Santiago Ferreira",
+          "percentual": 41.33,
+          "documento": "11344024491"
+        },
+        {
+          "nome": "Antonio Carlos Silva Biscaia",
+          "percentual": 22.83,
+          "documento": "01945556749"
+        },
+        {
+          "nome": "Alfredo Macedo Gomes",
+          "percentual": 11.41,
+          "documento": "41972074415"
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 5.14,
+          "documento": "39586155000197"
+        },
+        {
+          "nome": "Ana Claudia",
+          "percentual": 2.85,
+          "documento": "49795716468"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "rodrigo ferreira vieira medeiros de aquino",
+          "percentual": 52.82,
+          "documento": "06053605450"
+        },
+        {
+          "nome": "amasv zarpa transmissao e armazenamento de dados s.a.",
+          "percentual": 31.69,
+          "documento": "20664790000117"
+        },
+        {
+          "nome": "vicente henrique marques ribeiro",
+          "percentual": 9.9,
+          "documento": "70629251444"
+        },
+        {
+          "nome": "posto sao sebastiao ltda",
+          "percentual": 2.74,
+          "documento": "11188133000150"
+        },
+        {
+          "nome": "posto apipucos ltda",
+          "percentual": 2.52,
+          "documento": "08986176000338"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pe-170002549655.jpeg",
+    "coletado_em": "2026-09-20T22:37:56.343Z"
+  },
+  {
+    "slug": "170002537334",
+    "nome": "Samuel Timoteo",
+    "partido": "UP",
+    "numero": 800,
+    "cargo": "senador",
+    "uf": "PE",
+    "foto_arquivo": "senador-pe-170002537334",
+    "foto_url_original": "https://s2-g1.glbimg.com/DfNLB1EX7rpmcYk9-l9rN9n6U2I=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/u/FG4YNzQKuU1tcdj9iheA/samuel-timoteo.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pe/170002537334.ghtml",
+    "profissao": "Trabalhador de construção civil",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Ensino médio completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Dra Gau",
+    "suplente1_partido": "UP",
+    "suplente2_nome": "Professor Bruno",
+    "suplente2_partido": "UP",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Dra Gau",
+        "nome_urna": "Dra Gau",
+        "partido": "UP"
+      },
+      {
+        "ordem": 2,
+        "nome": "Professor Bruno",
+        "nome_urna": "Professor Bruno",
+        "partido": "UP"
+      }
+    ],
+    "patrimonio_total": 100000,
+    "receitas_total": 4800,
+    "despesas_total": 0,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa residencial",
+        "valor": 100000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Estadual/distrital - Up - Pernambuco",
+        "percentual": 100,
+        "documento": "36321802000140"
+      }
+    ],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Samuel Timoteo",
+      "partido_pagina": "UP",
+      "numero_pagina": 800,
+      "profissao": "Trabalhador de construção civil",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Ensino médio completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/DfNLB1EX7rpmcYk9-l9rN9n6U2I=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/u/FG4YNzQKuU1tcdj9iheA/samuel-timoteo.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Casa R$ 100.000,00 Casa residencial"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Dra Gau",
+      "suplente1_partido": "UP",
+      "suplente2_nome": "Professor Bruno",
+      "suplente2_partido": "UP",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Dra Gau",
+          "nome_urna": "Dra Gau",
+          "partido": "UP"
+        },
+        {
+          "ordem": 2,
+          "nome": "Professor Bruno",
+          "nome_urna": "Professor Bruno",
+          "partido": "UP"
+        }
+      ],
+      "receitas_total": 4800,
+      "despesas_total": 0,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Estadual/distrital - Up - Pernambuco",
+          "percentual": 100,
+          "documento": "36321802000140"
+        }
+      ],
+      "gastos": [],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pe-170002537334.jpeg",
+    "coletado_em": "2026-09-20T22:37:59.046Z"
+  },
+  {
+    "slug": "170002552097",
+    "nome": "Túlio Gadêlha",
+    "partido": "PSD",
+    "numero": 555,
+    "cargo": "senador",
+    "uf": "PE",
+    "foto_arquivo": "senador-pe-170002552097",
+    "foto_url_original": "https://s2-g1.glbimg.com/roxvexvXj3K0dBnPYX2p3NMcgf4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/b/9k6VXzQx2wDuUiOJZl3w/tulio-gadelha.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/senador/pe/170002552097.ghtml",
+    "profissao": "Deputado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": null,
+    "vice_nome": null,
+    "vice_partido": null,
+    "suplente1_nome": "Dulci Amorim",
+    "suplente1_partido": "PSD",
+    "suplente2_nome": "Marcelo Pankararu",
+    "suplente2_partido": "AVANTE",
+    "suplentes": [
+      {
+        "ordem": 1,
+        "nome": "Dulci Amorim",
+        "nome_urna": "Dulci Amorim",
+        "partido": "PSD"
+      },
+      {
+        "ordem": 2,
+        "nome": "Marcelo Pankararu",
+        "nome_urna": "Marcelo Pankararu",
+        "partido": "AVANTE"
+      }
+    ],
+    "patrimonio_total": 1312352.1600000001,
+    "receitas_total": 3977996.6,
+    "despesas_total": 3197853,
+    "limite_gastos": 4447201.54,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc)",
+        "descricao": "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc) Fundos de investimento de longo prazo",
+        "valor": 726245.88
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento financiado no recife",
+        "valor": 358408.18
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo toyota/bandeirante",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veiculo toyota/bandeirante",
+        "valor": 91350
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicações financeiras",
+        "valor": 6348.1
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Jeep/compass limited",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Jeep/compass limited",
+        "valor": 130000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 87.98,
+        "documento": "13629827000100"
+      },
+      {
+        "nome": "Direção Nacional - Avante",
+        "percentual": 12.02,
+        "documento": "59933952000100"
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "mxm grafica e embalagens ltda",
+        "percentual": 14.6,
+        "documento": "00758606000190"
+      },
+      {
+        "nome": "vilarejo filmes ltda",
+        "percentual": 12.51,
+        "documento": "19305367000141"
+      },
+      {
+        "nome": "walber agra sociedade individual de advocacia",
+        "percentual": 10.94,
+        "documento": "09102332000151"
+      },
+      {
+        "nome": "gauss analitica ltda",
+        "percentual": 8.54,
+        "documento": "34880090000174"
+      },
+      {
+        "nome": "jaragua producoes e servicos ltda",
+        "percentual": 4.75,
+        "documento": "13328225000113"
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Túlio Gadêlha",
+      "partido_pagina": "PSD",
+      "numero_pagina": 555,
+      "profissao": "Deputado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": null,
+      "foto_url_original": "https://s2-g1.glbimg.com/roxvexvXj3K0dBnPYX2p3NMcgf4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/b/9k6VXzQx2wDuUiOJZl3w/tulio-gadelha.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc) R$ 726.245,88 Fundos de investimento de longo prazo",
+        "Apartamento R$ 358.408,18 Apartamento financiado no recife",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 91.350,00 Veiculo toyota/bandeirante",
+        "Outras aplicações e investimentos R$ 6.348,10 Aplicações financeiras",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 130.000,00 Jeep/compass limited"
+      ],
+      "vice_nome": null,
+      "vice_partido": null,
+      "suplente1_nome": "Dulci Amorim",
+      "suplente1_partido": "PSD",
+      "suplente2_nome": "Marcelo Pankararu",
+      "suplente2_partido": "AVANTE",
+      "suplentes": [
+        {
+          "ordem": 1,
+          "nome": "Dulci Amorim",
+          "nome_urna": "Dulci Amorim",
+          "partido": "PSD"
+        },
+        {
+          "ordem": 2,
+          "nome": "Marcelo Pankararu",
+          "nome_urna": "Marcelo Pankararu",
+          "partido": "AVANTE"
+        }
+      ],
+      "receitas_total": 3977996.6,
+      "despesas_total": 3197853,
+      "limite_gastos": 4447201.54,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 87.98,
+          "documento": "13629827000100"
+        },
+        {
+          "nome": "Direção Nacional - Avante",
+          "percentual": 12.02,
+          "documento": "59933952000100"
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "mxm grafica e embalagens ltda",
+          "percentual": 14.6,
+          "documento": "00758606000190"
+        },
+        {
+          "nome": "vilarejo filmes ltda",
+          "percentual": 12.51,
+          "documento": "19305367000141"
+        },
+        {
+          "nome": "walber agra sociedade individual de advocacia",
+          "percentual": 10.94,
+          "documento": "09102332000151"
+        },
+        {
+          "nome": "gauss analitica ltda",
+          "percentual": 8.54,
+          "documento": "34880090000174"
+        },
+        {
+          "nome": "jaragua producoes e servicos ltda",
+          "percentual": 4.75,
+          "documento": "13328225000113"
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/senador-pe-170002552097.jpeg",
+    "coletado_em": "2026-09-20T22:38:01.567Z"
+  }
+]

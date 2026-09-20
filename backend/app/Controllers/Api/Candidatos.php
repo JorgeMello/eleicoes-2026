@@ -6,6 +6,7 @@ use App\Controllers\BaseController;
 use App\Models\BemModel;
 use App\Models\CandidaturaAnteriorModel;
 use App\Models\CandidatoModel;
+use App\Models\CandidatoSuplenteModel;
 use App\Models\CandidatoTseModel;
 use App\Models\DoadorModel;
 use App\Models\GastoModel;
@@ -116,8 +117,29 @@ class Candidatos extends BaseController
         }
         unset($g);
 
+        $suplentes = (new CandidatoSuplenteModel())->where('candidato_id', $id)->orderBy('ordem', 'ASC')->findAll();
+        $sup1 = null;
+        $sup2 = null;
+        foreach ($suplentes as $s) {
+            if ((int) $s['ordem'] === 1) {
+                $sup1 = $s;
+            } elseif ((int) $s['ordem'] === 2) {
+                $sup2 = $s;
+            }
+        }
+
         $payload = [
             'candidato' => $candidato,
+            'suplentes' => $suplentes,
+            'chapa'     => [
+                'titular'           => [
+                    'nome'    => $candidato['nome'],
+                    'partido' => $candidato['partido'],
+                    'numero'  => $candidato['numero'],
+                ],
+                'primeiro_suplente' => $sup1,
+                'segundo_suplente'  => $sup2,
+            ],
             'tse'       => (new CandidatoTseModel())->where('candidato_id', $id)->first(),
             'bens'      => (new BemModel())->where('candidato_id', $id)->orderBy('valor', 'DESC')->findAll(),
             'historico' => (new CandidaturaAnteriorModel())->where('candidato_id', $id)->orderBy('ano', 'DESC')->findAll(),
