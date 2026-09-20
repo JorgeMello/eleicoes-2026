@@ -1,21 +1,81 @@
 import { useEffect, useState } from 'react';
 import { useParams, useSearchParams } from 'react-router-dom';
 import { Bar, BarChart, LabelList, Legend, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
-import { api, brl, UFS } from '../lib/api.js';
+import { api, brl, fotoUrl, UFS } from '../lib/api.js';
 
 const LINHAS = [
-  { label: 'Partido', get: (c) => c.partido, ajuda: 'Legenda pela qual o candidato concorre em 2026 (fonte: TSE via G1).' },
-  { label: 'Número', get: (c) => c.numero, ajuda: 'Número digitado na urna eletrônica (2 dígitos para presidente e governador).' },
-  { label: 'Profissão', get: (c) => c.profissao ?? '—', ajuda: 'Ocupação declarada pelo candidato no registro do TSE.' },
-  { label: 'Instrução', get: (c) => c.grau_instrucao ?? '—', ajuda: 'Grau de instrução declarado no registro do TSE.' },
-  { label: 'Cor/etnia', get: (c) => c.cor_etnia ?? '—', ajuda: 'Autodeclaração de cor/etnia do registro do TSE.' },
-  { label: 'Vice', get: (c) => `${c.vice_nome ?? '—'}${c.vice_partido ? ` (${c.vice_partido})` : ''}`, ajuda: 'Companheiro de chapa (vice-presidente/vice-governador) declarado ao TSE.' },
-  { label: 'Patrimônio', get: (c) => brl(c.patrimonio_total), ajuda: 'Soma dos valores dos bens declarados ao TSE. Pode estar parcial se algum bem veio sem valor.' },
-  { label: 'Receitas', get: (c) => brl(c.receitas_total), ajuda: 'Total arrecadado pela campanha em 2026 (prestação de contas ao TSE).' },
-  { label: 'Despesas', get: (c) => brl(c.despesas_total), ajuda: 'Total gasto pela campanha em 2026 (prestação de contas ao TSE).' },
-  { label: 'Nº bens', get: (c, extra) => extra?.bens?.length ?? '—', ajuda: 'Quantidade de itens na lista de bens declarados ao TSE.' },
-  { label: 'Eleições disputadas', get: (c, extra) => extra?.historico?.length ?? '—', ajuda: 'Candidaturas anteriores encontradas no histórico do candidato.' },
+  { label: 'Partido', get: (c) => c.partido, ajuda: 'Legenda pela qual o candidato concorre em 2026 (fonte: TSE via G1).',
+    sobre: 'O partido é a legenda pela qual o candidato disputa a eleição. Ele define o número de urna, o acesso a recursos de campanha (como o Fundo Eleitoral) e, em cargos proporcionais, influencia o cálculo das vagas. Aqui comparamos apenas a sigla de cada candidato.' },
+  { label: 'Número', get: (c) => c.numero, ajuda: 'Número digitado na urna eletrônica (2 dígitos para presidente e governador).',
+    sobre: 'É o número que o eleitor digita na urna eletrônica. Presidente e governador usam 2 dígitos; senador usa 3; deputado federal 4; estadual 5. Os dois primeiros dígitos de deputados indicam o partido.' },
+  { label: 'Profissão', get: (c) => c.profissao ?? '—', ajuda: 'Ocupação declarada pelo candidato no registro do TSE.',
+    sobre: 'A ocupação que o candidato declarou ao registrar a candidatura no TSE. Ajuda a conhecer a origem profissional de cada um — de torneiro mecânico a empresário — mas não mede preparo para o cargo.' },
+  { label: 'Instrução', get: (c) => c.grau_instrucao ?? '—', ajuda: 'Grau de instrução declarado no registro do TSE.',
+    sobre: 'O nível de escolaridade declarado pelo candidato, do ensino fundamental à pós-graduação. Não há exigência de escolaridade mínima para concorrer: o que vale é a escolha do eleitor.' },
+  { label: 'Cor/etnia', get: (c) => c.cor_etnia ?? '—', ajuda: 'Autodeclaração de cor/etnia do registro do TSE.',
+    sobre: 'Como o próprio candidato se declara (branca, preta, parda, amarela ou indígena). É um dado de representatividade: mostra a diversidade — ou a falta dela — entre quem disputa o poder.' },
+  { label: 'Vice', get: (c) => `${c.vice_nome ?? '—'}${c.vice_partido ? ` (${c.vice_partido})` : ''}`, ajuda: 'Companheiro de chapa (vice-presidente/vice-governador) declarado ao TSE.',
+    sobre: 'Nas eleições majoritárias (presidente e governador), cada candidato concorre em chapa com um vice, que assume em caso de ausência ou impedimento. O partido do vice costuma sinalizar as alianças da candidatura.' },
+  { label: 'Patrimônio', get: (c) => brl(c.patrimonio_total), ajuda: 'Soma dos valores dos bens declarados ao TSE. Pode estar parcial se algum bem veio sem valor.',
+    sobre: 'A soma de tudo que o candidato declarou possuir: imóveis, veículos, aplicações, empresas e outros bens. É fiscalizado pela Justiça Eleitoral e permite comparar a situação econômica dos candidatos.',
+    num: (c) => c.patrimonio_total !== null && c.patrimonio_total !== undefined ? Number(c.patrimonio_total) : null, moeda: true },
+  { label: 'Receitas', get: (c) => brl(c.receitas_total), ajuda: 'Total arrecadado pela campanha em 2026 (prestação de contas ao TSE).',
+    sobre: 'Todo o dinheiro que entrou no caixa da campanha: doações de pessoas, recursos do partido, Fundo Eleitoral e financiamento coletivo. Campanhas com mais receita conseguem mais propaganda, viagens e estrutura.',
+    num: (c) => c.receitas_total !== null && c.receitas_total !== undefined ? Number(c.receitas_total) : null, moeda: true },
+  { label: 'Despesas', get: (c) => brl(c.despesas_total), ajuda: 'Total gasto pela campanha em 2026 (prestação de contas ao TSE).',
+    sobre: 'Tudo que a campanha gastou: publicidade, pessoal, deslocamentos, material e serviços. A lei impõe um teto de gastos por cargo; estourar o limite pode cassar o mandato.',
+    num: (c) => c.despesas_total !== null && c.despesas_total !== undefined ? Number(c.despesas_total) : null, moeda: true },
+  { label: 'Nº bens', get: (c, extra) => extra?.bens?.length ?? '—', ajuda: 'Quantidade de itens na lista de bens declarados ao TSE.',
+    sobre: 'Quantos itens compõem a declaração de bens. Um número alto não significa riqueza (pode ser muitos bens baratos); vale olhar junto com o valor total do patrimônio.',
+    num: (c, extra) => extra?.bens?.length ?? null },
+  { label: 'Eleições disputadas', get: (c, extra) => extra?.historico?.length ?? '—', ajuda: 'Candidaturas anteriores encontradas no histórico do candidato.',
+    sobre: 'Quantas eleições o candidato já disputou segundo os registros. Indica experiência eleitoral: estreantes contra nomes que já venceram ou perderam outras disputas.',
+    num: (c, extra) => extra?.historico?.length ?? null },
 ];
+
+/** Monta a análise pronta dos dados comparados para o modal.
+ *  Retorna [{ foto, texto }] — foto é a URL do candidato ou null (linhas-resumo). */
+function analisa(item, validos) {
+  const fmt = (v) => (item.moeda ? brl(v) : Number(v).toLocaleString('pt-BR'));
+  const fotoDe = (d) => fotoUrl(d.candidato);
+  const nomeDe = (d) => d.candidato.nome;
+  if (item.num) {
+    const com = validos
+      .map((d) => ({ d, nome: nomeDe(d), valor: item.num(d.candidato, d) }))
+      .filter((v) => v.valor !== null && Number.isFinite(v.valor))
+      .sort((a, b) => b.valor - a.valor);
+    if (com.length === 0) return [{ nome: '', foto: null, texto: 'Nenhum dos comparados tem valor coletado neste critério.' }];
+    const linhas = com.map((v, i) => ({ nome: v.nome, foto: fotoDe(v.d), texto: `${i + 1}º — ${v.nome}: ${fmt(v.valor)}` }));
+    if (com.length >= 2) {
+      const [a, b] = com;
+      const dif = a.valor - b.valor;
+      const pct = b.valor > 0 ? ` (${((dif / b.valor) * 100).toLocaleString('pt-BR', { maximumFractionDigits: 0 })}% a mais)` : '';
+      linhas.push({ nome: '', foto: null, texto: `Diferença do 1º para o 2º: ${fmt(dif)}${pct}.` });
+      linhas.push({ nome: '', foto: null, texto: `Somados: ${fmt(com.reduce((s, v) => s + v.valor, 0))}.` });
+    }
+    return linhas;
+  }
+  const vals = validos.map((d) => ({ d, nome: nomeDe(d), texto: String(item.get(d.candidato, d)) }));
+  const unicos = [...new Set(vals.map((v) => v.texto))];
+  if (unicos.length === 1) {
+    return [
+      { nome: '', foto: null, texto: `Todos os comparados têm o mesmo valor: ${unicos[0]}.` },
+      ...vals.map((v) => ({ nome: v.nome, foto: fotoDe(v.d), texto: `${v.nome}: ${v.texto}` })),
+    ];
+  }
+  return vals.map((v) => ({ nome: v.nome, foto: fotoDe(v.d), texto: `${v.nome}: ${v.texto}` }));
+}
+
+function Avatar({ nome, foto, tamanho = 'h-8 w-8' }) {
+  if (foto) {
+    return <img src={foto} alt={`Foto de ${nome}`} className={`${tamanho} rounded-full object-cover`} loading="lazy" />;
+  }
+  return (
+    <span aria-hidden="true" className={`flex ${tamanho} items-center justify-center rounded-full bg-slate-200 text-sm font-bold text-slate-500 dark:bg-slate-700 dark:text-slate-300`}>
+      {(nome || '?')[0]}
+    </span>
+  );
+}
 
 const CORES = ['#10b981', '#3b82f6', '#f59e0b'];
 
@@ -85,6 +145,22 @@ export default function Comparador() {
     else n.delete(slot);
     setSp(n);
   };
+
+  const itemSel = LINHAS.find((l) => l.label === ajudaSel?.label) ?? null;
+
+  // Fecha o modal com ESC e trava o scroll do body enquanto aberto
+  useEffect(() => {
+    if (!itemSel) return;
+    document.body.style.overflow = 'hidden';
+    const onKey = (e) => {
+      if (e.key === 'Escape') setAjudaSel(null);
+    };
+    window.addEventListener('keydown', onKey);
+    return () => {
+      document.body.style.overflow = '';
+      window.removeEventListener('keydown', onKey);
+    };
+  }, [itemSel]);
 
   // Trocar de UF limpa a seleção (comparação travada na UF)
   const setUf = (v) => {
@@ -161,19 +237,42 @@ export default function Comparador() {
 
       {dados.some(Boolean) ? (
         <>
-          {ajudaSel && (
-            <div role="status" className="flex items-start gap-2 rounded-xl border border-blue-200 bg-blue-50 px-3 py-2 text-sm text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300">
-              <p className="flex-1">
-                <strong>{ajudaSel.label}:</strong> {ajudaSel.ajuda}
-              </p>
-              <button
-                type="button"
-                onClick={() => setAjudaSel(null)}
-                aria-label="Fechar ajuda"
-                className="rounded px-1 hover:bg-black/10 dark:hover:bg-white/10"
+          {itemSel && (
+            <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4" onClick={() => setAjudaSel(null)}>
+              <div
+                role="dialog"
+                aria-modal="true"
+                aria-label={`${itemSel.label}: o que é e análise`}
+                className="max-h-[85vh] w-full max-w-lg overflow-y-auto rounded-2xl bg-white p-5 shadow-xl dark:bg-slate-900"
+                onClick={(e) => e.stopPropagation()}
               >
-                ✕
-              </button>
+                <div className="mb-3 flex items-start justify-between gap-3">
+                  <h2 className="text-lg font-bold">{itemSel.label}</h2>
+                  <button
+                    type="button"
+                    onClick={() => setAjudaSel(null)}
+                    aria-label="Fechar"
+                    className="rounded-lg border px-2 py-1 text-sm hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-800"
+                  >
+                    ✕
+                  </button>
+                </div>
+                <h3 className="mb-1 text-sm font-bold text-emerald-700 dark:text-emerald-400">O que é</h3>
+                <p className="mb-4 text-sm leading-relaxed">{itemSel.sobre}</p>
+                <h3 className="mb-1 text-sm font-bold text-emerald-700 dark:text-emerald-400">Análise</h3>
+                <ul className="space-y-2 text-sm leading-relaxed">
+                  {analisa(itemSel, validos).map((f, i) => (
+                    <li key={i} className="flex items-center gap-2.5">
+                      {f.foto ? (
+                        <Avatar nome={f.nome} foto={f.foto} />
+                      ) : (
+                        <span aria-hidden="true" className="text-emerald-600 dark:text-emerald-400">●</span>
+                      )}
+                      <span>{f.texto}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
             </div>
           )}
           <div className="overflow-x-auto rounded-xl border bg-white dark:border-slate-700 dark:bg-slate-900">
@@ -182,7 +281,22 @@ export default function Comparador() {
               <tr className="bg-slate-50 dark:bg-slate-800">
                 <th className="px-3 py-2 text-left">Critério</th>
                 {dados.map((d, i) => (
-                  <th key={i} className="px-3 py-2 text-left">{d?.candidato?.nome ?? '—'}</th>
+                  <th key={i} className="px-3 py-2 text-left">
+                    {d ? (
+                      <span className="flex items-center gap-2">
+                        {fotoUrl(d.candidato) ? (
+                          <img src={fotoUrl(d.candidato)} alt={`Foto de ${d.candidato.nome}`} className="h-10 w-10 rounded-full object-cover" loading="lazy" />
+                        ) : (
+                          <span aria-hidden="true" className="flex h-10 w-10 items-center justify-center rounded-full bg-slate-200 text-lg font-bold text-slate-500 dark:bg-slate-700 dark:text-slate-300">
+                            {(d.candidato.nome || '?')[0]}
+                          </span>
+                        )}
+                        {d.candidato.nome}
+                      </span>
+                    ) : (
+                      '—'
+                    )}
+                  </th>
                 ))}
               </tr>
             </thead>

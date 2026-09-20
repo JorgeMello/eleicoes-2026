@@ -48,6 +48,14 @@ class Candidatos extends BaseController
         if ($cor !== '') {
             $builder = $builder->where('cor_etnia', $cor);
         }
+        $patMin = trim((string) ($this->request->getGet('patrimonio_min') ?? ''));
+        $patMax = trim((string) ($this->request->getGet('patrimonio_max') ?? ''));
+        if ($patMin !== '' && is_numeric($patMin)) {
+            $builder = $builder->where('patrimonio_total >=', (float) $patMin);
+        }
+        if ($patMax !== '' && is_numeric($patMax)) {
+            $builder = $builder->where('patrimonio_total <=', (float) $patMax);
+        }
 
         $orderMap = [
             'nome'            => ['nome', 'ASC'],
