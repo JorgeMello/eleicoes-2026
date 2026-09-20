@@ -330,6 +330,8 @@ O módulo de **controle dos dados** da plataforma foi projetado para assegurar m
 1. **Dados Estritamente Públicos:** Todos os registros provêm de certidões e prestações de contas públicas disponibilizadas pelo TSE (Lei nº 9.504/1997 e Lei nº 12.527/2011).
 2. **Ambiente Seguro e Isolamento:** Chaves de API, credenciais de banco de dados e arquivos locais de documentação estão estritamente fora do controle de versão público através do `.gitignore`.
 3. **Polidez com Servidores Oficiais:** Os coletores empregam intervalos seguros e *rate limiting* para não sobrecarregar as APIs públicas da Justiça Eleitoral.
+4. **Conformidade LGPD (Lei nº 13.709/2018):** Mascaramento automático de CPF de doadores e pessoas físicas (`***.XXX.XXX-**`), preservando a transparência integral de pessoas jurídicas (CNPJ).
+5. **Blindagem Apache & Headers OWASP:** Proteção contra acesso direto a arquivos de manifesto/bancos, cabeçalhos anti-clickjacking (`X-Frame-Options`), anti-MIME sniffing (`nosniff`) e autenticação estrita em endpoints de ingestão.
 
 ---
 

@@ -82,11 +82,11 @@ class Pesquisas extends BaseController
 
     public function importar(): ResponseInterface
     {
-        $esperada = env('ELEICOES_API_KEY', '');
-        $recebida = $this->request->getHeaderLine('X-API-Key');
+        $esperada = trim((string) env('ELEICOES_API_KEY', ''));
+        $recebida = trim((string) $this->request->getHeaderLine('X-API-Key'));
 
-        if ($esperada !== '' && ! hash_equals($esperada, $recebida)) {
-            return $this->response->setStatusCode(401)->setJSON(['erro' => 'API key inválida']);
+        if ($esperada === '' || ! hash_equals($esperada, $recebida)) {
+            return $this->response->setStatusCode(401)->setJSON(['erro' => 'Acesso não autorizado: API key ausente ou inválida']);
         }
 
         $payload = $this->request->getJSON(true) ?? [];

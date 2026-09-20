@@ -1,14 +1,54 @@
 # ==============================================================================
-# CONFIGURAÇÃO APACHE / HOSTINGER — ELEIÇÕES 2026 FRONTEND
+# CONFIGURAÇÃO DE ALTA SEGURANÇA E PERFORMANCE APACHE — ELEIÇÕES 2026
 # ==============================================================================
 
-# 1. Roteamento Single Page Application (React Router)
+# Desativa assinatura do servidor e listagem de diretórios
+ServerSignature Off
+Options -Indexes
+
+# ------------------------------------------------------------------------------
+# 1. BLINDAGEM DE ARQUIVOS CRÍTICOS E SENSÍVEIS (Bloqueio 403)
+# ------------------------------------------------------------------------------
+# Bloqueia arquivos de configuração, manifestos, bancos de dados, logs e backups
+<FilesMatch "(^\..*|composer\.(json|lock)|package(-lock)?\.json|phpunit\.xml.*|\.(sql|log|bak|backup|old|orig|ini|sh|env.*))$">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+
+# ------------------------------------------------------------------------------
+# 2. CABEÇALHOS DE SEGURANÇA OWASP (Anti-Clickjacking, Anti-Sniffing, XSS)
+# ------------------------------------------------------------------------------
+<IfModule mod_headers.c>
+  # Previne que a plataforma seja exibida dentro de iframes maliciosos (Anti-Clickjacking)
+  Header always set X-Frame-Options "SAMEORIGIN"
+
+  # Impede o navegador de interpretar arquivos como tipos MIME diferentes do declarado
+  Header always set X-Content-Type-Options "nosniff"
+
+  # Controla envio de informações de cabeçalho Referer em navegação externa
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+
+  # Desativa recursos invasivos de hardware desnecessários na aplicação
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=()"
+
+  # Filtro XSS legado para navegadores mais antigos
+  Header always set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+# ------------------------------------------------------------------------------
+# 3. ROTEAMENTO SEGURO E ISOLAMENTO DO BACKEND
+# ------------------------------------------------------------------------------
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
 
-  # Não interceptar chamadas para a API ou arquivos do backend
-  RewriteCond %{REQUEST_URI} ^/backend [NC]
+  # REGRA DE PROTEÇÃO: Bloqueia acesso direto a pastas internas do backend
+  # (app, system, writable, etc) — permite APENAS a subpasta /backend/public/
+  RewriteCond %{REQUEST_URI} ^/backend/(?!public/) [NC]
+  RewriteRule ^ - [F,L]
+
+  # Não interceptar requisições legítimas para a API ou uploads públicos
+  RewriteCond %{REQUEST_URI} ^/backend/public [NC]
   RewriteRule ^ - [L]
 
   # Se o arquivo físico ou diretório já existe (assets, imagens, css, js), serve diretamente
@@ -20,14 +60,18 @@
   RewriteRule ^ index.html [L]
 </IfModule>
 
-# 2. Compressão GZIP de Alta Performance (Reduz pacotes JS/CSS/JSON em até 75%)
+# ------------------------------------------------------------------------------
+# 4. COMPRESSÃO GZIP DE ALTA PERFORMANCE (mod_deflate)
+# ------------------------------------------------------------------------------
 <IfModule mod_deflate.c>
   AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript
   AddOutputFilterByType DEFLATE application/javascript application/x-javascript application/json application/xml
   AddOutputFilterByType DEFLATE image/svg+xml application/vnd.ms-fontobject application/x-font-ttf font/opentype
 </IfModule>
 
-# 3. Cache HTTP no Navegador (Evita re-download de arquivos imutáveis)
+# ------------------------------------------------------------------------------
+# 5. CACHE INTELIGENTE DE ASSETS (mod_expires)
+# ------------------------------------------------------------------------------
 <IfModule mod_expires.c>
   ExpiresActive On
 
@@ -42,6 +86,6 @@
   ExpiresByType image/webp "access plus 1 month"
   ExpiresByType image/x-icon "access plus 1 month"
 
-  # HTML da aplicação (não cachear permanentemente para carregar novos deploys na hora)
+  # HTML da aplicação (0 segundos para recarregar deploys instantaneamente)
   ExpiresByType text/html "access plus 0 seconds"
 </IfModule>

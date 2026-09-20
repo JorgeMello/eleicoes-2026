@@ -92,7 +92,13 @@ class Rankings extends BaseController
             if ($r['valor'] !== null) {
                 $r['valor'] = (float) $r['valor'];
             }
+            // Conformidade LGPD: Mascara CPF (11 dígitos) de pessoas físicas
+            $docDigits = preg_replace('/\D/', '', (string) ($r['documento'] ?? ''));
+            if (strlen($docDigits) === 11) {
+                $r['documento'] = '***.' . substr($docDigits, 3, 3) . '.' . substr($docDigits, 6, 3) . '-**';
+            }
         }
+        unset($r);
 
         return $this->response->setJSON($rows);
     }

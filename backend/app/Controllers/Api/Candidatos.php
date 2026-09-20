@@ -88,13 +88,26 @@ class Candidatos extends BaseController
 
         $id = (int) $candidato['id'];
 
+        $doadores  = (new DoadorModel())->where('candidato_id', $id)->orderBy('percentual', 'DESC')->findAll();
+        $gastos    = (new GastoModel())->where('candidato_id', $id)->orderBy('percentual', 'DESC')->findAll();
+
+        foreach ($doadores as &$d) {
+            $d['documento'] = $this->mascararDocumento($d['documento'] ?? '');
+        }
+        unset($d);
+
+        foreach ($gastos as &$g) {
+            $g['documento'] = $this->mascararDocumento($g['documento'] ?? '');
+        }
+        unset($g);
+
         $payload = [
             'candidato' => $candidato,
             'tse'       => (new CandidatoTseModel())->where('candidato_id', $id)->first(),
             'bens'      => (new BemModel())->where('candidato_id', $id)->orderBy('valor', 'DESC')->findAll(),
             'historico' => (new CandidaturaAnteriorModel())->where('candidato_id', $id)->orderBy('ano', 'DESC')->findAll(),
-            'doadores'  => (new DoadorModel())->where('candidato_id', $id)->orderBy('percentual', 'DESC')->findAll(),
-            'gastos'    => (new GastoModel())->where('candidato_id', $id)->orderBy('percentual', 'DESC')->findAll(),
+            'doadores'  => $doadores,
+            'gastos'    => $gastos,
         ];
 
         $json = json_encode($payload);
@@ -122,5 +135,22 @@ class Candidatos extends BaseController
             ->setHeader('ETag', '"' . md5($json) . '"')
             ->setContentType('application/json')
             ->setBody($json);
+    }
+
+    /**
+     * Mascara documento conforme LGPD:
+     * CPF (11 dígitos): ***.123.456-** (protege privacidade de cidadãos)
+     * CNPJ (14 dígitos): mantido completo para transparência pública de pessoas jurídicas
+     */
+    private function mascararDocumento(?string $doc): string
+    {
+        if (! $doc) {
+            return '';
+        }
+        $digits = preg_replace('/\D/', '', $doc);
+        if (strlen($digits) === 11) {
+            return '***.' . substr($digits, 3, 3) . '.' . substr($digits, 6, 3) . '-**';
+        }
+        return $doc;
     }
 }
