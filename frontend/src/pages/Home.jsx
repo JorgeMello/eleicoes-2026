@@ -51,10 +51,16 @@ export default function Home() {
   const patMin = sp.get('patrimonio_min') ?? '';
   const patMax = sp.get('patrimonio_max') ?? '';
   const uf = cargo === 'presidente' ? '' : sp.get('uf') ?? '';
+  const regiao = cargo === 'presidente' ? '' : sp.get('regiao') ?? '';
   const precisaUf = cargo !== 'presidente';
 
   useEffect(() => {
-    const cacheKey = `home_${cargo}_${JSON.stringify({ busca, partido, ordenar, instrucao, cor, profissao, uf, patMin, patMax })}`;
+    const paramsRegiaoUf = {
+      ...(uf ? { uf } : {}),
+      ...(!uf && regiao && regiao !== 'Todas' ? { regiao } : {}),
+    };
+
+    const cacheKey = `home_${cargo}_${JSON.stringify({ busca, partido, ordenar, instrucao, cor, profissao, uf, regiao, patMin, patMax })}`;
     const cached = clientCache.get(cacheKey);
 
     if (cached) {
@@ -72,11 +78,11 @@ export default function Home() {
     Promise.all([
       api.candidatos(cargo, {
         busca, partido, ordenar, instrucao, cor, profissao,
-        ...(uf ? { uf } : {}),
+        ...paramsRegiaoUf,
         ...(patMin ? { patrimonio_min: patMin } : {}),
         ...(patMax ? { patrimonio_max: patMax } : {}),
       }),
-      api.estatisticas(cargo, uf ? { uf } : {}),
+      api.estatisticas(cargo, paramsRegiaoUf),
     ])
       .then(([l, s]) => {
         setLista(l);
@@ -87,7 +93,7 @@ export default function Home() {
         if (!cached) setErro(e.message);
       })
       .finally(() => setLoading(false));
-  }, [cargo, busca, partido, ordenar, instrucao, cor, profissao, patMin, patMax, uf]);
+  }, [cargo, busca, partido, ordenar, instrucao, cor, profissao, patMin, patMax, uf, regiao]);
 
   const upd = (k, v) => {
     const n = new URLSearchParams(sp);
@@ -101,7 +107,7 @@ export default function Home() {
   const instrucoes = stats ? Object.keys(stats.por_instrucao).filter((v) => v !== '—').sort() : [];
   const cores = stats ? Object.keys(stats.por_cor).filter((v) => v !== '—').sort() : [];
   const profissoes = stats ? Object.keys(stats.por_profissao).filter((v) => v !== '—').sort() : [];
-  const filtrosAtivos = [busca, partido, instrucao, cor, profissao, patMin, patMax, uf].filter(Boolean).length;
+  const filtrosAtivos = [busca, partido, instrucao, cor, profissao, patMin, patMax, uf, regiao && regiao !== 'Todas' ? regiao : ''].filter(Boolean).length;
   const [filtrosAbertos, setFiltrosAbertos] = useState(filtrosAtivos > 0); // recolhido por padrão
 
   const totalEm = (obj, sujeito = 'candidaturas', unidade = 'grupos') => {
@@ -163,6 +169,21 @@ export default function Home() {
         <UfSelector
           ufSelecionada={uf}
           onSelectUf={(novaUf) => upd('uf', novaUf)}
+          regiaoSelecionada={regiao}
+          onSelectRegiao={(novaRegiao) => {
+            const n = new URLSearchParams(sp);
+            if (novaRegiao && novaRegiao !== 'Todas') {
+              n.set('regiao', novaRegiao);
+            } else {
+              n.delete('regiao');
+            }
+            if (uf && novaRegiao && novaRegiao !== 'Todas' && UFS_DATA[uf]?.regiao !== novaRegiao) {
+              n.delete('uf');
+            } else if (novaRegiao === 'Todas') {
+              n.delete('uf');
+            }
+            setSp(n);
+          }}
           cargo={cargo}
         />
       )}
@@ -171,21 +192,34 @@ export default function Home() {
         <div>
           <h1 className="text-2xl font-bold flex items-center flex-wrap gap-2">
             <span>Candidatos · <span className="uppercase">{cargo}</span></span>
-            {uf && (
+            {uf ? (
               <span className="text-emerald-600 dark:text-emerald-400 font-semibold text-lg">
                 · {ufNome} ({uf})
+              </span>
+            ) : regiao && regiao !== 'Todas' ? (
+              <span className="text-emerald-600 dark:text-emerald-400 font-semibold text-lg">
+                · Região {regiao}
+              </span>
+            ) : (
+              <span className="text-slate-500 dark:text-slate-400 font-normal text-lg">
+                · Brasil (27 UFs)
               </span>
             )}
           </h1>
           <p className="text-sm text-slate-500 dark:text-slate-400">
-            {stats ? `${lista.length} de ${stats.total} candidaturas${uf ? ` no ${uf}` : ''}` : 'carregando…'} · clique num card para ver o perfil completo
+            {stats
+              ? `${lista.length} de ${stats.total} candidaturas${
+                  uf ? ` no ${uf}` : regiao && regiao !== 'Todas' ? ` na Região ${regiao}` : ' no Brasil'
+                }`
+              : 'carregando…'}{' '}
+            · clique num card para ver o perfil completo
           </p>
         </div>
         <ExportButton
-          filename={`candidatos_${cargo}_${uf || 'brasil'}_eleicoes2026`}
+          filename={`candidatos_${cargo}_${uf || (regiao && regiao !== 'Todas' ? `regiao_${regiao.toLowerCase()}` : 'brasil')}_eleicoes2026`}
           columns={COLUNAS_EXPORT_CANDIDATOS}
           data={lista}
-          label={`Exportar Candidatos${uf ? ` (${uf})` : ''}`}
+          label={`Exportar Candidatos${uf ? ` (${uf})` : regiao && regiao !== 'Todas' ? ` (${regiao})` : ''}`}
         />
       </div>
 

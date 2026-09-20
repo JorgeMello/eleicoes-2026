@@ -4,45 +4,85 @@ import { UFS, UFS_DATA, REGIOES } from '../lib/api.js';
 // Estados com maior colégio eleitoral para acesso rápido em 1 clique
 const UFS_DESTAQUE = ['SP', 'MG', 'RJ', 'BA', 'RS', 'PR', 'PE', 'CE', 'SC', 'GO'];
 
-export default function UfSelector({ ufSelecionada, onSelectUf, cargo = 'governador' }) {
-  const [regiaoFiltro, setRegiaoFiltro] = useState('Todas');
+export default function UfSelector({
+  ufSelecionada,
+  onSelectUf,
+  regiaoSelecionada = 'Todas',
+  onSelectRegiao,
+  cargo = 'governador',
+}) {
+  const regiaoAtiva = regiaoSelecionada || 'Todas';
 
   const ufsFiltradas = UFS.filter((uf) => {
-    if (regiaoFiltro === 'Todas') return true;
-    return UFS_DATA[uf]?.regiao === regiaoFiltro;
+    if (regiaoAtiva === 'Todas') return true;
+    return UFS_DATA[uf]?.regiao === regiaoAtiva;
   });
 
   const ufInfo = ufSelecionada ? UFS_DATA[ufSelecionada] : null;
 
+  const handleSelectRegiao = (r) => {
+    if (onSelectRegiao) {
+      onSelectRegiao(r);
+    }
+    // Se a UF atualmente selecionada não pertencer à nova região, desmarca a UF
+    if (ufSelecionada && r !== 'Todas' && UFS_DATA[ufSelecionada]?.regiao !== r) {
+      onSelectUf('');
+    }
+  };
+
+  const handleSelectUfDropdown = (u) => {
+    onSelectUf(u);
+    if (u && UFS_DATA[u]?.regiao && onSelectRegiao) {
+      onSelectRegiao(UFS_DATA[u].regiao);
+    } else if (!u && onSelectRegiao) {
+      onSelectRegiao('Todas');
+    }
+  };
+
+  const limparFiltros = () => {
+    onSelectUf('');
+    if (onSelectRegiao) onSelectRegiao('Todas');
+  };
+
   return (
     <div className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm dark:border-slate-800 dark:bg-slate-900 transition-colors">
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-        {/* Indicador do Estado Selecionado */}
+        {/* Indicador do Estado ou Região Selecionada */}
         <div className="flex items-center gap-2.5">
           <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-emerald-100 text-lg font-bold text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 shadow-2xs">
             📍
           </span>
           <div>
-            <div className="flex items-center gap-2">
+            <div className="flex items-center gap-2 flex-wrap">
               <h2 className="text-sm font-bold text-slate-900 dark:text-white">
                 {ufSelecionada ? (
                   <>
                     {ufInfo?.nome} <span className="text-emerald-600 dark:text-emerald-400 font-extrabold">({ufSelecionada})</span>
                   </>
+                ) : regiaoAtiva !== 'Todas' ? (
+                  <>
+                    Região {regiaoAtiva} <span className="text-emerald-600 dark:text-emerald-400 font-extrabold">({ufsFiltradas.length} UFs)</span>
+                  </>
                 ) : (
                   'Todas as 27 Unidades da Federação'
                 )}
               </h2>
-              {ufInfo && (
+              {ufInfo ? (
                 <span className="rounded-full bg-slate-100 px-2 py-0.5 text-[10px] font-semibold text-slate-600 dark:bg-slate-800 dark:text-slate-300">
                   Região {ufInfo.regiao}
                 </span>
-              )}
+              ) : regiaoAtiva !== 'Todas' ? (
+                <span className="rounded-full bg-emerald-50 px-2 py-0.5 text-[10px] font-semibold text-emerald-700 ring-1 ring-inset ring-emerald-600/20 dark:bg-emerald-950/60 dark:text-emerald-300">
+                  {ufsFiltradas.join(', ')}
+                </span>
+              ) : null}
             </div>
             <p className="text-xs text-slate-500 dark:text-slate-400">
               {ufSelecionada
                 ? `Candidaturas ao governo estadual registradas no ${ufSelecionada}`
-                : 'Selecione um estado para auditar as contas e bens locais'}
+                : regiaoAtiva !== 'Todas'
+                ? `Estatísticas e candidaturas consolidadas nos ${ufsFiltradas.length} estados da Região ${regiaoAtiva}`
+                : 'Selecione uma região ou estado para auditar as contas e bens locais'}
             </p>
           </div>
         </div>
@@ -55,7 +95,7 @@ export default function UfSelector({ ufSelecionada, onSelectUf, cargo = 'governa
           <select
             id="select-uf-geral"
             value={ufSelecionada || ''}
-            onChange={(e) => onSelectUf(e.target.value)}
+            onChange={(e) => handleSelectUfDropdown(e.target.value)}
             className="rounded-lg border border-slate-300 bg-slate-50 px-3 py-1.5 text-xs font-semibold text-slate-800 shadow-2xs focus:border-emerald-500 focus:bg-white focus:outline-hidden dark:border-slate-700 dark:bg-slate-800 dark:text-slate-100 cursor-pointer"
           >
             <option value="">Brasil (Todas UFs)</option>
@@ -66,11 +106,11 @@ export default function UfSelector({ ufSelecionada, onSelectUf, cargo = 'governa
             ))}
           </select>
 
-          {ufSelecionada && (
+          {(ufSelecionada || regiaoAtiva !== 'Todas') && (
             <button
               type="button"
-              onClick={() => onSelectUf('')}
-              title="Limpar seleção de estado"
+              onClick={limparFiltros}
+              title="Limpar seleção de estado e região"
               className="rounded-lg border border-slate-200 bg-white px-2.5 py-1.5 text-xs font-medium text-slate-500 hover:bg-slate-100 hover:text-slate-800 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-400 dark:hover:bg-slate-700 dark:hover:text-slate-200 transition cursor-pointer"
             >
               Ver Todas
@@ -85,12 +125,12 @@ export default function UfSelector({ ufSelecionada, onSelectUf, cargo = 'governa
           Região:
         </span>
         {REGIOES.map((r) => {
-          const ativa = regiaoFiltro === r;
+          const ativa = regiaoAtiva === r;
           return (
             <button
               key={r}
               type="button"
-              onClick={() => setRegiaoFiltro(r)}
+              onClick={() => handleSelectRegiao(r)}
               className={`rounded-lg px-2 py-0.5 text-xs font-medium transition cursor-pointer ${
                 ativa
                   ? 'bg-slate-800 text-white shadow-2xs dark:bg-slate-200 dark:text-slate-900 font-semibold'

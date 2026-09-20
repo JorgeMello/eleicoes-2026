@@ -13,6 +13,14 @@ use CodeIgniter\HTTP\ResponseInterface;
 
 class Candidatos extends BaseController
 {
+    public const REGIOES_MAP = [
+        'Sudeste'      => ['SP', 'MG', 'RJ', 'ES'],
+        'Sul'          => ['RS', 'PR', 'SC'],
+        'Nordeste'     => ['BA', 'PE', 'CE', 'MA', 'PB', 'RN', 'AL', 'PI', 'SE'],
+        'Centro-Oeste' => ['GO', 'MT', 'MS', 'DF'],
+        'Norte'        => ['PA', 'AM', 'RO', 'TO', 'AC', 'AP', 'RR'],
+    ];
+
     public function index(): ResponseInterface
     {
         $model = new CandidatoModel();
@@ -23,6 +31,7 @@ class Candidatos extends BaseController
         $instrucao  = trim((string) ($this->request->getGet('instrucao') ?? ''));
         $cor        = trim((string) ($this->request->getGet('cor') ?? ''));
         $uf         = trim((string) ($this->request->getGet('uf') ?? ''));
+        $regiao     = trim((string) ($this->request->getGet('regiao') ?? ''));
         $ordenar    = $this->request->getGet('ordenar') ?? 'nome';
 
         $builder = $model->select('candidatos.*, candidatos_tse.status_geral as tse_status, candidatos_tse.situacao_registro as tse_situacao, candidatos_tse.cnpj_campanha as tse_cnpj, candidatos_tse.percentual_gasto_teto as tse_percentual_teto, candidatos_tse.validado_em as tse_validado_em')
@@ -30,7 +39,13 @@ class Candidatos extends BaseController
             ->where('candidatos.cargo', $cargo);
 
         if ($uf !== '') {
-            $builder = $builder->where('candidatos.uf', $uf);
+            if (str_contains($uf, ',')) {
+                $builder = $builder->whereIn('candidatos.uf', array_filter(array_map('trim', explode(',', $uf))));
+            } else {
+                $builder = $builder->where('candidatos.uf', $uf);
+            }
+        } elseif ($regiao !== '' && isset(self::REGIOES_MAP[$regiao])) {
+            $builder = $builder->whereIn('candidatos.uf', self::REGIOES_MAP[$regiao]);
         }
 
         if ($busca !== '') {

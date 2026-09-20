@@ -8,15 +8,30 @@ use CodeIgniter\HTTP\ResponseInterface;
 
 class Estatisticas extends BaseController
 {
+    public const REGIOES_MAP = [
+        'Sudeste'      => ['SP', 'MG', 'RJ', 'ES'],
+        'Sul'          => ['RS', 'PR', 'SC'],
+        'Nordeste'     => ['BA', 'PE', 'CE', 'MA', 'PB', 'RN', 'AL', 'PI', 'SE'],
+        'Centro-Oeste' => ['GO', 'MT', 'MS', 'DF'],
+        'Norte'        => ['PA', 'AM', 'RO', 'TO', 'AC', 'AP', 'RR'],
+    ];
+
     public function index(): ResponseInterface
     {
-        $cargo = $this->request->getGet('cargo') ?? 'presidente';
-        $uf    = trim((string) ($this->request->getGet('uf') ?? ''));
-        $model = new CandidatoModel();
+        $cargo  = $this->request->getGet('cargo') ?? 'presidente';
+        $uf     = trim((string) ($this->request->getGet('uf') ?? ''));
+        $regiao = trim((string) ($this->request->getGet('regiao') ?? ''));
+        $model  = new CandidatoModel();
 
         $builder = $model->where('cargo', $cargo);
         if ($uf !== '') {
-            $builder = $builder->where('uf', $uf);
+            if (str_contains($uf, ',')) {
+                $builder = $builder->whereIn('uf', array_filter(array_map('trim', explode(',', $uf))));
+            } else {
+                $builder = $builder->where('uf', $uf);
+            }
+        } elseif ($regiao !== '' && isset(self::REGIOES_MAP[$regiao])) {
+            $builder = $builder->whereIn('uf', self::REGIOES_MAP[$regiao]);
         }
         $rows = $builder->findAll();
 
@@ -36,6 +51,7 @@ class Estatisticas extends BaseController
         $data = [
             'cargo'             => $cargo,
             'uf'                => $uf !== '' ? $uf : null,
+            'regiao'            => $regiao !== '' ? $regiao : null,
             'total'             => count($rows),
             'por_partido'       => $porPartido,
             'por_profissao'     => $porProfissao,

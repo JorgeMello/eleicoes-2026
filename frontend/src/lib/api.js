@@ -49,6 +49,14 @@ export const UFS_DATA = {
 
 export const REGIOES = ['Todas', 'Sudeste', 'Sul', 'Nordeste', 'Centro-Oeste', 'Norte'];
 
+export const REGIOES_UFS = {
+  Sudeste: ['SP', 'MG', 'RJ', 'ES'],
+  Sul: ['RS', 'PR', 'SC'],
+  Nordeste: ['BA', 'PE', 'CE', 'MA', 'PB', 'RN', 'AL', 'PI', 'SE'],
+  'Centro-Oeste': ['GO', 'MT', 'MS', 'DF'],
+  Norte: ['PA', 'AM', 'RO', 'TO', 'AC', 'AP', 'RR'],
+};
+
 async function get(path) {
   const r = await fetch(`${API_URL}${path}`);
   if (!r.ok) throw new Error(`API ${r.status} em ${path}`);
