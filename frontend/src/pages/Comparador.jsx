@@ -61,7 +61,23 @@ export default function Comparador() {
       </div>
 
       {dados.some(Boolean) ? (
-        <div className="overflow-x-auto rounded-xl border bg-white dark:border-slate-700 dark:bg-slate-900">
+        <>
+          {ajudaSel && (
+            <div role="status" className="flex items-start gap-2 rounded-xl border border-blue-200 bg-blue-50 px-3 py-2 text-sm text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300">
+              <p className="flex-1">
+                <strong>{ajudaSel.label}:</strong> {ajudaSel.ajuda}
+              </p>
+              <button
+                type="button"
+                onClick={() => setAjudaSel(null)}
+                aria-label="Fechar ajuda"
+                className="rounded px-1 hover:bg-black/10 dark:hover:bg-white/10"
+              >
+                ✕
+              </button>
+            </div>
+          )}
+          <div className="overflow-x-auto rounded-xl border bg-white dark:border-slate-700 dark:bg-slate-900">
           <table className="w-full text-sm">
             <thead>
               <tr className="bg-slate-50 dark:bg-slate-800">
@@ -72,9 +88,27 @@ export default function Comparador() {
               </tr>
             </thead>
             <tbody>
-              {LINHAS.map(([k, fn]) => (
+              {LINHAS.map(({ label: k, get: fn, ajuda }) => (
                 <tr key={k} className="border-t dark:border-slate-700">
-                  <td className="px-3 py-1.5 text-slate-500 dark:text-slate-400">{k}</td>
+                  <td className="px-3 py-1.5 text-slate-500 dark:text-slate-400">
+                    <span className="inline-flex items-center gap-1">
+                      {k}
+                      <button
+                        type="button"
+                        onClick={() => setAjudaSel((atual) => (atual?.label === k ? null : { label: k, ajuda }))}
+                        title={ajuda}
+                        aria-label={`O que significa ${k}?`}
+                        aria-expanded={ajudaSel?.label === k}
+                        className="inline-flex h-4 w-4 items-center justify-center rounded-full border border-current text-[10px] leading-none opacity-70 hover:opacity-100"
+                      >
+                        <svg viewBox="0 0 16 16" className="h-3 w-3" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true">
+                          <circle cx="8" cy="8" r="6.5" />
+                          <line x1="8" y1="7.2" x2="8" y2="11.5" strokeLinecap="round" />
+                          <circle cx="8" cy="5" r="0.9" fill="currentColor" stroke="none" />
+                        </svg>
+                      </button>
+                    </span>
+                  </td>
                   {dados.map((d, i) => (
                     <td key={i} className="px-3 py-1.5 font-medium">{d ? fn(d.candidato, d) : '—'}</td>
                   ))}
@@ -83,6 +117,7 @@ export default function Comparador() {
             </tbody>
           </table>
         </div>
+        </>
       ) : (
         <p className="text-sm text-slate-500 dark:text-slate-400">Selecione até 3 candidatos acima para comparar lado a lado.</p>
       )}
