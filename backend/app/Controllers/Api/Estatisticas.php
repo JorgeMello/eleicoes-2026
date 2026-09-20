@@ -1,0 +1,42 @@
+<?php
+
+namespace App\Controllers\Api;
+
+use App\Controllers\BaseController;
+use App\Models\CandidatoModel;
+use CodeIgniter\HTTP\ResponseInterface;
+
+class Estatisticas extends BaseController
+{
+    public function index(): ResponseInterface
+    {
+        $cargo = $this->request->getGet('cargo') ?? 'presidente';
+        $model = new CandidatoModel();
+        $rows  = $model->where('cargo', $cargo)->findAll();
+
+        $porPartido = $porProfissao = $porInstrucao = $porCor = [];
+        $patrimonios = [];
+
+        foreach ($rows as $r) {
+            $porPartido[$r['partido']]              = ($porPartido[$r['partido']] ?? 0) + 1;
+            $porProfissao[$r['profissao'] ?? '—']   = ($porProfissao[$r['profissao'] ?? '—'] ?? 0) + 1;
+            $porInstrucao[$r['grau_instrucao'] ?? '—'] = ($porInstrucao[$r['grau_instrucao'] ?? '—'] ?? 0) + 1;
+            $porCor[$r['cor_etnia'] ?? '—']         = ($porCor[$r['cor_etnia'] ?? '—'] ?? 0) + 1;
+            if ($r['patrimonio_total'] !== null) {
+                $patrimonios[] = (float) $r['patrimonio_total'];
+            }
+        }
+
+        return $this->response->setJSON([
+            'cargo'             => $cargo,
+            'total'             => count($rows),
+            'por_partido'       => $porPartido,
+            'por_profissao'     => $porProfissao,
+            'por_instrucao'     => $porInstrucao,
+            'por_cor'           => $porCor,
+            'maior_patrimonio'  => $patrimonios ? max($patrimonios) : null,
+            'menor_patrimonio'  => $patrimonios ? min($patrimonios) : null,
+            'cargos_disponiveis'=> ['presidente', 'governador', 'senador', 'dep-federal', 'dep-estadual'],
+        ]);
+    }
+}

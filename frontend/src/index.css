@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+body {
+  background: #f8fafc;
+}
+
+.dark body {
+  background: #020617;
+  color-scheme: dark;
+}
+
+/* Gráficos Recharts herdam a cor do texto (legível nos dois temas) */
+.recharts-cartesian-axis-tick text,
+.recharts-legend-item-text {
+  fill: currentColor;
+}

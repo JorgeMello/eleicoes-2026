@@ -1,0 +1,3251 @@
+[
+  {
+    "slug": "clariana-barao",
+    "nome": "Clariana Barao",
+    "partido": "DC",
+    "numero": 27,
+    "cargo": "presidente",
+    "uf": "BR",
+    "foto_url_original": "https://s2-g1.glbimg.com/fpgFnwowRD-jqd3jMfrMRQEty48=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/PIJ1noRUi8whBvTVNjhQ/clariana-barao.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/clariana-barao.ghtml",
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017113380",
+    "vice_nome": "Fabiana Torquato",
+    "vice_partido": "DC",
+    "patrimonio_total": 1820760.17,
+    "receitas_total": 1513500,
+    "despesas_total": 998569.68,
+    "limite_gastos": 88944030.8,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Edifício",
+        "valor": 261759.38
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Residencial sfh cef",
+        "valor": 90933.51
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo bradesco",
+        "valor": 151.7
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Land rover discovery sport",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Land rover discovery sport",
+        "valor": 376006.08
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Residencial finaciada bradesco",
+        "valor": 107409.5
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Condominio",
+        "valor": 979500
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno fração",
+        "valor": 5000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Dc",
+        "percentual": 99.11
+      },
+      {
+        "nome": "Eudo Morais Freire Filho",
+        "percentual": 0.4
+      },
+      {
+        "nome": "Clariana Zacarkim Barao",
+        "percentual": 0.33
+      },
+      {
+        "nome": "Lara De Araujo Amorim",
+        "percentual": 0.17
+      },
+      {
+        "nome": "ella comunicacao ltda",
+        "percentual": 37.45
+      },
+      {
+        "nome": "claudia nogueira guimaraes ltda",
+        "percentual": 22.03
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 17.83
+      },
+      {
+        "nome": "lara de araujo amorim",
+        "percentual": 10.01
+      },
+      {
+        "nome": "av comunicacao multimidia ltda",
+        "percentual": 4.01
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "ella comunicacao ltda",
+        "percentual": 37.45
+      },
+      {
+        "nome": "claudia nogueira guimaraes ltda",
+        "percentual": 22.03
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 17.83
+      },
+      {
+        "nome": "lara de araujo amorim",
+        "percentual": 10.01
+      },
+      {
+        "nome": "av comunicacao multimidia ltda",
+        "percentual": 4.01
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Clariana Barao",
+      "partido_pagina": "DC",
+      "numero_pagina": 27,
+      "profissao": "Advogado",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017113380",
+      "foto_url_original": "https://s2-g1.glbimg.com/fpgFnwowRD-jqd3jMfrMRQEty48=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/PIJ1noRUi8whBvTVNjhQ/clariana-barao.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Apartamento R$ 261.759,38 Edifício",
+        "Casa R$ 90.933,51 Residencial sfh cef",
+        "Depósito bancário em conta corrente no país R$ 151,70 Saldo bradesco",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 376.006,08 Land rover discovery sport",
+        "Casa R$ 107.409,50 Residencial finaciada bradesco",
+        "Casa R$ 979.500,00 Condominio",
+        "Terreno R$ 5.000,00 Terreno fração"
+      ],
+      "vice_nome": "Fabiana Torquato",
+      "vice_partido": "DC",
+      "receitas_total": 1513500,
+      "despesas_total": 998569.68,
+      "limite_gastos": 88944030.8,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Dc",
+          "percentual": 99.11
+        },
+        {
+          "nome": "Eudo Morais Freire Filho",
+          "percentual": 0.4
+        },
+        {
+          "nome": "Clariana Zacarkim Barao",
+          "percentual": 0.33
+        },
+        {
+          "nome": "Lara De Araujo Amorim",
+          "percentual": 0.17
+        },
+        {
+          "nome": "ella comunicacao ltda",
+          "percentual": 37.45
+        },
+        {
+          "nome": "claudia nogueira guimaraes ltda",
+          "percentual": 22.03
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 17.83
+        },
+        {
+          "nome": "lara de araujo amorim",
+          "percentual": 10.01
+        },
+        {
+          "nome": "av comunicacao multimidia ltda",
+          "percentual": 4.01
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "ella comunicacao ltda",
+          "percentual": 37.45
+        },
+        {
+          "nome": "claudia nogueira guimaraes ltda",
+          "percentual": 22.03
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 17.83
+        },
+        {
+          "nome": "lara de araujo amorim",
+          "percentual": 10.01
+        },
+        {
+          "nome": "av comunicacao multimidia ltda",
+          "percentual": 4.01
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/clariana-barao.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T00:17:04.786Z"
+  },
+  {
+    "slug": "edmilson-costa",
+    "nome": "Edmilson Costa",
+    "partido": "PCB",
+    "numero": 21,
+    "cargo": "presidente",
+    "uf": "BR",
+    "foto_url_original": "https://s2-g1.glbimg.com/ra8t1WO_gnSQyUYfoqZ0xM8Zv-o=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/X/FAPcABSV6sasx8MciaPA/edmilson-costa.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/edmilson-costa.ghtml",
+    "profissao": "Aposentado (exceto servidor público)",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017107286",
+    "vice_nome": "Cleusa Santos",
+    "vice_partido": "PCB",
+    "patrimonio_total": 454485.68,
+    "receitas_total": 22891,
+    "despesas_total": 18300.22,
+    "limite_gastos": 88944030.8,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Valor aplicado",
+        "valor": 232.61
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Valor",
+        "valor": 52850
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Valor aplicado",
+        "valor": 51403.07
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50% do apartamento",
+        "valor": 350000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2014,
+        "cargo": "Senador",
+        "partido": "PCB",
+        "resultado": "Não eleito"
+      },
+      {
+        "ano": 2008,
+        "cargo": "Prefeito",
+        "partido": "PCB",
+        "resultado": "Não eleito"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 57.54
+      },
+      {
+        "nome": "Ricardo Da Gama Rosa Costa",
+        "percentual": 22.02
+      },
+      {
+        "nome": "Francisco Raimundo Malta De Araujo",
+        "percentual": 8.74
+      },
+      {
+        "nome": "Eduardo Gustavo Viana Grandi",
+        "percentual": 7.34
+      },
+      {
+        "nome": "Maria Ines De Oliveira Santos",
+        "percentual": 4.37
+      },
+      {
+        "nome": "thiago menezes granzotti sociedade individual de advocacia",
+        "percentual": 32.79
+      },
+      {
+        "nome": "alamia cambio turismo ltda",
+        "percentual": 22.88
+      },
+      {
+        "nome": "grafica irmaos miranda de friburgo ltda",
+        "percentual": 22.46
+      },
+      {
+        "nome": "grafica e editora cappeler ltda",
+        "percentual": 9.18
+      },
+      {
+        "nome": "pavunao da lapa comercio e servicos ltda",
+        "percentual": 7.05
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "thiago menezes granzotti sociedade individual de advocacia",
+        "percentual": 32.79
+      },
+      {
+        "nome": "alamia cambio turismo ltda",
+        "percentual": 22.88
+      },
+      {
+        "nome": "grafica irmaos miranda de friburgo ltda",
+        "percentual": 22.46
+      },
+      {
+        "nome": "grafica e editora cappeler ltda",
+        "percentual": 9.18
+      },
+      {
+        "nome": "pavunao da lapa comercio e servicos ltda",
+        "percentual": 7.05
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Edmilson Costa",
+      "partido_pagina": "PCB",
+      "numero_pagina": 21,
+      "profissao": "Aposentado (exceto servidor público)",
+      "cor_etnia": "Parda",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017107286",
+      "foto_url_original": "https://s2-g1.glbimg.com/ra8t1WO_gnSQyUYfoqZ0xM8Zv-o=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/X/FAPcABSV6sasx8MciaPA/edmilson-costa.jpeg",
+      "historico": [
+        {
+          "ano": 2014,
+          "cargo": "Senador",
+          "partido": "PCB",
+          "resultado": "Não eleito"
+        },
+        {
+          "ano": 2008,
+          "cargo": "Prefeito",
+          "partido": "PCB",
+          "resultado": "Não eleito"
+        }
+      ],
+      "bens_brutos": [
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 232,61 Valor aplicado",
+        "Vgbl - vida gerador de benefício livre R$ 52.850,00 Valor",
+        "Caderneta de poupança R$ 51.403,07 Valor aplicado",
+        "Apartamento R$ 350.000,00 50% do apartamento"
+      ],
+      "vice_nome": "Cleusa Santos",
+      "vice_partido": "PCB",
+      "receitas_total": 22891,
+      "despesas_total": 18300.22,
+      "limite_gastos": 88944030.8,
+      "doadores": [
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 57.54
+        },
+        {
+          "nome": "Ricardo Da Gama Rosa Costa",
+          "percentual": 22.02
+        },
+        {
+          "nome": "Francisco Raimundo Malta De Araujo",
+          "percentual": 8.74
+        },
+        {
+          "nome": "Eduardo Gustavo Viana Grandi",
+          "percentual": 7.34
+        },
+        {
+          "nome": "Maria Ines De Oliveira Santos",
+          "percentual": 4.37
+        },
+        {
+          "nome": "thiago menezes granzotti sociedade individual de advocacia",
+          "percentual": 32.79
+        },
+        {
+          "nome": "alamia cambio turismo ltda",
+          "percentual": 22.88
+        },
+        {
+          "nome": "grafica irmaos miranda de friburgo ltda",
+          "percentual": 22.46
+        },
+        {
+          "nome": "grafica e editora cappeler ltda",
+          "percentual": 9.18
+        },
+        {
+          "nome": "pavunao da lapa comercio e servicos ltda",
+          "percentual": 7.05
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "thiago menezes granzotti sociedade individual de advocacia",
+          "percentual": 32.79
+        },
+        {
+          "nome": "alamia cambio turismo ltda",
+          "percentual": 22.88
+        },
+        {
+          "nome": "grafica irmaos miranda de friburgo ltda",
+          "percentual": 22.46
+        },
+        {
+          "nome": "grafica e editora cappeler ltda",
+          "percentual": 9.18
+        },
+        {
+          "nome": "pavunao da lapa comercio e servicos ltda",
+          "percentual": 7.05
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/edmilson-costa.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T00:17:11.795Z"
+  },
+  {
+    "slug": "escritor-augusto-cury",
+    "nome": "Escritor Augusto Cury",
+    "partido": "AVANTE",
+    "numero": 70,
+    "cargo": "presidente",
+    "uf": "BR",
+    "foto_url_original": "https://s2-g1.glbimg.com/Z1jzu5FCePhznAYP6BAK8VMZZaU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/l/7iHeHrSuG10BBoPoP6xw/escritor-augusto-cury.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/escritor-augusto-cury.ghtml",
+    "profissao": "Escritor e crítico",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017125643",
+    "vice_nome": "Júlio Delgado",
+    "vice_partido": "AVANTE",
+    "patrimonio_total": 242593012.42999992,
+    "receitas_total": 2821247.85,
+    "despesas_total": 292666.67,
+    "limite_gastos": 88944030.8,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda serra branca",
+        "valor": 14535.7
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 560000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 40% área em fazenda",
+        "valor": 603288
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social - sicoob",
+        "valor": 150582.92
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Empréstimo concedido - intellience school llc",
+        "valor": 4125172.3
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta",
+        "valor": 1518
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 80% de participação - love story josefina llc",
+        "valor": 2570476.79
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda pernambuco",
+        "valor": 1000000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda campina verde",
+        "valor": 104998
+      },
+      {
+        "tipo": "Fundo de curto prazo",
+        "descricao": "Fundo de curto prazo Fundo bb gestão de recursos",
+        "valor": 2558575.5
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Empréstimo mutuo - filadélfia nature participações",
+        "valor": 121190451.65
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no exterior",
+        "descricao": "Depósito bancário em conta corrente no exterior Saldo em conta",
+        "valor": 40267.95
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis 18,25% de imóvel",
+        "valor": 46775.35
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa 18,25% de imóvel",
+        "valor": 4388.94
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda maravilha/sagarana",
+        "valor": 200000
+      },
+      {
+        "tipo": "Outros bens móveis",
+        "descricao": "Outros bens móveis Sítio figueira",
+        "valor": 180000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Instituto academia de inteligencia ltda",
+        "valor": 95000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 64% de participação - intelligence school llc",
+        "valor": 115362.06
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta",
+        "valor": 1866.02
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda sobradinho/corumbá",
+        "valor": 201727.91
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa 18,25% de imóvel",
+        "valor": 26597.48
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda",
+        "valor": 36102.52
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Cotas de capital - florida investimentos participações ltda",
+        "valor": 4739990
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Saldo cdb",
+        "valor": 223970.64
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta",
+        "valor": 1361.47
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ativos negociados bdr",
+        "valor": 25827960
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no exterior",
+        "descricao": "Depósito bancário em conta corrente no exterior Saldo em conta",
+        "valor": 11500.04
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias 5% de participação societária na empresa cury academia comportamental llc, situada nos estados unidos",
+        "valor": 37710.4
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias 50% das cotas de participação societária na empresa free mind publish kkc, situada nos estados unidos",
+        "valor": 268524.91
+      },
+      {
+        "tipo": "Prédio residencial",
+        "descricao": "Prédio residencial Prédio urbano",
+        "valor": 6623800
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital - academia de gestão da emoção ltda",
+        "valor": 244
+      },
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento Apartamento",
+        "valor": 160809.6
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda salto e ponte",
+        "valor": 9025.63
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda pernambuco",
+        "valor": 180000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda cruz da retirada bonita",
+        "valor": 180000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda tamboril e sobradinho",
+        "valor": 1000000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Bradesco",
+        "valor": 9757.42
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Capital social - cooperativa de crédito de prod. rurais do triângulo mineiro",
+        "valor": 941.3
+      },
+      {
+        "tipo": "Crédito decorrente de alienação",
+        "descricao": "Crédito decorrente de alienação De quotas - faculdade metropolitana",
+        "valor": 2950000
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Créditos em trânsito",
+        "valor": 247299.54
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Saldo em conta",
+        "valor": 16254.76
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ações bbdc3",
+        "valor": 7090180
+      },
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ações petr4",
+        "valor": 799500
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Filadélfia nature participações e empreendimentos ltda",
+        "valor": 15607925
+      },
+      {
+        "tipo": "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc)",
+        "descricao": "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc) Navi energias sustentáveis ii fip infraestrutura",
+        "valor": 2733124.44
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda",
+        "valor": 342503.28
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda santos reis",
+        "valor": 1325721
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Estância ecológica em colina/sp",
+        "valor": 520750
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda lavarinto",
+        "valor": 500060
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Sócio participante - fictor invest ltda",
+        "valor": 31500000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Banco 001",
+        "valor": 3918.95
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Banco 001",
+        "valor": 241.01
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda prata",
+        "valor": 45128
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda sobradinho",
+        "valor": 176854.5
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 50% de área em condominio",
+        "valor": 2150000
+      },
+      {
+        "tipo": "Prédio comercial",
+        "descricao": "Prédio comercial Prédio comercial",
+        "valor": 3200000
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Fazenda serra branca",
+        "valor": 110000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias 100% de participação na empresa contemplare investments llc",
+        "valor": 5114.6
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Contemplare inteligência imobiliária ltda",
+        "valor": 500
+      },
+      {
+        "tipo": "Prédio comercial",
+        "descricao": "Prédio comercial Prédio comercial",
+        "valor": 164654.85
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Avante",
+        "percentual": 83.44
+      },
+      {
+        "nome": "Augusto Jorge Cury",
+        "percentual": 12.41
+      },
+      {
+        "nome": "Wilson De Matos Silva",
+        "percentual": 2.13
+      },
+      {
+        "nome": "Sergio Adriano Soares Vita",
+        "percentual": 1.24
+      },
+      {
+        "nome": "Noraldino Lucio Dias Junior",
+        "percentual": 0.53
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 47.84
+      },
+      {
+        "nome": "triade gestao e projetos ltda",
+        "percentual": 12.3
+      },
+      {
+        "nome": "trinta dezessete captacao de conteudo ltda",
+        "percentual": 9.33
+      },
+      {
+        "nome": "ribeiro consultoria e marketing ltda",
+        "percentual": 6.15
+      },
+      {
+        "nome": "escritorio comercial de barretos - sociedade simples ltda",
+        "percentual": 5.13
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 47.84
+      },
+      {
+        "nome": "triade gestao e projetos ltda",
+        "percentual": 12.3
+      },
+      {
+        "nome": "trinta dezessete captacao de conteudo ltda",
+        "percentual": 9.33
+      },
+      {
+        "nome": "ribeiro consultoria e marketing ltda",
+        "percentual": 6.15
+      },
+      {
+        "nome": "escritorio comercial de barretos - sociedade simples ltda",
+        "percentual": 5.13
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Escritor Augusto Cury",
+      "partido_pagina": "AVANTE",
+      "numero_pagina": 70,
+      "profissao": "Escritor e crítico",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017125643",
+      "foto_url_original": "https://s2-g1.glbimg.com/Z1jzu5FCePhznAYP6BAK8VMZZaU=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/l/7iHeHrSuG10BBoPoP6xw/escritor-augusto-cury.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Outros bens imóveis R$ 14.535,70 Fazenda serra branca",
+        "Apartamento R$ 560.000,00 Apartamento",
+        "Terreno R$ 603.288,00 40% área em fazenda",
+        "Quotas ou quinhões de capital R$ 150.582,92 Capital social - sicoob",
+        "Outros bens e direitos R$ 4.125.172,30 Empréstimo concedido - intellience school llc",
+        "Depósito bancário em conta corrente no país R$ 1.518,00 Saldo em conta",
+        "Quotas ou quinhões de capital R$ 2.570.476,79 80% de participação - love story josefina llc",
+        "Outros bens imóveis R$ 1.000.000,00 Fazenda pernambuco",
+        "Outros bens imóveis R$ 104.998,00 Fazenda campina verde",
+        "Fundo de curto prazo R$ 2.558.575,50 Fundo bb gestão de recursos",
+        "Outros bens e direitos R$ 121.190.451,65 Empréstimo mutuo - filadélfia nature participações",
+        "Depósito bancário em conta corrente no exterior R$ 40.267,95 Saldo em conta",
+        "Outros bens imóveis R$ 46.775,35 18,25% de imóvel",
+        "Casa R$ 4.388,94 18,25% de imóvel",
+        "Outros bens imóveis R$ 200.000,00 Fazenda maravilha/sagarana",
+        "Outros bens móveis R$ 180.000,00 Sítio figueira",
+        "Quotas ou quinhões de capital R$ 95.000,00 Instituto academia de inteligencia ltda",
+        "Quotas ou quinhões de capital R$ 115.362,06 64% de participação - intelligence school llc",
+        "Depósito bancário em conta corrente no país R$ 1.866,02 Saldo em conta",
+        "Outros bens imóveis R$ 201.727,91 Fazenda sobradinho/corumbá",
+        "Casa R$ 26.597,48 18,25% de imóvel",
+        "Outros bens imóveis R$ 36.102,52 Fazenda",
+        "Quotas ou quinhões de capital R$ 4.739.990,00 Cotas de capital - florida investimentos participações ltda",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 223.970,64 Saldo cdb",
+        "Depósito bancário em conta corrente no país R$ 1.361,47 Saldo em conta",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 25.827.960,00 Ativos negociados bdr",
+        "Depósito bancário em conta corrente no exterior R$ 11.500,04 Saldo em conta",
+        "Outras participações societárias R$ 37.710,40 5% de participação societária na empresa cury academia comportamental llc, situada nos estados unidos",
+        "Outras participações societárias R$ 268.524,91 50% das cotas de participação societária na empresa free mind publish kkc, situada nos estados unidos",
+        "Prédio residencial R$ 6.623.800,00 Prédio urbano",
+        "Quotas ou quinhões de capital R$ 244,00 Quotas de capital - academia de gestão da emoção ltda",
+        "Apartamento R$ 160.809,60 Apartamento",
+        "Outros bens imóveis R$ 9.025,63 Fazenda salto e ponte",
+        "Outros bens imóveis R$ 180.000,00 Fazenda pernambuco",
+        "Outros bens imóveis R$ 180.000,00 Fazenda cruz da retirada bonita",
+        "Outros bens imóveis R$ 1.000.000,00 Fazenda tamboril e sobradinho",
+        "Caderneta de poupança R$ 9.757,42 Bradesco",
+        "Quotas ou quinhões de capital R$ 941,30 Capital social - cooperativa de crédito de prod. rurais do triângulo mineiro",
+        "Crédito decorrente de alienação R$ 2.950.000,00 De quotas - faculdade metropolitana",
+        "Outros créditos e poupança vinculados R$ 247.299,54 Créditos em trânsito",
+        "Depósito bancário em conta corrente no país R$ 16.254,76 Saldo em conta",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 7.090.180,00 Ações bbdc3",
+        "Ações (inclusive as provenientes de linha telefônica) R$ 799.500,00 Ações petr4",
+        "Quotas ou quinhões de capital R$ 15.607.925,00 Filadélfia nature participações e empreendimentos ltda",
+        "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc) R$ 2.733.124,44 Navi energias sustentáveis ii fip infraestrutura",
+        "Outros bens imóveis R$ 342.503,28 Fazenda",
+        "Outros bens imóveis R$ 1.325.721,00 Fazenda santos reis",
+        "Outros bens imóveis R$ 520.750,00 Estância ecológica em colina/sp",
+        "Outros bens imóveis R$ 500.060,00 Fazenda lavarinto",
+        "Quotas ou quinhões de capital R$ 31.500.000,00 Sócio participante - fictor invest ltda",
+        "Depósito bancário em conta corrente no país R$ 3.918,95 Banco 001",
+        "Outros créditos e poupança vinculados R$ 241,01 Banco 001",
+        "Outros bens imóveis R$ 45.128,00 Fazenda prata",
+        "Outros bens imóveis R$ 176.854,50 Fazenda sobradinho",
+        "Terreno R$ 2.150.000,00 50% de área em condominio",
+        "Prédio comercial R$ 3.200.000,00 Prédio comercial",
+        "Outros bens imóveis R$ 110.000,00 Fazenda serra branca",
+        "Outras participações societárias R$ 5.114,60 100% de participação na empresa contemplare investments llc",
+        "Outros bens e direitos R$ 500,00 Contemplare inteligência imobiliária ltda",
+        "Prédio comercial R$ 164.654,85 Prédio comercial"
+      ],
+      "vice_nome": "Júlio Delgado",
+      "vice_partido": "AVANTE",
+      "receitas_total": 2821247.85,
+      "despesas_total": 292666.67,
+      "limite_gastos": 88944030.8,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Avante",
+          "percentual": 83.44
+        },
+        {
+          "nome": "Augusto Jorge Cury",
+          "percentual": 12.41
+        },
+        {
+          "nome": "Wilson De Matos Silva",
+          "percentual": 2.13
+        },
+        {
+          "nome": "Sergio Adriano Soares Vita",
+          "percentual": 1.24
+        },
+        {
+          "nome": "Noraldino Lucio Dias Junior",
+          "percentual": 0.53
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 47.84
+        },
+        {
+          "nome": "triade gestao e projetos ltda",
+          "percentual": 12.3
+        },
+        {
+          "nome": "trinta dezessete captacao de conteudo ltda",
+          "percentual": 9.33
+        },
+        {
+          "nome": "ribeiro consultoria e marketing ltda",
+          "percentual": 6.15
+        },
+        {
+          "nome": "escritorio comercial de barretos - sociedade simples ltda",
+          "percentual": 5.13
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 47.84
+        },
+        {
+          "nome": "triade gestao e projetos ltda",
+          "percentual": 12.3
+        },
+        {
+          "nome": "trinta dezessete captacao de conteudo ltda",
+          "percentual": 9.33
+        },
+        {
+          "nome": "ribeiro consultoria e marketing ltda",
+          "percentual": 6.15
+        },
+        {
+          "nome": "escritorio comercial de barretos - sociedade simples ltda",
+          "percentual": 5.13
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/escritor-augusto-cury.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T00:17:17.529Z"
+  },
+  {
+    "slug": "flavio-bolsonaro",
+    "nome": "Flavio Bolsonaro",
+    "partido": "PL",
+    "numero": 22,
+    "cargo": "presidente",
+    "uf": "BR",
+    "foto_url_original": "https://s2-g1.glbimg.com/QTAyL1ombA-z_4GApzlyh_noV7I=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/1/XLA6WAQyGC0GBxgXhZyw/flavio-bolsonaro.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/flavio-bolsonaro.ghtml",
+    "profissao": "Senador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017104726",
+    "vice_nome": "Alfredo Gaspar",
+    "vice_partido": "PL",
+    "patrimonio_total": 8186555.829999999,
+    "receitas_total": 56177510.77,
+    "despesas_total": 56194552.56,
+    "limite_gastos": 88944030.8,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Quota ou quinhão de capital - sociedade individual de advocacia",
+        "valor": 10000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Quota ou quinhão de capital",
+        "valor": 249
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Quota e quinhão de capital",
+        "valor": 46000
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Bancos diversos",
+        "valor": 568730.23
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo conta poupança - banco itau",
+        "valor": 103746.23
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa, lago sul, brasília",
+        "valor": 6226043.8
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação em cdb - banco do brasil",
+        "valor": 8266.1
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo 2014",
+        "valor": 133000
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Fundo de investimento em cotas multimercado fifcic rl",
+        "valor": 1090520.47
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2018,
+        "cargo": "Senador",
+        "partido": "PSL",
+        "resultado": "Eleito"
+      },
+      {
+        "ano": 2016,
+        "cargo": "Prefeito",
+        "partido": "PSC",
+        "resultado": "Não eleito"
+      },
+      {
+        "ano": 2014,
+        "cargo": "Deputado estadual",
+        "partido": "PP",
+        "resultado": "Eleito"
+      },
+      {
+        "ano": 2010,
+        "cargo": "Deputado estadual",
+        "partido": "PP",
+        "resultado": "Eleito"
+      },
+      {
+        "ano": 2006,
+        "cargo": "Deputado estadual",
+        "partido": "PP",
+        "resultado": "Não eleito"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pl",
+        "percentual": 95.23
+      },
+      {
+        "nome": "Erasmo Carlos Battistella",
+        "percentual": 0.89
+      },
+      {
+        "nome": "Walter Schlatter",
+        "percentual": 0.53
+      },
+      {
+        "nome": "Waldemar Verdi Junior",
+        "percentual": 0.32
+      },
+      {
+        "nome": "Marco Antonio Branquinho Junior",
+        "percentual": 0.22
+      },
+      {
+        "nome": "f.a.r.o propaganda e publicidade ltda",
+        "percentual": 23.31
+      },
+      {
+        "nome": "paranoa digital producao cinematografica, de videos e programas ltda",
+        "percentual": 8.95
+      },
+      {
+        "nome": "aurea tecnologia e solucoes ltda",
+        "percentual": 6.58
+      },
+      {
+        "nome": "algoritmo dados estrategia e comunicacao ltda",
+        "percentual": 6.41
+      },
+      {
+        "nome": "rmr consultoria de inteligencia ltda",
+        "percentual": 6.05
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "f.a.r.o propaganda e publicidade ltda",
+        "percentual": 23.31
+      },
+      {
+        "nome": "paranoa digital producao cinematografica, de videos e programas ltda",
+        "percentual": 8.95
+      },
+      {
+        "nome": "aurea tecnologia e solucoes ltda",
+        "percentual": 6.58
+      },
+      {
+        "nome": "algoritmo dados estrategia e comunicacao ltda",
+        "percentual": 6.41
+      },
+      {
+        "nome": "rmr consultoria de inteligencia ltda",
+        "percentual": 6.05
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Flavio Bolsonaro",
+      "partido_pagina": "PL",
+      "numero_pagina": 22,
+      "profissao": "Senador",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017104726",
+      "foto_url_original": "https://s2-g1.glbimg.com/QTAyL1ombA-z_4GApzlyh_noV7I=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/1/XLA6WAQyGC0GBxgXhZyw/flavio-bolsonaro.jpeg",
+      "historico": [
+        {
+          "ano": 2018,
+          "cargo": "Senador",
+          "partido": "PSL",
+          "resultado": "Eleito"
+        },
+        {
+          "ano": 2016,
+          "cargo": "Prefeito",
+          "partido": "PSC",
+          "resultado": "Não eleito"
+        },
+        {
+          "ano": 2014,
+          "cargo": "Deputado estadual",
+          "partido": "PP",
+          "resultado": "Eleito"
+        },
+        {
+          "ano": 2010,
+          "cargo": "Deputado estadual",
+          "partido": "PP",
+          "resultado": "Eleito"
+        },
+        {
+          "ano": 2006,
+          "cargo": "Deputado estadual",
+          "partido": "PP",
+          "resultado": "Não eleito"
+        }
+      ],
+      "bens_brutos": [
+        "Outras participações societárias R$ 10.000,00 Quota ou quinhão de capital - sociedade individual de advocacia",
+        "Outras participações societárias R$ 249,00 Quota ou quinhão de capital",
+        "Outras participações societárias R$ 46.000,00 Quota e quinhão de capital",
+        "Depósito bancário em conta corrente no país R$ 568.730,23 Bancos diversos",
+        "Caderneta de poupança R$ 103.746,23 Saldo conta poupança - banco itau",
+        "Casa R$ 6.226.043,80 Casa, lago sul, brasília",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 8.266,10 Aplicação em cdb - banco do brasil",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 133.000,00 Veículo 2014",
+        "Outros fundos R$ 1.090.520,47 Fundo de investimento em cotas multimercado fifcic rl"
+      ],
+      "vice_nome": "Alfredo Gaspar",
+      "vice_partido": "PL",
+      "receitas_total": 56177510.77,
+      "despesas_total": 56194552.56,
+      "limite_gastos": 88944030.8,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pl",
+          "percentual": 95.23
+        },
+        {
+          "nome": "Erasmo Carlos Battistella",
+          "percentual": 0.89
+        },
+        {
+          "nome": "Walter Schlatter",
+          "percentual": 0.53
+        },
+        {
+          "nome": "Waldemar Verdi Junior",
+          "percentual": 0.32
+        },
+        {
+          "nome": "Marco Antonio Branquinho Junior",
+          "percentual": 0.22
+        },
+        {
+          "nome": "f.a.r.o propaganda e publicidade ltda",
+          "percentual": 23.31
+        },
+        {
+          "nome": "paranoa digital producao cinematografica, de videos e programas ltda",
+          "percentual": 8.95
+        },
+        {
+          "nome": "aurea tecnologia e solucoes ltda",
+          "percentual": 6.58
+        },
+        {
+          "nome": "algoritmo dados estrategia e comunicacao ltda",
+          "percentual": 6.41
+        },
+        {
+          "nome": "rmr consultoria de inteligencia ltda",
+          "percentual": 6.05
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "f.a.r.o propaganda e publicidade ltda",
+          "percentual": 23.31
+        },
+        {
+          "nome": "paranoa digital producao cinematografica, de videos e programas ltda",
+          "percentual": 8.95
+        },
+        {
+          "nome": "aurea tecnologia e solucoes ltda",
+          "percentual": 6.58
+        },
+        {
+          "nome": "algoritmo dados estrategia e comunicacao ltda",
+          "percentual": 6.41
+        },
+        {
+          "nome": "rmr consultoria de inteligencia ltda",
+          "percentual": 6.05
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/flavio-bolsonaro.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T00:17:21.505Z"
+  },
+  {
+    "slug": "hertz-dias",
+    "nome": "Hertz Dias",
+    "partido": "PSTU",
+    "numero": 16,
+    "cargo": "presidente",
+    "uf": "BR",
+    "foto_url_original": "https://s2-g1.glbimg.com/XJoK6j87KKFfl4PYkvEI4Ii3vSE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/O/k1wPIgRDSinJCkuwPJRA/hertz-dias.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/hertz-dias.ghtml",
+    "profissao": "Professor de ensino fundamental",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280016998007",
+    "vice_nome": "Vanessa Portugal",
+    "vice_partido": "PSTU",
+    "patrimonio_total": 170000,
+    "receitas_total": 1082389.16,
+    "despesas_total": 975122.62,
+    "limite_gastos": 88944030.8,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento De 45 metros quadrados, 2 dormitórios, 1 banheiro, 1 banheiro social, sala de estar/jantar conjugada, cozinha funcional e área de serviço integrada",
+        "valor": 170000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2022,
+        "cargo": "Governador",
+        "partido": "PSTU",
+        "resultado": "Não eleito"
+      },
+      {
+        "ano": 2020,
+        "cargo": "Prefeito",
+        "partido": "PSTU",
+        "resultado": "Não eleito"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pstu",
+        "percentual": 99.26
+      },
+      {
+        "nome": "Jose Maria De Almeida",
+        "percentual": 0.28
+      },
+      {
+        "nome": "Vera Lucia Pereira Da Silva Salgado",
+        "percentual": 0.28
+      },
+      {
+        "nome": "Emmanuel Oliveira Da Silva",
+        "percentual": 0.14
+      },
+      {
+        "nome": "Orlando Cariello Filho",
+        "percentual": 0.05
+      },
+      {
+        "nome": "opiniao socialista ltda",
+        "percentual": 19.48
+      },
+      {
+        "nome": "projeto ip grafis solucoes graficas ltda",
+        "percentual": 18.25
+      },
+      {
+        "nome": "multidao comunicacao e producao ltda",
+        "percentual": 17.43
+      },
+      {
+        "nome": "francisco de assis da silva filho",
+        "percentual": 13.84
+      },
+      {
+        "nome": "ilaese mg",
+        "percentual": 12.82
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "opiniao socialista ltda",
+        "percentual": 19.48
+      },
+      {
+        "nome": "projeto ip grafis solucoes graficas ltda",
+        "percentual": 18.25
+      },
+      {
+        "nome": "multidao comunicacao e producao ltda",
+        "percentual": 17.43
+      },
+      {
+        "nome": "francisco de assis da silva filho",
+        "percentual": 13.84
+      },
+      {
+        "nome": "ilaese mg",
+        "percentual": 12.82
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Hertz Dias",
+      "partido_pagina": "PSTU",
+      "numero_pagina": 16,
+      "profissao": "Professor de ensino fundamental",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280016998007",
+      "foto_url_original": "https://s2-g1.glbimg.com/XJoK6j87KKFfl4PYkvEI4Ii3vSE=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/O/k1wPIgRDSinJCkuwPJRA/hertz-dias.jpeg",
+      "historico": [
+        {
+          "ano": 2022,
+          "cargo": "Governador",
+          "partido": "PSTU",
+          "resultado": "Não eleito"
+        },
+        {
+          "ano": 2020,
+          "cargo": "Prefeito",
+          "partido": "PSTU",
+          "resultado": "Não eleito"
+        }
+      ],
+      "bens_brutos": [
+        "Apartamento R$ 170.000,00 De 45 metros quadrados, 2 dormitórios, 1 banheiro, 1 banheiro social, sala de estar/jantar conjugada, cozinha funcional e área de serviço integrada"
+      ],
+      "vice_nome": "Vanessa Portugal",
+      "vice_partido": "PSTU",
+      "receitas_total": 1082389.16,
+      "despesas_total": 975122.62,
+      "limite_gastos": 88944030.8,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pstu",
+          "percentual": 99.26
+        },
+        {
+          "nome": "Jose Maria De Almeida",
+          "percentual": 0.28
+        },
+        {
+          "nome": "Vera Lucia Pereira Da Silva Salgado",
+          "percentual": 0.28
+        },
+        {
+          "nome": "Emmanuel Oliveira Da Silva",
+          "percentual": 0.14
+        },
+        {
+          "nome": "Orlando Cariello Filho",
+          "percentual": 0.05
+        },
+        {
+          "nome": "opiniao socialista ltda",
+          "percentual": 19.48
+        },
+        {
+          "nome": "projeto ip grafis solucoes graficas ltda",
+          "percentual": 18.25
+        },
+        {
+          "nome": "multidao comunicacao e producao ltda",
+          "percentual": 17.43
+        },
+        {
+          "nome": "francisco de assis da silva filho",
+          "percentual": 13.84
+        },
+        {
+          "nome": "ilaese mg",
+          "percentual": 12.82
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "opiniao socialista ltda",
+          "percentual": 19.48
+        },
+        {
+          "nome": "projeto ip grafis solucoes graficas ltda",
+          "percentual": 18.25
+        },
+        {
+          "nome": "multidao comunicacao e producao ltda",
+          "percentual": 17.43
+        },
+        {
+          "nome": "francisco de assis da silva filho",
+          "percentual": 13.84
+        },
+        {
+          "nome": "ilaese mg",
+          "percentual": 12.82
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/hertz-dias.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T00:17:26.070Z"
+  },
+  {
+    "slug": "leonardo-avalanche",
+    "nome": "Leonardo Avalanche",
+    "partido": "PRTB",
+    "numero": 28,
+    "cargo": "presidente",
+    "uf": "BR",
+    "foto_url_original": "https://s2-g1.glbimg.com/T8dGExfVivK_wW9IN6Teuu6dqaY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/8/Q1OSE7RD2q1WE2vBPPLQ/leonardo-avalanche.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/leonardo-avalanche.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017142413",
+    "vice_nome": "Silvia",
+    "vice_partido": "PRTB",
+    "patrimonio_total": 495030000,
+    "receitas_total": 0,
+    "despesas_total": 0,
+    "limite_gastos": 88944030.8,
+    "fonte_atualizado_em": "17/09/2026 • Atualizado há 2 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 100% das quotas ¿ avalanche consultoria participação & incorporação ltda. (cnpj 19.152.972/0001-20)",
+        "valor": 100000
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Investimentos em criptomoedas ¿ bitcoin",
+        "valor": 491000000
+      },
+      {
+        "tipo": "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. Obras de arte",
+        "descricao": "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. Obras de arte",
+        "valor": 2230000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 100% das quotas ¿ avalanche bank ltda. (cnpj 35.741.159/0001-41)",
+        "valor": 500000
+      },
+      {
+        "tipo": "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. Jóias",
+        "descricao": "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. Jóias",
+        "valor": 1200000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2018,
+        "cargo": "Deputado federal",
+        "partido": "PODE",
+        "resultado": "Não eleito"
+      },
+      {
+        "ano": 2016,
+        "cargo": "Vereador",
+        "partido": "PTN",
+        "resultado": "Não eleito"
+      },
+      {
+        "ano": 2008,
+        "cargo": "Vereador",
+        "partido": "PRTB",
+        "resultado": "Não eleito"
+      }
+    ],
+    "doadores": [],
+    "gastos": [],
+    "raw": {
+      "nome_pagina": "Leonardo Avalanche",
+      "partido_pagina": "PRTB",
+      "numero_pagina": 28,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017142413",
+      "foto_url_original": "https://s2-g1.glbimg.com/T8dGExfVivK_wW9IN6Teuu6dqaY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/8/Q1OSE7RD2q1WE2vBPPLQ/leonardo-avalanche.jpeg",
+      "historico": [
+        {
+          "ano": 2018,
+          "cargo": "Deputado federal",
+          "partido": "PODE",
+          "resultado": "Não eleito"
+        },
+        {
+          "ano": 2016,
+          "cargo": "Vereador",
+          "partido": "PTN",
+          "resultado": "Não eleito"
+        },
+        {
+          "ano": 2008,
+          "cargo": "Vereador",
+          "partido": "PRTB",
+          "resultado": "Não eleito"
+        }
+      ],
+      "bens_brutos": [
+        "Quotas ou quinhões de capital R$ 100.000,00 100% das quotas ¿ avalanche consultoria participação & incorporação ltda. (cnpj 19.152.972/0001-20)",
+        "Outras aplicações e investimentos R$ 491.000.000,00 Investimentos em criptomoedas ¿ bitcoin",
+        "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. R$ 2.230.000,00 Obras de arte",
+        "Quotas ou quinhões de capital R$ 500.000,00 100% das quotas ¿ avalanche bank ltda. (cnpj 35.741.159/0001-41)",
+        "Jóia, quadro, objeto de arte, de coleção, antiguidade, etc. R$ 1.200.000,00 Jóias"
+      ],
+      "vice_nome": "Silvia",
+      "vice_partido": "PRTB",
+      "receitas_total": 0,
+      "despesas_total": 0,
+      "limite_gastos": 88944030.8,
+      "doadores": [],
+      "gastos": [],
+      "fonte_atualizado_em": "17/09/2026 • Atualizado há 2 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/leonardo-avalanche.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T00:17:30.665Z"
+  },
+  {
+    "slug": "lula",
+    "nome": "Lula",
+    "partido": "PT",
+    "numero": 13,
+    "cargo": "presidente",
+    "uf": "BR",
+    "foto_url_original": "https://s2-g1.glbimg.com/QkJlfoDyktQCxd5QCbzsyGM33tk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/H/hs2xuMTICMP6ZYtvosBA/lula.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/lula.ghtml",
+    "profissao": "Torneiro mecânico",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino fundamental completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005",
+    "vice_nome": "Geraldo Alckmin",
+    "vice_partido": "PSB",
+    "patrimonio_total": 4775650.640000001,
+    "receitas_total": 41350925.55,
+    "despesas_total": 65677121.42,
+    "limite_gastos": 88944030.8,
+    "fonte_atualizado_em": "15/09/2026 • Atualizado há 4 dias\n\nDados",
+    "bens": [
+      {
+        "tipo": "Apartamento",
+        "descricao": "Apartamento 50% do apartamento localizado em são bernardo do campo",
+        "valor": 94571.25
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital 98% do capital social da l.i.l.s palestras, eventos e publicações",
+        "valor": 49000
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Banco bradesco",
+        "valor": 1380000
+      },
+      {
+        "tipo": "Vgbl",
+        "descricao": "Vgbl - vida gerador de benefício livre Brasilprev seguros",
+        "valor": 1923927.36
+      },
+      {
+        "tipo": "Fundo de curto prazo",
+        "descricao": "Fundo de curto prazo Fundo di plus agil",
+        "valor": 132834.2
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bradesco fundo de investimento em cotas de fundos de investimento renda fixa simples",
+        "valor": 6277.62
+      },
+      {
+        "tipo": "Construção",
+        "descricao": "Construção Casa em construção são bernardo do campo",
+        "valor": 246918.82
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Bradesco",
+        "valor": 56671.07
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Bb rf lp high",
+        "valor": 207917.4
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Saldo em caderneta de poupança",
+        "valor": 14.99
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Aplicação financeira - banco do brasil",
+        "valor": 485.39
+      },
+      {
+        "tipo": "Fundo de investimento imobiliário",
+        "descricao": "Fundo de investimento imobiliário Tvri11",
+        "valor": 50000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 26,68% de sítio no distrito de riacho grande, são bernardo do campo",
+        "valor": 130000
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Marca chevrolet, ano",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Marca chevrolet, ano 2010/2011",
+        "valor": 50000
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Situado no distrito de riacho grande em são bernardo do campo",
+        "valor": 2733.45
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Credito decorrente do distrato datado em 11/2015., com solicitacao de resgate, da quota parte do termo de adesao e compromisso de participacao para implantacao e construcao atraves da bancoop",
+        "valor": 179298.96
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno 64,08% de terreno localizado no distrito do riacho grande, são bernardo do campo",
+        "valor": 265000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Caderneta de poupança",
+        "valor": 0.13
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2022,
+        "cargo": "Presidente",
+        "partido": "PT",
+        "resultado": "Eleito"
+      },
+      {
+        "ano": 2018,
+        "cargo": "Presidente",
+        "partido": "PT",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2006,
+        "cargo": "Presidente",
+        "partido": "PT",
+        "resultado": "Eleito"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Pt",
+        "percentual": 97.1
+      },
+      {
+        "nome": "Erasmo Carlos Battistella",
+        "percentual": 1.21
+      },
+      {
+        "nome": "Um A Mais Servicos De Tecnologia E Consultoria Ltda",
+        "percentual": 0.43
+      },
+      {
+        "nome": "Pedro Pereira De Freitas",
+        "percentual": 0.22
+      },
+      {
+        "nome": "Marco Aurelio De Carvalho",
+        "percentual": 0.12
+      },
+      {
+        "nome": "delta3 comunicacao e projetos ltda",
+        "percentual": 47.2
+      },
+      {
+        "nome": "log producoes & filmes ltda",
+        "percentual": 6.5
+      },
+      {
+        "nome": "grafica nmc ltda",
+        "percentual": 4.2
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 3.94
+      },
+      {
+        "nome": "ferraro e novaes advogados",
+        "percentual": 2.32
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "delta3 comunicacao e projetos ltda",
+        "percentual": 47.2
+      },
+      {
+        "nome": "log producoes & filmes ltda",
+        "percentual": 6.5
+      },
+      {
+        "nome": "grafica nmc ltda",
+        "percentual": 4.2
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 3.94
+      },
+      {
+        "nome": "ferraro e novaes advogados",
+        "percentual": 2.32
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Lula",
+      "partido_pagina": "PT",
+      "numero_pagina": 13,
+      "profissao": "Torneiro mecânico",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Ensino fundamental completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017016005",
+      "foto_url_original": "https://s2-g1.glbimg.com/QkJlfoDyktQCxd5QCbzsyGM33tk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/H/hs2xuMTICMP6ZYtvosBA/lula.jpeg",
+      "historico": [
+        {
+          "ano": 2022,
+          "cargo": "Presidente",
+          "partido": "PT",
+          "resultado": "Eleito"
+        },
+        {
+          "ano": 2018,
+          "cargo": "Presidente",
+          "partido": "PT",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2006,
+          "cargo": "Presidente",
+          "partido": "PT",
+          "resultado": "Eleito"
+        }
+      ],
+      "bens_brutos": [
+        "Apartamento R$ 94.571,25 50% do apartamento localizado em são bernardo do campo",
+        "Quotas ou quinhões de capital R$ 49.000,00 98% do capital social da l.i.l.s palestras, eventos e publicações",
+        "Vgbl - vida gerador de benefício livre R$ 1.380.000,00 Banco bradesco",
+        "Vgbl - vida gerador de benefício livre R$ 1.923.927,36 Brasilprev seguros",
+        "Fundo de curto prazo R$ 132.834,20 Fundo di plus agil",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 6.277,62 Bradesco fundo de investimento em cotas de fundos de investimento renda fixa simples",
+        "Construção R$ 246.918,82 Casa em construção são bernardo do campo",
+        "Depósito bancário em conta corrente no país R$ 56.671,07 Bradesco",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 207.917,40 Bb rf lp high",
+        "Caderneta de poupança R$ 14,99 Saldo em caderneta de poupança",
+        "Outras aplicações e investimentos R$ 485,39 Aplicação financeira - banco do brasil",
+        "Fundo de investimento imobiliário R$ 50.000,00 Tvri11",
+        "Terreno R$ 130.000,00 26,68% de sítio no distrito de riacho grande, são bernardo do campo",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 50.000,00 Marca chevrolet, ano 2010/2011",
+        "Terreno R$ 2.733,45 Situado no distrito de riacho grande em são bernardo do campo",
+        "Outros bens e direitos R$ 179.298,96 Credito decorrente do distrato datado em 11/2015., com solicitacao de resgate, da quota parte do termo de adesao e compromisso de participacao para implantacao e construcao atraves da bancoop",
+        "Terreno R$ 265.000,00 64,08% de terreno localizado no distrito do riacho grande, são bernardo do campo",
+        "Caderneta de poupança R$ 0,13 Caderneta de poupança"
+      ],
+      "vice_nome": "Geraldo Alckmin",
+      "vice_partido": "PSB",
+      "receitas_total": 41350925.55,
+      "despesas_total": 65677121.42,
+      "limite_gastos": 88944030.8,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Pt",
+          "percentual": 97.1
+        },
+        {
+          "nome": "Erasmo Carlos Battistella",
+          "percentual": 1.21
+        },
+        {
+          "nome": "Um A Mais Servicos De Tecnologia E Consultoria Ltda",
+          "percentual": 0.43
+        },
+        {
+          "nome": "Pedro Pereira De Freitas",
+          "percentual": 0.22
+        },
+        {
+          "nome": "Marco Aurelio De Carvalho",
+          "percentual": 0.12
+        },
+        {
+          "nome": "delta3 comunicacao e projetos ltda",
+          "percentual": 47.2
+        },
+        {
+          "nome": "log producoes & filmes ltda",
+          "percentual": 6.5
+        },
+        {
+          "nome": "grafica nmc ltda",
+          "percentual": 4.2
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 3.94
+        },
+        {
+          "nome": "ferraro e novaes advogados",
+          "percentual": 2.32
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "delta3 comunicacao e projetos ltda",
+          "percentual": 47.2
+        },
+        {
+          "nome": "log producoes & filmes ltda",
+          "percentual": 6.5
+        },
+        {
+          "nome": "grafica nmc ltda",
+          "percentual": 4.2
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 3.94
+        },
+        {
+          "nome": "ferraro e novaes advogados",
+          "percentual": 2.32
+        }
+      ],
+      "fonte_atualizado_em": "15/09/2026 • Atualizado há 4 dias\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/lula.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T00:17:36.112Z"
+  },
+  {
+    "slug": "renan-santos",
+    "nome": "Renan Santos",
+    "partido": "MISSÃO",
+    "numero": 14,
+    "cargo": "presidente",
+    "uf": "BR",
+    "foto_url_original": "https://s2-g1.glbimg.com/caYbLru7mBUXGRCsg7om9BfpKrY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/S/MKqR8hQru5DuXBVeU3tQ/renan-santos.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/renan-santos.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior incompleto",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+    "vice_nome": "Coronel Medina",
+    "vice_partido": "MISSÃO",
+    "patrimonio_total": 795089,
+    "receitas_total": 2252705.49,
+    "despesas_total": 1281800.36,
+    "limite_gastos": 88944030.8,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas de capital",
+        "valor": 100000
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Quotas de sociedade",
+        "valor": 119760
+      },
+      {
+        "tipo": "Bem relacionado com o exercício da atividade autônoma",
+        "descricao": "Bem relacionado com o exercício da atividade autônoma Bem relacionado com o exercício da atividade autônoma",
+        "valor": 275329
+      },
+      {
+        "tipo": "Outros créditos e poupança vinculados",
+        "descricao": "Outros créditos e poupança vinculados Outros créditos e poupança vinculados",
+        "valor": 300000
+      }
+    ],
+    "historico": [],
+    "doadores": [
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 87.23
+      },
+      {
+        "nome": "Jose Antonio Israel Da Veiga Pereira",
+        "percentual": 2.22
+      },
+      {
+        "nome": "Danilo Julio Gatto",
+        "percentual": 2.22
+      },
+      {
+        "nome": "Jose Thomaz Israel Da Veiga Pereira",
+        "percentual": 2.22
+      },
+      {
+        "nome": "Direção Nacional - Missão",
+        "percentual": 0.89
+      },
+      {
+        "nome": "wbl grafica e editora ltda",
+        "percentual": 22.83
+      },
+      {
+        "nome": "marella & rollo sociedade de advogados",
+        "percentual": 9.75
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 7.8
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 7.02
+      },
+      {
+        "nome": "grafica e editora revelacao ltda",
+        "percentual": 6.99
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "wbl grafica e editora ltda",
+        "percentual": 22.83
+      },
+      {
+        "nome": "marella & rollo sociedade de advogados",
+        "percentual": 9.75
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 7.8
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 7.02
+      },
+      {
+        "nome": "grafica e editora revelacao ltda",
+        "percentual": 6.99
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Renan Santos",
+      "partido_pagina": "MISSÃO",
+      "numero_pagina": 14,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior incompleto",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017002789",
+      "foto_url_original": "https://s2-g1.glbimg.com/caYbLru7mBUXGRCsg7om9BfpKrY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/S/MKqR8hQru5DuXBVeU3tQ/renan-santos.jpeg",
+      "historico": [],
+      "bens_brutos": [
+        "Quotas ou quinhões de capital R$ 100.000,00 Quotas de capital",
+        "Outras participações societárias R$ 119.760,00 Quotas de sociedade",
+        "Bem relacionado com o exercício da atividade autônoma R$ 275.329,00 Bem relacionado com o exercício da atividade autônoma",
+        "Outros créditos e poupança vinculados R$ 300.000,00 Outros créditos e poupança vinculados"
+      ],
+      "vice_nome": "Coronel Medina",
+      "vice_partido": "MISSÃO",
+      "receitas_total": 2252705.49,
+      "despesas_total": 1281800.36,
+      "limite_gastos": 88944030.8,
+      "doadores": [
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 87.23
+        },
+        {
+          "nome": "Jose Antonio Israel Da Veiga Pereira",
+          "percentual": 2.22
+        },
+        {
+          "nome": "Danilo Julio Gatto",
+          "percentual": 2.22
+        },
+        {
+          "nome": "Jose Thomaz Israel Da Veiga Pereira",
+          "percentual": 2.22
+        },
+        {
+          "nome": "Direção Nacional - Missão",
+          "percentual": 0.89
+        },
+        {
+          "nome": "wbl grafica e editora ltda",
+          "percentual": 22.83
+        },
+        {
+          "nome": "marella & rollo sociedade de advogados",
+          "percentual": 9.75
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 7.8
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 7.02
+        },
+        {
+          "nome": "grafica e editora revelacao ltda",
+          "percentual": 6.99
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "wbl grafica e editora ltda",
+          "percentual": 22.83
+        },
+        {
+          "nome": "marella & rollo sociedade de advogados",
+          "percentual": 9.75
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 7.8
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 7.02
+        },
+        {
+          "nome": "grafica e editora revelacao ltda",
+          "percentual": 6.99
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/renan-santos.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T00:17:40.894Z"
+  },
+  {
+    "slug": "ronaldo-caiado",
+    "nome": "Ronaldo Caiado",
+    "partido": "PSD",
+    "numero": 55,
+    "cargo": "presidente",
+    "uf": "BR",
+    "foto_url_original": "https://s2-g1.glbimg.com/YABeb0dIqlNuKh5KIFTWTciAMqA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/N/hezxMURaW4xf8WiRaUtQ/ronaldo-caiado.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/ronaldo-caiado.ghtml",
+    "profissao": "Médico",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017106566",
+    "vice_nome": "Gilberto Kassab",
+    "vice_partido": "PSD",
+    "patrimonio_total": 52557930.98,
+    "receitas_total": 9856000,
+    "despesas_total": 24541783.48,
+    "limite_gastos": 88944030.8,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Ações (inclusive as provenientes de linha telefônica)",
+        "descricao": "Ações (inclusive as provenientes de linha telefônica) Ações",
+        "valor": 133.53
+      },
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Veículo automotor terrestre",
+        "valor": 7100
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas ou quinhões de capital",
+        "valor": 1008634.21
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Depósitos à vista / numerário",
+        "valor": 44881.89
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Casa",
+        "valor": 70000
+      },
+      {
+        "tipo": "Sala ou conjunto",
+        "descricao": "Sala ou conjunto Salas ou conjuntos",
+        "valor": 35711.94
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Título de capitalização",
+        "valor": 3385.99
+      },
+      {
+        "tipo": "Outros fundos",
+        "descricao": "Outros fundos Fundos de investimento",
+        "valor": 16.71
+      },
+      {
+        "tipo": "Outras participações societárias",
+        "descricao": "Outras participações societárias Outras participações societárias",
+        "valor": 148613.18
+      },
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Semoventes (rebanho) - valor total de mercado - estimado",
+        "valor": 10489480
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Imóveis do tipo rural",
+        "valor": 36213674.73
+      },
+      {
+        "tipo": "Outras aplicações e investimentos",
+        "descricao": "Outras aplicações e investimentos Títulos isentos de tributação (lig/lci/lca/cri/cra)",
+        "valor": 4288620.51
+      },
+      {
+        "tipo": "Outros bens imóveis",
+        "descricao": "Outros bens imóveis Outros bens imóveis",
+        "valor": 4640.34
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno",
+        "valor": 243037.95
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2022,
+        "cargo": "Governador",
+        "partido": "UNIÃO",
+        "resultado": "Eleito"
+      },
+      {
+        "ano": 2018,
+        "cargo": "Governador",
+        "partido": "DEM",
+        "resultado": "Eleito"
+      },
+      {
+        "ano": 2014,
+        "cargo": "Senador",
+        "partido": "DEM",
+        "resultado": "Eleito"
+      },
+      {
+        "ano": 2010,
+        "cargo": "Deputado federal",
+        "partido": "DEM",
+        "resultado": "Eleito"
+      },
+      {
+        "ano": 2006,
+        "cargo": "Deputado federal",
+        "partido": "PFL",
+        "resultado": "Não eleito"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Psd",
+        "percentual": 74.38
+      },
+      {
+        "nome": "Carlos Eduardo Ferraz De Mattos Barroso",
+        "percentual": 23.34
+      },
+      {
+        "nome": "Hideo Augusto Dendini",
+        "percentual": 0.25
+      },
+      {
+        "nome": "Cristiane Alkmin Junqueira Schmidt",
+        "percentual": 0.25
+      },
+      {
+        "nome": "Roberto Lucio Rocha Brant",
+        "percentual": 0.25
+      },
+      {
+        "nome": "epos brasil estrategia, comunicacao e tecnologia ltda",
+        "percentual": 81.49
+      },
+      {
+        "nome": "2026 comunicacao spe ltda",
+        "percentual": 4.07
+      },
+      {
+        "nome": "amaro aviation s.a.",
+        "percentual": 2.25
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 2.23
+      },
+      {
+        "nome": "malheiros, penteado e toledo - advogados",
+        "percentual": 2.04
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "epos brasil estrategia, comunicacao e tecnologia ltda",
+        "percentual": 81.49
+      },
+      {
+        "nome": "2026 comunicacao spe ltda",
+        "percentual": 4.07
+      },
+      {
+        "nome": "amaro aviation s.a.",
+        "percentual": 2.25
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 2.23
+      },
+      {
+        "nome": "malheiros, penteado e toledo - advogados",
+        "percentual": 2.04
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Ronaldo Caiado",
+      "partido_pagina": "PSD",
+      "numero_pagina": 55,
+      "profissao": "Médico",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017106566",
+      "foto_url_original": "https://s2-g1.glbimg.com/YABeb0dIqlNuKh5KIFTWTciAMqA=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/N/hezxMURaW4xf8WiRaUtQ/ronaldo-caiado.jpeg",
+      "historico": [
+        {
+          "ano": 2022,
+          "cargo": "Governador",
+          "partido": "UNIÃO",
+          "resultado": "Eleito"
+        },
+        {
+          "ano": 2018,
+          "cargo": "Governador",
+          "partido": "DEM",
+          "resultado": "Eleito"
+        },
+        {
+          "ano": 2014,
+          "cargo": "Senador",
+          "partido": "DEM",
+          "resultado": "Eleito"
+        },
+        {
+          "ano": 2010,
+          "cargo": "Deputado federal",
+          "partido": "DEM",
+          "resultado": "Eleito"
+        },
+        {
+          "ano": 2006,
+          "cargo": "Deputado federal",
+          "partido": "PFL",
+          "resultado": "Não eleito"
+        }
+      ],
+      "bens_brutos": [
+        "Ações (inclusive as provenientes de linha telefônica) R$ 133,53 Ações",
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 7.100,00 Veículo automotor terrestre",
+        "Quotas ou quinhões de capital R$ 1.008.634,21 Quotas ou quinhões de capital",
+        "Depósito bancário em conta corrente no país R$ 44.881,89 Depósitos à vista / numerário",
+        "Casa R$ 70.000,00 Casa",
+        "Sala ou conjunto R$ 35.711,94 Salas ou conjuntos",
+        "Outras aplicações e investimentos R$ 3.385,99 Título de capitalização",
+        "Outros fundos R$ 16,71 Fundos de investimento",
+        "Outras participações societárias R$ 148.613,18 Outras participações societárias",
+        "Outros bens e direitos R$ 10.489.480,00 Semoventes (rebanho) - valor total de mercado - estimado",
+        "Outros bens imóveis R$ 36.213.674,73 Imóveis do tipo rural",
+        "Outras aplicações e investimentos R$ 4.288.620,51 Títulos isentos de tributação (lig/lci/lca/cri/cra)",
+        "Outros bens imóveis R$ 4.640,34 Outros bens imóveis",
+        "Terreno R$ 243.037,95 Terreno"
+      ],
+      "vice_nome": "Gilberto Kassab",
+      "vice_partido": "PSD",
+      "receitas_total": 9856000,
+      "despesas_total": 24541783.48,
+      "limite_gastos": 88944030.8,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Psd",
+          "percentual": 74.38
+        },
+        {
+          "nome": "Carlos Eduardo Ferraz De Mattos Barroso",
+          "percentual": 23.34
+        },
+        {
+          "nome": "Hideo Augusto Dendini",
+          "percentual": 0.25
+        },
+        {
+          "nome": "Cristiane Alkmin Junqueira Schmidt",
+          "percentual": 0.25
+        },
+        {
+          "nome": "Roberto Lucio Rocha Brant",
+          "percentual": 0.25
+        },
+        {
+          "nome": "epos brasil estrategia, comunicacao e tecnologia ltda",
+          "percentual": 81.49
+        },
+        {
+          "nome": "2026 comunicacao spe ltda",
+          "percentual": 4.07
+        },
+        {
+          "nome": "amaro aviation s.a.",
+          "percentual": 2.25
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 2.23
+        },
+        {
+          "nome": "malheiros, penteado e toledo - advogados",
+          "percentual": 2.04
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "epos brasil estrategia, comunicacao e tecnologia ltda",
+          "percentual": 81.49
+        },
+        {
+          "nome": "2026 comunicacao spe ltda",
+          "percentual": 4.07
+        },
+        {
+          "nome": "amaro aviation s.a.",
+          "percentual": 2.25
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 2.23
+        },
+        {
+          "nome": "malheiros, penteado e toledo - advogados",
+          "percentual": 2.04
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/ronaldo-caiado.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T00:17:47.854Z"
+  },
+  {
+    "slug": "rui-costa-pimenta",
+    "nome": "Rui Costa Pimenta",
+    "partido": "PCO",
+    "numero": 29,
+    "cargo": "presidente",
+    "uf": "BR",
+    "foto_url_original": "https://s2-g1.glbimg.com/4Mei8I5zy8bubbokDpcAifLYhOo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/8/2RGLosS02epBU0fdEEDg/rui-costa-pimenta.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/rui-costa-pimenta.ghtml",
+    "profissao": "Jornalista e redator",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017113417",
+    "vice_nome": "Antônio Carlos",
+    "vice_partido": "PCO",
+    "patrimonio_total": null,
+    "receitas_total": 6271,
+    "despesas_total": 137.3,
+    "limite_gastos": 88944030.8,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [],
+    "historico": [
+      {
+        "ano": 2014,
+        "cargo": "Presidente",
+        "partido": "PCO",
+        "resultado": "Não eleito"
+      },
+      {
+        "ano": 2010,
+        "cargo": "Presidente",
+        "partido": "PCO",
+        "resultado": "Não eleito"
+      },
+      {
+        "ano": 2006,
+        "cargo": "Presidente",
+        "partido": "PCO",
+        "resultado": "Inapto"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 100
+      },
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 100
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "queroapoiar.com.br ltda",
+        "percentual": 100
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Rui Costa Pimenta",
+      "partido_pagina": "PCO",
+      "numero_pagina": 29,
+      "profissao": "Jornalista e redator",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017113417",
+      "foto_url_original": "https://s2-g1.glbimg.com/4Mei8I5zy8bubbokDpcAifLYhOo=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/8/2RGLosS02epBU0fdEEDg/rui-costa-pimenta.jpeg",
+      "historico": [
+        {
+          "ano": 2014,
+          "cargo": "Presidente",
+          "partido": "PCO",
+          "resultado": "Não eleito"
+        },
+        {
+          "ano": 2010,
+          "cargo": "Presidente",
+          "partido": "PCO",
+          "resultado": "Não eleito"
+        },
+        {
+          "ano": 2006,
+          "cargo": "Presidente",
+          "partido": "PCO",
+          "resultado": "Inapto"
+        }
+      ],
+      "bens_brutos": [],
+      "vice_nome": "Antônio Carlos",
+      "vice_partido": "PCO",
+      "receitas_total": 6271,
+      "despesas_total": 137.3,
+      "limite_gastos": 88944030.8,
+      "doadores": [
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 100
+        },
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 100
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "queroapoiar.com.br ltda",
+          "percentual": 100
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/rui-costa-pimenta.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T00:17:53.675Z"
+  },
+  {
+    "slug": "samara",
+    "nome": "Samara",
+    "partido": "UP",
+    "numero": 80,
+    "cargo": "presidente",
+    "uf": "BR",
+    "foto_url_original": "https://s2-g1.glbimg.com/JgLOkZw-oYiTupvhz-6UlPULujk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/i/KjNThuTsKWX0qkPMgxIQ/samara.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/samara.ghtml",
+    "profissao": "Odontólogo",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017119534",
+    "vice_nome": "Raquel Brício",
+    "vice_partido": "UP",
+    "patrimonio_total": 33000,
+    "receitas_total": 282220,
+    "despesas_total": 642953.76,
+    "limite_gastos": 88944030.8,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Uno vivace",
+        "descricao": "Veículo automotor terrestre: caminhão, automóvel, moto, etc. Uno vivace 2016",
+        "valor": 29000
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança",
+        "valor": 4000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2020,
+        "cargo": "Vereador",
+        "partido": "UP",
+        "resultado": "Não eleito"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Up",
+        "percentual": 70.87
+      },
+      {
+        "nome": "Queroapoiar.com.br",
+        "percentual": 29.13
+      },
+      {
+        "nome": "a verdade - sociedade de comunicacao",
+        "percentual": 23.33
+      },
+      {
+        "nome": "ssg solucoes em servicos graficos ltda",
+        "percentual": 9.49
+      },
+      {
+        "nome": "factor comunicacao visual ltda",
+        "percentual": 9.09
+      },
+      {
+        "nome": "luiz antonio alencar marinho falcao",
+        "percentual": 6.22
+      },
+      {
+        "nome": "raquel oliveira de brito",
+        "percentual": 4.67
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "a verdade - sociedade de comunicacao",
+        "percentual": 23.33
+      },
+      {
+        "nome": "ssg solucoes em servicos graficos ltda",
+        "percentual": 9.49
+      },
+      {
+        "nome": "factor comunicacao visual ltda",
+        "percentual": 9.09
+      },
+      {
+        "nome": "luiz antonio alencar marinho falcao",
+        "percentual": 6.22
+      },
+      {
+        "nome": "raquel oliveira de brito",
+        "percentual": 4.67
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Samara",
+      "partido_pagina": "UP",
+      "numero_pagina": 80,
+      "profissao": "Odontólogo",
+      "cor_etnia": "Preta",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017119534",
+      "foto_url_original": "https://s2-g1.glbimg.com/JgLOkZw-oYiTupvhz-6UlPULujk=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/i/KjNThuTsKWX0qkPMgxIQ/samara.jpeg",
+      "historico": [
+        {
+          "ano": 2020,
+          "cargo": "Vereador",
+          "partido": "UP",
+          "resultado": "Não eleito"
+        }
+      ],
+      "bens_brutos": [
+        "Veículo automotor terrestre: caminhão, automóvel, moto, etc. R$ 29.000,00 Uno vivace 2016",
+        "Caderneta de poupança R$ 4.000,00 Poupança"
+      ],
+      "vice_nome": "Raquel Brício",
+      "vice_partido": "UP",
+      "receitas_total": 282220,
+      "despesas_total": 642953.76,
+      "limite_gastos": 88944030.8,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Up",
+          "percentual": 70.87
+        },
+        {
+          "nome": "Queroapoiar.com.br",
+          "percentual": 29.13
+        },
+        {
+          "nome": "a verdade - sociedade de comunicacao",
+          "percentual": 23.33
+        },
+        {
+          "nome": "ssg solucoes em servicos graficos ltda",
+          "percentual": 9.49
+        },
+        {
+          "nome": "factor comunicacao visual ltda",
+          "percentual": 9.09
+        },
+        {
+          "nome": "luiz antonio alencar marinho falcao",
+          "percentual": 6.22
+        },
+        {
+          "nome": "raquel oliveira de brito",
+          "percentual": 4.67
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "a verdade - sociedade de comunicacao",
+          "percentual": 23.33
+        },
+        {
+          "nome": "ssg solucoes em servicos graficos ltda",
+          "percentual": 9.49
+        },
+        {
+          "nome": "factor comunicacao visual ltda",
+          "percentual": 9.09
+        },
+        {
+          "nome": "luiz antonio alencar marinho falcao",
+          "percentual": 6.22
+        },
+        {
+          "nome": "raquel oliveira de brito",
+          "percentual": 4.67
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/samara.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T00:18:00.586Z"
+  },
+  {
+    "slug": "veterinario-wilson-grassi",
+    "nome": "Veterinário Wilson Grassi",
+    "partido": "DEMOCRATA",
+    "numero": 35,
+    "cargo": "presidente",
+    "uf": "BR",
+    "foto_url_original": "https://s2-g1.glbimg.com/zA4rYMoqD_Ry1P4JL6mJlMqWX48=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/p/BpPauXRSeZA6URcXYlyw/veterinario-wilson-grassi.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/veterinario-wilson-grassi.ghtml",
+    "profissao": "Veterinário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017075366",
+    "vice_nome": "Suêd Haidar",
+    "vice_partido": "DEMOCRATA",
+    "patrimonio_total": 50000000,
+    "receitas_total": 715150,
+    "despesas_total": 768791.65,
+    "limite_gastos": 88944030.8,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Outros bens e direitos",
+        "descricao": "Outros bens e direitos Bens imóveis: posse e direitos sobre diversos imóveis financiados junto a instituições financeiras. ¿ participações societárias: participação no capital social de diversas sociedades empresariais.",
+        "valor": 50000000
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2024,
+        "cargo": "Vereador",
+        "partido": "PRTB",
+        "resultado": "Não eleito"
+      },
+      {
+        "ano": 2022,
+        "cargo": "Deputado federal",
+        "partido": "PV",
+        "resultado": "Inapto"
+      },
+      {
+        "ano": 2006,
+        "cargo": "Deputado estadual",
+        "partido": "PFL",
+        "resultado": "Não eleito"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Wilson Grassi Junior",
+        "percentual": 99.98
+      },
+      {
+        "nome": "Suely Nogueira Coelho",
+        "percentual": 0.02
+      },
+      {
+        "nome": "sflj consultoria e assessoramento ltda",
+        "percentual": 58.53
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 16.91
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 14.96
+      },
+      {
+        "nome": "shihara freire pereira sociedade individual de advocacia",
+        "percentual": 7.02
+      },
+      {
+        "nome": "royal impressoes e manuseio ltda",
+        "percentual": 1.3
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "sflj consultoria e assessoramento ltda",
+        "percentual": 58.53
+      },
+      {
+        "nome": "dlocal brasil instituicao de pagamento s.a.",
+        "percentual": 16.91
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 14.96
+      },
+      {
+        "nome": "shihara freire pereira sociedade individual de advocacia",
+        "percentual": 7.02
+      },
+      {
+        "nome": "royal impressoes e manuseio ltda",
+        "percentual": 1.3
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Veterinário Wilson Grassi",
+      "partido_pagina": "DEMOCRATA",
+      "numero_pagina": 35,
+      "profissao": "Veterinário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017075366",
+      "foto_url_original": "https://s2-g1.glbimg.com/zA4rYMoqD_Ry1P4JL6mJlMqWX48=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/p/BpPauXRSeZA6URcXYlyw/veterinario-wilson-grassi.jpeg",
+      "historico": [
+        {
+          "ano": 2024,
+          "cargo": "Vereador",
+          "partido": "PRTB",
+          "resultado": "Não eleito"
+        },
+        {
+          "ano": 2022,
+          "cargo": "Deputado federal",
+          "partido": "PV",
+          "resultado": "Inapto"
+        },
+        {
+          "ano": 2006,
+          "cargo": "Deputado estadual",
+          "partido": "PFL",
+          "resultado": "Não eleito"
+        }
+      ],
+      "bens_brutos": [
+        "Outros bens e direitos R$ 50.000.000,00 Bens imóveis: posse e direitos sobre diversos imóveis financiados junto a instituições financeiras. ¿ participações societárias: participação no capital social de diversas sociedades empresariais."
+      ],
+      "vice_nome": "Suêd Haidar",
+      "vice_partido": "DEMOCRATA",
+      "receitas_total": 715150,
+      "despesas_total": 768791.65,
+      "limite_gastos": 88944030.8,
+      "doadores": [
+        {
+          "nome": "Wilson Grassi Junior",
+          "percentual": 99.98
+        },
+        {
+          "nome": "Suely Nogueira Coelho",
+          "percentual": 0.02
+        },
+        {
+          "nome": "sflj consultoria e assessoramento ltda",
+          "percentual": 58.53
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 16.91
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 14.96
+        },
+        {
+          "nome": "shihara freire pereira sociedade individual de advocacia",
+          "percentual": 7.02
+        },
+        {
+          "nome": "royal impressoes e manuseio ltda",
+          "percentual": 1.3
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "sflj consultoria e assessoramento ltda",
+          "percentual": 58.53
+        },
+        {
+          "nome": "dlocal brasil instituicao de pagamento s.a.",
+          "percentual": 16.91
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 14.96
+        },
+        {
+          "nome": "shihara freire pereira sociedade individual de advocacia",
+          "percentual": 7.02
+        },
+        {
+          "nome": "royal impressoes e manuseio ltda",
+          "percentual": 1.3
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/veterinario-wilson-grassi.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T00:18:05.395Z"
+  },
+  {
+    "slug": "zema",
+    "nome": "Zema",
+    "partido": "NOVO",
+    "numero": 30,
+    "cargo": "presidente",
+    "uf": "BR",
+    "foto_url_original": "https://s2-g1.glbimg.com/AaRQkLczN7c2auxbdOLjbuo9o8U=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/V/LLwH4XScuIJFf2aQWQxQ/zema.jpeg",
+    "perfil_g1_url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/presidente/zema.ghtml",
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280016919931",
+    "vice_nome": "Eduardo Girão",
+    "vice_partido": "NOVO",
+    "patrimonio_total": 178707610.09000003,
+    "receitas_total": 4496568.61,
+    "despesas_total": 4160910.43,
+    "limite_gastos": 88944030.8,
+    "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados",
+    "bens": [
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação em holding familiar",
+        "valor": 94498898
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação em empresa imobiliária",
+        "valor": 47000
+      },
+      {
+        "tipo": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado",
+        "descricao": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado Fundo de investimento multimercado",
+        "valor": 56218194.15
+      },
+      {
+        "tipo": "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc)",
+        "descricao": "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc) Fundo de investimento renda fixa",
+        "valor": 362.56
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas ou quinhões de capital",
+        "valor": 3959.16
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente em cooperativa",
+        "valor": 9848.34
+      },
+      {
+        "tipo": "Depósito bancário em conta corrente no país",
+        "descricao": "Depósito bancário em conta corrente no país Conta corrente em cooperativa",
+        "valor": 14.86
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Quotas em cooperativa de crédito",
+        "valor": 393000
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação em instituição financeira",
+        "valor": 16834806
+      },
+      {
+        "tipo": "Terreno",
+        "descricao": "Terreno Terreno recebido em doação",
+        "valor": 70000
+      },
+      {
+        "tipo": "Casa",
+        "descricao": "Casa Imóvel residencial reformado",
+        "valor": 704864.25
+      },
+      {
+        "tipo": "Quotas ou quinhões de capital",
+        "descricao": "Quotas ou quinhões de capital Participação em seguradora",
+        "valor": 3666680
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação em cdb",
+        "valor": 337400.33
+      },
+      {
+        "tipo": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado",
+        "descricao": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado Fundo de investimento em ações",
+        "valor": 1556006.67
+      },
+      {
+        "tipo": "Caderneta de poupança",
+        "descricao": "Caderneta de poupança Poupança bancária",
+        "valor": 119.02
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Aplicação de renda fixa",
+        "valor": 3964283.93
+      },
+      {
+        "tipo": "Aplicação de renda fixa (cdb, rdb e outros)",
+        "descricao": "Aplicação de renda fixa (cdb, rdb e outros) Fundo de investimento renda fixa",
+        "valor": 4306.56
+      },
+      {
+        "tipo": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado",
+        "descricao": "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado Fundo de investimento em cotas",
+        "valor": 397866.26
+      }
+    ],
+    "historico": [
+      {
+        "ano": 2022,
+        "cargo": "Governador",
+        "partido": "NOVO",
+        "resultado": "Eleito"
+      },
+      {
+        "ano": 2018,
+        "cargo": "Governador",
+        "partido": "NOVO",
+        "resultado": "Eleito"
+      }
+    ],
+    "doadores": [
+      {
+        "nome": "Direção Nacional - Novo",
+        "percentual": 91.18
+      },
+      {
+        "nome": "Renato Ribeiro Machado",
+        "percentual": 4.45
+      },
+      {
+        "nome": "Direção Estadual/distrital - Novo - Minas Gerais",
+        "percentual": 2.15
+      },
+      {
+        "nome": "Salo Davi Seibel",
+        "percentual": 1.11
+      },
+      {
+        "nome": "Helio Seibel",
+        "percentual": 1.11
+      },
+      {
+        "nome": "reframe it consultoria e intermediacao ltda",
+        "percentual": 22.35
+      },
+      {
+        "nome": "triton consultoria ltda",
+        "percentual": 10.81
+      },
+      {
+        "nome": "jonathas alpoim severino da silva bezerra carvalho ltda",
+        "percentual": 7.79
+      },
+      {
+        "nome": "bessoni & fortes sociedade de advogados",
+        "percentual": 7.21
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 4.09
+      }
+    ],
+    "gastos": [
+      {
+        "nome": "reframe it consultoria e intermediacao ltda",
+        "percentual": 22.35
+      },
+      {
+        "nome": "triton consultoria ltda",
+        "percentual": 10.81
+      },
+      {
+        "nome": "jonathas alpoim severino da silva bezerra carvalho ltda",
+        "percentual": 7.79
+      },
+      {
+        "nome": "bessoni & fortes sociedade de advogados",
+        "percentual": 7.21
+      },
+      {
+        "nome": "facebook servicos online do brasil ltda.",
+        "percentual": 4.09
+      }
+    ],
+    "raw": {
+      "nome_pagina": "Zema",
+      "partido_pagina": "NOVO",
+      "numero_pagina": 30,
+      "profissao": "Empresário",
+      "cor_etnia": "Branca",
+      "grau_instrucao": "Superior completo",
+      "plano_governo_url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280016919931",
+      "foto_url_original": "https://s2-g1.glbimg.com/AaRQkLczN7c2auxbdOLjbuo9o8U=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/V/LLwH4XScuIJFf2aQWQxQ/zema.jpeg",
+      "historico": [
+        {
+          "ano": 2022,
+          "cargo": "Governador",
+          "partido": "NOVO",
+          "resultado": "Eleito"
+        },
+        {
+          "ano": 2018,
+          "cargo": "Governador",
+          "partido": "NOVO",
+          "resultado": "Eleito"
+        }
+      ],
+      "bens_brutos": [
+        "Quotas ou quinhões de capital R$ 94.498.898,00 Participação em holding familiar",
+        "Quotas ou quinhões de capital R$ 47.000,00 Participação em empresa imobiliária",
+        "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado R$ 56.218.194,15 Fundo de investimento multimercado",
+        "Fundo de longo prazo e fundo de investimentos em direitos creditórios (fidc) R$ 362,56 Fundo de investimento renda fixa",
+        "Quotas ou quinhões de capital R$ 3.959,16 Quotas ou quinhões de capital",
+        "Depósito bancário em conta corrente no país R$ 9.848,34 Conta corrente em cooperativa",
+        "Depósito bancário em conta corrente no país R$ 14,86 Conta corrente em cooperativa",
+        "Quotas ou quinhões de capital R$ 393.000,00 Quotas em cooperativa de crédito",
+        "Quotas ou quinhões de capital R$ 16.834.806,00 Participação em instituição financeira",
+        "Terreno R$ 70.000,00 Terreno recebido em doação",
+        "Casa R$ 704.864,25 Imóvel residencial reformado",
+        "Quotas ou quinhões de capital R$ 3.666.680,00 Participação em seguradora",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 337.400,33 Aplicação em cdb",
+        "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado R$ 1.556.006,67 Fundo de investimento em ações",
+        "Caderneta de poupança R$ 119,02 Poupança bancária",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 3.964.283,93 Aplicação de renda fixa",
+        "Aplicação de renda fixa (cdb, rdb e outros) R$ 4.306,56 Fundo de investimento renda fixa",
+        "Fundos: ações, mútuos de privatização, invest. empresas emergentes, invest.participação e invest. índice mercado R$ 397.866,26 Fundo de investimento em cotas"
+      ],
+      "vice_nome": "Eduardo Girão",
+      "vice_partido": "NOVO",
+      "receitas_total": 4496568.61,
+      "despesas_total": 4160910.43,
+      "limite_gastos": 88944030.8,
+      "doadores": [
+        {
+          "nome": "Direção Nacional - Novo",
+          "percentual": 91.18
+        },
+        {
+          "nome": "Renato Ribeiro Machado",
+          "percentual": 4.45
+        },
+        {
+          "nome": "Direção Estadual/distrital - Novo - Minas Gerais",
+          "percentual": 2.15
+        },
+        {
+          "nome": "Salo Davi Seibel",
+          "percentual": 1.11
+        },
+        {
+          "nome": "Helio Seibel",
+          "percentual": 1.11
+        },
+        {
+          "nome": "reframe it consultoria e intermediacao ltda",
+          "percentual": 22.35
+        },
+        {
+          "nome": "triton consultoria ltda",
+          "percentual": 10.81
+        },
+        {
+          "nome": "jonathas alpoim severino da silva bezerra carvalho ltda",
+          "percentual": 7.79
+        },
+        {
+          "nome": "bessoni & fortes sociedade de advogados",
+          "percentual": 7.21
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 4.09
+        }
+      ],
+      "gastos": [
+        {
+          "nome": "reframe it consultoria e intermediacao ltda",
+          "percentual": 22.35
+        },
+        {
+          "nome": "triton consultoria ltda",
+          "percentual": 10.81
+        },
+        {
+          "nome": "jonathas alpoim severino da silva bezerra carvalho ltda",
+          "percentual": 7.79
+        },
+        {
+          "nome": "bessoni & fortes sociedade de advogados",
+          "percentual": 7.21
+        },
+        {
+          "nome": "facebook servicos online do brasil ltda.",
+          "percentual": 4.09
+        }
+      ],
+      "fonte_atualizado_em": "18/09/2026 • Atualizado há 1 dia\n\nDados"
+    },
+    "foto_local": "/uploads/candidatos/zema.jpeg",
+    "tse": {
+      "tse_encontrado": false,
+      "tse_base": null
+    },
+    "coletado_em": "2026-09-20T00:18:09.712Z"
+  }
+]

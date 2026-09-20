@@ -1,0 +1,18 @@
+import { Navigate, Route, Routes } from 'react-router-dom';
+import Layout from './components/Layout.jsx';
+import Comparador from './pages/Comparador.jsx';
+import Home from './pages/Home.jsx';
+import Perfil from './pages/Perfil.jsx';
+import Rankings from './pages/Rankings.jsx';
+
+export default function App() {
+  return (
+    <Routes>
+      <Route path="/" element={<Navigate to="/presidente" replace />} />
+      <Route path="/:cargo" element={<Layout><Home /></Layout>} />
+      <Route path="/:cargo/comparar" element={<Layout><Comparador /></Layout>} />
+      <Route path="/:cargo/rankings" element={<Layout><Rankings /></Layout>} />
+      <Route path="/:cargo/:slug" element={<Layout><Perfil /></Layout>} />
+    </Routes>
+  );
+}
