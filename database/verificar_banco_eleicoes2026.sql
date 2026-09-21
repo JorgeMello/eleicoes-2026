@@ -26,9 +26,9 @@ SELECT '3. candidatos_tse', COUNT(*), 'Auditorias e tetos legais homologados pel
 UNION ALL
 SELECT '4. bens', COUNT(*), '69.729 bens patrimoniais declarados (38.317 de Dep. Estadual e 27.524 de Dep. Federal)' FROM bens
 UNION ALL
-SELECT '5. doadores', COUNT(*), '2.278 receitas e doações de campanha' FROM doadores
+SELECT '5. doadores', COUNT(*), '3.470 receitas e doações de campanha' FROM doadores
 UNION ALL
-SELECT '6. gastos', COUNT(*), '2.165 despesas e fornecedores declarados' FROM gastos
+SELECT '6. gastos', COUNT(*), '3.743 despesas e fornecedores declarados' FROM gastos
 UNION ALL
 SELECT '7. candidaturas_anteriores', COUNT(*), '115 históricos eleitorais prévios' FROM candidaturas_anteriores
 UNION ALL
@@ -40,7 +40,7 @@ SELECT '10. institutos', COUNT(*), 'Institutos de pesquisa estatística' FROM in
 UNION ALL
 SELECT '11. coletas', COUNT(*), 'Logs de execução de scrapers' FROM coletas
 UNION ALL
-SELECT '12. migrations', COUNT(*), '15 migrações do CodeIgniter 4' FROM migrations;
+SELECT '12. migrations', COUNT(*), '16 migrações do CodeIgniter 4' FROM migrations;
 
 -- ------------------------------------------------------------------------------
 -- 3. AUDITORIA ELEITORAL POR CARGO E VALIDAÇÃO TSE (100% HOMOLOGADO)
@@ -84,12 +84,12 @@ GROUP BY c.uf
 ORDER BY total_candidatos DESC;
 
 -- ------------------------------------------------------------------------------
--- 6. CONFERÊNCIA DOS ÍNDICES B-TREE DE ALTA PERFORMANCE (Rankings e Rolagem)
+-- 6. CONFERÊNCIA DOS ÍNDICES B-TREE DE ALTA PERFORMANCE (Filtros, Ordenação e Rankings)
 -- ------------------------------------------------------------------------------
 SELECT TABLE_NAME, INDEX_NAME, COLUMN_NAME, SEQ_IN_INDEX
 FROM INFORMATION_SCHEMA.STATISTICS
 WHERE TABLE_SCHEMA = 'eleicoes' 
-  AND INDEX_NAME LIKE 'idx_cand_rank%'
+  AND (INDEX_NAME LIKE 'idx_cand_%' OR INDEX_NAME LIKE 'idx_bens_%')
 ORDER BY TABLE_NAME, INDEX_NAME, SEQ_IN_INDEX;
 
 
