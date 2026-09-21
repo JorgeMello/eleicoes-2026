@@ -52,6 +52,9 @@ export default function Layout({ children }) {
             <NavLink to="/manual" className={({ isActive }) => `rounded px-3 py-1.5 ${isActive ? 'bg-white/15' : 'hover:bg-white/10'}`}>
               Manual
             </NavLink>
+            <NavLink to="/sobre" className={({ isActive }) => `rounded px-3 py-1.5 ${isActive ? 'bg-white/15' : 'hover:bg-white/10'}`}>
+              Sobre
+            </NavLink>
             <a
               href="https://github.com/JorgeMello/eleicoes-2026"
               target="_blank"
@@ -73,6 +76,8 @@ export default function Layout({ children }) {
               const ehCargoAtivo =
                 location.pathname !== '/pesquisas' &&
                 location.pathname !== '/manual' &&
+                location.pathname !== '/sobre' &&
+                location.pathname !== '/landing' &&
                 (cargo === c.id || location.pathname.startsWith(`/${c.id}`));
               return (
                 <NavLink
@@ -135,16 +140,20 @@ export default function Layout({ children }) {
                 <span>Repositório</span>
               </a>
 
-              <a
-                href="https://eleicoes.osidosos.com.br"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-1.5 rounded-lg border border-slate-200 bg-slate-50 px-3 py-2 font-medium text-slate-700 hover:border-blue-300 hover:bg-blue-50 hover:text-blue-600 dark:border-slate-700 dark:bg-slate-800/80 dark:text-slate-300 dark:hover:border-blue-500/50 dark:hover:bg-slate-800 dark:hover:text-blue-400 transition-all shadow-sm"
-                title="Landing Page Oficial da Plataforma"
+              <NavLink
+                to="/sobre"
+                className={({ isActive }) =>
+                  `inline-flex items-center gap-1.5 rounded-lg border px-3 py-2 font-medium transition-all shadow-sm ${
+                    isActive
+                      ? 'border-blue-500 bg-blue-50 text-blue-700 dark:border-blue-500 dark:bg-blue-950/60 dark:text-blue-300'
+                      : 'border-slate-200 bg-slate-50 text-slate-700 hover:border-blue-300 hover:bg-blue-50 hover:text-blue-600 dark:border-slate-700 dark:bg-slate-800/80 dark:text-slate-300 dark:hover:border-blue-500/50 dark:hover:bg-slate-800 dark:hover:text-blue-400'
+                  }`
+                }
+                title="Landing Page Oficial da Plataforma · Soberania Cívica e Dados Abertos"
               >
                 <GlobeIcon className="h-4 w-4 text-blue-500 shrink-0" />
-                <span>Landing Page</span>
-              </a>
+                <span>Sobre o Projeto</span>
+              </NavLink>
 
               <a
                 href="https://cuidador.xyz/"
