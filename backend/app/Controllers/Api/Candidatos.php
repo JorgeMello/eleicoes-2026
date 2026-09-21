@@ -222,6 +222,55 @@ class Candidatos extends BaseController
     }
 
     /**
+     * Endpoint ultra-rápido e leve para seletores/dropdowns (Comparador, filtros)
+     * Retorna apenas colunas essenciais ordenadas por nome, resolvido no índice B-Tree
+     */
+    public function seletor(): ResponseInterface
+    {
+        $cargo   = $this->request->getGet('cargo') ?? 'presidente';
+        $uf      = trim((string) ($this->request->getGet('uf') ?? ''));
+        $regiao  = trim((string) ($this->request->getGet('regiao') ?? ''));
+        $busca   = trim((string) ($this->request->getGet('busca') ?? ''));
+        $partido = trim((string) ($this->request->getGet('partido') ?? ''));
+
+        $model = new CandidatoModel();
+        $builder = $model->select('id, slug, nome, numero, partido, cargo, uf, foto_local, foto_url_original')
+            ->where('cargo', $cargo);
+
+        if ($uf !== '') {
+            if (str_contains($uf, ',')) {
+                $builder = $builder->whereIn('uf', array_filter(array_map('trim', explode(',', $uf))));
+            } else {
+                $builder = $builder->where('uf', $uf);
+            }
+        } elseif ($regiao !== '' && isset(self::REGIOES_MAP[$regiao])) {
+            $builder = $builder->whereIn('uf', self::REGIOES_MAP[$regiao]);
+        }
+
+        if ($busca !== '') {
+            $builder = $builder->groupStart()
+                ->like('nome', $busca)
+                ->orLike('numero', $busca)
+                ->groupEnd();
+        }
+
+        if ($partido !== '') {
+            $builder = $builder->where('partido', $partido);
+        }
+
+        $builder->orderBy('nome', 'ASC');
+
+        $rows = $builder->findAll();
+
+        $json = json_encode($rows, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+        return $this->response
+            ->setHeader('Cache-Control', 'public, max-age=300, stale-while-revalidate=600')
+            ->setHeader('ETag', '"' . md5($json) . '"')
+            ->setContentType('application/json')
+            ->setBody($json);
+    }
+
+    /**
      * Mascara documento conforme LGPD:
      * CPF (11 dígitos): ***.123.456-** (protege privacidade de cidadãos)
      * CNPJ (14 dígitos): mantido completo para transparência pública de pessoas jurídicas
@@ -238,3 +287,4 @@ class Candidatos extends BaseController
         return $doc;
     }
 }
+

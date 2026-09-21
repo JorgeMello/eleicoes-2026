@@ -170,7 +170,7 @@ export default function Comparador() {
       ...(cargo === 'dep-federal' && !uf ? { uf: 'SP' } : {}),
       ...(cargo === 'dep-estadual' && !uf ? { uf: 'SP' } : {}),
     };
-    api.candidatos(cargo, params)
+    api.candidatosSeletor(cargo, params)
       .then((res) => {
         const itens = Array.isArray(res) ? res : res?.dados || [];
         setLista(itens);
