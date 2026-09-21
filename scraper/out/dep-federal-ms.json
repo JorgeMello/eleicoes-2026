@@ -13,7 +13,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002552173",
@@ -29,7 +33,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002549690",
@@ -45,7 +53,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Comerciante",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002538787",
@@ -61,7 +73,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002537460",
@@ -77,7 +93,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Vereador",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002536280",
@@ -93,7 +113,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002536284",
@@ -109,7 +133,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002538947",
@@ -125,7 +153,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002537355",
@@ -141,7 +173,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Deputado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002535260",
@@ -157,7 +193,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Professor de ensino fundamental",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002549684",
@@ -173,7 +213,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Empresário",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002532717",
@@ -189,7 +233,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Aposentado (exceto servidor público)",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002537465",
@@ -205,7 +253,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Deputado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002535257",
@@ -221,7 +273,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Bombeiro militar",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002538790",
@@ -237,7 +293,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002534960",
@@ -253,7 +313,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Manicure e maquilador",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino fundamental completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002545236",
@@ -269,7 +333,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Servidor público municipal",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002536283",
@@ -285,7 +353,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Psicólogo",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002552174",
@@ -301,7 +373,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Contador",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002545242",
@@ -317,7 +393,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Outros",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002550718",
@@ -333,7 +413,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Aposentado (exceto servidor público)",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino fundamental incompleto",
+    "genero": "Masculino"
   },
   {
     "slug": "120002532718",
@@ -349,7 +433,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Professor de ensino fundamental",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002534955",
@@ -365,7 +453,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Servidor público municipal",
+    "cor_etnia": "Indígena",
+    "grau_instrucao": "Superior incompleto",
+    "genero": "Masculino"
   },
   {
     "slug": "120002537357",
@@ -381,7 +473,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Bombeiro militar",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002554219",
@@ -397,7 +493,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Vigilante",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior incompleto",
+    "genero": "Não informado"
   },
   {
     "slug": "120002538791",
@@ -413,7 +513,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002538792",
@@ -429,7 +533,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Servidor público civil aposentado",
+    "cor_etnia": "Amarela",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002552952",
@@ -445,7 +553,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Estudante, bolsista, estagiário e assemelhados",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002538950",
@@ -461,7 +573,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Administrador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002550717",
@@ -477,7 +593,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002538786",
@@ -493,7 +613,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Médico",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002537358",
@@ -509,7 +633,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Médico",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002535259",
@@ -525,7 +653,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Médico",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002538789",
@@ -541,7 +673,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002534959",
@@ -557,7 +693,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Vendedor pracista, representante, caixeiro-viajante e assemelhados",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio incompleto",
+    "genero": "Feminino"
   },
   {
     "slug": "120002552179",
@@ -573,7 +713,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino fundamental completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002537462",
@@ -589,7 +733,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Aposentado (exceto servidor público)",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002537463",
@@ -605,7 +753,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Indígena",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002532713",
@@ -621,7 +773,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Professor de ensino fundamental",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002532711",
@@ -637,7 +793,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Geógrafo",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002549683",
@@ -653,7 +813,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002550715",
@@ -669,7 +833,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Enfermeiro",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002538945",
@@ -685,7 +853,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Agrônomo",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002538784",
@@ -701,7 +873,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Deputado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002544957",
@@ -717,7 +893,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Empresário",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002536285",
@@ -733,7 +913,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Engenheiro",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002537464",
@@ -749,7 +933,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Professor de ensino superior",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002532715",
@@ -765,7 +953,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Produtor de espetáculos públicos",
+    "cor_etnia": "Indígena",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002537356",
@@ -781,7 +973,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Vereador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino fundamental incompleto",
+    "genero": "Feminino"
   },
   {
     "slug": "120002550712",
@@ -797,7 +993,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Professor de ensino fundamental",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002537361",
@@ -813,7 +1013,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Economista",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002552177",
@@ -829,7 +1033,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino fundamental incompleto",
+    "genero": "Masculino"
   },
   {
     "slug": "120002549688",
@@ -845,7 +1053,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Economista",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002554312",
@@ -861,7 +1073,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Outros",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002552948",
@@ -877,7 +1093,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Outros",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Ensino fundamental incompleto",
+    "genero": "Não informado"
   },
   {
     "slug": "120002534956",
@@ -893,7 +1113,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Técnico contabilidade, estatística, economia doméstica e administração",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002552178",
@@ -909,7 +1133,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Servidor público federal",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino fundamental completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002538785",
@@ -925,7 +1153,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Jornalista e redator",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior incompleto",
+    "genero": "Feminino"
   },
   {
     "slug": "120002544960",
@@ -941,7 +1173,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Estudante, bolsista, estagiário e assemelhados",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002532710",
@@ -957,7 +1193,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Outros",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002536287",
@@ -973,7 +1213,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002544959",
@@ -989,7 +1233,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Estudante, bolsista, estagiário e assemelhados",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior incompleto",
+    "genero": "Masculino"
   },
   {
     "slug": "120002552176",
@@ -1005,7 +1253,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Empresário",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002552946",
@@ -1021,7 +1273,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior incompleto",
+    "genero": "Não informado"
   },
   {
     "slug": "120002549691",
@@ -1037,7 +1293,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Despachante",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002552689",
@@ -1053,7 +1313,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Outros",
+    "cor_etnia": "Indígena",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002545238",
@@ -1069,7 +1333,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Agrônomo",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002552949",
@@ -1085,7 +1353,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior incompleto",
+    "genero": "Masculino"
   },
   {
     "slug": "120002532716",
@@ -1101,7 +1373,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Servidor público estadual",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002538952",
@@ -1117,7 +1393,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Aposentado (exceto servidor público)",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002536286",
@@ -1133,7 +1413,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Odontólogo",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002536282",
@@ -1149,7 +1433,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002552947",
@@ -1165,7 +1453,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002537466",
@@ -1181,7 +1473,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002544956",
@@ -1197,7 +1493,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Vendedor de comércio varejista e atacadista",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002552180",
@@ -1213,7 +1513,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002544958",
@@ -1229,7 +1533,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Auxiliar de escritório e assemelhados",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior incompleto",
+    "genero": "Não informado"
   },
   {
     "slug": "120002545234",
@@ -1245,7 +1553,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002537360",
@@ -1261,7 +1573,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Corretor de imóveis, seguros, títulos e valores",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002535258",
@@ -1277,7 +1593,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002537362",
@@ -1293,7 +1613,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Vereador",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior incompleto",
+    "genero": "Masculino"
   },
   {
     "slug": "120002538949",
@@ -1309,7 +1633,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002537359",
@@ -1325,7 +1653,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Bombeiro militar",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002532712",
@@ -1341,7 +1673,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Professor de ensino fundamental",
+    "cor_etnia": "Indígena",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002545239",
@@ -1357,7 +1693,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Servidor público federal",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002535263",
@@ -1373,7 +1713,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Vereador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002550716",
@@ -1389,7 +1733,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Pedagogo",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002535261",
@@ -1405,7 +1753,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Comerciante",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior incompleto",
+    "genero": "Feminino"
   },
   {
     "slug": "120002552688",
@@ -1421,7 +1773,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Trabalhador rural",
+    "cor_etnia": "Indígena",
+    "grau_instrucao": "Ensino fundamental incompleto",
+    "genero": "Masculino"
   },
   {
     "slug": "120002552950",
@@ -1437,7 +1793,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002552181",
@@ -1453,7 +1813,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Cozinheiro",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002549686",
@@ -1469,7 +1833,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Publicitário",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002535264",
@@ -1485,7 +1853,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Vereador",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002537363",
@@ -1501,7 +1873,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Engenheiro",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002537467",
@@ -1517,7 +1893,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Aposentado (exceto servidor público)",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002536281",
@@ -1533,7 +1913,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Pecuarista",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002544961",
@@ -1549,7 +1933,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002549689",
@@ -1565,7 +1953,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Comerciante",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002552687",
@@ -1581,7 +1973,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Estudante, bolsista, estagiário e assemelhados",
+    "cor_etnia": "Indígena",
+    "grau_instrucao": "Ensino médio incompleto",
+    "genero": "Feminino"
   },
   {
     "slug": "120002538788",
@@ -1597,7 +1993,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Professor de ensino médio",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002538953",
@@ -1613,7 +2013,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Servidor público estadual",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002550711",
@@ -1629,7 +2033,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Odontólogo",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002538946",
@@ -1645,7 +2053,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Corretor de imóveis, seguros, títulos e valores",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002537468",
@@ -1661,7 +2073,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Masculino"
   },
   {
     "slug": "120002545240",
@@ -1677,7 +2093,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Policial militar",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior incompleto",
+    "genero": "Masculino"
   },
   {
     "slug": "120002535262",
@@ -1693,7 +2113,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Técnico de enfermagem e assemelhados (exceto enfermeiro)",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002552953",
@@ -1709,7 +2133,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Empresário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002550714",
@@ -1725,7 +2153,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002545237",
@@ -1741,7 +2173,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Bombeiro militar",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002549687",
@@ -1757,7 +2193,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Técnico de enfermagem e assemelhados (exceto enfermeiro)",
+    "cor_etnia": "Indígena",
+    "grau_instrucao": "Superior incompleto",
+    "genero": "Masculino"
   },
   {
     "slug": "120002552951",
@@ -1773,7 +2213,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Policial militar",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Superior completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002536288",
@@ -1789,7 +2233,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Membro das forças armadas",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002550713",
@@ -1805,7 +2253,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Motorista de veículos de transporte coletivo de passageiros",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002545235",
@@ -1821,7 +2273,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Securitário",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002538951",
@@ -1837,7 +2293,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Jornalista e redator",
+    "cor_etnia": "Preta",
+    "grau_instrucao": "Superior incompleto",
+    "genero": "Masculino"
   },
   {
     "slug": "120002535265",
@@ -1853,7 +2313,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Antropólogo",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior completo",
+    "genero": "Feminino"
   },
   {
     "slug": "120002538948",
@@ -1869,7 +2333,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Advogado",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Superior incompleto",
+    "genero": "Masculino"
   },
   {
     "slug": "120002545241",
@@ -1885,7 +2353,11 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Administrador",
+    "cor_etnia": "Parda",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Não informado"
   },
   {
     "slug": "120002552945",
@@ -1901,6 +2373,10 @@
     "bens": [],
     "doadores": [],
     "gastos": [],
-    "historico": []
+    "historico": [],
+    "profissao": "Agricultor",
+    "cor_etnia": "Branca",
+    "grau_instrucao": "Ensino médio completo",
+    "genero": "Não informado"
   }
 ]

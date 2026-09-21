@@ -417,13 +417,26 @@ export default function Perfil() {
           <PlanoGovernoCard c={c} tse={tse} />
 
           <div className="grid gap-3 md:grid-cols-2">
-            <div className="rounded-xl border bg-white p-4 dark:border-slate-700 dark:bg-slate-900">
-              <h2 className="mb-2 text-sm font-bold text-slate-900 dark:text-white">Perfil e Dados Pessoais</h2>
+            <div className="rounded-xl border border-slate-200 bg-white p-4 shadow-2xs dark:border-slate-800 dark:bg-slate-900">
+              <div className="mb-3 flex items-center justify-between border-b border-slate-100 pb-2.5 dark:border-slate-800">
+                <div className="flex items-center gap-2">
+                  <span className="flex h-6 w-6 items-center justify-center rounded-md bg-blue-50 text-blue-600 dark:bg-blue-950/50 dark:text-blue-400">
+                    <svg className="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+                    </svg>
+                  </span>
+                  <h2 className="text-sm font-bold text-slate-900 dark:text-white">Perfil e Dados Pessoais</h2>
+                </div>
+                <span className="inline-flex items-center gap-1 rounded-full bg-emerald-50 px-2 py-0.5 text-[11px] font-medium text-emerald-700 dark:bg-emerald-950/40 dark:text-emerald-400">
+                  <span className="h-1.5 w-1.5 rounded-full bg-emerald-500"></span>
+                  Registro Oficial TSE
+                </span>
+              </div>
               <Linha k="Profissão" v={c.profissao} />
               <Linha k="Cor/etnia" v={c.cor_etnia} />
               <Linha k="Instrução" v={c.grau_instrucao} />
               <Linha k="Gênero" v={c.genero} />
-              <Linha k="Coletado em" v={c.coletado_em} />
+              <Linha k="Coletado em" v={c.coletado_em ? new Date(c.coletado_em).toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', year: 'numeric' }) : '—'} />
               <Linha k="Fonte Primária" v="TSE / DivulgaCandContas" />
             </div>
             <div className="rounded-xl border bg-white p-4 dark:border-slate-700 dark:bg-slate-900">
