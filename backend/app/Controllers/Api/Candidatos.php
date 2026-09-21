@@ -84,19 +84,25 @@ class Candidatos extends BaseController
         ];
         [$col, $dir] = $orderMap[$ordenar] ?? $orderMap['nome'];
 
-        $page     = (int) ($this->request->getGet('page') ?? $this->request->getGet('pagina') ?? 0);
-        $limite   = (int) ($this->request->getGet('limite') ?? $this->request->getGet('limit') ?? $this->request->getGet('por_pagina') ?? 0);
-        $envelope = $this->request->getGet('envelope') === '1' || $this->request->getGet('envelope') === 'true';
+        $pageParam     = $this->request->getGet('page') ?? $this->request->getGet('pagina');
+        $limiteParam   = $this->request->getGet('limite') ?? $this->request->getGet('limit') ?? $this->request->getGet('por_pagina');
+        $envelopeParam = $this->request->getGet('envelope');
 
         $builder = $builder->orderBy($col, $dir);
 
-        if ($page > 0 || $limite > 0) {
-            $limite = $limite > 0 ? min($limite, 200) : 30;
-            $page   = max(1, $page);
+        // Se parâmetros de paginação ou envelope forem fornecidos, ativa paginação com padrão ouro de 30 itens
+        $isPaginado = ($pageParam !== null || $limiteParam !== null || $envelopeParam === '1' || $envelopeParam === 'true');
+
+        if ($isPaginado) {
+            $limite   = $limiteParam !== null ? (int) $limiteParam : 30;
+            $limite   = max(1, min($limite, 200));
+            $page     = max(1, (int) ($pageParam ?? 1));
+            $envelope = $envelopeParam !== '0' && $envelopeParam !== 'false';
+
             $total  = (clone $builder)->countAllResults(false);
             $offset = ($page - 1) * $limite;
             $rows   = $builder->findAll($limite, $offset);
-            $totalPaginas = (int) ceil($total / $limite);
+            $totalPaginas = (int) max(1, ceil($total / $limite));
 
             $payload = $envelope
                 ? [
@@ -128,6 +134,7 @@ class Candidatos extends BaseController
         $json = json_encode($rows);
         return $this->response
             ->setHeader('Cache-Control', 'public, max-age=180, stale-while-revalidate=300')
+            ->setHeader('X-Total-Count', (string) count($rows))
             ->setHeader('ETag', '"' . md5($json) . '"')
             ->setContentType('application/json')
             ->setBody($json);

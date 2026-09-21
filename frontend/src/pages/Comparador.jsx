@@ -335,7 +335,7 @@ export default function Comparador() {
                 const jaEscolhido = outros.includes(c.slug);
                 return (
                   <option
-                    key={c.slug}
+                    key={c.id || `${c.uf}-${c.slug}`}
                     value={c.slug}
                     disabled={jaEscolhido}
                     className={jaEscolhido ? 'text-slate-400 dark:text-slate-500' : ''}

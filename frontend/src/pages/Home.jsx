@@ -534,15 +534,11 @@ export default function Home() {
 
       {loading && lista.length === 0 ? (
         <div className="space-y-4">
-          <div className="flex items-center gap-3 rounded-xl border border-emerald-200 bg-emerald-50/70 p-4 text-emerald-900 shadow-sm dark:border-emerald-900/40 dark:bg-emerald-950/30 dark:text-emerald-200">
-            <svg className="h-5 w-5 animate-spin text-emerald-600 dark:text-emerald-400 shrink-0" viewBox="0 0 24 24" fill="none">
-              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
-              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8H4z" />
-            </svg>
-            <div className="text-sm">
-              <span className="font-semibold">Carregando candidaturas homologadas...</span>
-              <span className="block text-xs text-emerald-700 dark:text-emerald-300">Consultando registros do TSE e dados patrimoniais em tempo real.</span>
-            </div>
+          <div className="flex items-center gap-3 rounded-xl border border-emerald-100 bg-emerald-50/50 p-4 dark:border-emerald-900/30 dark:bg-emerald-950/20">
+            <div className="h-5 w-5 animate-spin rounded-full border-2 border-emerald-600 border-t-transparent" />
+            <span className="text-sm font-medium text-emerald-900 dark:text-emerald-200">
+              Carregando candidaturas homologadas pelo TSE... Por favor, aguarde.
+            </span>
           </div>
           <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
             {Array.from({ length: 9 }).map((_, i) => (
@@ -581,7 +577,7 @@ export default function Home() {
                   className="inline-flex items-center gap-2 rounded-xl border border-slate-300 bg-white px-5 py-2.5 text-sm font-semibold text-slate-700 shadow-sm transition hover:bg-slate-50 hover:text-emerald-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700"
                 >
                   <span>Carregar mais candidatos (+30)</span>
-                  <span className="text-xs text-slate-400">({lista.length} de {totalGeral.toLocaleString('pt-BR')})</span>
+                  <span className="text-xs text-slate-400">({lista.length.toLocaleString('pt-BR')} de {totalGeral.toLocaleString('pt-BR')})</span>
                 </button>
               )}
               {!temMais && totalGeral > 0 && (
@@ -604,9 +600,9 @@ export default function Home() {
           <span className="flex -space-x-3">
             {trioComparar.map((c, i) =>
               fotoUrl(c) ? (
-                <img key={c.slug} src={fotoUrl(c)} alt="" aria-hidden="true" style={{ zIndex: trioComparar.length - i }} className="relative h-9 w-9 rounded-full border-2 border-white object-cover dark:border-slate-900" loading="lazy" />
+                <img key={c.id || `${c.uf}-${c.slug}`} src={fotoUrl(c)} alt="" aria-hidden="true" style={{ zIndex: trioComparar.length - i }} className="relative h-9 w-9 rounded-full border-2 border-white object-cover dark:border-slate-900" loading="lazy" />
               ) : (
-                <span key={c.slug} aria-hidden="true" style={{ zIndex: trioComparar.length - i }} className="relative flex h-9 w-9 items-center justify-center rounded-full border-2 border-white bg-slate-500 text-sm font-bold text-white dark:border-slate-900">
+                <span key={c.id || `${c.uf}-${c.slug}`} aria-hidden="true" style={{ zIndex: trioComparar.length - i }} className="relative flex h-9 w-9 items-center justify-center rounded-full border-2 border-white bg-slate-500 text-sm font-bold text-white dark:border-slate-900">
                   {(c.nome || '?')[0]}
                 </span>
               )

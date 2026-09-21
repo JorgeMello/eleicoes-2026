@@ -169,7 +169,7 @@ export default function Rankings() {
       </ResponsiveContainer>
       <ul className="mt-3 divide-y divide-slate-100 text-sm dark:divide-slate-800">
         {rows.map((c) => (
-          <li key={c.slug} className="flex items-center justify-between gap-2 py-1.5">
+          <li key={c.id || `${c.uf}-${c.slug}`} className="flex items-center justify-between gap-2 py-1.5">
             <Link to={`/${cargo}/${c.slug}`} className="truncate text-blue-700 hover:underline dark:text-blue-400">
               {c.nome} <span className="text-xs text-slate-500 dark:text-slate-400">({c.partido} {c.numero})</span>
             </Link>

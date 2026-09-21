@@ -12,9 +12,13 @@ class Rankings extends BaseController
 
     private function responderComCache(array $dados): ResponseInterface
     {
+        $json = json_encode($dados);
         return $this->response
-            ->setHeader('Cache-Control', 'public, max-age=120, stale-while-revalidate=300')
-            ->setJSON($dados);
+            ->setHeader('Cache-Control', 'public, max-age=180, stale-while-revalidate=300')
+            ->setHeader('X-Total-Count', (string) count($dados))
+            ->setHeader('ETag', '"' . md5($json) . '"')
+            ->setContentType('application/json')
+            ->setBody($json);
     }
 
     public function patrimonio(): ResponseInterface
