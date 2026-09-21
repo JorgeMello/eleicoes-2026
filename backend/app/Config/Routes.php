@@ -11,6 +11,7 @@ $routes->group('api', ['filter' => 'cors'], static function ($routes) {
         return response()->setStatusCode(204);
     });
     $routes->get('candidatos', 'Api\Candidatos::index');
+    $routes->get('candidatos/seletor', 'Api\Candidatos::seletor');
     $routes->get('candidatos/(:segment)', 'Api\Candidatos::show/$1');
     $routes->get('candidatos/(:segment)/bens', 'Api\Candidatos::bens/$1');
     $routes->get('rankings/patrimonio', 'Api\Rankings::patrimonio');

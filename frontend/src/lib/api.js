@@ -84,6 +84,10 @@ export const api = {
     const q = new URLSearchParams({ cargo, ...params });
     return get(`/candidatos?${q}`);
   },
+  candidatosSeletor: (cargo, params = {}) => {
+    const q = new URLSearchParams({ cargo, ...params });
+    return get(`/candidatos/seletor?${q}`);
+  },
   candidato: (slug) => get(`/candidatos/${slug}`),
   bens: (slug) => get(`/candidatos/${slug}/bens`),
   rankingPatrimonio: (cargo, params = {}) => {
