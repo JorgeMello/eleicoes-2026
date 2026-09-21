@@ -20,7 +20,7 @@ export async function coletarPerfil(page, item) {
     const mainTxt = document.querySelector('main')?.innerText || '';
     const escopo = mainTxt.length > 200 ? mainTxt : body;
     const nome = txt('main h2') || txt('h2');
-    const partidoNum = escopo.match(/([A-ZÇÃÕÉ]{2,15})\s*(\d{1,3})/);
+    const partidoNum = escopo.match(/([A-ZÇÃÕÉ]{2,15})\s*(\d{1,5})/);
     const plano = document.querySelector('a[href*="divulgacandcontas"]')?.href ?? null;
 
     // Histórico: linhas "2022 Presidente PT Eleito"

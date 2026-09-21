@@ -6,11 +6,20 @@ export const BASE_PERFIL = `${BASE}/presidente/`;
 
 export const UFS = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO'];
 
+/** Mapeia nomes internos para caminhos no portal G1 */
+export function g1CargoSlug(cargo = 'presidente') {
+  const c = cargo.toLowerCase();
+  if (c === 'dep-federal') return 'deputado-federal';
+  if (c === 'dep-estadual') return 'deputado-estadual';
+  return c;
+}
+
 /** URL da lista: nacional (presidente) ou por UF (demais cargos). */
 export function urlLista(cargo = 'presidente', uf = null) {
   const c = cargo.toLowerCase();
-  if (!uf || c === 'presidente') return `${BASE}/${c}.ghtml`;
-  return `${BASE}/${c}/${uf.toLowerCase()}.ghtml`;
+  const g1Cargo = g1CargoSlug(c);
+  if (!uf || c === 'presidente') return `${BASE}/${g1Cargo}.ghtml`;
+  return `${BASE}/${g1Cargo}/${uf.toLowerCase()}.ghtml`;
 }
 
 export function novoBrowser() {
@@ -19,9 +28,10 @@ export function novoBrowser() {
 
 export async function coletarLista(page, { cargo = 'presidente', uf = null } = {}) {
   const c = cargo.toLowerCase();
+  const g1Cargo = g1CargoSlug(c);
   const url = urlLista(c, uf);
   await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
-  await page.waitForSelector(`a[href*="/${c}/"]`, { timeout: 30000 });
+  await page.waitForSelector(`a[href*="/${g1Cargo}/"]`, { timeout: 30000 });
 
   const cards = await page.evaluate((cargoNome) => {
     const sel = `a[href*="/${cargoNome}/"]`;
@@ -50,7 +60,7 @@ export async function coletarLista(page, { cargo = 'presidente', uf = null } = {
         };
       })
       .filter(Boolean);
-  }, c);
+  }, g1Cargo);
 
   // Deduplica por slug
   const unicos = [...new Map(cards.map((x) => [x.slug, x])).values()];

@@ -83,8 +83,48 @@ class Candidatos extends BaseController
             'patrimonio_asc'  => ['patrimonio_total', 'ASC'],
         ];
         [$col, $dir] = $orderMap[$ordenar] ?? $orderMap['nome'];
-        $rows = $builder->orderBy($col, $dir)->findAll();
 
+        $page     = (int) ($this->request->getGet('page') ?? $this->request->getGet('pagina') ?? 0);
+        $limite   = (int) ($this->request->getGet('limite') ?? $this->request->getGet('limit') ?? $this->request->getGet('por_pagina') ?? 0);
+        $envelope = $this->request->getGet('envelope') === '1' || $this->request->getGet('envelope') === 'true';
+
+        $builder = $builder->orderBy($col, $dir);
+
+        if ($page > 0 || $limite > 0) {
+            $limite = $limite > 0 ? min($limite, 200) : 30;
+            $page   = max(1, $page);
+            $total  = (clone $builder)->countAllResults(false);
+            $offset = ($page - 1) * $limite;
+            $rows   = $builder->findAll($limite, $offset);
+            $totalPaginas = (int) ceil($total / $limite);
+
+            $payload = $envelope
+                ? [
+                    'dados'         => $rows,
+                    'paginacao'     => [
+                        'pagina_atual'   => $page,
+                        'por_pagina'     => $limite,
+                        'total_registros'=> $total,
+                        'total_paginas'  => $totalPaginas,
+                        'tem_proxima'    => $page < $totalPaginas,
+                        'tem_anterior'   => $page > 1,
+                    ],
+                ]
+                : $rows;
+
+            $json = json_encode($payload);
+            return $this->response
+                ->setHeader('Cache-Control', 'public, max-age=180, stale-while-revalidate=300')
+                ->setHeader('X-Total-Count', (string) $total)
+                ->setHeader('X-Page', (string) $page)
+                ->setHeader('X-Per-Page', (string) $limite)
+                ->setHeader('X-Total-Pages', (string) $totalPaginas)
+                ->setHeader('ETag', '"' . md5($json) . '"')
+                ->setContentType('application/json')
+                ->setBody($json);
+        }
+
+        $rows = $builder->findAll();
         $json = json_encode($rows);
         return $this->response
             ->setHeader('Cache-Control', 'public, max-age=180, stale-while-revalidate=300')

@@ -57,6 +57,14 @@ export const REGIOES_UFS = {
   Norte: ['PA', 'AM', 'RO', 'TO', 'AC', 'AP', 'RR'],
 };
 
+// Bancadas constitucionais da Câmara dos Deputados (Art. 45, § 1º, CF/88 — Total: 513 cadeiras)
+export const BANCADAS_FEDERAIS = {
+  SP: 70, MG: 53, RJ: 46, BA: 39, RS: 31, PR: 30, PE: 25, CE: 22,
+  MA: 18, GO: 17, PA: 17, SC: 16, PB: 12, ES: 10, PI: 10, AL: 9,
+  AC: 8, AP: 8, AM: 8, DF: 8, MT: 8, MS: 8, RN: 8, RO: 8, RR: 8,
+  SE: 8, TO: 8,
+};
+
 async function get(path) {
   const r = await fetch(`${API_URL}${path}`);
   if (!r.ok) throw new Error(`API ${r.status} em ${path}`);

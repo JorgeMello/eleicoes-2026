@@ -34,6 +34,14 @@ function getLinhas(cargo = 'presidente') {
           sobre:
             'No Senado Federal, cada candidatura ao mandato de 8 anos concorre com dois suplentes registrados, que assumem a titularidade nos casos de licença (como ministérios) ou vacância do cargo.',
         }
+      : cargo === 'dep-federal' || cargo === 'dep-estadual'
+      ? {
+          label: 'Sistema Eleitoral',
+          get: () => 'Proporcional (Lista Aberta)',
+          ajuda: 'Eleição proporcional de lista aberta com votos nominais e de legenda.',
+          sobre:
+            'Nas eleições proporcionais para deputado federal e estadual, não há vice ou chapa pré-fixada. As vagas são conquistadas pelo partido ou federação através do Quociente Eleitoral (QE) e preenchidas pelos candidatos com mais votos nominais.',
+        }
       : {
           label: 'Vice',
           get: (c) => `${c.vice_nome ?? '—'}${c.vice_partido ? ` (${c.vice_partido})` : ''}`,
@@ -157,7 +165,16 @@ export default function Comparador() {
   const sel = [sp.get('a'), sp.get('b'), sp.get('c')].filter(Boolean).slice(0, 3);
 
   useEffect(() => {
-    api.candidatos(cargo, uf ? { uf } : {}).then(setLista).catch(() => setLista([]));
+    const params = {
+      ...(uf ? { uf } : {}),
+      ...(cargo === 'dep-federal' && !uf ? { uf: 'SP' } : {}),
+    };
+    api.candidatos(cargo, params)
+      .then((res) => {
+        const itens = Array.isArray(res) ? res : res?.dados || [];
+        setLista(itens);
+      })
+      .catch(() => setLista([]));
   }, [cargo, uf]);
 
   useEffect(() => {
@@ -170,7 +187,35 @@ export default function Comparador() {
       n.set('c', '210002542892');
       setSp(n, { replace: true });
     }
+    // Se for deputado federal e não houver UF, pré-seleciona SP
+    if (cargo === 'dep-federal' && !sp.get('uf')) {
+      const n = new URLSearchParams(sp);
+      n.set('uf', 'SP');
+      setSp(n, { replace: true });
+    }
   }, [cargo, sp, setSp]);
+
+  // Sanitização automática de duplicidades: um candidato não pode ser comparado com ele mesmo
+  useEffect(() => {
+    const a = sp.get('a');
+    const b = sp.get('b');
+    const c = sp.get('c');
+    let mudou = false;
+    const n = new URLSearchParams(sp);
+
+    if (b && b === a) {
+      n.delete('b');
+      mudou = true;
+    }
+    if (c && (c === a || c === b)) {
+      n.delete('c');
+      mudou = true;
+    }
+
+    if (mudou) {
+      setSp(n, { replace: true });
+    }
+  }, [sp, setSp]);
 
   useEffect(() => {
     Promise.all(sel.map((s) => api.candidato(s).catch(() => null))).then(setDados);
@@ -179,9 +224,23 @@ export default function Comparador() {
 
   const setSlot = (slot, slug) => {
     const n = new URLSearchParams(sp);
-    if (slug) n.set(slot, slug);
-    else n.delete(slot);
+    if (slug) {
+      // Impede selecionar o mesmo candidato caso tente forçar
+      const outros = ['a', 'b', 'c'].filter((s) => s !== slot).map((s) => sp.get(s)).filter(Boolean);
+      if (!outros.includes(slug)) {
+        n.set(slot, slug);
+      }
+    } else {
+      n.delete(slot);
+    }
     setSp(n);
+  };
+
+  const selecionadosNosOutros = (slotAtual) => {
+    return ['a', 'b', 'c']
+      .filter((s) => s !== slotAtual)
+      .map((s) => sp.get(s))
+      .filter(Boolean);
   };
 
   const linhas = getLinhas(cargo);
@@ -261,19 +320,42 @@ export default function Comparador() {
             ))}
           </select>
         )}
-        {['a', 'b', 'c'].map((slot, i) => (
-          <select
-            key={slot}
-            value={sp.get(slot) ?? ''}
-            onChange={(e) => setSlot(slot, e.target.value)}
-            className="rounded-lg border bg-white px-2 py-2 text-sm dark:border-slate-700 dark:bg-slate-900"
-          >
-            <option value="">Candidato {i + 1}…</option>
-            {lista.map((c) => (
-              <option key={c.slug} value={c.slug}>{c.nome} ({c.partido} {c.numero})</option>
-            ))}
-          </select>
-        ))}
+        {['a', 'b', 'c'].map((slot, i) => {
+          const outros = selecionadosNosOutros(slot);
+          return (
+            <select
+              key={slot}
+              value={sp.get(slot) ?? ''}
+              onChange={(e) => setSlot(slot, e.target.value)}
+              className="rounded-lg border bg-white px-2 py-2 text-sm dark:border-slate-700 dark:bg-slate-900"
+              title={`Selecione o candidato ${i + 1} para comparar`}
+            >
+              <option value="">Candidato {i + 1}…</option>
+              {lista.map((c) => {
+                const jaEscolhido = outros.includes(c.slug);
+                return (
+                  <option
+                    key={c.slug}
+                    value={c.slug}
+                    disabled={jaEscolhido}
+                    className={jaEscolhido ? 'text-slate-400 dark:text-slate-500' : ''}
+                  >
+                    {c.nome} ({c.partido} {c.numero}){jaEscolhido ? ' · (Já selecionado)' : ''}
+                  </option>
+                );
+              })}
+            </select>
+          );
+        })}
+      </div>
+
+      <div className="flex flex-wrap items-center justify-between text-xs text-slate-500 dark:text-slate-400">
+        <span>Selecione até 3 candidatos distintos para confrontar patrimônio, receitas e despesas lado a lado.</span>
+        {validos.length >= 2 && (
+          <span className="font-semibold text-emerald-600 dark:text-emerald-400">
+            ✓ Confrontando {validos.length} candidatos distintos
+          </span>
+        )}
       </div>
 
       {dados.some(Boolean) ? (

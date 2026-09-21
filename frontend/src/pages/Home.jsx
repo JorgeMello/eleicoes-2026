@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useRef, useCallback } from 'react';
 import { Link, useParams, useSearchParams } from 'react-router-dom';
 import { Cell, Legend, Pie, PieChart, ResponsiveContainer, Tooltip } from 'recharts';
 import CandidateCard from '../components/CandidateCard.jsx';
@@ -6,7 +6,7 @@ import CandidateCardSkeleton from '../components/CandidateCardSkeleton.jsx';
 import StatsSkeleton from '../components/StatsSkeleton.jsx';
 import ExportButton from '../components/ExportButton.jsx';
 import UfSelector from '../components/UfSelector.jsx';
-import { UFS, UFS_DATA, api, fotoUrl } from '../lib/api.js';
+import { UFS, UFS_DATA, BANCADAS_FEDERAIS, api, fotoUrl } from '../lib/api.js';
 import { clientCache } from '../lib/clientCache.js';
 
 const COLUNAS_EXPORT_CANDIDATOS = [
@@ -42,6 +42,13 @@ export default function Home() {
   const [erro, setErro] = useState(null);
   const [loading, setLoading] = useState(true);
 
+  // Estados de Paginação e Rolagem Infinita (Infinite Scroll)
+  const [pagina, setPagina] = useState(1);
+  const [temMais, setTemMais] = useState(false);
+  const [carregandoMais, setCarregandoMais] = useState(false);
+  const [totalGeral, setTotalGeral] = useState(0);
+  const sentinelaRef = useRef(null);
+
   const busca = sp.get('busca') ?? '';
   const partido = sp.get('partido') ?? '';
   const ordenar = sp.get('ordenar') ?? 'nome';
@@ -67,6 +74,8 @@ export default function Home() {
       // 1. Renderiza instantaneamente do cache em 0ms!
       setLista(cached.lista);
       setStats(cached.stats);
+      setTemMais(Boolean(cached.meta?.tem_proxima));
+      setTotalGeral(cached.meta?.total_registros ?? cached.lista.length);
       setLoading(false);
       setErro(null);
     } else {
@@ -74,26 +83,79 @@ export default function Home() {
       setErro(null);
     }
 
-    // 2. Revalidação silenciosa em background (SWR)
+    setPagina(1);
+
+    // 2. Revalidação silenciosa em background (SWR) com envelope de paginação
     Promise.all([
       api.candidatos(cargo, {
         busca, partido, ordenar, instrucao, cor, profissao,
         ...paramsRegiaoUf,
         ...(patMin ? { patrimonio_min: patMin } : {}),
         ...(patMax ? { patrimonio_max: patMax } : {}),
+        page: 1,
+        limite: 30,
+        envelope: 1,
       }),
       api.estatisticas(cargo, paramsRegiaoUf),
     ])
       .then(([l, s]) => {
-        setLista(l);
+        const itens = l?.dados || (Array.isArray(l) ? l : []);
+        const meta = l?.paginacao || {};
+        setLista(itens);
         setStats(s);
-        clientCache.set(cacheKey, { lista: l, stats: s });
+        setTemMais(Boolean(meta.tem_proxima));
+        setTotalGeral(meta.total_registros ?? itens.length);
+        clientCache.set(cacheKey, { lista: itens, stats: s, meta });
       })
       .catch((e) => {
         if (!cached) setErro(e.message);
       })
       .finally(() => setLoading(false));
   }, [cargo, busca, partido, ordenar, instrucao, cor, profissao, patMin, patMax, uf, regiao]);
+
+  const carregarProximaPagina = useCallback(() => {
+    if (loading || carregandoMais || !temMais) return;
+    setCarregandoMais(true);
+    const proxima = pagina + 1;
+    const paramsRegiaoUf = {
+      ...(uf ? { uf } : {}),
+      ...(!uf && regiao && regiao !== 'Todas' ? { regiao } : {}),
+    };
+
+    api.candidatos(cargo, {
+      busca, partido, ordenar, instrucao, cor, profissao,
+      ...paramsRegiaoUf,
+      ...(patMin ? { patrimonio_min: patMin } : {}),
+      ...(patMax ? { patrimonio_max: patMax } : {}),
+      page: proxima,
+      limite: 30,
+      envelope: 1,
+    })
+      .then((res) => {
+        const novos = res?.dados || (Array.isArray(res) ? res : []);
+        const meta = res?.paginacao || {};
+        setLista((prev) => [...prev, ...novos]);
+        setPagina(proxima);
+        setTemMais(Boolean(meta.tem_proxima));
+        if (meta.total_registros) setTotalGeral(meta.total_registros);
+      })
+      .catch((err) => console.error('Erro ao carregar mais candidatos:', err))
+      .finally(() => setCarregandoMais(false));
+  }, [cargo, busca, partido, ordenar, instrucao, cor, profissao, patMin, patMax, uf, regiao, pagina, loading, carregandoMais, temMais]);
+
+  useEffect(() => {
+    if (!sentinelaRef.current || !temMais || loading || carregandoMais) return;
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          carregarProximaPagina();
+        }
+      },
+      { rootMargin: '300px' }
+    );
+    observer.observe(sentinelaRef.current);
+    return () => observer.disconnect();
+  }, [carregarProximaPagina, temMais, loading, carregandoMais]);
 
   const upd = (k, v) => {
     const n = new URLSearchParams(sp);
@@ -102,6 +164,7 @@ export default function Home() {
     setSp(n);
   };
   const limpar = () => setSp({});
+
 
   const partidos = stats ? Object.keys(stats.por_partido).sort() : [];
   const instrucoes = stats ? Object.keys(stats.por_instrucao).filter((v) => v !== '—').sort() : [];
@@ -203,6 +266,32 @@ export default function Home() {
               </h2>
               <p className="text-xs text-emerald-900/85 dark:text-emerald-300/90 leading-relaxed">
                 Neste pleito, cada estado e o DF elegem <strong>dois senadores</strong> para um mandato de 8 anos (2027–2035). Na urna eletrônica, você votará em dois candidatos diferentes com números de <strong>3 dígitos</strong>. Cada titular concorre vinculado a uma <strong>dupla de suplentes (1º e 2º)</strong> que assume o mandato em caso de licença ou vacância.
+              </p>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {cargo === 'dep-federal' && (
+        <div className="rounded-2xl border border-blue-200 bg-gradient-to-r from-blue-50 via-indigo-50/60 to-white p-4 text-blue-950 shadow-xs dark:border-blue-900/60 dark:from-blue-950/40 dark:via-slate-900 dark:to-slate-900 dark:text-blue-200">
+          <div className="flex items-start gap-3">
+            <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-blue-600 text-white font-bold text-lg shadow-2xs">
+              👥
+            </span>
+            <div className="space-y-1">
+              <h2 className="font-bold text-sm sm:text-base flex items-center flex-wrap gap-2">
+                <span>Eleições 2026: Câmara dos Deputados (513 Cadeiras)</span>
+                <span className="rounded-full bg-blue-200/80 px-2.5 py-0.5 text-[11px] font-extrabold text-blue-900 dark:bg-blue-900/80 dark:text-blue-200">
+                  Sistema Proporcional de Lista Aberta
+                </span>
+                {uf && BANCADAS_FEDERAIS[uf] && (
+                  <span className="rounded-full bg-emerald-100 px-2.5 py-0.5 text-[11px] font-bold text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300">
+                    Bancada de {uf}: {BANCADAS_FEDERAIS[uf]} vagas
+                  </span>
+                )}
+              </h2>
+              <p className="text-xs text-blue-900/85 dark:text-blue-300/90 leading-relaxed">
+                Os deputados federais representam o povo brasileiro em Brasília. As bancadas estaduais variam de <strong>8 a 70 cadeiras</strong> conforme o tamanho da população (Art. 45 da Constituição). Na urna eletrônica, você vota com <strong>4 dígitos</strong> no candidato ou com <strong>2 dígitos</strong> na legenda do partido. As vagas são distribuídas pelo Quociente Eleitoral (QE) e Quociente Partidário (QP).
               </p>
             </div>
           </div>
@@ -444,10 +533,22 @@ export default function Home() {
       </section>
 
       {loading && lista.length === 0 ? (
-        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {Array.from({ length: 9 }).map((_, i) => (
-            <CandidateCardSkeleton key={i} />
-          ))}
+        <div className="space-y-4">
+          <div className="flex items-center gap-3 rounded-xl border border-emerald-200 bg-emerald-50/70 p-4 text-emerald-900 shadow-sm dark:border-emerald-900/40 dark:bg-emerald-950/30 dark:text-emerald-200">
+            <svg className="h-5 w-5 animate-spin text-emerald-600 dark:text-emerald-400 shrink-0" viewBox="0 0 24 24" fill="none">
+              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8H4z" />
+            </svg>
+            <div className="text-sm">
+              <span className="font-semibold">Carregando candidaturas homologadas...</span>
+              <span className="block text-xs text-emerald-700 dark:text-emerald-300">Consultando registros do TSE e dados patrimoniais em tempo real.</span>
+            </div>
+          </div>
+          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+            {Array.from({ length: 9 }).map((_, i) => (
+              <CandidateCardSkeleton key={i} />
+            ))}
+          </div>
         </div>
       ) : !loading && !erro && lista.length === 0 ? (
         <p className="rounded-xl border bg-white p-6 text-center text-sm text-slate-500 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-400">
@@ -455,11 +556,42 @@ export default function Home() {
           {cargo !== 'presidente' && ' No MVP, só presidente possui dados.'}
         </p>
       ) : (
-        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {lista.map((c) => (
-            <CandidateCard key={c.slug} c={c} cargo={cargo} />
-          ))}
-        </div>
+        <>
+          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+            {lista.map((c) => (
+              <CandidateCard key={c.id || `${c.uf}-${c.slug}`} c={c} cargo={cargo} />
+            ))}
+          </div>
+
+          {lista.length > 0 && (
+            <div ref={sentinelaRef} className="mt-8 flex flex-col items-center justify-center gap-3 py-4">
+              {carregandoMais && (
+                <div className="flex items-center gap-2.5 rounded-full border border-slate-200 bg-white px-5 py-2 text-sm font-medium text-slate-600 shadow-sm dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300">
+                  <svg className="h-4 w-4 animate-spin text-emerald-600 dark:text-emerald-400" viewBox="0 0 24 24" fill="none">
+                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                    <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8H4z" />
+                  </svg>
+                  <span>Carregando mais candidatos...</span>
+                </div>
+              )}
+              {!carregandoMais && temMais && (
+                <button
+                  type="button"
+                  onClick={carregarProximaPagina}
+                  className="inline-flex items-center gap-2 rounded-xl border border-slate-300 bg-white px-5 py-2.5 text-sm font-semibold text-slate-700 shadow-sm transition hover:bg-slate-50 hover:text-emerald-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700"
+                >
+                  <span>Carregar mais candidatos (+30)</span>
+                  <span className="text-xs text-slate-400">({lista.length} de {totalGeral.toLocaleString('pt-BR')})</span>
+                </button>
+              )}
+              {!temMais && totalGeral > 0 && (
+                <div className="rounded-full bg-slate-100 px-4 py-1.5 text-xs text-slate-500 dark:bg-slate-800 dark:text-slate-400">
+                  ✓ Você visualizou todas as {totalGeral.toLocaleString('pt-BR')} candidaturas disponíveis
+                </div>
+              )}
+            </div>
+          )}
+        </>
       )}
 
       {trioComparar.length >= 2 && (

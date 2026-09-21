@@ -23,7 +23,8 @@ class Estatisticas extends BaseController
         $regiao = trim((string) ($this->request->getGet('regiao') ?? ''));
         $model  = new CandidatoModel();
 
-        $builder = $model->where('cargo', $cargo);
+        $builder = $model->select('id, partido, profissao, grau_instrucao, cor_etnia, patrimonio_total')
+            ->where('cargo', $cargo);
         if ($uf !== '') {
             if (str_contains($uf, ',')) {
                 $builder = $builder->whereIn('uf', array_filter(array_map('trim', explode(',', $uf))));

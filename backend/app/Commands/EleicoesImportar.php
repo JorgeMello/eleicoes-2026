@@ -44,8 +44,11 @@ class EleicoesImportar extends BaseCommand
         $doadorModel     = new DoadorModel();
         $gastoModel      = new GastoModel();
         $suplenteModel   = new CandidatoSuplenteModel();
+        $db = \Config\Database::connect();
+        $db->transStart();
 
         $ok = 0;
+        $totalLote = count($lote);
         foreach ($lote as $item) {
             $existente = $candidatoModel
                 ->where('slug', $item['slug'])
@@ -113,18 +116,16 @@ class EleicoesImportar extends BaseCommand
                         'processo_tse'      => $s['processo_tse'] ?? null,
                     ]);
                 }
-            } else {
-                if (!empty($item['suplente1_nome'])) {
-                    $suplenteModel->insert([
-                        'candidato_id'      => $id,
-                        'ordem'             => 1,
-                        'nome_completo'     => $item['suplente1_nome'],
-                        'nome_urna'         => $item['suplente1_nome_urna'] ?? $item['suplente1_nome'],
-                        'partido'           => $item['suplente1_partido'] ?? $item['partido'] ?? null,
-                        'situacao_registro' => 'Deferido',
-                        'ocupacao'          => $item['suplente1_ocupacao'] ?? null,
-                    ]);
-                }
+            } elseif (!empty($item['suplente1_nome'])) {
+                $suplenteModel->insert([
+                    'candidato_id'      => $id,
+                    'ordem'             => 1,
+                    'nome_completo'     => $item['suplente1_nome'],
+                    'nome_urna'         => $item['suplente1_nome_urna'] ?? $item['suplente1_nome'],
+                    'partido'           => $item['suplente1_partido'] ?? $item['partido'] ?? null,
+                    'situacao_registro' => 'Deferido',
+                    'ocupacao'          => $item['suplente1_ocupacao'] ?? null,
+                ]);
                 if (!empty($item['suplente2_nome'])) {
                     $suplenteModel->insert([
                         'candidato_id'      => $id,
@@ -138,9 +139,12 @@ class EleicoesImportar extends BaseCommand
                 }
             }
             $ok++;
-            CLI::write("OK: {$item['slug']}");
+            if ($ok % 250 === 0 || $ok === $totalLote) {
+                CLI::write("Progresso: {$ok}/{$totalLote} registros inseridos...");
+            }
         }
-        CLI::write("Importados: {$ok}", 'green');
+        $db->transComplete();
+        CLI::write("Importados com sucesso: {$ok}", 'green');
 
         // Sincroniza tabela candidatos_tse caso o relatório exista
         $relatorioTse = dirname(APPPATH, 2) . DIRECTORY_SEPARATOR . 'scraper/out/relatorio-validacao-tse.json';

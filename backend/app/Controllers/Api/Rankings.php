@@ -8,6 +8,15 @@ use CodeIgniter\HTTP\ResponseInterface;
 
 class Rankings extends BaseController
 {
+    private const CAMPOS_RANKING = 'id, slug, nome, partido, numero, uf, cargo, foto_local, foto_url_original';
+
+    private function responderComCache(array $dados): ResponseInterface
+    {
+        return $this->response
+            ->setHeader('Cache-Control', 'public, max-age=120, stale-while-revalidate=300')
+            ->setJSON($dados);
+    }
+
     public function patrimonio(): ResponseInterface
     {
         $cargo  = $this->request->getGet('cargo') ?? 'presidente';
@@ -15,13 +24,15 @@ class Rankings extends BaseController
         $limite = (int) ($this->request->getGet('limite') ?? 13);
         $limite = max(1, min($limite, 100));
 
-        $builder = (new CandidatoModel())->where('cargo', $cargo);
+        $builder = (new CandidatoModel())
+            ->select(self::CAMPOS_RANKING . ', patrimonio_total')
+            ->where('cargo', $cargo);
         if ($uf !== '') {
             $builder = $builder->where('uf', $uf);
         }
         $rows = $builder->orderBy('patrimonio_total', 'DESC')->findAll($limite);
 
-        return $this->response->setJSON($rows);
+        return $this->responderComCache($rows);
     }
 
     public function receitas(): ResponseInterface
@@ -31,13 +42,15 @@ class Rankings extends BaseController
         $limite = (int) ($this->request->getGet('limite') ?? 13);
         $limite = max(1, min($limite, 100));
 
-        $builder = (new CandidatoModel())->where('cargo', $cargo);
+        $builder = (new CandidatoModel())
+            ->select(self::CAMPOS_RANKING . ', receitas_total')
+            ->where('cargo', $cargo);
         if ($uf !== '') {
             $builder = $builder->where('uf', $uf);
         }
         $rows = $builder->orderBy('receitas_total', 'DESC')->findAll($limite);
 
-        return $this->response->setJSON($rows);
+        return $this->responderComCache($rows);
     }
 
     public function gastos(): ResponseInterface
@@ -47,13 +60,15 @@ class Rankings extends BaseController
         $limite = (int) ($this->request->getGet('limite') ?? 13);
         $limite = max(1, min($limite, 100));
 
-        $builder = (new CandidatoModel())->where('cargo', $cargo);
+        $builder = (new CandidatoModel())
+            ->select(self::CAMPOS_RANKING . ', despesas_total')
+            ->where('cargo', $cargo);
         if ($uf !== '') {
             $builder = $builder->where('uf', $uf);
         }
         $rows = $builder->orderBy('despesas_total', 'DESC')->findAll($limite);
 
-        return $this->response->setJSON($rows);
+        return $this->responderComCache($rows);
     }
 
     public function doadores(): ResponseInterface
@@ -68,11 +83,7 @@ class Rankings extends BaseController
             ->select('d.id, d.nome, d.documento, d.valor, d.percentual,
                       c.id as candidato_id, c.nome as candidato_nome, c.partido as candidato_partido,
                       c.numero as candidato_numero, c.slug as candidato_slug, c.receitas_total,
-                      CASE
-                        WHEN d.valor IS NOT NULL AND d.valor > 0 THEN d.valor
-                        WHEN c.receitas_total IS NOT NULL AND d.percentual IS NOT NULL THEN (c.receitas_total * d.percentual / 100)
-                        ELSE 0
-                      END as valor_calculado', false)
+                      COALESCE(d.valor, (c.receitas_total * d.percentual / 100), 0) as valor_calculado', false)
             ->join('candidatos c', 'c.id = d.candidato_id')
             ->where('c.cargo', $cargo);
 
@@ -100,6 +111,7 @@ class Rankings extends BaseController
         }
         unset($r);
 
-        return $this->response->setJSON($rows);
+        return $this->responderComCache($rows);
     }
 }
+

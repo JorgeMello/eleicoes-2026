@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { Bar, BarChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import { api, brl, UFS } from '../lib/api.js';
+import { clientCache } from '../lib/clientCache.js';
 
 /** Gera frases interpretativas a partir das linhas do ranking de candidatos. */
 function interpreta(rows, chave) {
@@ -74,6 +75,7 @@ export default function Rankings() {
   const [gas, setGas] = useState([]);
   const [doa, setDoa] = useState([]);
   const [erro, setErro] = useState(null);
+  const [loading, setLoading] = useState(true);
   const [ajudaRank, setAjudaRank] = useState(null); // 'patrimonio' | 'receitas' | 'gastos' | 'doadores' | null
   const [uf, setUf] = useState('');
   const [cargoAnterior, setCargoAnterior] = useState(cargo);
@@ -88,6 +90,19 @@ export default function Rankings() {
 
   useEffect(() => {
     const params = uf ? { uf } : {};
+    const cacheKey = `rankings_${cargo}_${uf}`;
+    const cached = clientCache.get(cacheKey);
+
+    if (cached) {
+      setPat(cached.p);
+      setRec(cached.r);
+      setGas(cached.g);
+      setDoa(cached.d);
+      setLoading(false);
+    } else {
+      setLoading(true);
+    }
+
     Promise.all([
       api.rankingPatrimonio(cargo, params),
       api.rankingReceitas(cargo, params),
@@ -99,9 +114,15 @@ export default function Rankings() {
         setRec(r);
         setGas(g);
         setDoa(d);
+        clientCache.set(cacheKey, { p, r, g, d });
+        setErro(null);
       })
-      .catch((e) => setErro(e.message));
+      .catch((e) => {
+        if (!cached) setErro(e.message);
+      })
+      .finally(() => setLoading(false));
   }, [cargo, uf]);
+
 
   // Fecha o modal com ESC e trava o scroll do body enquanto aberto
   useEffect(() => {
@@ -243,12 +264,32 @@ export default function Rankings() {
       </div>
 
       {/* Grade de 4 Cards: Patrimônio, Receitas, Gastos e Doadores */}
-      <div className="grid gap-4 lg:grid-cols-2">
-        {barra('Maior patrimônio', pat, 'patrimonio_total', 'patrimonio', '#3b82f6', 'text-blue-700 dark:text-blue-400')}
-        {barra('Maiores receitas', rec, 'receitas_total', 'receitas', '#10b981', 'text-emerald-700 dark:text-emerald-400')}
-        {barra('Maiores gastos', gas, 'despesas_total', 'gastos', '#f43f5e', 'text-rose-600 dark:text-rose-400')}
-        {barraDoadores('Maiores doadores', doa, 'doadores', '#f59e0b')}
-      </div>
+      {loading && !pat.length && !rec.length ? (
+        <div className="space-y-4">
+          <div className="flex items-center gap-3 rounded-xl border border-blue-200 bg-blue-50/70 p-4 text-blue-900 shadow-sm dark:border-blue-900/40 dark:bg-blue-950/30 dark:text-blue-200">
+            <svg className="h-5 w-5 animate-spin text-blue-600 dark:text-blue-400 shrink-0" viewBox="0 0 24 24" fill="none">
+              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8H4z" />
+            </svg>
+            <div className="text-sm">
+              <span className="font-semibold">Calculando rankings financeiros...</span>
+              <span className="block text-xs text-blue-700 dark:text-blue-300">Cruzando patrimônio declarado, receitas de doações e despesas oficiais.</span>
+            </div>
+          </div>
+          <div className="grid gap-4 lg:grid-cols-2">
+            {Array.from({ length: 4 }).map((_, i) => (
+              <div key={i} className="h-64 animate-pulse rounded-xl border border-slate-200 bg-white p-4 dark:border-slate-800 dark:bg-slate-900" />
+            ))}
+          </div>
+        </div>
+      ) : (
+        <div className="grid gap-4 lg:grid-cols-2">
+          {barra('Maior patrimônio', pat, 'patrimonio_total', 'patrimonio', '#3b82f6', 'text-blue-700 dark:text-blue-400')}
+          {barra('Maiores receitas', rec, 'receitas_total', 'receitas', '#10b981', 'text-emerald-700 dark:text-emerald-400')}
+          {barra('Maiores gastos', gas, 'despesas_total', 'gastos', '#f43f5e', 'text-rose-600 dark:text-rose-400')}
+          {barraDoadores('Maiores doadores', doa, 'doadores', '#f59e0b')}
+        </div>
+      )}
 
       {/* Modal Didático Explicativo */}
       {ajudaRank && (

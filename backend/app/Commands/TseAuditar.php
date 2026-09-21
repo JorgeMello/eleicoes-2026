@@ -221,9 +221,9 @@ class TseAuditar extends BaseCommand
             }
         }
 
-        // 2.2 Sincroniza candidatos de outros cargos (governador, senador) cadastrados no banco
+        // 2.2 Sincroniza candidatos de outros cargos (governador, senador, dep-federal) cadastrados no banco
         $outrosCandidatos = $candidatoModel
-            ->whereIn('cargo', ['governador', 'senador'])
+            ->whereIn('cargo', ['governador', 'senador', 'dep-federal', 'dep-estadual'])
             ->findAll();
 
         foreach ($outrosCandidatos as $c) {
@@ -241,7 +241,14 @@ class TseAuditar extends BaseCommand
             $divergencia = abs($patrimonio - $somaCalc);
             $receitas   = (float) ($c['receitas_total'] ?? 0);
             $despesas   = (float) ($c['despesas_total'] ?? 0);
-            $limiteTeto = (float) ($c['limite_gastos'] ?? ($c['cargo'] === 'senador' ? 7115522.46 : 25000000.00));
+            
+            $limitePadrao = match($c['cargo']) {
+                'senador'      => 7115522.46,
+                'dep-federal'  => 3176572.53,
+                'dep-estadual' => 1270629.01,
+                default        => 25000000.00,
+            };
+            $limiteTeto = (float) ($c['limite_gastos'] ?? $limitePadrao);
             $percTeto   = $limiteTeto > 0 ? round(($despesas / $limiteTeto) * 100, 2) : 0;
             $saldo      = $receitas - $despesas;
 
@@ -253,7 +260,7 @@ class TseAuditar extends BaseCommand
                 'situacao_registro'    => 'Deferido',
                 'processo_pje'         => sprintf('060%04d-%02d.2026.6.%02d.0000', rand(1000, 9999), rand(10, 99), rand(1, 27)),
                 'limite_gastos_1t'     => $limiteTeto,
-                'limite_gastos_2t'     => $c['cargo'] === 'senador' ? null : ($limiteTeto / 2),
+                'limite_gastos_2t'     => in_array($c['cargo'], ['senador', 'dep-federal', 'dep-estadual']) ? null : ($limiteTeto / 2),
                 'patrimonio_declarado' => $patrimonio,
                 'soma_bens_calculada'  => $somaCalc,
                 'divergencia_bens'     => $divergencia,

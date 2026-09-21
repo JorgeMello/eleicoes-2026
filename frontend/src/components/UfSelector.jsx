@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { UFS, UFS_DATA, REGIOES } from '../lib/api.js';
+import { UFS, UFS_DATA, REGIOES, BANCADAS_FEDERAIS } from '../lib/api.js';
 
 // Estados com maior colégio eleitoral para acesso rápido em 1 clique
 const UFS_DESTAQUE = ['SP', 'MG', 'RJ', 'BA', 'RS', 'PR', 'PE', 'CE', 'SC', 'GO'];
@@ -58,6 +58,11 @@ export default function UfSelector({
                 {ufSelecionada ? (
                   <>
                     {ufInfo?.nome} <span className="text-emerald-600 dark:text-emerald-400 font-extrabold">({ufSelecionada})</span>
+                    {cargo === 'dep-federal' && (
+                      <span className="rounded-full bg-blue-100 px-2 py-0.5 text-[10px] font-bold text-blue-800 dark:bg-blue-900/80 dark:text-blue-200">
+                        {BANCADAS_FEDERAIS[ufSelecionada] ?? 8} vagas na Câmara
+                      </span>
+                    )}
                   </>
                 ) : regiaoAtiva !== 'Todas' ? (
                   <>
@@ -81,11 +86,15 @@ export default function UfSelector({
               {ufSelecionada
                 ? cargo === 'senador'
                   ? `Candidaturas ao Senado Federal registradas em ${ufSelecionada} (2 vagas em disputa)`
+                  : cargo === 'dep-federal'
+                  ? `Bancada de ${ufSelecionada}: ${BANCADAS_FEDERAIS[ufSelecionada] ?? 8} cadeiras na Câmara dos Deputados (Sistema Proporcional de Lista Aberta)`
                   : `Candidaturas ao governo estadual registradas no ${ufSelecionada}`
                 : regiaoAtiva !== 'Todas'
                 ? `Estatísticas e candidaturas consolidadas nos ${ufsFiltradas.length} estados da Região ${regiaoAtiva}`
                 : cargo === 'senador'
                 ? 'Selecione uma região ou estado para auditar as 54 vagas de Senador e seus suplentes'
+                : cargo === 'dep-federal'
+                ? 'Selecione um estado para auditar as bancadas estaduais (8 a 70 cadeiras) e candidatos a Deputado Federal'
                 : 'Selecione uma região ou estado para auditar as contas e bens locais'}
             </p>
           </div>
@@ -105,7 +114,7 @@ export default function UfSelector({
             <option value="">Brasil (Todas UFs)</option>
             {UFS.map((u) => (
               <option key={u} value={u}>
-                {u} · {UFS_DATA[u]?.nome || u} ({UFS_DATA[u]?.regiao})
+                {u} · {UFS_DATA[u]?.nome || u} {cargo === 'dep-federal' ? `(${BANCADAS_FEDERAIS[u] ?? 8} vagas)` : `(${UFS_DATA[u]?.regiao})`}
               </option>
             ))}
           </select>
