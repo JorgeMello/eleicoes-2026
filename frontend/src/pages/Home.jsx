@@ -6,7 +6,7 @@ import CandidateCardSkeleton from '../components/CandidateCardSkeleton.jsx';
 import StatsSkeleton from '../components/StatsSkeleton.jsx';
 import ExportButton from '../components/ExportButton.jsx';
 import UfSelector from '../components/UfSelector.jsx';
-import { UFS, UFS_DATA, BANCADAS_FEDERAIS, api, fotoUrl } from '../lib/api.js';
+import { UFS, UFS_DATA, BANCADAS_FEDERAIS, BANCADAS_ESTADUAIS, api, fotoUrl } from '../lib/api.js';
 import { clientCache } from '../lib/clientCache.js';
 
 const COLUNAS_EXPORT_CANDIDATOS = [
@@ -298,10 +298,42 @@ export default function Home() {
         </div>
       )}
 
+      {cargo === 'dep-estadual' && (
+        <div className="rounded-2xl border border-indigo-200 bg-gradient-to-r from-indigo-50 via-purple-50/60 to-white p-4 text-indigo-950 shadow-xs dark:border-indigo-900/60 dark:from-indigo-950/40 dark:via-slate-900 dark:to-slate-900 dark:text-indigo-200">
+          <div className="flex items-start gap-3">
+            <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-indigo-600 text-white font-bold text-lg shadow-2xs">
+              🏛️
+            </span>
+            <div className="space-y-1">
+              <h2 className="font-bold text-sm sm:text-base flex items-center flex-wrap gap-2">
+                <span>
+                  Eleições 2026: {uf === 'DF' ? 'Câmara Legislativa do DF — CLDF (24 Vagas)' : `Assembleias Legislativas (${uf && BANCADAS_ESTADUAIS[uf] ? `${BANCADAS_ESTADUAIS[uf]} Cadeiras em Disputa` : '1.059 Cadeiras no Brasil'})`}
+                </span>
+                <span className="rounded-full bg-indigo-200/80 px-2.5 py-0.5 text-[11px] font-extrabold text-indigo-900 dark:bg-indigo-900/80 dark:text-indigo-200">
+                  Sistema Proporcional Estadual
+                </span>
+                {uf && BANCADAS_ESTADUAIS[uf] && (
+                  <span className="rounded-full bg-emerald-100 px-2.5 py-0.5 text-[11px] font-bold text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300">
+                    Bancada de {uf}: {BANCADAS_ESTADUAIS[uf]} vagas
+                  </span>
+                )}
+              </h2>
+              <p className="text-xs text-indigo-900/85 dark:text-indigo-300/90 leading-relaxed">
+                {uf === 'DF' ? (
+                  <>Os <strong>Deputados Distritais</strong> legislam na CLDF acumulando competências estaduais e distritais. Na urna eletrônica, você vota com <strong>5 dígitos</strong> no candidato ou com <strong>2 dígitos</strong> na legenda partidária. As 24 vagas são distribuídas pelo Quociente Eleitoral (QE) e Quociente Partidário (QP).</>
+                ) : (
+                  <>Os <strong>Deputados Estaduais</strong> fiscalizam o Executivo e aprovam as leis de cada estado. As bancadas variam de <strong>24 a 94 cadeiras</strong> segundo a população (Art. 27 da Constituição). Na urna eletrônica, você vota com <strong>5 dígitos</strong> no candidato ou com <strong>2 dígitos</strong> na legenda partidária.</>
+                )}
+              </p>
+            </div>
+          </div>
+        </div>
+      )}
+
       <div className="flex flex-wrap items-end justify-between gap-3">
         <div>
           <h1 className="text-2xl font-bold flex items-center flex-wrap gap-2">
-            <span>Candidatos · <span className="uppercase">{cargo}</span></span>
+            <span>Candidatos · <span className="uppercase">{cargo === 'dep-estadual' && uf === 'DF' ? 'dep-distrital' : cargo}</span></span>
             {uf ? (
               <span className="text-emerald-600 dark:text-emerald-400 font-semibold text-lg">
                 · {ufNome} ({uf})
@@ -548,8 +580,7 @@ export default function Home() {
         </div>
       ) : !loading && !erro && lista.length === 0 ? (
         <p className="rounded-xl border bg-white p-6 text-center text-sm text-slate-500 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-400">
-          Nenhuma candidatura para <strong>{cargo}</strong> ainda — rode a coleta do scraper para este cargo.
-          {cargo !== 'presidente' && ' No MVP, só presidente possui dados.'}
+          Nenhuma candidatura encontrada para <strong>{cargo === 'dep-estadual' && uf === 'DF' ? 'deputado distrital' : cargo}</strong>{uf ? ` em ${uf}` : ''} com os filtros selecionados.
         </p>
       ) : (
         <>

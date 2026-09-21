@@ -7,17 +7,18 @@ export const BASE_PERFIL = `${BASE}/presidente/`;
 export const UFS = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO'];
 
 /** Mapeia nomes internos para caminhos no portal G1 */
-export function g1CargoSlug(cargo = 'presidente') {
+export function g1CargoSlug(cargo = 'presidente', uf = null) {
   const c = cargo.toLowerCase();
+  const u = (uf || '').toUpperCase();
   if (c === 'dep-federal') return 'deputado-federal';
-  if (c === 'dep-estadual') return 'deputado-estadual';
+  if (c === 'dep-estadual') return u === 'DF' ? 'deputado-distrital' : 'deputado-estadual';
   return c;
 }
 
 /** URL da lista: nacional (presidente) ou por UF (demais cargos). */
 export function urlLista(cargo = 'presidente', uf = null) {
   const c = cargo.toLowerCase();
-  const g1Cargo = g1CargoSlug(c);
+  const g1Cargo = g1CargoSlug(c, uf);
   if (!uf || c === 'presidente') return `${BASE}/${g1Cargo}.ghtml`;
   return `${BASE}/${g1Cargo}/${uf.toLowerCase()}.ghtml`;
 }
@@ -28,7 +29,7 @@ export function novoBrowser() {
 
 export async function coletarLista(page, { cargo = 'presidente', uf = null } = {}) {
   const c = cargo.toLowerCase();
-  const g1Cargo = g1CargoSlug(c);
+  const g1Cargo = g1CargoSlug(c, uf);
   const url = urlLista(c, uf);
   await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
   await page.waitForSelector(`a[href*="/${g1Cargo}/"]`, { timeout: 30000 });

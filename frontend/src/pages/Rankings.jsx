@@ -244,7 +244,7 @@ export default function Rankings() {
     <div className="space-y-4">
       <div className="flex flex-wrap items-center justify-between gap-3">
         <h1 className="text-2xl font-bold">
-          Rankings · <span className="uppercase text-blue-600 dark:text-blue-400">{cargo}</span>
+          Rankings · <span className="uppercase text-blue-600 dark:text-blue-400">{cargo === 'dep-estadual' && uf === 'DF' ? 'dep-distrital' : cargo}</span>
         </h1>
         {precisaUf && (
           <select

@@ -12,6 +12,7 @@ Esta plataforma pública e sem fins lucrativos consolida, audita e apresenta dad
 - Governadores por Estado (27 UFs): https://eleicoes.osidosos.com.br/governador?uf={UF}
 - Senadores por Estado (Renovação de 2/3 · 54 Vagas): https://eleicoes.osidosos.com.br/senador?uf={UF}
 - Deputados Federais por Estado (513 Cadeiras · Sistema Proporcional): https://eleicoes.osidosos.com.br/dep-federal?uf={UF}
+- Deputados Estaduais e Distritais por Estado (1.059 Cadeiras · 26 Assembleias + CLDF): https://eleicoes.osidosos.com.br/dep-estadual?uf={UF}
 - Perfil do Candidato: https://eleicoes.osidosos.com.br/candidato/{slug}
   - Card da Chapa: Titular e Vice (Executivo) ou Titular + 1º e 2º Suplentes (Senado Federal)
   - Aba Bens: Declaração oficial de bens entregue ao TSE

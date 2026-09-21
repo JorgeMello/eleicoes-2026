@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { UFS, UFS_DATA, REGIOES, BANCADAS_FEDERAIS } from '../lib/api.js';
+import { UFS, UFS_DATA, REGIOES, BANCADAS_FEDERAIS, BANCADAS_ESTADUAIS } from '../lib/api.js';
 
 // Estados com maior colégio eleitoral para acesso rápido em 1 clique
 const UFS_DESTAQUE = ['SP', 'MG', 'RJ', 'BA', 'RS', 'PR', 'PE', 'CE', 'SC', 'GO'];
@@ -63,6 +63,13 @@ export default function UfSelector({
                         {BANCADAS_FEDERAIS[ufSelecionada] ?? 8} vagas na Câmara
                       </span>
                     )}
+                    {cargo === 'dep-estadual' && (
+                      <span className="rounded-full bg-indigo-100 px-2 py-0.5 text-[10px] font-bold text-indigo-800 dark:bg-indigo-900/80 dark:text-indigo-200">
+                        {ufSelecionada === 'DF'
+                          ? `${BANCADAS_ESTADUAIS[ufSelecionada] ?? 24} vagas na CLDF`
+                          : `${BANCADAS_ESTADUAIS[ufSelecionada] ?? 24} vagas na Assembleia`}
+                      </span>
+                    )}
                   </>
                 ) : regiaoAtiva !== 'Todas' ? (
                   <>
@@ -88,6 +95,10 @@ export default function UfSelector({
                   ? `Candidaturas ao Senado Federal registradas em ${ufSelecionada} (2 vagas em disputa)`
                   : cargo === 'dep-federal'
                   ? `Bancada de ${ufSelecionada}: ${BANCADAS_FEDERAIS[ufSelecionada] ?? 8} cadeiras na Câmara dos Deputados (Sistema Proporcional de Lista Aberta)`
+                  : cargo === 'dep-estadual'
+                  ? ufSelecionada === 'DF'
+                    ? `Bancada do DF: ${BANCADAS_ESTADUAIS[ufSelecionada] ?? 24} cadeiras na Câmara Legislativa do DF (CLDF)`
+                    : `Bancada de ${ufSelecionada}: ${BANCADAS_ESTADUAIS[ufSelecionada] ?? 24} cadeiras na Assembleia Legislativa (Art. 27 da CF/88)`
                   : `Candidaturas ao governo estadual registradas no ${ufSelecionada}`
                 : regiaoAtiva !== 'Todas'
                 ? `Estatísticas e candidaturas consolidadas nos ${ufsFiltradas.length} estados da Região ${regiaoAtiva}`
@@ -95,6 +106,8 @@ export default function UfSelector({
                 ? 'Selecione uma região ou estado para auditar as 54 vagas de Senador e seus suplentes'
                 : cargo === 'dep-federal'
                 ? 'Selecione um estado para auditar as bancadas estaduais (8 a 70 cadeiras) e candidatos a Deputado Federal'
+                : cargo === 'dep-estadual'
+                ? 'Selecione um estado para auditar as bancadas estaduais (24 a 94 cadeiras) e candidaturas a Deputado Estadual ou Distrital'
                 : 'Selecione uma região ou estado para auditar as contas e bens locais'}
             </p>
           </div>
@@ -114,7 +127,7 @@ export default function UfSelector({
             <option value="">Brasil (Todas UFs)</option>
             {UFS.map((u) => (
               <option key={u} value={u}>
-                {u} · {UFS_DATA[u]?.nome || u} {cargo === 'dep-federal' ? `(${BANCADAS_FEDERAIS[u] ?? 8} vagas)` : `(${UFS_DATA[u]?.regiao})`}
+                {u} · {UFS_DATA[u]?.nome || u} {cargo === 'dep-federal' ? `(${BANCADAS_FEDERAIS[u] ?? 8} vagas)` : cargo === 'dep-estadual' ? `(${BANCADAS_ESTADUAIS[u] ?? 24} vagas)` : `(${UFS_DATA[u]?.regiao})`}
               </option>
             ))}
           </select>

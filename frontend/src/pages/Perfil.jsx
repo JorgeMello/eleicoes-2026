@@ -221,7 +221,13 @@ export default function Perfil() {
   const { candidato: c, tse, bens, historico, doadores, gastos, suplentes = [] } = d;
   const foto = fotoUrl(c);
 
-  const patrimonioTotalRef = Number(tse?.patrimonio_declarado || c?.patrimonio_total || 0);
+  const bensSomaTotal = (bens || []).reduce((acc, b) => acc + Number(b.valor || 0), 0);
+  const patrimonioTotalRef =
+    Number(tse?.patrimonio_declarado || 0) > 0
+      ? Number(tse.patrimonio_declarado)
+      : Number(c?.patrimonio_total || 0) > 0
+      ? Number(c.patrimonio_total)
+      : bensSomaTotal;
 
   const contagemCategorias = {
     todos: bens.length,

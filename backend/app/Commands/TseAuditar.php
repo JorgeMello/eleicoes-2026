@@ -136,9 +136,14 @@ class TseAuditar extends BaseCommand
         $totalDespesas  = 0;
 
         foreach ($candidatosReconciliados as $c) {
-            $candidato = $candidatoModel
-                ->where('slug', $c['slug'])
-                ->first();
+            $builder = $candidatoModel->where('slug', $c['slug']);
+            if (!empty($c['cargo'])) {
+                $builder = $builder->where('cargo', $c['cargo']);
+            }
+            if (!empty($c['uf'])) {
+                $builder = $builder->where('uf', $c['uf']);
+            }
+            $candidato = $builder->first();
 
             if (! $candidato) {
                 CLI::write("⚠️ Candidato não localizado no banco: {$c['nome']} ({$c['slug']})", 'yellow');

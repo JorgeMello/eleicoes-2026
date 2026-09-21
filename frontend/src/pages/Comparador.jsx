@@ -168,6 +168,7 @@ export default function Comparador() {
     const params = {
       ...(uf ? { uf } : {}),
       ...(cargo === 'dep-federal' && !uf ? { uf: 'SP' } : {}),
+      ...(cargo === 'dep-estadual' && !uf ? { uf: 'SP' } : {}),
     };
     api.candidatos(cargo, params)
       .then((res) => {
@@ -187,8 +188,8 @@ export default function Comparador() {
       n.set('c', '210002542892');
       setSp(n, { replace: true });
     }
-    // Se for deputado federal e não houver UF, pré-seleciona SP
-    if (cargo === 'dep-federal' && !sp.get('uf')) {
+    // Se for deputado federal ou estadual e não houver UF, pré-seleciona SP
+    if ((cargo === 'dep-federal' || cargo === 'dep-estadual') && !sp.get('uf')) {
       const n = new URLSearchParams(sp);
       n.set('uf', 'SP');
       setSp(n, { replace: true });

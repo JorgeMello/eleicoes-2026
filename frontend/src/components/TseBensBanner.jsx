@@ -9,10 +9,22 @@ export default function TseBensBanner({ c, tse, bens = [] }) {
 
   const situacao = tse?.situacao_registro || 'Deferido';
   const pje = tse?.processo_pje || null;
-  const patrimonioDeclarado = Number(tse?.patrimonio_declarado || c?.patrimonio_total || 0);
-  const somaCalculada = Number(
-    tse?.soma_bens_calculada || bens.reduce((acc, b) => acc + Number(b.valor || 0), 0)
-  );
+  const bensSomaTotal = bens.reduce((acc, b) => acc + Number(b.valor || 0), 0);
+
+  const patrimonioDeclarado =
+    Number(tse?.patrimonio_declarado || 0) > 0
+      ? Number(tse.patrimonio_declarado)
+      : Number(c?.patrimonio_total || 0) > 0
+      ? Number(c.patrimonio_total)
+      : bensSomaTotal;
+
+  const somaCalculada =
+    Number(tse?.soma_bens_calculada || 0) > 0
+      ? Number(tse.soma_bens_calculada)
+      : bensSomaTotal > 0
+      ? bensSomaTotal
+      : patrimonioDeclarado;
+
   const divergencia = Number(tse?.divergencia_bens ?? Math.abs(patrimonioDeclarado - somaCalculada));
   const ehConsistente = tse?.bens_consistentes !== undefined ? Boolean(tse.bens_consistentes) : divergencia === 0;
   const validadoEm = tse?.validado_em ? new Date(tse.validado_em).toLocaleDateString('pt-BR') : null;

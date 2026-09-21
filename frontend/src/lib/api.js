@@ -65,6 +65,14 @@ export const BANCADAS_FEDERAIS = {
   SE: 8, TO: 8,
 };
 
+// Bancadas constitucionais das Assembleias Legislativas e CLDF (Art. 27 e 32 da CF/88 — Total: 1.059 cadeiras)
+export const BANCADAS_ESTADUAIS = {
+  SP: 94, MG: 77, RJ: 70, BA: 63, RS: 55, PR: 54, PE: 49, CE: 46,
+  MA: 42, GO: 41, PA: 41, SC: 40, PB: 36, ES: 30, PI: 30, AL: 27,
+  AC: 24, AP: 24, AM: 24, DF: 24, MT: 24, MS: 24, RN: 24, RO: 24, RR: 24,
+  SE: 24, TO: 24,
+};
+
 async function get(path) {
   const r = await fetch(`${API_URL}${path}`);
   if (!r.ok) throw new Error(`API ${r.status} em ${path}`);
