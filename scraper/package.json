@@ -9,6 +9,8 @@
     "coletar:lista": "node src/lista.js",
     "tse:descobrir": "node src/tse-divulga.js",
     "tse:reconciliar": "node src/reconciliar-tse.js",
+    "tse:ranking": "node src/sincronizar-ranking-tse.js",
+    "despesas:tse": "node src/atualizar-despesas-tse.js",
     "pos-install": "npx playwright install chromium"
   },
   "dependencies": {
